@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Support — DeRot</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --cream:       #FAF0E0;
+      --green-dark:  #21382E;
+      --green-mid:   #2B4A3D;
+      --green-light: #385E4D;
+      --green-muted: #5a8a76;
+      --white-card:  rgba(255,255,255,0.72);
+    }
+    body {
+      background: var(--cream);
+      color: var(--green-dark);
+      font-family: 'DM Sans', sans-serif;
+      min-height: 100vh;
+    }
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 40px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    nav .logo {
+      font-family: 'DM Serif Display', serif;
+      font-size: 1.6rem;
+      color: var(--green-dark);
+      text-decoration: none;
+    }
+    nav .nav-links a {
+      font-size: 0.9rem;
+      color: var(--green-light);
+      text-decoration: none;
+      margin-left: 24px;
+    }
+    nav .nav-links a:hover { text-decoration: underline; }
+    .content {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 48px 24px 80px;
+    }
+    .content h1 {
+      font-family: 'DM Serif Display', serif;
+      font-size: 2.6rem;
+      color: var(--green-dark);
+      margin-bottom: 8px;
+    }
+    .subtitle {
+      font-size: 1rem;
+      color: var(--green-light);
+      margin-bottom: 40px;
+      line-height: 1.6;
+    }
+    .card {
+      background: var(--white-card);
+      border-radius: 18px;
+      padding: 28px;
+      margin-bottom: 16px;
+    }
+    .card h2 {
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: var(--green-dark);
+      margin-bottom: 12px;
+    }
+    .card p, .card li {
+      font-size: 0.95rem;
+      color: var(--green-light);
+      line-height: 1.75;
+    }
+    .card ul { padding-left: 20px; margin-top: 8px; }
+    .card li { margin-bottom: 8px; }
+    .contact-btn {
+      display: inline-block;
+      background: var(--green-mid);
+      color: #fff;
+      font-size: 0.95rem;
+      font-weight: 600;
+      padding: 12px 28px;
+      border-radius: 12px;
+      text-decoration: none;
+      margin-top: 16px;
+      transition: opacity 0.15s;
+    }
+    .contact-btn:hover { opacity: 0.85; }
+    details {
+      border-bottom: 1px solid rgba(43,74,61,0.12);
+      padding: 16px 0;
+    }
+    details:last-child { border-bottom: none; }
+    details summary {
+      font-size: 0.95rem;
+      font-weight: 500;
+      color: var(--green-dark);
+      cursor: pointer;
+      list-style: none;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    details summary::after {
+      content: '+';
+      font-size: 1.1rem;
+      color: var(--green-muted);
+      transition: transform 0.2s;
+    }
+    details[open] summary::after { content: '−'; }
+    details p {
+      font-size: 0.9rem;
+      color: var(--green-light);
+      line-height: 1.75;
+      margin-top: 12px;
+    }
+    footer {
+      text-align: center;
+      padding: 32px 24px;
+      font-size: 0.82rem;
+      color: var(--green-muted);
+    }
+    footer a { color: var(--green-muted); margin: 0 10px; text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <a href="/" class="logo">DeRot</a>
+    <div class="nav-links">
+      <a href="/support.html">Support</a>
+      <a href="/privacy.html">Privacy</a>
+    </div>
+  </nav>
+
+  <div class="content">
+    <h1>Support</h1>
+    <p class="subtitle">We're a small team and we read every email.<br/>Most questions are answered below — if not, just reach out.</p>
+
+    <div class="card">
+      <h2>Common questions</h2>
+
+      <details>
+        <summary>How do I set up my first breathing gate?</summary>
+        <p>Tap <strong>My Apps</strong> on the home screen and select the apps you want DeRot to watch. Then go to <strong>Settings → Breathing gate</strong> and turn on "Breathe before scrolling" or "Breathe after scrolling" (or both, with Pro). That's it — DeRot will prompt you at the right moment.</p>
+      </details>
+
+      <details>
+        <summary>How does the "breathe after scrolling" reminder work?</summary>
+        <p>When you complete a breathing session, DeRot schedules a local notification on your device for a set amount of time later (10 minutes by default, customisable with Pro). When it fires, tapping it opens the breathing exercise. Nothing is transmitted — the notification is generated entirely on your device.</p>
+      </details>
+
+      <details>
+        <summary>Why isn't the app actually blocking me from opening Instagram?</summary>
+        <p>Real system-level app interception requires a feature called FamilyControls, which is coming in a future update. Right now, DeRot runs breathing exercises on a manual or notification-triggered basis. The gate becomes automatic with the FamilyControls update.</p>
+      </details>
+
+      <details>
+        <summary>How do I cancel my Pro subscription?</summary>
+        <p>Open your iPhone's <strong>Settings → your name → Subscriptions</strong>. Find DeRot Pro and tap Cancel. Your Pro access continues until the end of your current billing period. You can also manage this from the App Store.</p>
+      </details>
+
+      <details>
+        <summary>I purchased Pro but the app shows me as free.</summary>
+        <p>Open DeRot, go to <strong>Settings</strong>, and scroll to the Pro section. Tap <strong>Restore purchases</strong>. If that doesn't work, make sure you're signed into the same Apple ID used for the original purchase, then try again. Still stuck? Email us below.</p>
+      </details>
+
+      <details>
+        <summary>Does DeRot collect any of my data?</summary>
+        <p>No. DeRot has no accounts, no analytics, and no internet connection required. Everything — your app choices, settings, and breathing activity — stays on your device. See our <a href="/privacy.html" style="color: var(--green-mid);">Privacy Policy</a> for full details.</p>
+      </details>
+    </div>
+
+    <div class="card">
+      <h2>Still need help?</h2>
+      <p>Email us and we'll get back to you as soon as we can. Please include your iOS version and a brief description of the issue.</p>
+      <a href="mailto:support@derot.org" class="contact-btn">Email support@derot.org</a>
+    </div>
+  </div>
+
+  <footer>
+    <p>
+      <a href="/">Home</a>
+      <a href="/support.html">Support</a>
+      <a href="/privacy.html">Privacy</a>
+    </p>
+    <p style="margin-top: 10px;">© 2025 DeRot</p>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DeRot — Breathe before you scroll</title>
+  <meta name="description" content="DeRot helps you breathe before and after using social media. Regulate, don't restrict." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --cream:   #FAF0E0;
+      --green-dark:  #21382E;
+      --green-mid:   #2B4A3D;
+      --green-light: #385E4D;
+      --green-muted: #5a8a76;
+      --white-card:  rgba(255,255,255,0.72);
+    }
+
+    body {
+      background: var(--cream);
+      color: var(--green-dark);
+      font-family: 'DM Sans', sans-serif;
+      min-height: 100vh;
+    }
+
+    /* NAV */
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 40px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    nav .logo {
+      font-family: 'DM Serif Display', serif;
+      font-size: 1.6rem;
+      color: var(--green-dark);
+      text-decoration: none;
+    }
+    nav .nav-links a {
+      font-size: 0.9rem;
+      color: var(--green-light);
+      text-decoration: none;
+      margin-left: 24px;
+    }
+    nav .nav-links a:hover { text-decoration: underline; }
+
+    /* HERO */
+    .hero {
+      text-align: center;
+      padding: 80px 24px 60px;
+      max-width: 680px;
+      margin: 0 auto;
+    }
+    .hero-icon {
+      width: 96px;
+      height: 96px;
+      background: rgba(43,74,61,0.14);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 28px;
+      font-size: 2.6rem;
+    }
+    .hero h1 {
+      font-family: 'DM Serif Display', serif;
+      font-size: clamp(2.8rem, 6vw, 4.2rem);
+      color: var(--green-dark);
+      line-height: 1.1;
+      margin-bottom: 20px;
+    }
+    .hero p {
+      font-size: 1.1rem;
+      color: var(--green-light);
+      line-height: 1.7;
+      margin-bottom: 36px;
+    }
+    .app-store-btn {
+      display: inline-block;
+      background: var(--green-mid);
+      color: #fff;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 1rem;
+      font-weight: 600;
+      padding: 14px 32px;
+      border-radius: 14px;
+      text-decoration: none;
+      transition: opacity 0.15s;
+    }
+    .app-store-btn:hover { opacity: 0.85; }
+    .app-store-sub {
+      display: block;
+      margin-top: 12px;
+      font-size: 0.82rem;
+      color: var(--green-muted);
+    }
+
+    /* FEATURES */
+    .features {
+      max-width: 760px;
+      margin: 20px auto 80px;
+      padding: 0 24px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+    }
+    .feature-card {
+      background: var(--white-card);
+      border-radius: 18px;
+      padding: 22px 20px;
+    }
+    .feature-card .icon-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .feature-card .icon-row span.emoji {
+      font-size: 1.15rem;
+    }
+    .feature-card h3 {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--green-dark);
+    }
+    .feature-card p {
+      font-size: 0.88rem;
+      color: var(--green-light);
+      line-height: 1.6;
+    }
+
+    /* TAGLINE BAND */
+    .band {
+      background: var(--green-mid);
+      color: rgba(255,255,255,0.92);
+      text-align: center;
+      padding: 48px 24px;
+    }
+    .band h2 {
+      font-family: 'DM Serif Display', serif;
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      line-height: 1.3;
+      max-width: 600px;
+      margin: 0 auto 12px;
+    }
+    .band p {
+      font-size: 0.95rem;
+      opacity: 0.75;
+    }
+
+    /* FOOTER */
+    footer {
+      text-align: center;
+      padding: 32px 24px;
+      font-size: 0.82rem;
+      color: var(--green-muted);
+    }
+    footer a { color: var(--green-muted); margin: 0 10px; text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <a href="/" class="logo">DeRot</a>
+    <div class="nav-links">
+      <a href="/support.html">Support</a>
+      <a href="/privacy.html">Privacy</a>
+    </div>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-icon">🫁</div>
+    <h1>Breathe before<br/>you scroll.</h1>
+    <p>Most tech is made to stress you out.<br/>DeRot helps you breathe through it.</p>
+    <a href="#" class="app-store-btn">Download on the App Store</a>
+    <span class="app-store-sub">Free · iOS 17+ · No account required</span>
+  </section>
+
+  <section class="features">
+    <div class="feature-card">
+      <div class="icon-row">
+        <span class="emoji">🚫</span>
+        <h3>You don't have to quit</h3>
+      </div>
+      <p>DeRot isn't about stopping your online connections. It's about feeling better while staying in them.</p>
+    </div>
+    <div class="feature-card">
+      <div class="icon-row">
+        <span class="emoji">💨</span>
+        <h3>Your breath is your tool</h3>
+      </div>
+      <p>A short breathing exercise before or after using an app resets your nervous system in under a minute.</p>
+    </div>
+    <div class="feature-card">
+      <div class="icon-row">
+        <span class="emoji">🫀</span>
+        <h3>Regulate, don't restrict</h3>
+      </div>
+      <p>Breathing shifts you from stress response back to calm. Stay connected, not stressed.</p>
+    </div>
+  </section>
+
+  <div class="band">
+    <h2>"Regulate, don't restrict."</h2>
+    <p>Stay connected. Feel better.</p>
+  </div>
+
+  <footer>
+    <p>
+      <a href="/privacy.html">Privacy Policy</a>
+      <a href="/support.html">Support</a>
+    </p>
+    <p style="margin-top: 10px;">© 2025 DeRot</p>
+  </footer>
+
+</body>
+</html>
