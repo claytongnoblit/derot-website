@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background rounded square -->
+  <rect width="64" height="64" rx="14" fill="#2B4A3D"/>
+  <!-- Leaf shape -->
+  <path d="M32 12 C32 12, 50 20, 50 36 C50 48, 40 54, 32 54 C32 54, 32 38, 20 30 C14 26, 14 18, 20 14 C24 11, 28 11, 32 12 Z" fill="#FAF0E0" opacity="0.95"/>
+  <!-- Stem -->
+  <line x1="32" y1="54" x2="26" y2="42" stroke="#FAF0E0" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+</svg>
