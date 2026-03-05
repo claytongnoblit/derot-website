@@ -64,25 +64,35 @@
       margin-bottom: 40px;
       line-height: 1.6;
     }
+    .section-label {
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 1.1px;
+      text-transform: uppercase;
+      color: var(--green-muted);
+      margin: 36px 0 12px;
+    }
+    .section-label:first-of-type { margin-top: 0; }
     .card {
       background: var(--white-card);
       border-radius: 18px;
-      padding: 28px;
+      padding: 4px 28px;
       margin-bottom: 16px;
     }
-    .card h2 {
+    .card.contact-card {
+      padding: 28px;
+    }
+    .card.contact-card h2 {
       font-size: 1.05rem;
       font-weight: 600;
       color: var(--green-dark);
       margin-bottom: 12px;
     }
-    .card p, .card li {
+    .card.contact-card p {
       font-size: 0.95rem;
       color: var(--green-light);
       line-height: 1.75;
     }
-    .card ul { padding-left: 20px; margin-top: 8px; }
-    .card li { margin-bottom: 8px; }
     .contact-btn {
       display: inline-block;
       background: var(--green-mid);
@@ -97,8 +107,8 @@
     }
     .contact-btn:hover { opacity: 0.85; }
     details {
-      border-bottom: 1px solid rgba(43,74,61,0.12);
-      padding: 16px 0;
+      border-bottom: 1px solid rgba(43,74,61,0.10);
+      padding: 18px 0;
     }
     details:last-child { border-bottom: none; }
     details summary {
@@ -110,12 +120,13 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
+      gap: 16px;
     }
     details summary::after {
       content: '+';
+      flex-shrink: 0;
       font-size: 1.1rem;
       color: var(--green-muted);
-      transition: transform 0.2s;
     }
     details[open] summary::after { content: '−'; }
     details p {
@@ -124,6 +135,7 @@
       line-height: 1.75;
       margin-top: 12px;
     }
+    details p + p { margin-top: 8px; }
     footer {
       text-align: center;
       padding: 32px 24px;
@@ -148,12 +160,17 @@
     <h1>Support</h1>
     <p class="subtitle">We're a small team and we read every email.<br/>Most questions are answered below — if not, just reach out.</p>
 
+    <p class="section-label">Getting started</p>
     <div class="card">
-      <h2>Common questions</h2>
-
       <details>
         <summary>How do I set up my first breathing gate?</summary>
         <p>Tap <strong>My Apps</strong> on the home screen and select the apps you want DeRot to watch. Then go to <strong>Settings → Breathing gate</strong> and turn on "Breathe before scrolling" or "Breathe after scrolling" (or both, with Pro). That's it — DeRot will prompt you at the right moment.</p>
+      </details>
+
+      <details>
+        <summary>How does the app actually block me from opening Instagram?</summary>
+        <p>DeRot uses Apple's Screen Time API (FamilyControls) to place a system-level shield over the apps you've selected. When you try to open one, the shield intercepts it — just like a Screen Time restriction would. Once you complete your breathing exercise, DeRot lifts the shield and the app opens normally.</p>
+        <p>The block stays active even if DeRot isn't running, and resets automatically the next time you open DeRot — so the gate is always ready for your next session.</p>
       </details>
 
       <details>
@@ -162,27 +179,52 @@
       </details>
 
       <details>
-        <summary>Why isn't the app actually blocking me from opening Instagram?</summary>
-        <p>Real system-level app interception requires a feature called FamilyControls, which is coming in a future update. Right now, DeRot runs breathing exercises on a manual or notification-triggered basis. The gate becomes automatic with the FamilyControls update.</p>
+        <summary>What breathing techniques are available?</summary>
+        <p><strong>Box Breathing (4-4-4-4)</strong> — Inhale, hold, exhale, hold. Simple, structured, and surprisingly effective for stress.</p>
+        <p><strong>4-7-8</strong> — A longer exhale that calms the nervous system quickly. Great for winding down.</p>
+        <p><strong>Simple (3-3)</strong> — Gentle inhale and exhale, no thinking required. Perfect for beginners.</p>
+        <p><strong>Custom (Pro)</strong> — Set your own durations for each phase and choose how many cycles you want.</p>
+      </details>
+    </div>
+
+    <p class="section-label">DeRot Pro</p>
+    <div class="card">
+      <details>
+        <summary>What's included in the free version vs. Pro?</summary>
+        <p><strong>Free:</strong> All built-in breathing techniques, 1 protected app, 3 cycles per session, breathe before or after scrolling (choose one), all strictness settings.</p>
+        <p><strong>Pro:</strong> Unlimited protected apps, custom cycles per session (1–10), breathe before and after scrolling simultaneously, custom reminder timing (5–30 min), custom technique builder.</p>
+      </details>
+
+      <details>
+        <summary>Is there a free trial?</summary>
+        <p>Yes — Pro includes a 7-day free trial. You won't be charged until the trial ends, and you can cancel anytime before then through your iPhone's <strong>Settings → Apple ID → Subscriptions</strong>.</p>
+      </details>
+
+      <details>
+        <summary>I purchased Pro but the app still shows me as free.</summary>
+        <p>Open DeRot and go to <strong>Settings</strong>. Scroll down and tap <strong>Upgrade to DeRot Pro</strong>, then tap <strong>Restore purchases</strong> at the bottom of that screen. Make sure you're signed into the same Apple ID used for the original purchase. Still stuck? Email us below.</p>
       </details>
 
       <details>
         <summary>How do I cancel my Pro subscription?</summary>
-        <p>Open your iPhone's <strong>Settings → your name → Subscriptions</strong>. Find DeRot Pro and tap Cancel. Your Pro access continues until the end of your current billing period. You can also manage this from the App Store.</p>
-      </details>
-
-      <details>
-        <summary>I purchased Pro but the app shows me as free.</summary>
-        <p>Open DeRot, go to <strong>Settings</strong>, and scroll to the Pro section. Tap <strong>Restore purchases</strong>. If that doesn't work, make sure you're signed into the same Apple ID used for the original purchase, then try again. Still stuck? Email us below.</p>
-      </details>
-
-      <details>
-        <summary>Does DeRot collect any of my data?</summary>
-        <p>No. DeRot has no accounts, no analytics, and no internet connection required. Everything — your app choices, settings, and breathing activity — stays on your device. See our <a href="/privacy.html" style="color: var(--green-mid);">Privacy Policy</a> for full details.</p>
+        <p>Open your iPhone's <strong>Settings → your name → Subscriptions</strong>. Find DeRot Pro and tap Cancel. Your Pro access continues until the end of your current billing period.</p>
       </details>
     </div>
 
+    <p class="section-label">Privacy</p>
     <div class="card">
+      <details>
+        <summary>Does DeRot collect any of my data?</summary>
+        <p>No. DeRot has no accounts, no analytics, and no internet connection required. Everything — your app choices, settings, and breathing activity — stays on your device and never leaves it. See our <a href="/privacy.html" style="color: var(--green-mid);">Privacy Policy</a> for full details.</p>
+      </details>
+
+      <details>
+        <summary>Why does DeRot need Screen Time permission?</summary>
+        <p>The breathing gate — the feature that blocks apps until you complete a breathing session — is powered by Apple's FamilyControls framework. This is the only API that allows system-level app interception on iOS. DeRot uses it solely to apply and lift the shield on the apps you've chosen. Your Screen Time data is never read or transmitted.</p>
+      </details>
+    </div>
+
+    <div class="card contact-card" style="margin-top: 36px;">
       <h2>Still need help?</h2>
       <p>Email us and we'll get back to you as soon as we can. Please include your iOS version and a brief description of the issue.</p>
       <a href="mailto:support@derot.org" class="contact-btn">Email support@derot.org</a>
@@ -195,7 +237,7 @@
       <a href="/support.html">Support</a>
       <a href="/privacy.html">Privacy</a>
     </p>
-    <p style="margin-top: 10px;">© 2025 DeRot</p>
+    <p style="margin-top: 10px;">© 2026 DeRot</p>
   </footer>
 
 </body>

@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>DeRot — Breathe before you scroll</title>
-  <meta name="description" content="DeRot helps you breathe before and after using social media. Regulate, don't restrict." />
+  <meta name="description" content="DeRot creates a breathing pause before and after opening social media. Regulate, don't restrict. Free for iOS." />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="icon" type="image/svg+xml" href="favicon.svg" />
   <link rel="apple-touch-icon" href="apple-touch-icon.png" />
@@ -15,12 +15,12 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --cream:   #FAF0E0;
-      --green-dark:  #21382E;
-      --green-mid:   #2B4A3D;
-      --green-light: #385E4D;
-      --green-muted: #5a8a76;
-      --white-card:  rgba(255,255,255,0.72);
+      --cream:        #FAF0E0;
+      --green-dark:   #21382E;
+      --green-mid:    #2B4A3D;
+      --green-light:  #385E4D;
+      --green-muted:  #5a8a76;
+      --white-card:   rgba(255,255,255,0.72);
     }
 
     body {
@@ -107,7 +107,7 @@
     /* FEATURES */
     .features {
       max-width: 760px;
-      margin: 20px auto 80px;
+      margin: 20px auto 60px;
       padding: 0 24px;
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -124,9 +124,7 @@
       gap: 10px;
       margin-bottom: 10px;
     }
-    .feature-card .icon-row span.emoji {
-      font-size: 1.15rem;
-    }
+    .feature-card .icon-row span.emoji { font-size: 1.15rem; }
     .feature-card h3 {
       font-size: 1rem;
       font-weight: 600;
@@ -138,9 +136,169 @@
       line-height: 1.6;
     }
 
+    /* HOW IT WORKS */
+    .how-it-works {
+      background: var(--white-card);
+      padding: 64px 24px;
+    }
+    .how-inner {
+      max-width: 760px;
+      margin: 0 auto;
+    }
+    .how-inner h2 {
+      font-family: 'DM Serif Display', serif;
+      font-size: clamp(1.8rem, 4vw, 2.4rem);
+      color: var(--green-dark);
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .steps {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 24px;
+    }
+    .step {
+      text-align: center;
+      padding: 8px 16px;
+    }
+    .step-num {
+      width: 44px;
+      height: 44px;
+      background: rgba(43,74,61,0.12);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 16px;
+      font-family: 'DM Serif Display', serif;
+      font-size: 1.3rem;
+      color: var(--green-mid);
+    }
+    .step h3 {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--green-dark);
+      margin-bottom: 8px;
+    }
+    .step p {
+      font-size: 0.88rem;
+      color: var(--green-light);
+      line-height: 1.6;
+    }
+
+    /* TECHNIQUES */
+    .techniques {
+      max-width: 760px;
+      margin: 60px auto;
+      padding: 0 24px;
+      text-align: center;
+    }
+    .techniques h2 {
+      font-family: 'DM Serif Display', serif;
+      font-size: clamp(1.6rem, 3.5vw, 2rem);
+      color: var(--green-dark);
+      margin-bottom: 10px;
+    }
+    .techniques .sub {
+      font-size: 0.95rem;
+      color: var(--green-muted);
+      margin-bottom: 28px;
+    }
+    .technique-pills {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 12px;
+    }
+    .pill {
+      background: var(--white-card);
+      border-radius: 999px;
+      padding: 10px 22px;
+      font-size: 0.9rem;
+      color: var(--green-dark);
+      font-weight: 500;
+    }
+    .pill .detail {
+      font-weight: 400;
+      color: var(--green-muted);
+      margin-left: 4px;
+    }
+    .pill.pro-pill {
+      border: 1.5px solid rgba(43,74,61,0.25);
+    }
+    .pill .pro-tag {
+      font-size: 0.7rem;
+      font-weight: 600;
+      color: var(--green-mid);
+      background: rgba(43,74,61,0.1);
+      padding: 2px 7px;
+      border-radius: 999px;
+      margin-left: 8px;
+      vertical-align: middle;
+    }
+
+    /* PRO */
+    .pro-section {
+      max-width: 760px;
+      margin: 0 auto 80px;
+      padding: 0 24px;
+    }
+    .pro-card {
+      background: var(--green-mid);
+      border-radius: 22px;
+      padding: 40px 36px;
+      color: rgba(255,255,255,0.92);
+    }
+    .pro-card .pro-eyebrow {
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.55);
+      margin-bottom: 10px;
+    }
+    .pro-card h2 {
+      font-family: 'DM Serif Display', serif;
+      font-size: clamp(1.6rem, 3.5vw, 2.2rem);
+      color: #fff;
+      margin-bottom: 10px;
+      line-height: 1.2;
+    }
+    .pro-card .pro-sub {
+      font-size: 0.95rem;
+      color: rgba(255,255,255,0.65);
+      margin-bottom: 28px;
+      line-height: 1.6;
+    }
+    .pro-list {
+      list-style: none;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 10px 24px;
+      margin-bottom: 28px;
+    }
+    .pro-list li {
+      font-size: 0.93rem;
+      color: rgba(255,255,255,0.85);
+      padding-left: 20px;
+      position: relative;
+      line-height: 1.5;
+    }
+    .pro-list li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: rgba(255,255,255,0.5);
+      font-size: 0.85rem;
+    }
+    .pro-trial {
+      font-size: 0.83rem;
+      color: rgba(255,255,255,0.45);
+    }
+
     /* TAGLINE BAND */
     .band {
-      background: var(--green-mid);
+      background: var(--green-dark);
       color: rgba(255,255,255,0.92);
       text-align: center;
       padding: 48px 24px;
@@ -154,7 +312,7 @@
     }
     .band p {
       font-size: 0.95rem;
-      opacity: 0.75;
+      opacity: 0.65;
     }
 
     /* FOOTER */
@@ -210,6 +368,56 @@
     </div>
   </section>
 
+  <section class="how-it-works">
+    <div class="how-inner">
+      <h2>How it works</h2>
+      <div class="steps">
+        <div class="step">
+          <div class="step-num">1</div>
+          <h3>Pick your apps</h3>
+          <p>Select Instagram, TikTok, or any app you want to build a breathing pause around.</p>
+        </div>
+        <div class="step">
+          <div class="step-num">2</div>
+          <h3>Set your gate</h3>
+          <p>Breathe before you open the app, after you've been scrolling, or both at once with Pro.</p>
+        </div>
+        <div class="step">
+          <div class="step-num">3</div>
+          <h3>Just breathe</h3>
+          <p>A short guided exercise — under a minute. DeRot lifts the gate. The app opens. That's it.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="techniques">
+    <h2>Four breathing techniques</h2>
+    <p class="sub">Choose the one that fits the moment — or build your own with Pro.</p>
+    <div class="technique-pills">
+      <div class="pill">Box Breathing <span class="detail">4-4-4-4</span></div>
+      <div class="pill">4-7-8 <span class="detail">calm fast</span></div>
+      <div class="pill">Simple <span class="detail">3-3</span></div>
+      <div class="pill pro-pill">Custom <span class="pro-tag">Pro</span></div>
+    </div>
+  </section>
+
+  <section class="pro-section">
+    <div class="pro-card">
+      <p class="pro-eyebrow">DeRot Pro</p>
+      <h2>More control,<br/>more calm.</h2>
+      <p class="pro-sub">The free version covers the basics. Pro removes the limits.</p>
+      <ul class="pro-list">
+        <li>Protect unlimited apps</li>
+        <li>Breathe before and after — simultaneously</li>
+        <li>Custom breathing technique builder</li>
+        <li>Custom reminder timing (5–30 min)</li>
+        <li>Custom cycles per session (1–10)</li>
+      </ul>
+      <p class="pro-trial">7-day free trial · Cancel anytime</p>
+    </div>
+  </section>
+
   <div class="band">
     <h2>"Regulate, don't restrict."</h2>
     <p>Stay connected. Feel better.</p>
@@ -220,7 +428,7 @@
       <a href="/privacy.html">Privacy Policy</a>
       <a href="/support.html">Support</a>
     </p>
-    <p style="margin-top: 10px;">© 2025 DeRot</p>
+    <p style="margin-top: 10px;">© 2026 DeRot</p>
   </footer>
 
 </body>
