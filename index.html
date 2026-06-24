@@ -296,6 +296,94 @@
       color: rgba(255,255,255,0.45);
     }
 
+    /* NEWSLETTER */
+    .newsletter {
+      max-width: 600px;
+      margin: 0 auto 80px;
+      padding: 0 24px;
+      text-align: center;
+    }
+    .newsletter-card {
+      background: var(--white-card);
+      border-radius: 22px;
+      padding: 44px 36px;
+    }
+    .newsletter h2 {
+      font-family: 'DM Serif Display', serif;
+      font-size: clamp(1.6rem, 3.5vw, 2.2rem);
+      color: var(--green-dark);
+      margin-bottom: 12px;
+      line-height: 1.2;
+    }
+    .newsletter p.nl-sub {
+      font-size: 0.95rem;
+      color: var(--green-light);
+      line-height: 1.6;
+      margin-bottom: 26px;
+    }
+    .newsletter form {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+    }
+    .newsletter input[type="email"] {
+      flex: 1 1 240px;
+      min-width: 0;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 1rem;
+      color: var(--green-dark);
+      background: #fff;
+      border: 1.5px solid rgba(43,74,61,0.18);
+      border-radius: 14px;
+      padding: 14px 18px;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+    .newsletter input[type="email"]:focus {
+      border-color: var(--green-muted);
+    }
+    .newsletter input[type="email"]::placeholder {
+      color: var(--green-muted);
+      opacity: 0.7;
+    }
+    .newsletter button {
+      flex: 0 0 auto;
+      background: var(--green-mid);
+      color: #fff;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 1rem;
+      font-weight: 600;
+      padding: 14px 28px;
+      border: none;
+      border-radius: 14px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .newsletter button:hover { opacity: 0.85; }
+    .newsletter .nl-micro {
+      margin-top: 14px;
+      font-size: 0.8rem;
+      color: var(--green-muted);
+    }
+    /* Honeypot — hidden from humans, catches bots */
+    .newsletter .nl-hp {
+      position: absolute;
+      left: -5000px;
+      width: 1px;
+      height: 1px;
+      overflow: hidden;
+    }
+    .newsletter .nl-success {
+      display: none;
+      font-size: 1.05rem;
+      color: var(--green-dark);
+      line-height: 1.6;
+    }
+    .newsletter.is-done form,
+    .newsletter.is-done .nl-micro { display: none; }
+    .newsletter.is-done .nl-success { display: block; }
+
     /* TAGLINE BAND */
     .band {
       background: var(--green-dark);
@@ -416,6 +504,67 @@
       <p class="pro-trial">7-day free trial · Cancel anytime</p>
     </div>
   </section>
+
+  <!-- NEWSLETTER SIGNUP — MailerLite (account 2453305, form 191078481020323740) -->
+
+  <section class="newsletter" id="newsletter">
+    <div class="newsletter-card">
+      <h2>Get the occasional reset.</h2>
+      <p class="nl-sub">Calm tips and DeRot news, now and then. Never daily.</p>
+
+      <form
+        action="https://assets.mailerlite.com/jsonp/2453305/forms/191078481020323740/subscribe"
+        method="post"
+        target="_blank">
+        <input
+          type="email"
+          name="fields[email]"
+          placeholder="you@example.com"
+          autocomplete="email"
+          aria-label="Email address"
+          required />
+        <!-- Honeypot: bots fill this, humans never see it -->
+        <div class="nl-hp" aria-hidden="true">
+          <input type="text" name="b_hp" tabindex="-1" autocomplete="off" />
+        </div>
+        <!-- MailerLite-required hidden fields -->
+        <input type="hidden" name="ml-submit" value="1" />
+        <input type="hidden" name="anticsrf" value="true" />
+        <button type="submit">Send me calm</button>
+      </form>
+
+      <p class="nl-micro">No spam. Unsubscribe anytime.</p>
+
+      <div class="nl-success">
+        <h2>Thank you!</h2>
+        <p class="nl-sub">You're in. Take a breath, we'll be in touch.</p>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    // Progressive enhancement: submit to MailerLite without leaving the page,
+    // then show the inline success message. Falls back to a normal POST
+    // (opens in a new tab) if anything goes wrong.
+    (function () {
+      var section = document.getElementById('newsletter');
+      if (!section) return;
+      var form = section.querySelector('form');
+      form.addEventListener('submit', function (e) {
+        // If the honeypot is filled, silently drop it.
+        var hp = form.querySelector('input[name="b_hp"]');
+        if (hp && hp.value) { e.preventDefault(); return; }
+        e.preventDefault();
+        fetch(form.action, {
+          method: 'POST',
+          body: new FormData(form),
+          mode: 'no-cors'
+        }).finally(function () {
+          section.classList.add('is-done');
+        });
+      });
+    })();
+  </script>
 
   <div class="band">
     <h2>Regulate, don't restrict.</h2>
