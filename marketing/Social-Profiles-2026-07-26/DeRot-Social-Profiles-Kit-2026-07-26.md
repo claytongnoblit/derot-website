@@ -34,15 +34,15 @@ Only Facebook and Reddit have a real "cover/banner" concept. Instagram, TikTok, 
 - **Category:** Health & Wellness Website, or App Page if Meta offers it for your page type
 - **Website:** derot.org
 
-**Short description / Intro** (154/255 chars):
-> Regulate, don't restrict. DeRot is a 60-second nervous-system reset built into the apps that wind you up — not another screen-time blocker. Coming to iOS.
+**Short description / Intro** (144/255 chars):
+> Regulate, don't restrict. DeRot is a 60-second calm reset built into the apps that wind you up — not another screen-time blocker. Coming to iOS.
 
 **Long "About" story:**
-> Scrolling quietly spikes your nervous system — heart rate up, shoulders tight, breath shallow — and you don't notice, because the feed is holding your attention while your body does the stressing.
+> Scrolling quietly winds you up — shoulders tight, breath shallow, mind still racing — and you don't notice, because the feed is holding your attention while your body does the stressing.
 >
-> DeRot doesn't block your apps or track your screen time. It meets you mid-scroll with a 60-second, evidence-backed breathing reset — slow, exhale-weighted breathing that activates your vagus nerve and brings your heart rate back down. No willpower, no lockouts, no guilt trip.
+> DeRot doesn't block your apps or track your screen time. It meets you mid-scroll with a 60-second calming breath exercise — slow, exhale-weighted breathing that brings you back down. No willpower, no lockouts, no guilt trip.
 >
-> It's not woo. It's physiology.
+> Regulate, don't restrict.
 >
 > Landing on iOS soon. Follow along at derot.org.
 
@@ -75,7 +75,7 @@ Threads pulls your photo and bio from Instagram by default, but you can override
 > DeRot is the calm-down app for the apps that wind you up. Coming to iOS.
 
 **First post idea** (Threads is conversational — a post performs better than a static bio alone):
-> Your heart rate climbs when you scroll and you don't notice, because the feed is holding your attention while your body does the stressing. DeRot is the 60-second reset for that — built into the apps that wind you up. Landing on iOS soon.
+> You wind up tighter with every scroll and you don't notice, because the feed is holding your attention while your body does the stressing. DeRot is the 60-second reset for that — built into the apps that wind you up. Landing on iOS soon.
 
 ---
 
@@ -96,10 +96,10 @@ Threads pulls your photo and bio from Instagram by default, but you can override
 - **Avatar:** `derot_reddit_profile_256x256.png`
 - **Profile banner:** `derot_reddit_banner_1920x384.png`
 
-**About / bio** (182/200 chars):
-> DeRot — the calm-down app for the apps that wind you up. A 60-second nervous-system reset, built into Instagram, TikTok & Reddit. Physiology, not willpower. Coming to iOS — derot.org
+**About / bio** (166/200 chars):
+> DeRot — the calm-down app for the apps that wind you up. A 60-second calm reset, built into Instagram, TikTok & Reddit. No willpower needed. Coming to iOS — derot.org
 
-**Note:** Reddit is skeptical of anything that reads like a screen-time cop or an ad account. Post like a person before you post like a brand — comment in wellness/productivity subs first, and when you do post about DeRot, lean on the physiology angle (Stanford cyclic-sighing research) rather than the pitch. A raw "we built this" post in r/socialskills, r/nosurf, or r/productivity tends to land better than a promo-style one.
+**Note:** Reddit is skeptical of anything that reads like a screen-time cop or an ad account. Post like a person before you post like a brand — comment in wellness/productivity subs first, and when you do post about DeRot, lean on the felt experience (calmer, shoulders drop, head clears) rather than the pitch. A raw "we built this" post in r/socialskills, r/nosurf, or r/productivity tends to land better than a promo-style one.
 
 ---
 

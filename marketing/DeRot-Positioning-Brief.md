@@ -2,6 +2,8 @@
 
 *Working draft for launch. Last updated June 30, 2026.*
 
+> **Voice note:** this brief predates the 2026-06-30 "de-science" messaging pass and still uses retired language ("It's not woo, it's physiology," "vagus nerve," "heart rate") in a few spots below. The strategy/wedge/audience sections are still current — for wording rules, use `DeRot-Copy-Rules.md` (same folder) instead, which is the up-to-date source of truth.
+
 ---
 
 ## The one-line positioning
