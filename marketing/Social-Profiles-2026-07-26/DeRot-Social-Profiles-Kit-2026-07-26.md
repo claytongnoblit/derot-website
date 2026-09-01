@@ -2,7 +2,9 @@
 
 *Built 2026-07-26. Voice/colors pulled from `DeRot-Positioning-Brief.md` and the derot-website palette (cream `#FAF0E0`, greens `#21382E` / `#2B4A3D` / `#385E4D`).*
 
-**Status note:** the site's current CTA is "Get notified at launch," so the app isn't live on the App Store yet. All bios below say "Coming to iOS" and point to derot.org instead of an App Store link. Swap that language in the moment the listing goes live.
+**Status note:** the site's current CTA is "Get notified at launch," so the app isn't live on the App Store yet.
+
+**Bio update (2026-07-31):** all 5 profiles are live. The final bio, used verbatim across Facebook, Instagram, Threads, TikTok, and Reddit: *"Regulate, don't restrict. DeRot prompts you to reset with calming breaths after scrolling."* (90 chars — confirmed working on TikTok despite an earlier, apparently inaccurate, 80-char limit reported for that field.)
 
 **Handle note:** you only have the Facebook page (**DeRot**) claimed so far. Everything below suggests **@derotapp** as a consistent handle for Instagram, Reddit, TikTok, and Threads — check availability on each platform before locking it in, since it's unverified.
 
@@ -20,7 +22,7 @@ Only Facebook and Reddit have a real "cover/banner" concept. Instagram, TikTok, 
 - `derot_tiktok_profile_200x200.png`
 
 **Cover/banner art** (`covers/`) — new brand-color designs, "Regulate, don't restrict." headline in the site's serif, ring motif echoing the app icon:
-- `derot_facebook_cover_820x312.png`
+- `derot_facebook_cover_1640x624.png` (2x resolution — Facebook displays at 820×312 but renders sharper on retina screens when you upload double-size)
 - `derot_reddit_banner_1920x384.png`
 
 **Master:** `icon-master-1024-clean.png` — full-res source if you need to re-export any other size later.
@@ -30,12 +32,12 @@ Only Facebook and Reddit have a real "cover/banner" concept. Instagram, TikTok, 
 ## Facebook — Page "DeRot"
 
 - **Profile photo:** `derot_facebook_profile_320x320.png`
-- **Cover photo:** `derot_facebook_cover_820x312.png` (safe zone respected — your existing avatar overlaps the bottom-left corner on desktop, so the wordmark sits clear of it)
+- **Cover photo:** `derot_facebook_cover_1640x624.png` — uploaded at 2x (1640×624) so it stays sharp on retina displays; Facebook will scale it down to its 820×312 display size. Safe zone respected — your existing avatar overlaps the bottom-left corner on desktop, so the wordmark sits clear of it.
 - **Category:** Health & Wellness Website, or App Page if Meta offers it for your page type
 - **Website:** derot.org
 
-**Short description / Intro** (144/255 chars):
-> Regulate, don't restrict. DeRot is a 60-second calm reset built into the apps that wind you up — not another screen-time blocker. Coming to iOS.
+**Bio** (90 chars — same line used across all 5 platforms, see note below):
+> Regulate, don't restrict. DeRot prompts you to reset with calming breaths after scrolling.
 
 **Long "About" story:**
 > Scrolling quietly winds you up — shoulders tight, breath shallow, mind still racing — and you don't notice, because the feed is holding your attention while your body does the stressing.
@@ -54,10 +56,8 @@ Only Facebook and Reddit have a real "cover/banner" concept. Instagram, TikTok, 
 - **Name field:** DeRot
 - **Link:** derot.org
 
-**Bio** (97/150 chars):
-> Regulate, don't restrict.
-> The calm-down app for the apps that wind you up.
-> iOS app landing soon ↓
+**Bio** (90 chars — same line used across all 5 platforms, see note below):
+> Regulate, don't restrict. DeRot prompts you to reset with calming breaths after scrolling.
 
 **Note:** no emoji in the bio on purpose — the positioning brief calls out "Find your zen ✨"-style copy as off-brand. Keep it plain-spoken.
 
@@ -70,9 +70,8 @@ Threads pulls your photo and bio from Instagram by default, but you can override
 - **Profile photo:** `derot_threads_profile_320x320.png` (only needed if you set one separately from Instagram)
 - **Link:** derot.org
 
-**Bio** (98/150 chars):
-> Regulate, don't restrict.
-> DeRot is the calm-down app for the apps that wind you up. Coming to iOS.
+**Bio** (90 chars — same line used across all 5 platforms, see note below):
+> Regulate, don't restrict. DeRot prompts you to reset with calming breaths after scrolling.
 
 **First post idea** (Threads is conversational — a post performs better than a static bio alone):
 > You wind up tighter with every scroll and you don't notice, because the feed is holding your attention while your body does the stressing. DeRot is the 60-second reset for that — built into the apps that wind you up. Landing on iOS soon.
@@ -84,10 +83,10 @@ Threads pulls your photo and bio from Instagram by default, but you can override
 - **Profile photo:** `derot_tiktok_profile_200x200.png`
 - **Name field:** DeRot
 
-**Bio** (65/80 chars):
-> Your apps wind you up. DeRot brings you back down. Coming to iOS.
+**Bio** (90 chars — same line used across all 5 platforms, see note below):
+> Regulate, don't restrict. DeRot prompts you to reset with calming breaths after scrolling.
 
-**Note:** TikTok's bio is tight — this is the hero headline from the site, verbatim, since it's the strongest single line you have.
+**Note:** this runs 90 characters. Earlier guidance pegged TikTok's bio field at an 80-character cap, but it went through fine — that limit is either outdated or looser than reported, so don't worry about trimming it.
 
 ---
 
@@ -96,8 +95,8 @@ Threads pulls your photo and bio from Instagram by default, but you can override
 - **Avatar:** `derot_reddit_profile_256x256.png`
 - **Profile banner:** `derot_reddit_banner_1920x384.png`
 
-**About / bio** (166/200 chars):
-> DeRot — the calm-down app for the apps that wind you up. A 60-second calm reset, built into Instagram, TikTok & Reddit. No willpower needed. Coming to iOS — derot.org
+**About / bio** (90 chars — same line used across all 5 platforms, see note below):
+> Regulate, don't restrict. DeRot prompts you to reset with calming breaths after scrolling.
 
 **Note:** Reddit is skeptical of anything that reads like a screen-time cop or an ad account. Post like a person before you post like a brand — comment in wellness/productivity subs first, and when you do post about DeRot, lean on the felt experience (calmer, shoulders drop, head clears) rather than the pitch. A raw "we built this" post in r/socialskills, r/nosurf, or r/productivity tends to land better than a promo-style one.
 
