@@ -1,8 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <!-- Background rounded square -->
-  <rect width="64" height="64" rx="14" fill="#2B4A3D"/>
-  <!-- Leaf shape -->
-  <path d="M32 12 C32 12, 50 20, 50 36 C50 48, 40 54, 32 54 C32 54, 32 38, 20 30 C14 26, 14 18, 20 14 C24 11, 28 11, 32 12 Z" fill="#FAF0E0" opacity="0.95"/>
-  <!-- Stem -->
-  <line x1="32" y1="54" x2="26" y2="42" stroke="#FAF0E0" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#120A06"/>
+      <stop offset="0.55" stop-color="#3A170A"/>
+      <stop offset="1" stop-color="#9C3E15"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.5" cy="0.62" r="0.6">
+      <stop offset="0" stop-color="#FFE1B0"/>
+      <stop offset="0.55" stop-color="#F5A04A"/>
+      <stop offset="1" stop-color="#D9542B"/>
+    </radialGradient>
+    <clipPath id="tile"><rect width="64" height="64" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#tile)">
+    <!-- Sky to the horizon, ground below -->
+    <rect width="64" height="40.5" fill="url(#sky)"/>
+    <rect y="40.5" width="64" height="23.5" fill="#100A07"/>
+    <!-- Sun, set on the horizon -->
+    <path d="M16 40.5 A16 16 0 0 1 48 40.5 Z" fill="url(#sun)"/>
+    <!-- Horizon line -->
+    <rect x="6" y="40" width="52" height="1.2" fill="#F2A341"/>
+  </g>
 </svg>

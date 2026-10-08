@@ -7,77 +7,47 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="icon" type="image/svg+xml" href="favicon.svg" />
   <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+  <meta name="theme-color" content="#0C0907" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=DM+Serif+Display&family=Fraunces:ital,opsz,wght@0,9..144,300;1,9..144,300;1,9..144,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="amber.css" />
   <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    :root {
-      --cream:       #FAF0E0;
-      --green-dark:  #21382E;
-      --green-mid:   #2B4A3D;
-      --green-light: #385E4D;
-      --green-muted: #5a8a76;
-      --white-card:  rgba(255,255,255,0.72);
-    }
-    body {
-      background: var(--cream);
-      color: var(--green-dark);
-      font-family: 'DM Sans', sans-serif;
-      min-height: 100vh;
-    }
-    nav {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 20px 40px;
-      max-width: 900px;
-      margin: 0 auto;
-    }
-    nav .logo {
-      font-family: 'DM Serif Display', serif;
-      font-size: 1.6rem;
-      color: var(--green-dark);
-      text-decoration: none;
-    }
-    nav .nav-links a {
-      font-size: 0.9rem;
-      color: var(--green-light);
-      text-decoration: none;
-      margin-left: 24px;
-    }
-    nav .nav-links a:hover { text-decoration: underline; }
     .content {
       max-width: 680px;
       margin: 0 auto;
-      padding: 48px 24px 80px;
+      padding: 56px 24px 80px;
     }
     .content h1 {
-      font-family: 'DM Serif Display', serif;
-      font-size: 2.6rem;
-      color: var(--green-dark);
-      margin-bottom: 8px;
+      font-family: var(--serif);
+      font-style: italic;
+      font-weight: 300;
+      font-size: clamp(2.6rem, 7vw, 3.4rem);
+      line-height: 1.1;
+      color: var(--text);
+      margin-bottom: 10px;
     }
     .effective-date {
       font-size: 0.88rem;
-      color: var(--green-muted);
+      color: var(--text-2);
       margin-bottom: 40px;
     }
     .card {
-      background: var(--white-card);
-      border-radius: 18px;
+      background: var(--card);
+      border: 1px solid var(--hairline);
+      border-radius: 22px;
       padding: 28px;
       margin-bottom: 16px;
     }
     .card h2 {
       font-size: 1.05rem;
       font-weight: 600;
-      color: var(--green-dark);
+      color: var(--text);
       margin-bottom: 12px;
     }
     .card p, .card li {
       font-size: 0.95rem;
-      color: var(--green-light);
+      color: var(--text-2);
       line-height: 1.75;
     }
     .card ul {
@@ -85,27 +55,22 @@
       margin-top: 8px;
     }
     .card li { margin-bottom: 6px; }
+    .card li::marker { color: var(--amber); }
     .highlight {
-      background: rgba(43,74,61,0.10);
-      border-left: 3px solid var(--green-mid);
-      border-radius: 0 12px 12px 0;
+      background: rgba(242, 163, 65, 0.08);
+      border-left: 3px solid var(--amber);
+      border-radius: 0 14px 14px 0;
       padding: 16px 20px;
       margin: 16px 0 0;
       font-size: 0.95rem;
-      color: var(--green-light);
+      color: var(--text-soft);
       line-height: 1.7;
     }
-    footer {
-      text-align: center;
-      padding: 32px 24px;
-      font-size: 0.82rem;
-      color: var(--green-muted);
-    }
-    footer a { color: var(--green-muted); margin: 0 10px; text-decoration: none; }
-    footer a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
+
+  <div class="glow quiet" aria-hidden="true"></div>
 
   <nav>
     <a href="/" class="logo">DeRot</a>
@@ -143,8 +108,8 @@
 
     <div class="card">
       <h2>In-app purchases and subscriptions</h2>
-      <p>DeRot Pro subscriptions are processed by Apple through the App Store. We do not receive, store, or have access to your payment information. Apple's handling of your purchase data is governed by <a href="https://www.apple.com/legal/privacy/" style="color: var(--green-mid);">Apple's Privacy Policy</a>.</p>
-      <p style="margin-top: 12px;">To verify your subscription status across devices and reinstalls, we use <a href="https://www.revenuecat.com" style="color: var(--green-mid);">RevenueCat</a>, a third-party subscription management service. RevenueCat receives an anonymous app user ID generated on your device along with purchase and transaction details from Apple (such as product ID, transaction ID, purchase date, and basic device metadata like iOS version, app version, and country). This information is not linked to your name, email, or Apple ID, and it is used solely to determine whether you have an active subscription. RevenueCat's handling of this data is governed by their <a href="https://www.revenuecat.com/privacy" style="color: var(--green-mid);">Privacy Policy</a>.</p>
+      <p>DeRot Pro subscriptions are processed by Apple through the App Store. We do not receive, store, or have access to your payment information. Apple's handling of your purchase data is governed by <a href="https://www.apple.com/legal/privacy/">Apple's Privacy Policy</a>.</p>
+      <p style="margin-top: 12px;">To verify your subscription status across devices and reinstalls, we use <a href="https://www.revenuecat.com">RevenueCat</a>, a third-party subscription management service. RevenueCat receives an anonymous app user ID generated on your device along with purchase and transaction details from Apple (such as product ID, transaction ID, purchase date, and basic device metadata like iOS version, app version, and country). This information is not linked to your name, email, or Apple ID, and it is used solely to determine whether you have an active subscription. RevenueCat's handling of this data is governed by their <a href="https://www.revenuecat.com/privacy">Privacy Policy</a>.</p>
     </div>
 
     <div class="card">
@@ -165,7 +130,7 @@
 
     <div class="card">
       <h2>Contact</h2>
-      <p>Questions about this policy? Reach us at <a href="mailto:support@derot.org" style="color: var(--green-mid);">support@derot.org</a>.</p>
+      <p>Questions about this policy? Reach us at <a href="mailto:support@derot.org">support@derot.org</a>.</p>
     </div>
   </div>
 

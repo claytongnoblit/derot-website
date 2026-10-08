@@ -7,114 +7,82 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="icon" type="image/svg+xml" href="favicon.svg" />
   <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+  <meta name="theme-color" content="#0C0907" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=DM+Serif+Display&family=Fraunces:ital,opsz,wght@0,9..144,300;1,9..144,300;1,9..144,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="amber.css" />
   <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    :root {
-      --cream:       #FAF0E0;
-      --green-dark:  #21382E;
-      --green-mid:   #2B4A3D;
-      --green-light: #385E4D;
-      --green-muted: #5a8a76;
-      --white-card:  rgba(255,255,255,0.72);
-    }
-    body {
-      background: var(--cream);
-      color: var(--green-dark);
-      font-family: 'DM Sans', sans-serif;
-      min-height: 100vh;
-    }
-    nav {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 20px 40px;
-      max-width: 900px;
-      margin: 0 auto;
-    }
-    nav .logo {
-      font-family: 'DM Serif Display', serif;
-      font-size: 1.6rem;
-      color: var(--green-dark);
-      text-decoration: none;
-    }
-    nav .nav-links a {
-      font-size: 0.9rem;
-      color: var(--green-light);
-      text-decoration: none;
-      margin-left: 24px;
-    }
-    nav .nav-links a:hover { text-decoration: underline; }
     .content {
       max-width: 680px;
       margin: 0 auto;
-      padding: 48px 24px 80px;
+      padding: 56px 24px 80px;
     }
     .content h1 {
-      font-family: 'DM Serif Display', serif;
-      font-size: 2.6rem;
-      color: var(--green-dark);
-      margin-bottom: 8px;
+      font-family: var(--serif);
+      font-style: italic;
+      font-weight: 300;
+      font-size: clamp(2.6rem, 7vw, 3.4rem);
+      line-height: 1.1;
+      color: var(--text);
+      margin-bottom: 10px;
     }
     .subtitle {
       font-size: 1rem;
-      color: var(--green-light);
+      color: var(--text-soft);
       margin-bottom: 40px;
       line-height: 1.6;
     }
     .section-label {
-      font-size: 0.72rem;
-      font-weight: 600;
-      letter-spacing: 1.1px;
-      text-transform: uppercase;
-      color: var(--green-muted);
-      margin: 36px 0 12px;
+      font-family: var(--serif);
+      font-style: italic;
+      font-size: 1.15rem;
+      color: var(--section-label);
+      margin: 40px 0 12px;
     }
     .section-label:first-of-type { margin-top: 0; }
     .card {
-      background: var(--white-card);
-      border-radius: 18px;
-      padding: 4px 28px;
+      background: var(--card);
+      border: 1px solid var(--hairline);
+      border-radius: 22px;
+      padding: 4px 26px;
       margin-bottom: 16px;
     }
-    .card.contact-card {
-      padding: 28px;
-    }
+    .card.contact-card { padding: 28px; }
     .card.contact-card h2 {
       font-size: 1.05rem;
       font-weight: 600;
-      color: var(--green-dark);
+      color: var(--text);
       margin-bottom: 12px;
     }
     .card.contact-card p {
       font-size: 0.95rem;
-      color: var(--green-light);
+      color: var(--text-2);
       line-height: 1.75;
     }
     .contact-btn {
       display: inline-block;
-      background: var(--green-mid);
-      color: #fff;
+      background: var(--btn-fill);
+      color: var(--btn-label);
       font-size: 0.95rem;
       font-weight: 600;
-      padding: 12px 28px;
-      border-radius: 12px;
+      padding: 13px 28px;
+      border-radius: 999px;
       text-decoration: none;
-      margin-top: 16px;
-      transition: opacity 0.15s;
+      margin-top: 18px;
+      box-shadow: 0 10px 40px rgba(232, 118, 46, 0.25);
+      transition: transform 0.15s;
     }
-    .contact-btn:hover { opacity: 0.85; }
+    .contact-btn:hover { transform: translateY(-1px); }
     details {
-      border-bottom: 1px solid rgba(43,74,61,0.10);
+      border-bottom: 1px solid var(--divider);
       padding: 18px 0;
     }
     details:last-child { border-bottom: none; }
     details summary {
-      font-size: 0.95rem;
+      font-size: 0.97rem;
       font-weight: 500;
-      color: var(--green-dark);
+      color: var(--text);
       cursor: pointer;
       list-style: none;
       display: flex;
@@ -122,31 +90,26 @@
       align-items: center;
       gap: 16px;
     }
+    details summary::-webkit-details-marker { display: none; }
     details summary::after {
       content: '+';
       flex-shrink: 0;
-      font-size: 1.1rem;
-      color: var(--green-muted);
+      font-size: 1.2rem;
+      color: var(--amber);
     }
-    details[open] summary::after { content: '−'; }
+    details[open] summary::after { content: '\2212'; }
     details p {
-      font-size: 0.9rem;
-      color: var(--green-light);
+      font-size: 0.92rem;
+      color: var(--text-2);
       line-height: 1.75;
       margin-top: 12px;
     }
     details p + p { margin-top: 8px; }
-    footer {
-      text-align: center;
-      padding: 32px 24px;
-      font-size: 0.82rem;
-      color: var(--green-muted);
-    }
-    footer a { color: var(--green-muted); margin: 0 10px; text-decoration: none; }
-    footer a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
+
+  <div class="glow quiet" aria-hidden="true"></div>
 
   <nav>
     <a href="/" class="logo">DeRot</a>
@@ -215,7 +178,7 @@
     <div class="card">
       <details>
         <summary>Does DeRot collect any of my data?</summary>
-        <p>No. DeRot has no accounts, no analytics, and no internet connection required. Your app choices, settings, and breathing activity all stay on your device and never leave it. See our <a href="/privacy.html" style="color: var(--green-mid);">Privacy Policy</a> for full details.</p>
+        <p>No. DeRot has no accounts, no analytics, and no internet connection required. Your app choices, settings, and breathing activity all stay on your device and never leave it. See our <a href="/privacy.html">Privacy Policy</a> for full details.</p>
       </details>
 
       <details>

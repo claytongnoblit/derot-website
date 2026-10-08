@@ -8,201 +8,171 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="icon" type="image/svg+xml" href="favicon.svg" />
   <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+  <meta property="og:title" content="DeRot: Feel calmer after every scroll" />
+  <meta property="og:description" content="Your apps wind you up. DeRot brings you back down." />
+  <meta property="og:image" content="https://derot.org/img/og-image.png" />
+  <meta property="og:url" content="https://derot.org/" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="theme-color" content="#0C0907" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=DM+Serif+Display&family=Fraunces:ital,opsz,wght@0,9..144,300;1,9..144,300;1,9..144,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="amber.css" />
   <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-    :root {
-      --cream:        #FAF0E0;
-      --green-dark:   #21382E;
-      --green-mid:    #2B4A3D;
-      --green-light:  #385E4D;
-      --green-muted:  #5a8a76;
-      --white-card:   rgba(255,255,255,0.72);
-    }
-
-    body {
-      background: var(--cream);
-      color: var(--green-dark);
-      font-family: 'DM Sans', sans-serif;
-      min-height: 100vh;
-    }
-
-    /* NAV */
-    nav {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 20px 40px;
-      max-width: 900px;
-      margin: 0 auto;
-    }
-    nav .logo {
-      font-family: 'DM Serif Display', serif;
-      font-size: 1.6rem;
-      color: var(--green-dark);
-      text-decoration: none;
-    }
-    nav .nav-links a {
-      font-size: 0.9rem;
-      color: var(--green-light);
-      text-decoration: none;
-      margin-left: 24px;
-    }
-    nav .nav-links a:hover { text-decoration: underline; }
-
     /* HERO */
     .hero {
       text-align: center;
-      padding: 80px 24px 60px;
-      max-width: 680px;
+      padding: 72px 24px 64px;
+      max-width: 880px;
       margin: 0 auto;
     }
     .hero-icon {
-      width: 96px;
-      height: 96px;
-      background: rgba(43,74,61,0.14);
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin: 0 auto 28px;
-      font-size: 2.6rem;
+      display: block;
+      width: 112px;
+      height: 112px;
+      margin: 0 auto 36px;
+      border-radius: 26px;
+      box-shadow: 0 0 0 1px var(--hairline), 0 18px 60px rgba(232, 118, 46, 0.30);
     }
-    .hero h1 {
-      font-family: 'DM Serif Display', serif;
-      font-size: clamp(2.1rem, 4.5vw, 3.2rem);
-      color: var(--green-dark);
-      line-height: 1.15;
-      margin-bottom: 20px;
+    .hero h1 { font-weight: normal; margin-bottom: 22px; }
+    .hero h1 .lead {
+      display: block;
+      font-family: var(--sans);
+      font-size: clamp(1.15rem, 2.4vw, 1.4rem);
+      color: var(--text-soft);
+      margin-bottom: 10px;
+    }
+    .hero h1 .main {
+      display: block;
+      font-family: var(--serif);
+      font-style: italic;
+      font-weight: 300;
+      font-size: clamp(2.5rem, 6.4vw, 4.2rem);
+      line-height: 1.08;
+      letter-spacing: -0.01em;
+      color: var(--text);
     }
     .hero p {
       font-size: 1.1rem;
-      color: var(--green-light);
+      color: var(--text-soft);
       line-height: 1.7;
-      margin-bottom: 36px;
+      max-width: 560px;
+      margin: 0 auto 38px;
     }
-    .app-store-btn {
-      display: inline-block;
-      background: var(--green-mid);
-      color: #fff;
-      font-family: 'DM Sans', sans-serif;
-      font-size: 1rem;
-      font-weight: 600;
-      padding: 14px 32px;
-      border-radius: 14px;
-      text-decoration: none;
-      transition: opacity 0.15s;
-    }
-    .app-store-btn:hover { opacity: 0.85; }
     .app-store-sub {
       display: block;
-      margin-top: 12px;
-      font-size: 0.82rem;
-      color: var(--green-muted);
+      margin-top: 16px;
+      font-size: 0.84rem;
+      color: var(--text-2);
     }
 
     /* FEATURES */
     .features {
-      max-width: 760px;
-      margin: 20px auto 60px;
+      max-width: 860px;
+      margin: 8px auto 80px;
       padding: 0 24px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      gap: 16px;
+    }
+    .feature-card { padding: 26px 24px; }
+    .feature-card .icon {
+      width: 26px;
+      height: 26px;
+      color: var(--amber);
+      margin-bottom: 16px;
+    }
+    .feature-card h3 {
+      font-size: 1.02rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+    .feature-card p {
+      font-size: 0.9rem;
+      color: var(--text-2);
+      line-height: 1.65;
+    }
+
+    /* Section headings: Fraunces italic, like the app's section headings */
+    .section-title {
+      font-family: var(--serif);
+      font-style: italic;
+      font-weight: 400;
+      font-size: clamp(1.9rem, 4vw, 2.5rem);
+      color: var(--text);
+      text-align: center;
+      line-height: 1.2;
+    }
+
+    /* SCREENS */
+    .screens {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      gap: 28px;
+      max-width: 900px;
+      margin: 0 auto 88px;
+      padding: 0 24px;
+    }
+    .screens figure { flex: 0 1 240px; }
+    .screens figure:nth-child(2) { margin-top: 36px; }
+    .screens img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border-radius: 34px;
+      border: 6px solid #1B140F;
+      box-shadow: 0 0 0 1px var(--hairline), 0 24px 70px rgba(232, 118, 46, 0.22);
+    }
+    @media (max-width: 640px) {
+      .screens { gap: 12px; }
+      .screens img { border-radius: 20px; border-width: 4px; }
+      .screens figure:nth-child(2) { margin-top: 20px; }
+    }
+
+    /* HOW IT WORKS */
+    .how-it-works { padding: 24px 24px 72px; }
+    .how-inner { max-width: 812px; margin: 0 auto; }
+    .how-inner .section-title { margin-bottom: 44px; }
+    .steps {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
       gap: 16px;
     }
-    .feature-card {
-      background: var(--white-card);
-      border-radius: 18px;
-      padding: 22px 20px;
-    }
-    .feature-card .icon-row {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      margin-bottom: 10px;
-    }
-    .feature-card .icon-row span.emoji { font-size: 1.15rem; }
-    .feature-card h3 {
-      font-size: 1rem;
-      font-weight: 600;
-      color: var(--green-dark);
-    }
-    .feature-card p {
-      font-size: 0.88rem;
-      color: var(--green-light);
-      line-height: 1.6;
-    }
-
-    /* HOW IT WORKS */
-    .how-it-works {
-      background: var(--white-card);
-      padding: 64px 24px;
-    }
-    .how-inner {
-      max-width: 760px;
-      margin: 0 auto;
-    }
-    .how-inner h2 {
-      font-family: 'DM Serif Display', serif;
-      font-size: clamp(1.8rem, 4vw, 2.4rem);
-      color: var(--green-dark);
-      text-align: center;
-      margin-bottom: 40px;
-    }
-    .steps {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 24px;
-    }
-    .step {
-      text-align: center;
-      padding: 8px 16px;
-    }
+    .step { padding: 26px 24px 28px; }
     .step-num {
-      width: 44px;
-      height: 44px;
-      background: rgba(43,74,61,0.12);
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin: 0 auto 16px;
-      font-family: 'DM Serif Display', serif;
-      font-size: 1.3rem;
-      color: var(--green-mid);
+      font-family: var(--serif);
+      font-weight: 300;
+      font-size: 3.2rem;
+      line-height: 1;
+      color: var(--amber);
+      margin-bottom: 18px;
     }
     .step h3 {
-      font-size: 1rem;
+      font-size: 1.02rem;
       font-weight: 600;
-      color: var(--green-dark);
+      color: var(--text);
       margin-bottom: 8px;
     }
     .step p {
-      font-size: 0.88rem;
-      color: var(--green-light);
-      line-height: 1.6;
+      font-size: 0.9rem;
+      color: var(--text-2);
+      line-height: 1.65;
     }
 
     /* TECHNIQUES */
     .techniques {
       max-width: 760px;
-      margin: 60px auto;
+      margin: 8px auto 80px;
       padding: 0 24px;
       text-align: center;
     }
-    .techniques h2 {
-      font-family: 'DM Serif Display', serif;
-      font-size: clamp(1.6rem, 3.5vw, 2rem);
-      color: var(--green-dark);
-      margin-bottom: 10px;
-    }
+    .techniques .section-title { margin-bottom: 12px; }
     .techniques .sub {
-      font-size: 0.95rem;
-      color: var(--green-muted);
-      margin-bottom: 28px;
+      font-size: 0.98rem;
+      color: var(--text-2);
+      margin-bottom: 30px;
     }
     .technique-pills {
       display: flex;
@@ -211,27 +181,26 @@
       gap: 12px;
     }
     .pill {
-      background: var(--white-card);
+      background: var(--secondary);
+      border: 1px solid var(--hairline);
       border-radius: 999px;
-      padding: 10px 22px;
-      font-size: 0.9rem;
-      color: var(--green-dark);
+      padding: 11px 22px;
+      font-size: 0.92rem;
+      color: var(--text);
       font-weight: 500;
     }
     .pill .detail {
       font-weight: 400;
-      color: var(--green-muted);
+      color: var(--text-2);
       margin-left: 4px;
     }
-    .pill.pro-pill {
-      border: 1.5px solid rgba(43,74,61,0.25);
-    }
+    .pill.pro-pill { border-color: rgba(242, 163, 65, 0.45); }
     .pill .pro-tag {
       font-size: 0.7rem;
       font-weight: 600;
-      color: var(--green-mid);
-      background: rgba(43,74,61,0.1);
-      padding: 2px 7px;
+      color: var(--amber);
+      background: rgba(242, 163, 65, 0.12);
+      padding: 3px 8px;
       border-radius: 999px;
       margin-left: 8px;
       vertical-align: middle;
@@ -239,48 +208,56 @@
 
     /* PRO */
     .pro-section {
-      max-width: 760px;
+      max-width: 860px;
       margin: 0 auto 80px;
       padding: 0 24px;
     }
     .pro-card {
-      background: var(--green-mid);
-      border-radius: 22px;
-      padding: 40px 36px;
-      color: rgba(255,255,255,0.92);
+      position: relative;
+      overflow: hidden;
+      padding: 44px 40px 40px;
     }
+    .pro-card::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      background: radial-gradient(90% 70% at 100% 0%, rgba(232, 105, 46, 0.30), rgba(232, 105, 46, 0) 70%);
+    }
+    .pro-card > * { position: relative; }
     .pro-card .pro-eyebrow {
-      font-size: 0.75rem;
-      font-weight: 600;
-      letter-spacing: 1.2px;
-      text-transform: uppercase;
-      color: rgba(255,255,255,0.55);
+      font-family: var(--serif);
+      font-style: italic;
+      font-size: 1.05rem;
+      color: var(--section-label);
       margin-bottom: 10px;
     }
     .pro-card h2 {
-      font-family: 'DM Serif Display', serif;
-      font-size: clamp(1.6rem, 3.5vw, 2.2rem);
-      color: #fff;
-      margin-bottom: 10px;
-      line-height: 1.2;
+      font-family: var(--serif);
+      font-style: italic;
+      font-weight: 300;
+      font-size: clamp(2rem, 4.4vw, 2.8rem);
+      color: var(--text);
+      margin-bottom: 12px;
+      line-height: 1.1;
     }
     .pro-card .pro-sub {
-      font-size: 0.95rem;
-      color: rgba(255,255,255,0.65);
+      font-size: 0.98rem;
+      color: var(--text-soft);
       margin-bottom: 28px;
       line-height: 1.6;
     }
     .pro-list {
       list-style: none;
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      gap: 10px 24px;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 12px 28px;
       margin-bottom: 28px;
     }
     .pro-list li {
-      font-size: 0.93rem;
-      color: rgba(255,255,255,0.85);
-      padding-left: 20px;
+      font-size: 0.94rem;
+      color: var(--text-soft);
+      padding-left: 24px;
       position: relative;
       line-height: 1.5;
     }
@@ -288,38 +265,36 @@
       content: '\2713';
       position: absolute;
       left: 0;
-      color: rgba(255,255,255,0.5);
-      font-size: 0.85rem;
+      color: var(--amber);
+      font-size: 0.9rem;
     }
     .pro-trial {
-      font-size: 0.83rem;
-      color: rgba(255,255,255,0.45);
+      font-size: 0.84rem;
+      color: var(--text-2);
     }
 
     /* NEWSLETTER */
     .newsletter {
-      max-width: 600px;
-      margin: 0 auto 80px;
+      max-width: 640px;
+      margin: 0 auto 88px;
       padding: 0 24px;
       text-align: center;
     }
-    .newsletter-card {
-      background: var(--white-card);
-      border-radius: 22px;
-      padding: 44px 36px;
-    }
+    .newsletter-card { padding: 46px 36px; }
     .newsletter h2 {
-      font-family: 'DM Serif Display', serif;
-      font-size: clamp(1.6rem, 3.5vw, 2.2rem);
-      color: var(--green-dark);
+      font-family: var(--serif);
+      font-style: italic;
+      font-weight: 400;
+      font-size: clamp(1.8rem, 3.8vw, 2.3rem);
+      color: var(--text);
       margin-bottom: 12px;
       line-height: 1.2;
     }
     .newsletter p.nl-sub {
-      font-size: 0.95rem;
-      color: var(--green-light);
+      font-size: 0.98rem;
+      color: var(--text-soft);
       line-height: 1.6;
-      margin-bottom: 26px;
+      margin-bottom: 28px;
     }
     .newsletter form {
       display: flex;
@@ -330,43 +305,25 @@
     .newsletter input[type="email"] {
       flex: 1 1 240px;
       min-width: 0;
-      font-family: 'DM Sans', sans-serif;
+      font-family: var(--sans);
       font-size: 1rem;
-      color: var(--green-dark);
-      background: #fff;
-      border: 1.5px solid rgba(43,74,61,0.18);
-      border-radius: 14px;
-      padding: 14px 18px;
+      color: var(--text);
+      background: rgba(12, 9, 7, 0.6);
+      border: 1px solid var(--hairline);
+      border-radius: 999px;
+      padding: 15px 22px;
       outline: none;
       transition: border-color 0.15s;
     }
-    .newsletter input[type="email"]:focus {
-      border-color: var(--green-muted);
-    }
-    .newsletter input[type="email"]::placeholder {
-      color: var(--green-muted);
-      opacity: 0.7;
-    }
-    .newsletter button {
-      flex: 0 0 auto;
-      background: var(--green-mid);
-      color: #fff;
-      font-family: 'DM Sans', sans-serif;
-      font-size: 1rem;
-      font-weight: 600;
-      padding: 14px 28px;
-      border: none;
-      border-radius: 14px;
-      cursor: pointer;
-      transition: opacity 0.15s;
-    }
-    .newsletter button:hover { opacity: 0.85; }
+    .newsletter input[type="email"]:focus { border-color: var(--amber); }
+    .newsletter input[type="email"]::placeholder { color: var(--text-2); opacity: 0.8; }
+    .newsletter button { flex: 0 0 auto; padding: 15px 30px; }
     .newsletter .nl-micro {
-      margin-top: 14px;
+      margin-top: 16px;
       font-size: 0.8rem;
-      color: var(--green-muted);
+      color: var(--text-2);
     }
-    /* Honeypot — hidden from humans, catches bots */
+    /* Honeypot: hidden from humans, catches bots */
     .newsletter .nl-hp {
       position: absolute;
       left: -5000px;
@@ -377,7 +334,7 @@
     .newsletter .nl-success {
       display: none;
       font-size: 1.05rem;
-      color: var(--green-dark);
+      color: var(--text);
       line-height: 1.6;
     }
     .newsletter.is-done form,
@@ -386,35 +343,37 @@
 
     /* TAGLINE BAND */
     .band {
-      background: var(--green-dark);
-      color: rgba(255,255,255,0.92);
       text-align: center;
-      padding: 48px 24px;
+      padding: 64px 24px 56px;
+      border-top: 1px solid var(--divider);
+      background: radial-gradient(70% 120% at 50% 100%, rgba(156, 62, 21, 0.35), rgba(12, 9, 7, 0) 70%);
     }
     .band h2 {
-      font-family: 'DM Serif Display', serif;
-      font-size: clamp(1.6rem, 4vw, 2.4rem);
-      line-height: 1.3;
-      max-width: 600px;
-      margin: 0 auto 12px;
+      font-family: var(--serif);
+      font-style: italic;
+      font-weight: 300;
+      font-size: clamp(2rem, 5vw, 3rem);
+      line-height: 1.2;
+      color: var(--text);
+      max-width: 640px;
+      margin: 0 auto 14px;
     }
     .band p {
-      font-size: 0.95rem;
-      opacity: 0.65;
+      font-size: 0.98rem;
+      color: var(--text-soft);
+      margin-bottom: 26px;
     }
 
-    /* FOOTER */
-    footer {
-      text-align: center;
-      padding: 32px 24px;
-      font-size: 0.82rem;
-      color: var(--green-muted);
+    @media (max-width: 520px) {
+      .hero { padding-top: 48px; }
+      .pro-card { padding: 36px 24px 32px; }
+      .newsletter-card { padding: 38px 22px; }
     }
-    footer a { color: var(--green-muted); margin: 0 10px; text-decoration: none; }
-    footer a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
+
+  <div class="glow" aria-hidden="true"></div>
 
   <nav>
     <a href="/" class="logo">DeRot</a>
@@ -425,54 +384,54 @@
   </nav>
 
   <section class="hero">
-    <div class="hero-icon">🫁</div>
-    <h1>Your apps wind you up.<br/>DeRot brings you back down.</h1>
+    <img class="hero-icon" src="img/derot-icon-384.png" alt="DeRot app icon: a sun setting on the horizon" width="112" height="112" />
+    <h1><span class="lead">Your apps wind you up.</span> <span class="main">DeRot brings you back down.</span></h1>
     <p>A quick calm reset, built right into the apps that stress you out. No willpower needed. Just a calmer you on the other side.</p>
-    <a href="#newsletter" class="app-store-btn">Get notified at launch</a>
+    <a href="#newsletter" class="btn-primary">Get notified at launch</a>
     <span class="app-store-sub">Coming soon to iOS 17+ · Free · No account required</span>
   </section>
 
   <section class="features">
-    <div class="feature-card">
-      <div class="icon-row">
-        <span class="emoji">🫀</span>
-        <h3>Your body feels it before you do</h3>
-      </div>
+    <div class="feature-card glass">
+      <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 12h4l2.5-6 4 12 2.5-6H22"/></svg>
+      <h3>Your body feels it before you do</h3>
       <p>Scrolling quietly winds you up without you noticing. DeRot gives you a chance to settle before you scroll on.</p>
     </div>
-    <div class="feature-card">
-      <div class="icon-row">
-        <span class="emoji">⏱️</span>
-        <h3>60 seconds is all it takes</h3>
-      </div>
+    <div class="feature-card glass">
+      <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 8h11a3 3 0 1 0-3-3"/><path d="M3 12h16a3 3 0 1 1-3 3"/><path d="M3 16h7"/></svg>
+      <h3>60 seconds is all it takes</h3>
       <p>A few slow breaths and you feel it shift. Shoulders drop, head clears, the wired feeling fades. Quick enough to barely break your stride.</p>
     </div>
-    <div class="feature-card">
-      <div class="icon-row">
-        <span class="emoji">🚫</span>
-        <h3>Never locked out of your apps</h3>
-      </div>
+    <div class="feature-card glass">
+      <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="11" width="16" height="10" rx="2.5"/><path d="M8 11V7a4 4 0 0 1 7.6-1.7"/></svg>
+      <h3>Never locked out of your apps</h3>
       <p>We're not here to shame you or lock you out. DeRot helps you stay connected and actually feel good about it.</p>
     </div>
   </section>
 
+  <section class="screens" aria-label="DeRot app screens">
+    <figure><img src="img/screen-home.jpg" alt="DeRot home screen with the calm reset card" width="598" height="1300" loading="lazy" /></figure>
+    <figure><img src="img/screen-breathing-inhale.jpg" alt="Guided breathing screen on the inhale" width="598" height="1300" loading="lazy" /></figure>
+    <figure><img src="img/screen-reset-complete.jpg" alt="Completion screen after a calm reset" width="598" height="1300" loading="lazy" /></figure>
+  </section>
+
   <section class="how-it-works">
     <div class="how-inner">
-      <h2>How it works</h2>
+      <h2 class="section-title">How it works</h2>
       <div class="steps">
-        <div class="step">
+        <div class="step glass">
           <div class="step-num">1</div>
-          <h3>Pick the apps that wind you up</h3>
+        <h3>Pick the apps that wind you up</h3>
           <p>Instagram, TikTok, Reddit, Twitter, whatever leaves you feeling wired. DeRot wraps a calm reset around them.</p>
         </div>
-        <div class="step">
+        <div class="step glass">
           <div class="step-num">2</div>
-          <h3>We meet you mid-scroll</h3>
+        <h3>We meet you mid-scroll</h3>
           <p>After you've been scrolling for a while, DeRot pauses the app and walks you through a calming breath exercise.</p>
         </div>
-        <div class="step">
+        <div class="step glass">
           <div class="step-num">3</div>
-          <h3>Feel the difference</h3>
+        <h3>Feel the difference</h3>
           <p>A guided reset settles you back down. Then you're on your way, calmer.</p>
         </div>
       </div>
@@ -480,7 +439,7 @@
   </section>
 
   <section class="techniques">
-    <h2>Four ways to reset</h2>
+    <h2 class="section-title">Four ways to reset</h2>
     <p class="sub">Different moments call for different approaches. Pick what feels right.</p>
     <div class="technique-pills">
       <div class="pill">Calm <span class="detail">4-6</span></div>
@@ -491,7 +450,7 @@
   </section>
 
   <section class="pro-section">
-    <div class="pro-card">
+    <div class="pro-card glass">
       <p class="pro-eyebrow">DeRot Pro</p>
       <h2>Full control over<br/>your calm.</h2>
       <p class="pro-sub">The free version covers one app. Pro wraps your entire phone in a reset.</p>
@@ -509,7 +468,7 @@
   <!-- NEWSLETTER SIGNUP — MailerLite (account 2453305, form 191078481020323740) -->
 
   <section class="newsletter" id="newsletter">
-    <div class="newsletter-card">
+    <div class="newsletter-card glass">
       <h2>Get the occasional reset.</h2>
       <p class="nl-sub">Calm tips and DeRot news, now and then. Never daily.</p>
 
@@ -531,7 +490,7 @@
         <!-- MailerLite-required hidden fields -->
         <input type="hidden" name="ml-submit" value="1" />
         <input type="hidden" name="anticsrf" value="true" />
-        <button type="submit">Send me calm</button>
+        <button type="submit" class="btn-primary">Send me calm</button>
       </form>
 
       <p class="nl-micro">No spam. Unsubscribe anytime.</p>
@@ -570,6 +529,7 @@
   <div class="band">
     <h2>Regulate, don't restrict.</h2>
     <p>Stay connected. Feel calm.</p>
+    <div class="horizon-line" aria-hidden="true"></div>
   </div>
 
   <footer>

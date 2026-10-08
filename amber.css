@@ -1,0 +1,131 @@
+/* DeRot "Amber" site theme. Tokens mirror the app's Theme.swift
+   (docs/redesign-amber-facelift-2026-10-07.md, section 2). */
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  color-scheme: dark;
+  --base:          #0C0907;
+  --card:          rgba(22, 15, 11, 0.60);
+  --card-solid:    #160F0B;
+  --hairline:      rgba(245, 225, 200, 0.12);
+  --divider:       rgba(245, 225, 200, 0.08);
+  --text:          #F5EDE3;
+  --text-soft:     #E9D9C6;
+  --text-2:        #B9AC9E;
+  --amber:         #F2A341;
+  --ember:         #E8692E;
+  --section-label: #F2C48A;
+  --btn-fill:      #F5EDE3;
+  --btn-label:     #140D09;
+  --secondary:     rgba(245, 225, 200, 0.06);
+
+  --serif-display: 'DM Serif Display', Georgia, serif;
+  --serif:         'Fraunces', Georgia, serif;
+  --sans:          'DM Sans', system-ui, -apple-system, sans-serif;
+}
+
+html { background: var(--base); }
+
+body {
+  position: relative;
+  background: var(--base);
+  color: var(--text);
+  font-family: var(--sans);
+  min-height: 100vh;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Ember glow at the top of every page. "Hero" matches Home/Paywall,
+   "quiet" matches Settings/My Apps. */
+.glow {
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 760px;
+  pointer-events: none;
+  z-index: 0;
+  background: radial-gradient(130% 60% at 50% -10%,
+    #E8762E 0%, #9C3E15 24%, #3A170A 48%, #140C08 70%, rgba(12, 9, 7, 0) 100%);
+}
+.glow.quiet {
+  height: 520px;
+  background: radial-gradient(130% 42% at 50% -10%,
+    #B8561F 0%, #5A260E 34%, #1A0F09 66%, rgba(12, 9, 7, 0) 100%);
+}
+body > *:not(.glow) { position: relative; z-index: 1; }
+
+a { color: var(--amber); }
+
+/* NAV */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 22px 40px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+nav .logo {
+  font-family: var(--serif-display);
+  font-size: 1.7rem;
+  color: var(--text);
+  text-decoration: none;
+}
+nav .nav-links a {
+  font-size: 0.92rem;
+  color: var(--text-soft);
+  text-decoration: none;
+  margin-left: 24px;
+  opacity: 0.85;
+}
+nav .nav-links a:hover { opacity: 1; text-decoration: underline; text-underline-offset: 3px; }
+
+/* Shared surfaces */
+.glass {
+  background: var(--card);
+  border: 1px solid var(--hairline);
+  border-radius: 24px;
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+}
+
+.btn-primary {
+  display: inline-block;
+  background: var(--btn-fill);
+  color: var(--btn-label);
+  font-family: var(--sans);
+  font-size: 1.02rem;
+  font-weight: 600;
+  padding: 16px 34px;
+  border: none;
+  border-radius: 999px;
+  text-decoration: none;
+  cursor: pointer;
+  box-shadow: 0 10px 40px rgba(232, 118, 46, 0.25);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+.btn-primary:hover { transform: translateY(-1px); box-shadow: 0 12px 48px rgba(232, 118, 46, 0.38); }
+
+/* Thin amber horizon line that fades out at both ends */
+.horizon-line {
+  height: 2px;
+  width: min(420px, 70%);
+  margin: 0 auto;
+  background: linear-gradient(90deg, rgba(242, 163, 65, 0), #F2A341 30%, #F2A341 70%, rgba(242, 163, 65, 0));
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 36px 24px 40px;
+  font-size: 0.82rem;
+  color: var(--text-2);
+}
+footer a { color: var(--text-2); margin: 0 10px; text-decoration: none; }
+footer a:hover { color: var(--text-soft); text-decoration: underline; }
+
+@media (max-width: 520px) {
+  nav { padding: 18px 20px; }
+  nav .nav-links a { margin-left: 16px; }
+}
