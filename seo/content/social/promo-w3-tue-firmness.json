@@ -1,0 +1,58 @@
+{
+  "kind": "promo",
+  "slug": "promo-w3-tue-firmness",
+  "phase": "prelaunch",
+  "pillar": "product",
+  "title": "Not everyone wants the same amount of friction, and not every day is the same.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "Not everyone wants the same amount of friction, and not every day is the same.\n\nDeRot has three firmness levels. Stay the course means the calm reset finishes before you're back in the app. Flexible lets you skip after 10 seconds. Gentle reminder is a soft nudge with nothing required.\n\nWhichever you pick, you're never locked out. A breath is always the way through.\n\nComing soon to iPhone. Join the launch list: link in bio.",
+    "instagram_hashtags": [
+      "digitalwellbeing",
+      "mindfultech",
+      "calmreset"
+    ]
+  },
+  "images": [
+    {
+      "path": "img/social/promo-w3-tue-firmness/slide-01.jpg",
+      "url": "https://derot.org/img/social/promo-w3-tue-firmness/slide-01.jpg",
+      "alt": "Choose how firmly DeRot holds you to the reset"
+    },
+    {
+      "path": "img/social/promo-w3-tue-firmness/slide-02.jpg",
+      "url": "https://derot.org/img/social/promo-w3-tue-firmness/slide-02.jpg",
+      "alt": "Three levels of firm Pick the one that fits how you want to feel."
+    },
+    {
+      "path": "img/social/promo-w3-tue-firmness/slide-03.jpg",
+      "url": "https://derot.org/img/social/promo-w3-tue-firmness/slide-03.jpg",
+      "alt": "Stay the course The reset finishes before the app opens. For the days you want a firm hand."
+    },
+    {
+      "path": "img/social/promo-w3-tue-firmness/slide-04.jpg",
+      "url": "https://derot.org/img/social/promo-w3-tue-firmness/slide-04.jpg",
+      "alt": "Flexible Skip after 10 seconds if you need to. The pause alone is often enough."
+    },
+    {
+      "path": "img/social/promo-w3-tue-firmness/slide-05.jpg",
+      "url": "https://derot.org/img/social/promo-w3-tue-firmness/slide-05.jpg",
+      "alt": "Gentle reminder A soft nudge with nothing required. Good if you're just getting started."
+    },
+    {
+      "path": "img/social/promo-w3-tue-firmness/slide-06.jpg",
+      "url": "https://derot.org/img/social/promo-w3-tue-firmness/slide-06.jpg",
+      "alt": "Coming soon to iPhone. Join the launch list: link in bio. We'll tell you the day it's live. Regulate, don't restrict."
+    }
+  ],
+  "threads_images": null,
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-10-27T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

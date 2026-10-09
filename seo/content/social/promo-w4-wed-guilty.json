@@ -1,0 +1,22 @@
+{
+  "kind": "promo",
+  "slug": "promo-w4-wed-guilty",
+  "phase": "prelaunch",
+  "pillar": "pov",
+  "title": "We'd rather you keep scrolling and feel okay than quit scrolling and feel guilty.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "We'd rather you keep scrolling and feel okay than quit scrolling and feel guilty.\n\nThat's not a loophole. That's the whole point of DeRot: stay connected, feel calm."
+  },
+  "images": [],
+  "threads_images": [],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-11-04T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

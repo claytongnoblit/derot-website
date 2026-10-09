@@ -1,0 +1,22 @@
+{
+  "kind": "promo",
+  "slug": "promo-w3-tue-478",
+  "phase": "prelaunch",
+  "pillar": "reset",
+  "title": "4-7-8 breathing, the one people reach for when winding down at night:",
+  "url": "https://derot.org/tools/4-7-8-breathing-timer/",
+  "approved": true,
+  "copy": {
+    "threads_text": "4-7-8 breathing, the one people reach for when winding down at night:\n\nIn for 4. Hold for 7. Out slowly for 8.\n\nStart with four rounds. If the hold makes you lightheaded, skip it and just lengthen the exhale. Free timer:\n{url}"
+  },
+  "images": [],
+  "threads_images": [],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-10-27T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

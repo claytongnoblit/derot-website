@@ -1,0 +1,32 @@
+  <section class="newsletter" id="newsletter">
+    <div class="newsletter-card glass">
+      <h2>Get the occasional reset.</h2>
+      <p class="nl-sub">New calm techniques and DeRot news, now and then. Never daily.</p>
+      <form action="https://assets.mailerlite.com/jsonp/2453305/forms/191078481020323740/subscribe" method="post" target="_blank">
+        <input type="email" name="fields[email]" placeholder="you@example.com" autocomplete="email" aria-label="Email address" required />
+        <div class="nl-hp" aria-hidden="true"><input type="text" name="b_hp" tabindex="-1" autocomplete="off" /></div>
+        <input type="hidden" name="ml-submit" value="1" />
+        <input type="hidden" name="anticsrf" value="true" />
+        <button type="submit" class="btn-primary">Send me calm</button>
+      </form>
+      <p class="nl-micro">No spam. Unsubscribe anytime.</p>
+      <div class="nl-success">
+        <h2>Thank you!</h2>
+        <p class="nl-sub">You're in. Take a breath, we'll be in touch.</p>
+      </div>
+    </div>
+  </section>
+  <script>
+    (function () {
+      var section = document.getElementById('newsletter');
+      if (!section) return;
+      var form = section.querySelector('form');
+      form.addEventListener('submit', function (e) {
+        var hp = form.querySelector('input[name="b_hp"]');
+        e.preventDefault();
+        if (hp && hp.value) return;
+        fetch(form.action, { method: 'POST', body: new FormData(form), mode: 'no-cors' })
+          .finally(function () { section.classList.add('is-done'); });
+      });
+    })();
+  </script>

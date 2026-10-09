@@ -1,0 +1,22 @@
+{
+  "kind": "promo",
+  "slug": "promo-w2-mon-signs",
+  "phase": "prelaunch",
+  "pillar": "feeling",
+  "title": "Signs the scroll has gotten to you:",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "Signs the scroll has gotten to you:\n\nYou're reading the same comment twice.\nYour thumb is moving but nothing is going in.\nYour breath has gone short and shallow.\n\nNone of that is a character flaw. It's a cue to come back down for a minute."
+  },
+  "images": [],
+  "threads_images": [],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-10-19T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

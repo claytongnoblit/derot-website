@@ -12,6 +12,31 @@
   <meta property="og:description" content="Your apps wind you up. DeRot brings you back down." />
   <meta property="og:image" content="https://derot.org/img/og-image.png" />
   <meta property="og:url" content="https://derot.org/" />
+  <link rel="canonical" href="https://derot.org/" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://derot.org/#org",
+        "name": "DeRot",
+        "url": "https://derot.org/",
+        "logo": "https://derot.org/apple-touch-icon.png",
+        "email": "support@derot.org",
+        "slogan": "Regulate, don't restrict.",
+        "parentOrganization": { "@type": "Organization", "name": "NinetyFourVentures LLC" }
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://derot.org/#website",
+        "url": "https://derot.org/",
+        "name": "DeRot",
+        "publisher": { "@id": "https://derot.org/#org" }
+      }
+    ]
+  }
+  </script>
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="theme-color" content="#0C0907" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -364,6 +389,16 @@
       margin-bottom: 26px;
     }
 
+    /* FROM THE BLOG (filled in by seo/derot_seo/site.py between the seo:latest-posts markers) */
+    .home-blog { max-width: 860px; margin: 0 auto 80px; padding: 0 24px; }
+    .home-blog .section-title { margin-bottom: 28px; }
+    .home-posts { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 16px; }
+    .home-post { display: flex; flex-direction: column; gap: 8px; padding: 22px 22px 24px; text-decoration: none; transition: transform 0.15s, border-color 0.15s; }
+    .home-post:hover { transform: translateY(-2px); border-color: rgba(242, 163, 65, 0.4); }
+    .hp-topic { font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--section-label); }
+    .hp-title { font-family: var(--serif); font-style: italic; font-size: 1.25rem; line-height: 1.25; color: var(--text); }
+    .home-blog-more { text-align: center; margin-top: 22px; font-size: 0.92rem; color: var(--text-2); }
+
     @media (max-width: 520px) {
       .hero { padding-top: 48px; }
       .pro-card { padding: 36px 24px 32px; }
@@ -378,8 +413,9 @@
   <nav>
     <a href="/" class="logo">DeRot</a>
     <div class="nav-links">
+      <a href="/blog/">Blog</a>
+      <a href="/tools/">Breathing tools</a>
       <a href="/support.html">Support</a>
-      <a href="/privacy.html">Privacy</a>
     </div>
   </nav>
 
@@ -465,6 +501,16 @@
     </div>
   </section>
 
+  <!-- seo:latest-posts:start -->
+  <section class="home-blog" aria-labelledby="home-blog-title">
+    <h2 id="home-blog-title" class="section-title">From the blog</h2>
+    <div class="home-posts">
+        <a class="home-post glass" href="/blog/doomscrolling-at-night/"><span class="hp-topic">Doomscrolling and scrolling stress</span><span class="hp-title">Doomscrolling at Night: Why You&#x27;re Wired and a 60-Second Way Down</span></a>
+    </div>
+    <p class="home-blog-more"><a href="/blog/">All articles</a> · <a href="/tools/">Free breathing tools</a></p>
+  </section>
+  <!-- seo:latest-posts:end -->
+
   <!-- NEWSLETTER SIGNUP — MailerLite (account 2453305, form 191078481020323740) -->
 
   <section class="newsletter" id="newsletter">
@@ -534,6 +580,9 @@
 
   <footer>
     <p>
+      <a href="/blog/">Blog</a>
+      <a href="/tools/">Breathing tools</a>
+      <a href="/about/">About</a>
       <a href="/privacy.html">Privacy Policy</a>
       <a href="/support.html">Support</a>
     </p>

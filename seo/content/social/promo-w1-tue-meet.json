@@ -1,0 +1,59 @@
+{
+  "kind": "promo",
+  "slug": "promo-w1-tue-meet",
+  "phase": "prelaunch",
+  "pillar": "product",
+  "title": "Your apps wind you up. DeRot brings you back down.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "Your apps wind you up. DeRot brings you back down.\n\nHere's the idea. You pick the apps that tend to leave you wired. Mid-scroll, DeRot pauses the feed and walks you through about a minute of slow, easy breathing. Then you go back, or you don't. Either way, you're calmer.\n\nNo account. No guilt charts. You're never locked out of anything.\n\nComing soon to iPhone. Join the launch list: link in bio.",
+    "instagram_hashtags": [
+      "digitalwellbeing",
+      "breathwork",
+      "mindfultech",
+      "calmreset"
+    ]
+  },
+  "images": [
+    {
+      "path": "img/social/promo-w1-tue-meet/slide-01.jpg",
+      "url": "https://derot.org/img/social/promo-w1-tue-meet/slide-01.jpg",
+      "alt": "Your apps wind you up. DeRot brings you back down."
+    },
+    {
+      "path": "img/social/promo-w1-tue-meet/slide-02.jpg",
+      "url": "https://derot.org/img/social/promo-w1-tue-meet/slide-02.jpg",
+      "alt": "Pick the apps that wind you up Social, games, reading, or just the one feed that always gets you."
+    },
+    {
+      "path": "img/social/promo-w1-tue-meet/slide-03.jpg",
+      "url": "https://derot.org/img/social/promo-w1-tue-meet/slide-03.jpg",
+      "alt": "Mid-scroll, DeRot pauses you Not at the door. Right when the feed has wound you up."
+    },
+    {
+      "path": "img/social/promo-w1-tue-meet/slide-04.jpg",
+      "url": "https://derot.org/img/social/promo-w1-tue-meet/slide-04.jpg",
+      "alt": "Breathe for about a minute Nothing to get right. Just follow the circle."
+    },
+    {
+      "path": "img/social/promo-w1-tue-meet/slide-05.jpg",
+      "url": "https://derot.org/img/social/promo-w1-tue-meet/slide-05.jpg",
+      "alt": "Then back to your day, calmer Back to the feed, or not. Your call, just calmer."
+    },
+    {
+      "path": "img/social/promo-w1-tue-meet/slide-06.jpg",
+      "url": "https://derot.org/img/social/promo-w1-tue-meet/slide-06.jpg",
+      "alt": "Coming soon to iPhone. Join the launch list: link in bio. We'll tell you the day it's live. Regulate, don't restrict."
+    }
+  ],
+  "threads_images": null,
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-10-13T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

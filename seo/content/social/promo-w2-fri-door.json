@@ -1,0 +1,22 @@
+{
+  "kind": "promo",
+  "slug": "promo-w2-fri-door",
+  "phase": "prelaunch",
+  "pillar": "building",
+  "title": "A design rule we keep coming back to: DeRot never stands at the door.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "A design rule we keep coming back to: DeRot never stands at the door.\n\nPlenty of apps make you breathe at the door, before the feed even loads. We wait until you're already mid-scroll, because that's when you actually need it."
+  },
+  "images": [],
+  "threads_images": [],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-10-23T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

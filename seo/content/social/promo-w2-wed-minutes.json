@@ -1,0 +1,22 @@
+{
+  "kind": "promo",
+  "slug": "promo-w2-wed-minutes",
+  "phase": "prelaunch",
+  "pillar": "pov",
+  "title": "Hot take: \"use your phone less\" is the wrong goal.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "Hot take: \"use your phone less\" is the wrong goal.\n\nYou can spend an hour on your phone and feel fine. You can spend ten minutes and feel wrecked. The minutes were never the point. How you feel afterward is."
+  },
+  "images": [],
+  "threads_images": [],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-10-21T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

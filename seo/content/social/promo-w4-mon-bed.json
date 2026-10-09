@@ -1,0 +1,22 @@
+{
+  "kind": "promo",
+  "slug": "promo-w4-mon-bed",
+  "phase": "prelaunch",
+  "pillar": "feeling",
+  "title": "Scrolling in bed and then wondering why you can't fall asleep is one of the most relatable",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "Scrolling in bed and then wondering why you can't fall asleep is one of the most relatable things a person can do.\n\nThe content keeps your mind busy, and your body never gets the signal that the day is over. A long, slow exhale is one way to send it."
+  },
+  "images": [],
+  "threads_images": [],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-11-02T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

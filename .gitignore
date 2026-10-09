@@ -1,1 +1,6 @@
 .DS_Store
+__pycache__/
+.pytest_cache/
+*.tmp
+# Search Console data is private; it is pulled fresh on every run.
+seo/data/gsc_snapshot.json

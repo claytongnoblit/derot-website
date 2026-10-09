@@ -1,0 +1,220 @@
+name: SEO social
+
+# Posts each article's queued Instagram, Threads, and Facebook posts when their
+# time slot arrives (slots are in seo/config.yaml under social.platforms).
+# Hourly: a cheap check exits in seconds when nothing is due.
+# Sundays: refreshes the Threads token (60-day lifetime) and checks every login.
+
+on:
+  schedule:
+    - cron: "40 * * * *"
+    - cron: "10 15 * * 0"
+  workflow_dispatch:
+    inputs:
+      action:
+        description: "post = post what is due; dry-run = show what is due; prepare = write missing packages; maintenance = refresh Threads token + check logins"
+        type: choice
+        options: [post, dry-run, prepare, maintenance]
+        default: dry-run
+      slug:
+        description: "Optional: only this article"
+        type: string
+        required: false
+
+permissions:
+  contents: write
+  pages: write
+  issues: write
+
+# Separate from seo-content: this only writes seo/content/social/ and img/social/.
+concurrency:
+  group: seo-social
+  cancel-in-progress: false
+
+env:
+  META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+  META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+  META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
+  THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+  THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+  GH_TOKEN: ${{ github.token }}
+
+jobs:
+  post:
+    if: github.event.schedule != '10 15 * * 0' && (github.event_name != 'workflow_dispatch' || inputs.action != 'maintenance')
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      ACTION: ${{ github.event_name == 'schedule' && 'post' || inputs.action }}
+      SLUG: ${{ inputs.slug }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Anything due?
+        id: due
+        run: |
+          if [ "$ACTION" != "post" ]; then echo "due=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          python3 - <<'EOF' >> "$GITHUB_OUTPUT"
+          import datetime as dt, glob, json, os
+          now = dt.datetime.now(dt.timezone.utc)
+          creds = {"facebook": bool(os.environ.get("META_PAGE_ACCESS_TOKEN")),
+                   "instagram": bool(os.environ.get("META_PAGE_ACCESS_TOKEN")),
+                   "threads": bool(os.environ.get("THREADS_ACCESS_TOKEN"))}
+          due = False
+          model = bool(os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("CLAUDE_CODE_OAUTH_TOKEN"))
+          have = {os.path.basename(f) for f in glob.glob("seo/content/social/*.json")}
+          week_ago = (now.date() - dt.timedelta(days=7)).isoformat()
+          for f in glob.glob("seo/content/posts/*.json"):
+              p = json.load(open(f))
+              if p.get("date_published", "") >= week_ago and os.path.basename(f) not in have:
+                  due = due or model
+          for f in glob.glob("seo/content/social/*.json"):
+              pkg = json.load(open(f))
+              if not pkg.get("copy") and int(pkg.get("prepare_attempts", 0)) < 3:
+                  due = due or model   # retry a failed prepare
+              if pkg.get("needs_review") and not pkg.get("approved") and not pkg.get("review_notified"):
+                  due = True   # tell someone about a held package
+              if not pkg.get("approved"):
+                  continue
+              for name, st in (pkg.get("platforms") or {}).items():
+                  if st.get("status") == "queued" and creds.get(name) \
+                     and dt.datetime.fromisoformat(st["scheduled_at"]) <= now \
+                     and (not st.get("retry_after") or dt.datetime.fromisoformat(st["retry_after"]) <= now):
+                      due = True
+          print(f"due={'true' if due else 'false'}")
+          EOF
+
+      - uses: actions/setup-python@v5
+        if: steps.due.outputs.due == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: seo/requirements.txt
+
+      - name: Install
+        if: steps.due.outputs.due == 'true'
+        run: pip install -r seo/requirements.txt
+
+      # Same model backend as the SEO publish workflow (llm.backend in seo/config.yaml).
+      - name: Install Claude Code
+        if: steps.due.outputs.due == 'true' && (env.ACTION == 'post' || env.ACTION == 'prepare')
+        run: |
+          backend=$(python -c "import yaml;print((yaml.safe_load(open('seo/config.yaml')).get('llm') or {}).get('backend','api'))")
+          echo "LLM_BACKEND=$backend" >> "$GITHUB_ENV"
+          if [ "$backend" = "subscription" ] && [ -n "$CLAUDE_CODE_OAUTH_TOKEN" ]; then
+            npm install -g @anthropic-ai/claude-code@2.1.295
+            claude --version
+          fi
+
+      - name: Prepare missing packages
+        id: prep
+        if: steps.due.outputs.due == 'true' && (env.ACTION == 'post' || env.ACTION == 'prepare') && ((env.LLM_BACKEND == 'subscription' && env.CLAUDE_CODE_OAUTH_TOKEN != '') || (env.LLM_BACKEND != 'subscription' && env.ANTHROPIC_API_KEY != ''))
+        working-directory: seo
+        run: |
+          set +e
+          if [ -n "$SLUG" ] && [ "$ACTION" = "prepare" ]; then
+            python -m derot_seo social prepare --slug "$SLUG"
+          else
+            python -m derot_seo social prepare --missing
+          fi
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          # 0 ok, 31 a package was held by the copy gate (issue opened below)
+          if [ $code -ne 0 ] && [ $code -ne 31 ]; then exit $code; fi
+
+      - name: Post
+        id: post
+        if: steps.due.outputs.due == 'true' && (env.ACTION == 'post' || env.ACTION == 'dry-run')
+        working-directory: seo
+        run: |
+          set +e
+          args=()
+          [ -n "$SLUG" ] && args+=(--slug "$SLUG")
+          [ "$ACTION" = "dry-run" ] && args+=(--dry-run)
+          python -m derot_seo social post "${args[@]}"
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          # 0 ok, 30 a platform failed for good, 31 a package is held for review (issue opened below)
+          if [ $code -ne 0 ] && [ $code -ne 30 ] && [ $code -ne 31 ]; then exit $code; fi
+
+      - name: Save post state
+        # Runs even after a failure, so a post that went out is never posted twice.
+        if: always() && steps.due.outputs.due == 'true' && env.ACTION != 'dry-run'
+        run: |
+          git config user.name "derot-seo-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for p in seo/content/social img/social; do if [ -e "$p" ]; then git add -A "$p"; fi; done
+          if git diff --cached --quiet; then echo "Nothing to commit"; exit 0; fi
+          git commit -m "Social: update post queue"
+          ok=0
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main; then ok=1; break; fi
+            git rebase --abort 2>/dev/null || true
+            sleep 15
+          done
+          if [ "$ok" != "1" ]; then echo "::error::Could not push to main after 3 attempts"; exit 1; fi
+          # New slide images must be live before Meta can fetch them.
+          if git diff --name-only HEAD~1 HEAD | grep -q '^img/social/'; then
+            gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
+          fi
+
+      - name: Open issue (failed or held posts)
+        if: steps.post.outputs.code == '30' || steps.post.outputs.code == '31' || steps.prep.outputs.code == '31' || failure() || cancelled()
+        env:
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          gh label create seo-social --color E8692E --description "Social posting" 2>/dev/null || true
+          title="Social posting needs attention ($(date -u +%Y-%m-%d))"
+          # One issue per day at most, since this runs hourly.
+          if gh issue list --label seo-social --state open --search "in:title \"$title\"" --json number -q '.[0].number' | grep -q .; then
+            echo "Issue already open for today"; exit 0
+          fi
+          gh issue create --label seo-social --title "$title" --body "A social post failed or was held by the copy check. Run summary: $RUN_URL
+
+          See \`seo/content/social/<slug>.json\`: each platform has a status and the last error. To retry, set the platform's \"status\" back to \"queued\" (and \"attempts\" to 0), or run \`python -m derot_seo social reschedule --slug <slug>\`. A held package (\"approved\": false) lists its problems in \"qa_errors\"; fix the copy, run \`social render\` if slide text changed, and set \"approved\": true. Details: seo/SOCIAL.md."
+
+  maintenance:
+    if: github.event.schedule == '10 15 * * 0' || (github.event_name == 'workflow_dispatch' && inputs.action == 'maintenance')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: seo/requirements.txt
+      - run: pip install -r seo/requirements.txt
+
+      - name: Refresh Threads token
+        working-directory: seo
+        env:
+          PAT: ${{ secrets.SOCIAL_SECRETS_PAT }}
+        run: |
+          if [ -z "$THREADS_ACCESS_TOKEN" ]; then echo "Threads not configured"; exit 0; fi
+          if [ -z "$PAT" ]; then
+            echo "::warning::SOCIAL_SECRETS_PAT is not set, so the Threads token cannot be refreshed automatically. Re-run 'social setup-threads' every 60 days, or add the PAT (see seo/SOCIAL.md)."
+            exit 0
+          fi
+          tokfile="$RUNNER_TEMP/threads_token"
+          python -m derot_seo social refresh-threads-token --out "$tokfile"
+          GH_TOKEN="$PAT" gh secret set THREADS_ACCESS_TOKEN --repo "${{ github.repository }}" < "$tokfile"
+          rm -f "$tokfile"
+          echo "Saved the refreshed token to the THREADS_ACCESS_TOKEN secret."
+
+      - name: Check logins
+        working-directory: seo
+        run: python -m derot_seo social check
+
+      - name: Open issue if a login is broken
+        if: failure()
+        run: |
+          gh label create seo-social --color E8692E --description "Social posting" 2>/dev/null || true
+          gh issue create --label seo-social --title "Social login check failed ($(date -u +%Y-%m-%d))" \
+            --body "A Meta or Threads token is missing, expired, or lacks permissions, so posts for that platform will wait. Logs: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}. Fix: seo/SOCIAL.md, 'Tokens'."

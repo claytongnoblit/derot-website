@@ -1,0 +1,22 @@
+{
+  "kind": "promo",
+  "slug": "promo-w1-wed-pov",
+  "phase": "prelaunch",
+  "pillar": "pov",
+  "title": "Most screen time apps treat you like you can't be trusted with your own phone. Walls, time",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "Most screen time apps treat you like you can't be trusted with your own phone. Walls, timers, guilt charts.\n\nWe think the problem was never how many minutes you spent. It's how you feel when you put the phone down.\n\nRegulate, don't restrict."
+  },
+  "images": [],
+  "threads_images": [],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-10-14T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

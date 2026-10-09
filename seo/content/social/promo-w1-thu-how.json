@@ -1,0 +1,54 @@
+{
+  "kind": "promo",
+  "slug": "promo-w1-thu-how",
+  "phase": "prelaunch",
+  "pillar": "product",
+  "title": "How DeRot works, in three steps:",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "How DeRot works, in three steps:\n\n1. Pick the apps that wind you up.\n2. Mid-scroll, DeRot pauses you and opens a calming breath exercise.\n3. You go back to the feed, or you don't. Your call, just calmer.\n\nNo account needed. Coming soon to iPhone."
+  },
+  "images": [
+    {
+      "path": "img/social/promo-w1-tue-meet/slide-03.jpg",
+      "url": "https://derot.org/img/social/promo-w1-tue-meet/slide-03.jpg",
+      "alt": "Mid-scroll, DeRot pauses you Not at the door. Right when the feed has wound you up."
+    },
+    {
+      "path": "img/social/promo-w1-tue-meet/slide-04.jpg",
+      "url": "https://derot.org/img/social/promo-w1-tue-meet/slide-04.jpg",
+      "alt": "Breathe for about a minute Nothing to get right. Just follow the circle."
+    },
+    {
+      "path": "img/social/promo-w1-tue-meet/slide-05.jpg",
+      "url": "https://derot.org/img/social/promo-w1-tue-meet/slide-05.jpg",
+      "alt": "Then back to your day, calmer Back to the feed, or not. Your call, just calmer."
+    }
+  ],
+  "threads_images": [
+    {
+      "path": "img/social/promo-w1-tue-meet/slide-03.jpg",
+      "url": "https://derot.org/img/social/promo-w1-tue-meet/slide-03.jpg",
+      "alt": "Mid-scroll, DeRot pauses you Not at the door. Right when the feed has wound you up."
+    },
+    {
+      "path": "img/social/promo-w1-tue-meet/slide-04.jpg",
+      "url": "https://derot.org/img/social/promo-w1-tue-meet/slide-04.jpg",
+      "alt": "Breathe for about a minute Nothing to get right. Just follow the circle."
+    },
+    {
+      "path": "img/social/promo-w1-tue-meet/slide-05.jpg",
+      "url": "https://derot.org/img/social/promo-w1-tue-meet/slide-05.jpg",
+      "alt": "Then back to your day, calmer Back to the feed, or not. Your call, just calmer."
+    }
+  ],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-10-15T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

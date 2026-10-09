@@ -1,0 +1,263 @@
+{
+  "title_options": [
+    "Doomscrolling at Night: A 60-Second Way Back Down When You're Already in Bed",
+    "How to Stop Doomscrolling at Night (Without Banning Your Phone From the Bedroom)",
+    "Doomscrolling at Night Leaves You Wired. Here's the Mid-Scroll Off-Ramp",
+    "Why Doomscrolling at Night Winds You Up, and How to Come Back Down in 60 Seconds"
+  ],
+  "search_intent": "Mostly how-to, with some explanation mixed in. The searcher is an adult who scrolls in bed and wants to know why late-night scrolling leaves them wired and what to do about it. A lot of these searches likely happen in bed, mid-scroll, so the article should give an immediate fix right away (a 60-second breathing off-ramp) and then cover the why and some gentle evening setups.",
+  "serp_summary": "The top results are health-system and lifestyle listicles: Yale New Haven Health, Apartment Therapy, Khaleej Times, Ubie, Nuffield Health, Experience Life, Fox 26 and the Calm blog. Each gives 5 to 10 tips, and most are about doomscrolling in general, with only one or two tips about night. The usual advice is prevention: charge the phone outside the bedroom, set a digital sunset 30 to 60 minutes before bed, silence alerts, schedule news windows, mute accounts, and swap scrolling for reading. Citations are few. Blue-light claims are stated with no sense of how big the effect is. Calm offers 'a few deep breaths' and a 5-4-3-2-1 exercise, with no counts. None of them helps someone who is already in bed and wired, and several recommend app blockers or hard cutoffs.",
+  "gaps": [
+    "No current result gives a mid-scroll, in-bed off-ramp with exact breath counts, timings, what it should feel like, and common mistakes.",
+    "The minutes-over-state framing ignores evidence that emotional investment and frequent checking predict poor sleep more than total screen time (Chin 2024, S5).",
+    "Blue light is overstated: the Chang 2015 effect was real but modest (about 10 minutes longer to fall asleep after about 4 hours of iPad reading over 5 nights, n=12).",
+    "Nobody is honest about what breathing does and does not do for sleep. It helps you feel calmer and lowers arousal, but objective sleep effects are inconclusive.",
+    "Few sources cited; the article can beat the SERP on evidence.",
+    "Brief gap: the He et al. 2020 phone-restriction RCT and the Kuula et al. 2020 slow-breathing PSG trial appear in the notes, but the exact URLs given there (pmc.ncbi.nlm.nih.gov/articles/PMC7010281 and PMC7198497) are not in the verified list. Only www.ncbi.nlm.nih.gov variants are verified. Both are left out of sources, so the writer must not cite them unless a verified URL is approved.",
+    "Exelmans 2017 (S6) figures come from a snippet. Do not state the sample's age range.",
+    "The free tool slugs for calm 4-6 breathing and the physiological sigh need to be confirmed from the site inventory.",
+    "The October and darker-evenings hook has no source. Use it only as voice."
+  ],
+  "outline": [
+    {
+      "h2": "What to do if you're doomscrolling at night right now",
+      "points": [
+        "Answer-first, 40-60 words: doomscrolling at night winds your body up, and you can take the edge off in about 60 seconds without leaving bed. Do a few slow rounds of breathing with a longer exhale (or 2-3 physiological sighs), then put the phone face down.",
+        "Open on the felt scene: you meant to check one thing, and now your jaw is tight, your heart is a little quick, and sleep feels further away.",
+        "Frame it as state over minutes: the problem is how the scroll leaves you feeling."
+      ]
+    },
+    {
+      "h2": "Why scrolling in bed leaves you wired instead of sleepy",
+      "points": [
+        "Negativity bias and threat-scanning: use the verbatim Tapert quote (S8).",
+        "Emotional investment and checking frequency predicted poor sleep more strongly than total screen time in 830 young adults. Pre-sleep cognitive arousal and social comparison helped explain the link (S5).",
+        "Three suggested routes are mental activation, a delayed bedtime and screen light (S13). The study is cross-sectional.",
+        "The 'one more' loop: going to bed is not the same as trying to sleep. The average gap was about 39 minutes, linked to media use (S6)."
+      ]
+    },
+    {
+      "h2": "Is it the blue light or the content keeping you awake?",
+      "points": [
+        "Chang 2015: 12 adults read on an iPad for about 4 hours on 5 evenings and took nearly 10 minutes longer to fall asleep. They also showed melatonin suppression and a delayed clock (S7). Present this as real but modest, with heavy exposure.",
+        "Content and arousal probably matter at least as much. Say plainly that this is an inference.",
+        "Night mode is fine, but it does not deal with the wired feeling."
+      ]
+    },
+    {
+      "h2": "The 60-second off-ramp: a breathing script to use in bed, phone in hand",
+      "points": [
+        "Option A, calm 4-6: inhale through the nose for 4 and exhale slowly for 6. Do 5-6 rounds, which is about 60 seconds.",
+        "Option B, physiological sigh: inhale through the nose, take a second short top-up sip, then do a long, slow exhale through the mouth. Do 2-3 sighs, with normal breaths in between (S1 protocol).",
+        "Then put the phone face down and let one more slow exhale be your ending ritual.",
+        "Why a longer exhale: slow breathing raises heart rate variability (S9, S10). In Balban's study, cyclic sighing gave the biggest mood benefit (S1).",
+        "No breath holds, which is why this script beats 4-7-8 or box breathing at bedtime.",
+        "Link the free calm 4-6 and physiological sigh tools."
+      ]
+    },
+    {
+      "h2": "What it should feel like, and the most common mistakes",
+      "points": [
+        "What it should feel like: the exhale lengthens, the shoulders drop, the jaw unclenches, and the urge for 'one more' loosens.",
+        "Mistakes: forcing big breaths, gulping air, chaining sighs quickly, holding the breath, and going straight back to the feed.",
+        "If you go back to the phone anyway, there's no guilt. Run the script again next time."
+      ]
+    },
+    {
+      "h2": "Does breathing help you fall asleep? What the evidence says",
+      "points": [
+        "2026 systematic review (9 studies, 457 participants): self-reported sleep improved with 28-30 days of pre-bed slow breathing, but objective sleep results were inconclusive (S4).",
+        "Balban: mood went up and respiratory rate came down, but there were no significant changes in HRV or sleep measures (S1).",
+        "Bottom line: breathing gets you off the arousal curve, but it is not a sleeping pill."
+      ]
+    },
+    {
+      "h2": "Why you keep scrolling when you're exhausted (revenge bedtime procrastination)",
+      "points": [
+        "Keep this short and use it as context only. Name the reclaiming of 'me time' after a long day.",
+        "Spain, 313 adults: problematic smartphone use affected sleep quality through bedtime procrastination (S11). Teen data supports the same picture (S12). Both studies are cross-sectional.",
+        "Mention that a dedicated explainer will come later."
+      ]
+    },
+    {
+      "h2": "Small evening setups that help without locking yourself out",
+      "points": [
+        "Put the charger across the room as friction, not a ban.",
+        "Mute news and social notifications after a set time.",
+        "Move emotionally charged apps off the home screen in the evening.",
+        "Make placing the phone face down your nightly ending ritual.",
+        "Pick calmer content late at night; this follows from the emotional-investment finding (S5).",
+        "DeRot gets at most one light mention here, as something that meets you mid-scroll and brings you back down. DeRot is pre-launch, coming soon to iOS."
+      ]
+    },
+    {
+      "h2": "When to talk to someone",
+      "points": [
+        "Stop if you feel lightheaded.",
+        "If a racing heart happens often, or comes with chest pain, breathlessness or fainting, see a doctor.",
+        "Persistent insomnia or anxiety is worth raising with a professional. If a reader may be in crisis, point to 988 in the US or local emergency services."
+      ]
+    }
+  ],
+  "questions": [
+    "Why does my heart race when I scroll at night?",
+    "Is it the blue light or the content that keeps me awake, and does night mode help?",
+    "How long before bed should I stop scrolling?",
+    "What should I do if I wake at 3am and want to grab my phone?",
+    "Does breathing actually help you fall asleep, and how long does it take?",
+    "Is the physiological sigh safe to do in bed?",
+    "Is it bad to scroll if I can't sleep anyway?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/9873947/",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.)",
+      "publisher": "Cell Reports Medicine / Stanford",
+      "year": "2023",
+      "key_findings": "Remote RCT with 108 people randomized, 5 min/day for 28 days. Breathwork raised positive affect more than mindfulness, and cyclic sighing was the only arm significantly better. Breathwork also reduced respiratory rate more. State anxiety fell in all groups. No significant change in HRV, resting HR or sleep. 10% reported negative experiences. People with heart disease, glaucoma, seizures or pregnancy were excluded."
+    },
+    {
+      "id": "S4",
+      "url": "https://qigonginstitute.org/abstract-print/20405",
+      "title": "Slow breathing techniques before bedtime and the effects on sleep: a systematic review (Eide, Hernes & Grønli)",
+      "publisher": "Sleep Medicine Reviews (abstract via Qigong Institute)",
+      "year": "2026",
+      "key_findings": "9 studies, 457 participants. Self-reported sleep improved in 7 studies using 28-30 day interventions. Objective sleep results were inconclusive. 6 studies showed HRV effects."
+    },
+    {
+      "id": "S5",
+      "url": "https://www.phillyvoice.com/social-media-sleep-disruption-emotional-engagement/",
+      "title": "Social media sleep disruption is driven by emotional engagement (Brian N. Chin)",
+      "publisher": "PhillyVoice",
+      "year": "2024",
+      "key_findings": "830 young adults. Frequent visits and emotional investment predicted poor sleep more strongly than total screen time. Pre-sleep cognitive arousal and social comparison helped explain the link."
+    },
+    {
+      "id": "S6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28271575/",
+      "title": "Bedtime, shuteye time and electronic media: sleep displacement is a two-step process (Exelmans & Van den Bulck)",
+      "publisher": "Journal of Sleep Research",
+      "year": "2017",
+      "key_findings": "338 adults. Average gap of about 39 min between going to bed and trying to sleep, linked to bedtime media use. Longer shuteye latency was associated with poor sleep. Figures come from the snippet only."
+    },
+    {
+      "id": "S7",
+      "url": "https://www.psu.edu/news/research/story/light-emitting-e-readers-detrimentally-shift-circadian-clock",
+      "title": "Light-emitting e-readers detrimentally shift circadian clock",
+      "publisher": "Penn State",
+      "year": "2015",
+      "key_findings": "12 adults read on an iPad for about 4 h before bed on 5 evenings and took nearly 10 min longer to fall asleep. They also had less REM sleep, suppressed melatonin, a delayed clock and lower alertness next morning."
+    },
+    {
+      "id": "S8",
+      "url": "https://universityofcalifornia.edu/news/doomscrolling-again-expert-explains-why-were-wired-worry",
+      "title": "Doomscrolling again? Expert explains why we're wired to worry",
+      "publisher": "University of California",
+      "year": "n.d.",
+      "key_findings": "Negativity bias, with the verbatim Tapert quote: 'Bad news grabs and holds our attention more strongly than good news.' Alarming news engages threat detection."
+    },
+    {
+      "id": "S9",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/pdf",
+      "title": "How breath-control can change your life: a systematic review on psycho-physiological correlates of slow breathing (Zaccaro et al.)",
+      "publisher": "Frontiers in Human Neuroscience",
+      "year": "2018",
+      "key_findings": "15 studies included. Slow breathing (under 10 breaths/min) increased HRV and respiratory sinus arrhythmia. Verified from the snippet only."
+    },
+    {
+      "id": "S10",
+      "url": "https://ro.uow.edu.au/test2021/5166",
+      "title": "Effects of voluntary slow breathing on heart rate and heart rate variability: a systematic review and meta-analysis",
+      "publisher": "Neuroscience & Biobehavioral Reviews",
+      "year": "2022",
+      "key_findings": "223 studies. Voluntary slow breathing increased vagally mediated HRV. Year and authors not confirmed."
+    },
+    {
+      "id": "S11",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10604906/",
+      "title": "Relationship between problematic smartphone use, sleep quality and bedtime procrastination: a mediation analysis",
+      "publisher": "Behavioral Sciences",
+      "year": "2023",
+      "key_findings": "313 adults aged 18-60 in Spain. Problematic smartphone use affected sleep quality indirectly through bedtime procrastination. Cross-sectional."
+    },
+    {
+      "id": "S12",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11059092/",
+      "title": "The association between bedtime procrastination, sleep quality, and problematic smartphone use in adolescents",
+      "publisher": "PMC",
+      "year": "2024",
+      "key_findings": "245 adolescents aged 13-18. 90.6% used phones in bed. Bedtime procrastination mediated the link with sleep quality. Teens only, so use as supporting context."
+    },
+    {
+      "id": "S13",
+      "url": "https://blog.oup.com/2018/05/social-media-use-disturbed-sleep/",
+      "title": "Social media use and disturbed sleep",
+      "publisher": "Oxford University Press blog",
+      "year": "2018",
+      "key_findings": "1,763 US young adults. Suggests mental activation, delayed bedtime and screen light as the routes to poor sleep. Cross-sectional."
+    },
+    {
+      "id": "S14",
+      "url": "https://www.sleepfoundation.org/sleep-news/how-does-social-media-affect-sleep",
+      "title": "How does social media affect sleep?",
+      "publisher": "Sleep Foundation",
+      "year": "2023",
+      "key_findings": "Commercial survey of 1,250 US adults. Self-reported 3.5 h of social media before bed. Weak evidence; use sparingly and label it as a survey."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "In a study of 830 young adults, frequent checking and emotional investment in social media predicted poor sleep more strongly than total screen time. Pre-sleep cognitive arousal and social comparison helped explain the link.",
+      "source_id": "S5"
+    },
+    {
+      "fact": "Susan Tapert (UC San Diego): 'Bad news grabs and holds our attention more strongly than good news.'",
+      "source_id": "S8"
+    },
+    {
+      "fact": "Among 338 adults, the average gap between going to bed and trying to sleep was about 39 minutes, linked to bedtime media use.",
+      "source_id": "S6"
+    },
+    {
+      "fact": "12 adults who read on an iPad for about 4 hours before bed on 5 evenings took nearly 10 minutes longer to fall asleep and showed suppressed melatonin compared with reading a printed book.",
+      "source_id": "S7"
+    },
+    {
+      "fact": "In a 108-person remote RCT, 5 minutes a day of cyclic sighing for 28 days raised positive mood more than mindfulness meditation, but HRV and sleep measures did not change significantly.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "A 2026 systematic review of 9 studies (457 participants) found self-reported sleep improved with 28-30 days of pre-bed slow breathing, but objective sleep effects were inconclusive.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "Slow breathing under 10 breaths per minute is associated with increased heart rate variability.",
+      "source_id": "S9"
+    },
+    {
+      "fact": "A meta-analysis of 223 studies found voluntary slow breathing increases vagally mediated HRV.",
+      "source_id": "S10"
+    },
+    {
+      "fact": "In 313 Spanish adults, problematic smartphone use was linked to worse sleep quality indirectly, through bedtime procrastination.",
+      "source_id": "S11"
+    },
+    {
+      "fact": "Among 245 adolescents, 90.6% used their phones in bed.",
+      "source_id": "S12"
+    }
+  ],
+  "safety_notes": [
+    "Stop and return to normal breathing if you feel dizzy, tingly or lightheaded. Don't force big breaths, gulp air or chain sighs quickly.",
+    "The bedtime script has no breath holds. Calm 4-6 and the physiological sigh are a better fit at bedtime than 4-7-8 or box breathing.",
+    "People with heart or lung conditions, a history of fainting or panic, or who are pregnant should keep it gentle and check with a clinician. Balban excluded several of these groups, and 10% of participants reported negative experiences.",
+    "If a racing heart happens often, or comes with chest pain, shortness of breath or fainting, see a doctor. This is general guidance with no source, so don't cite it.",
+    "Breathing can help you feel calmer but does not treat insomnia or anxiety. Persistent problems are worth raising with a GP or mental health professional.",
+    "If a reader may be in crisis, point to local emergency services or 988 in the US.",
+    "Most doomscrolling studies are cross-sectional, so present them as associations, not causes."
+  ],
+  "word_count_target": 1800,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: \"Doomscrolling at night\" (how-to)\n\nI used all 10 searches and fetched the key papers. Search turned up no Reddit threads, so the forum-style questions below come from People Also Ask–type coverage in news and clinic pages. Two sources (Zaccaro 2018 and the slow-breathing meta-analysis) are only verified from search snippets because their pages wouldn't load. They're marked below.\n\nThe main thing for the writer: **no study tests a 60-second breathing dose for sleep.** Present the off-ramp as a way to feel calmer and break the loop. Don't present it as a proven way to fall asleep.\n\n---\n\n## SERP ANALYSIS\n\n**Who ranks:** Yale New Haven Health, Apartment Therapy (\"I asked a therapist…\"), Khaleej Times, Ubie Doctor's Note, Nuffield Health, Experience Life, Fox 26 Houston and the Calm blog. Almost all are listicles with 5–10 tips. Most cover doomscrolling in general, and night time gets one or two tips.\n\n**Common advice:**\n- Charge the phone outside the bedroom and use a real alarm clock.\n- Set a \"digital sunset\" 30–60 minutes before bed.\n- Silence news alerts.\n- Schedule news windows (for example 15–20 minutes morning and evening).\n- Mute upsetting accounts.\n- Replace scrolling with reading, journaling or a bath.\n- Name it out loud (\"This is doomscrolling\").\n- Calm suggests a 5-4-3-2-1 grounding exercise and \"a few deep breaths.\"\n\n**What they do well:** Explain negativity bias and threat-scanning in plain terms, and offer simple environmental friction. Ubie and Khaleej Times say doomscrolling means \"starting the sleep process from a heightened state of alertness.\"\n\n**What they miss or get wrong:**\n- **Few or no citations.** The Calm article cites no studies at all. Several pages state that blue light suppresses melatonin without saying how small or limited that evidence is.\n- **Nothing for the moment you're actually in.** Every tip is prevention (\"don't bring the phone to bed\"). None helps the person already in bed, 30 minutes in, with a quick heart and a tight jaw.\n- **No breathing instructions.** No counts, no timings, no description of how it should feel, no common mistakes.\n- **Minutes over state.** Advice is framed around time limits, while emerging evidence says emotional investment and frequent checking predict poor sleep more than total screen time does.\n- **Blocking language.** Calm recommends \"app blockers.\" Experience Life and others recommend hard cutoffs, which is the framing our reader dislikes.\n- **Racing heart explained loosely.** It's put down to cortisol and \"dopamine\" without sources, and the pages don't say when a racing heart deserves a doctor's visit.\n\n## GAPS AND ANGLE\n\n1. **State over minutes, with evidence.** A 2024 study of 830 young adults (Chin and colleagues, via PhillyVoice) found that emotional investment and checking frequency predicted poor sleep more strongly than total screen time. Pre-sleep cognitive arousal and social comparison helped explain the link. This is our strongest support for the angle.\n2. **The mid-scroll off-ramp nobody else gives.** Give a 60-second script for use in bed with the phone still in hand:\n   - 3–5 rounds of calm 4-6 breathing, or 2–3 physiological sighs\n   - then put the phone face down\n   - describe how it feels: exhale lengthening, shoulders dropping, jaw unclenching\n   - list the mistakes: forcing it, holding the breath, gulping air, going straight back to the feed\n3. **Honest calibration on light.** The well-known Chang 2015 study used 12 adults reading on an iPad for about 4 hours a night for 5 nights. They took nearly 10 minutes longer to fall asleep. That is real but modest, and content and arousal probably matter at least as much. Say so plainly.\n4. **Honest calibration on breathing and sleep.**\n   - A 2026 systematic review (9 studies, 457 participants) found self-reported sleep improved with 28–30 days of pre-bed slow breathing. Objective sleep results were inconclusive.\n   - In Kuula 2020, 30 minutes at 5 breaths per minute raised HRV for at least 30 minutes but did not change sleep onset latency.\n   - Framing for the article: breathing helps you get off the arousal curve and feel calmer. It is not a sleeping pill.\n5. **Small setups instead of lockouts.** He et al. 2020 is the only RCT found here. It tested stopping phone use 30 minutes before bed and showed improvements, but it was a small pilot with motivated students. Other trials contradict it. Offer gentler options:\n   - put the charger across the room, but no ban\n   - mute news notifications after a set time\n   - set the phone face down as the \"ending ritual\"\n   - move emotionally charged apps off the home screen in the evening\n6. **Revenge bedtime procrastination as a short context section.** Two mediation studies (adults in Spain, n=313; adolescents in Turkey, n=245) found that problematic smartphone use relates to sleep quality *through* bedtime procrastination. Keep it brief, in line with the plan.\n7. **Timeliness.** The October and earlier-darkness hook has no source. Keep it as voice, not as a claim.\n\n## QUESTIONS (People Also Ask / follow-ups)\n\n- Why does my heart race when I scroll at night?\n- Why do I feel anxious after social media, even when nothing bad happened?\n- Is it the blue light or the content that keeps me awake? Does night mode help?\n- How long before bed should I stop scrolling?\n- Why do I keep scrolling when I'm exhausted? (revenge bedtime procrastination)\n- What should I do if I wake up at 3am and want to grab my phone?\n- Does breathing actually help you fall asleep, and how long does it take?\n- Is the physiological sigh safe to do in bed?\n- Can doomscrolling cause insomnia?\n- Is it bad to scroll if I can't sleep anyway?\n\n## SOURCES\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/9873947/ | Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.) | Cell Reports Medicine / Stanford | 2023 | Remote RCT. 108 randomized (30 cyclic sighing, 21 box, 33 cyclic hyperventilation, 24 mindfulness). 5 min/day for 28 days. Positive affect rose more with breathwork (+1.91, p<0.0001) than mindfulness (+1.22, p=0.06). Cyclic sighing was the only arm significantly better than mindfulness, and its benefit grew with adherence. Breathwork, driven by cyclic sighing, reduced respiratory rate more than mindfulness (p<0.05). State anxiety fell in all groups, with no difference between groups. No significant change in HRV, resting HR or sleep measures. Cyclic sighing protocol: a slow nasal inhale, a second shorter inhale to fill the lungs, then a slow full exhale. Exclusions included heart disease, glaucoma, seizures and pregnancy. 10% reported negative experiences in the debrief. Exploratory, retrospectively registered. Huberman was a WHOOP advisor.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC7010281 | Effect of restricting bedtime mobile phone use on sleep, arousal, mood, and working memory: a randomized pilot trial (He et al.) | PLoS One | 2020 | 38 university students (mean age about 21) with poor sleep who used phones in bed for 30+ minutes. Intervention: no phone 30 min before bed for 4 weeks. Sleep latency 30.98 to 18.38 min (control 29.32 to 26.54). Sleep duration 6.20 to 6.56 h. PSQI 10.05 to 5.63. Pre-sleep arousal: somatic 14.58 to 10.79, cognitive 23.32 to 16.37 (both p<0.05). Positive affect up. Limitations: self-report, motivated volunteers, small pilot, contradictory prior RCTs.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC7198497 | The effects of presleep slow breathing and music listening on polysomnographic sleep measures: a pilot trial (Kuula et al.) | Scientific Reports | 2020 | 20 young adults (mean age 24.5), crossover with in-home PSG. 5 breaths/min for 30 min about 1 h before bed. HRV rose immediately, heart rate fell, and HRV stayed elevated for at least 30 min. No effect on sleep onset latency or basic sleep architecture; higher N3 delta power (p=0.036). Exploratory, no correction for multiple comparisons.\n\nhttps://qigonginstitute.org/abstract-print/20405 | Slow breathing techniques before bedtime and the effects on sleep: a systematic review (Eide, Hernes & Grønli) | Sleep Medicine Reviews 87:102284 | 2026 | 9 studies, 457 participants. Self-reported sleep duration and quality improved in 7 studies using 28–30 day interventions. Objective sleep (2 actigraphy, 3 PSG, single-day interventions) was inconclusive. 6 studies showed HRV effects. Authors call for more high-quality, longer studies. *Note: this is a secondary abstract host. Cite the journal DOI if the brief allows; otherwise this URL.*\n\nhttps://www.phillyvoice.com/social-media-sleep-disruption-emotional-engagement/ | Social media sleep disruption is driven by emotional engagement (Brian N. Chin, Trinity College) | PhillyVoice (researcher-written summary) | 2024 | 830 young adults. Frequent visits and emotional investment predicted poor sleep more strongly than total screen time. Pre-sleep cognitive arousal and social comparison helped explain the link. Gives no effect sizes. The original paper is in Behavioral Sciences 14(9):794, but that DOI was not in my results.\n\nhttps://pubmed.ncbi.nlm.nih.gov/28271575/ | Bedtime, shuteye time and electronic media: sleep displacement is a two-step process (Exelmans & Van den Bulck) | Journal of Sleep Research | 2017 | 338 adults. Average gap of about 39 min between going to bed and trying to sleep, linked to bedtime media use. Longer \"shuteye latency\" was associated with higher odds of poor sleep. *The page wouldn't load, so these figures are from the snippet. Verify the age range: the snippet said 18–25, and the writer should not state it without checking.*\n\nhttps://www.psu.edu/news/research/story/light-emitting-e-readers-detrimentally-shift-circadian-clock | Light-emitting e-readers detrimentally shift circadian clock (on Chang et al., PNAS 2015) | Penn State | 2015 | 12 healthy adults read on an iPad or a printed book for about 4 h before bed for 5 evenings. With the iPad they took nearly 10 min longer to fall asleep, had less REM sleep, suppressed melatonin and a delayed clock, and were less alert next morning. Small lab sample with long exposure. Also listed at https://pure.psu.edu/en/publications/evening-use-of-light-emitting-ereaders-negatively-affects-sleep-c/\n\nhttps://universityofcalifornia.edu/news/doomscrolling-again-expert-explains-why-were-wired-worry | Doomscrolling again? Expert explains why we're wired to worry (Susan Tapert, UC San Diego) | University of California | n.d. (recent) | Negativity bias. Tapert says, \"Bad news grabs and holds our attention more strongly than good news\" (verbatim, so quotable). Alarming news engages threat-detection systems. After the 2013 Boston Marathon bombing, people with 6+ h/day of related media were 9 times more likely to report high acute stress. Advice includes phone-free times in bed.\n\nhttps://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/pdf | How breath-control can change your life: a systematic review on psycho-physiological correlates of slow breathing (Zaccaro et al.) | Frontiers in Human Neuroscience | 2018 | 15 of 2,461 screened articles included. Slow breathing (under 10 breaths/min) increased HRV and respiratory sinus arrhythmia, with central nervous system changes. *Verified only from the search snippet; the full text wouldn't load.*\n\nhttps://ro.uow.edu.au/test2021/5166 | Effects of voluntary slow breathing on heart rate and heart rate variability: a systematic review and meta-analysis | Neuroscience & Biobehavioral Reviews | about 2022 | 223 studies included. Voluntary slow breathing increased vagally mediated HRV. *Authors and year not confirmed (likely Laborde et al. 2022). From the snippet only; the page returned 403.*\n\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC10604906/ | Relationship between problematic smartphone use, sleep quality and bedtime procrastination: a mediation analysis | Behavioral Sciences | 2023 | Online survey of 313 adults aged 18–60 in Spain. Problematic smartphone use affected sleep quality indirectly through bedtime procrastination, with no direct effect. Cross-sectional.\n\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC11059092/ | The association between bedtime procrastination, sleep quality, and problematic smartphone use in adolescents | PMC | 2024 | 245 adolescents aged 13–18. 90.6% used phones in bed, averaging 2.3 h/day. Bedtime procrastination mediated the link between problematic use and sleep quality. Cross-sectional. *The sample is teens, so use it only as supporting context.*\n\nhttps://www.sleepfoundation.org/sleep-news/how-does-social-media-affect-sleep | How does social media affect sleep? | Sleep Foundation | 2023 | Commercial Pollfish survey of 1,250 US adults (Feb 2023). Self-reported 3.5 h of social media before bed, 74.7% of daily use. Also cites an AASM finding that 80% of US adults report losing sleep to social media (93% of ages 18–25). *Weak evidence. Use sparingly, if at all, and label it as a survey.*\n\nhttps://blog.oup.com/2018/05/social-media-use-disturbed-sleep/ | Social media use and disturbed sleep | Oxford University Press blog | 2018 | US study of 1,763 young adults. Suggests three routes from bedtime social media to poor sleep: mental activation, delayed bedtime and screen light. Cross-sectional. *Optional.*\n\n## SAFETY\n\n- **Lightheadedness:** stop and go back to normal breathing if you feel dizzy, tingly or lightheaded. Don't force big breaths, gulp air or chain sighs rapidly. 2–3 sighs or a few slow rounds is plenty.\n- **No breath holds** in the bedtime script. Calm 4-6 and the physiological sigh have none, which makes them a better fit here than 4-7-8 or box breathing.\n- **Who should be careful:** Balban et al. excluded people with heart disease, glaucoma, seizures, pregnancy and serious psychiatric conditions. Readers with heart or lung conditions, a history of fainting or panic, or who are pregnant should keep it gentle and check with a clinician. 10% of participants reported negative experiences with the exercises.\n- **Racing heart:** an occasional fast heart after upsetting content is common. If it happens often, or comes with chest pain, shortness of breath or fainting, see a doctor. (This is general medical guidance with no source in the brief, so keep it as a plain safety note, not a sourced claim.)\n- **Persistent problems:** ongoing insomnia, anxiety or distress is worth raising with a GP or mental health professional. Breathing can help you feel calmer but does not treat insomnia or anxiety. The 2026 review found objective sleep effects inconclusive.\n- **Crisis line:** if a reader may be in crisis, point to local emergency services or 988 in the US.\n- **No overclaiming:**\n  - Balban found no HRV or sleep changes.\n  - Kuula found no change in sleep onset.\n  - The He 2020 phone-restriction trial is a small pilot with contradictory RCTs alongside it.\n  - Most doomscrolling studies are cross-sectional, so they show associations only.\n\n**Writer notes:** Link the free calm 4-6 and physiological sigh tools using the exact paths from the site inventory (they're under /tools/, but I don't have the slugs). Keep revenge bedtime procrastination to one short section."
+}

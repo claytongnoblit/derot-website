@@ -1,0 +1,22 @@
+{
+  "kind": "promo",
+  "slug": "promo-w2-tue-box",
+  "phase": "prelaunch",
+  "pillar": "reset",
+  "title": "Box breathing, for when your head is buzzing:",
+  "url": "https://derot.org/tools/box-breathing-timer/",
+  "approved": true,
+  "copy": {
+    "threads_text": "Box breathing, for when your head is buzzing:\n\nIn for 4. Hold for 4. Out for 4. Hold for 4.\n\nFour rounds is about a minute. If the holds feel like too much, shorten them to 2. There's a free timer here:\n{url}"
+  },
+  "images": [],
+  "threads_images": [],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-10-20T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

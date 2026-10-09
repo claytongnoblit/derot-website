@@ -1,0 +1,528 @@
+# DeRot promotional posts for Threads and Instagram (see seo/SOCIAL.md, "Promo plan").
+#
+# Pre-launch: four weeks from `start`. Threads Mon-Fri, Instagram Tue and Sat,
+# on top of the automatic blog shares (Mon/Wed/Fri). Pillars rotate by weekday:
+#   Mon feeling (name the wired-after-scroll state)   Tue reset (a 60-second technique)
+#   Wed point of view (regulate, don't restrict)      Thu product (how DeRot works)
+#   Fri building / conversation
+# Launch: held until `python -m derot_seo social launch --date YYYY-MM-DD`, which
+# needs site.app_store_url in config.yaml. `day` counts from the launch date.
+#
+# Edit copy here, then run `python -m derot_seo social promo-build` and commit.
+# Posts that already went out are never touched. Copy rules are checked on build.
+
+start: 2026-10-12          # Monday of week 1
+cta_url: https://derot.org/#newsletter
+times:                     # UTC
+  threads: "21:00"         # 5pm ET (4pm after Nov 1)
+  instagram: "23:30"       # 7:30pm ET (6:30pm after Nov 1)
+
+prelaunch:
+
+# ---------------------------------------------------------------- week 1
+- id: w1-mon-feeling
+  week: 1
+  day: mon
+  platform: threads
+  pillar: feeling
+  text: |-
+    You open the app to check one thing. Twenty minutes later your jaw is tight, your breath is shallow, and you feel wired for no reason you can name.
+
+    You didn't do anything wrong. The feed is built to hold your attention, and your body quietly pays for it.
+
+    We're building DeRot for that exact moment.
+
+- id: w1-tue-meet
+  week: 1
+  day: tue
+  platform: instagram
+  pillar: product
+  kicker: Meet DeRot
+  slides:
+    - { template: cover, headline: "Your apps wind you up. DeRot brings you back down." }
+    - { template: phone, screen: myapps, headline: "Pick the apps that wind you up", body: "Social, games, reading, or just the one feed that always gets you." }
+    - { template: phone, screen: shield, crop: 0.25, headline: "Mid-scroll, DeRot pauses you", body: "Not at the door. Right when the feed has wound you up." }
+    - { template: phone, screen: breathing-inhale, crop: 0.1, headline: "Breathe for about a minute", body: "Nothing to get right. Just follow the circle." }
+    - { template: phone, screen: reset-complete, crop: 0.1, headline: "Then back to your day, calmer", body: "Back to the feed, or not. Your call, just calmer." }
+  closing: prelaunch
+  caption: |-
+    Your apps wind you up. DeRot brings you back down.
+
+    Here's the idea. You pick the apps that tend to leave you wired. Mid-scroll, DeRot pauses the feed and walks you through about a minute of slow, easy breathing. Then you go back, or you don't. Either way, you're calmer.
+
+    No account. No guilt charts. You're never locked out of anything.
+
+    Coming soon to iPhone. Join the launch list: link in bio.
+  hashtags: [digitalwellbeing, breathwork, mindfultech, calmreset]
+
+- id: w1-tue-reset
+  week: 1
+  day: tue
+  platform: threads
+  pillar: reset
+  text: |-
+    A 60-second reset you can do right now, mid-scroll:
+
+    Breathe in through your nose for 4.
+    Breathe out slowly for 6.
+    Repeat about six times.
+
+    The longer exhale is the whole trick. By the third round, check where your shoulders are.
+
+- id: w1-wed-pov
+  week: 1
+  day: wed
+  platform: threads
+  pillar: pov
+  text: |-
+    Most screen time apps treat you like you can't be trusted with your own phone. Walls, timers, guilt charts.
+
+    We think the problem was never how many minutes you spent. It's how you feel when you put the phone down.
+
+    Regulate, don't restrict.
+
+- id: w1-thu-how
+  week: 1
+  day: thu
+  platform: threads
+  pillar: product
+  images: { post: w1-tue-meet, slides: [3, 4, 5] }
+  text: |-
+    How DeRot works, in three steps:
+
+    1. Pick the apps that wind you up.
+    2. Mid-scroll, DeRot pauses you and opens a calming breath exercise.
+    3. You go back to the feed, or you don't. Your call, just calmer.
+
+    No account needed. Coming soon to iPhone.
+
+- id: w1-fri-blockers
+  week: 1
+  day: fri
+  platform: threads
+  pillar: building
+  text: |-
+    Genuine question for anyone who has tried an app blocker: what made you turn it off?
+
+    For a lot of people it's the feeling of being grounded by their own phone. That feeling is a big part of why DeRot pauses you instead of shutting your apps off.
+
+- id: w1-sat-statement
+  week: 1
+  day: sat
+  platform: instagram
+  pillar: pov
+  kicker: The part after
+  slides:
+    - { template: statement, headline: "Scroll all you want. Just don't leave wired.", body: "The minutes were never the problem. How you feel after is." }
+  caption: |-
+    Scroll all you want. Just don't leave wired.
+
+    Most advice about phones is about minutes: fewer opens, less time, stricter limits. But you've probably had ten minutes that left you rattled and an hour that left you fine.
+
+    We care about the part after. The tight jaw, the shallow breath, the buzz that follows you into whatever you do next. That's what DeRot is built for.
+
+    Coming soon to iPhone. Launch list: link in bio.
+  hashtags: [digitalwellbeing, mindfulscrolling, breathwork]
+
+# ---------------------------------------------------------------- week 2
+- id: w2-mon-signs
+  week: 2
+  day: mon
+  platform: threads
+  pillar: feeling
+  text: |-
+    Signs the scroll has gotten to you:
+
+    You're reading the same comment twice.
+    Your thumb is moving but nothing is going in.
+    Your breath has gone short and shallow.
+
+    None of that is a character flaw. It's a cue to come back down for a minute.
+
+- id: w2-tue-resets
+  week: 2
+  day: tue
+  platform: instagram
+  pillar: reset
+  kicker: Save this
+  slides:
+    - { template: cover, headline: "Three 60-second resets for three moments", hint: "Swipe for all three  →" }
+    - { template: point, headline: "Mid-scroll, any time", body: "Calm breathing: in for 4, out for 6. Repeat for about a minute. The long exhale does the work." }
+    - { template: point, headline: "When your head is buzzing", body: "Box breathing: in for 4, hold for 4, out for 4, hold for 4. Shorten the holds if they feel like too much." }
+    - { template: point, headline: "Winding down at night", body: "4-7-8: in for 4, hold for 7, out for 8. Start with four rounds. Skip the hold if you feel lightheaded." }
+  closing: prelaunch
+  caption: |-
+    Three resets, three moments. Save this one for later.
+
+    Calm breathing (in for 4, out for 6) is the everyday reset. It's DeRot's default because it's the easiest one to do without thinking.
+
+    Box breathing gives a busy mind something to count. 4-7-8 is slower and works well when you're trying to wind down at night.
+
+    There are free timers for all three at derot.org/tools. If any pattern makes you dizzy, stop and breathe normally.
+
+    DeRot brings these into the apps that wind you up. Coming soon to iPhone. Launch list: link in bio.
+  hashtags: [breathwork, breathingexercises, boxbreathing, calmreset]
+
+- id: w2-tue-box
+  week: 2
+  day: tue
+  platform: threads
+  pillar: reset
+  url: https://derot.org/tools/box-breathing-timer/
+  text: |-
+    Box breathing, for when your head is buzzing:
+
+    In for 4. Hold for 4. Out for 4. Hold for 4.
+
+    Four rounds is about a minute. If the holds feel like too much, shorten them to 2. There's a free timer here:
+    {url}
+
+- id: w2-wed-minutes
+  week: 2
+  day: wed
+  platform: threads
+  pillar: pov
+  text: |-
+    Hot take: "use your phone less" is the wrong goal.
+
+    You can spend an hour on your phone and feel fine. You can spend ten minutes and feel wrecked. The minutes were never the point. How you feel afterward is.
+
+- id: w2-thu-firmness
+  week: 2
+  day: thu
+  platform: threads
+  pillar: product
+  images: { post: w3-tue-firmness, slides: [2] }
+  text: |-
+    DeRot lets you choose how firm the pause is:
+
+    Stay the course: the reset finishes before the app opens.
+    Flexible: skip after 10 seconds if you want to.
+    Gentle reminder: a soft nudge, nothing required.
+
+    Some days you want a firm hand. Some days you just want a tap on the shoulder.
+
+- id: w2-fri-door
+  week: 2
+  day: fri
+  platform: threads
+  pillar: building
+  text: |-
+    A design rule we keep coming back to: DeRot never stands at the door.
+
+    Plenty of apps make you breathe at the door, before the feed even loads. We wait until you're already mid-scroll, because that's when you actually need it.
+
+- id: w2-sat-regulate
+  week: 2
+  day: sat
+  platform: instagram
+  pillar: pov
+  kicker: Our one rule
+  slides:
+    - { template: statement, headline: "Regulate, don't restrict.", body: "No lockouts. No guilt charts. No willpower required. Just a minute to come back down." }
+  caption: |-
+    Regulate, don't restrict.
+
+    That's the whole philosophy. Blockers and timers treat your phone like the enemy and you like someone who can't be trusted with it. That rarely feels good, and it rarely lasts.
+
+    DeRot does something smaller. When an app has wound you up, it pauses you for a calm reset, then gets out of the way.
+
+    Coming soon to iPhone. Link in bio for the launch list.
+  hashtags: [digitalwellbeing, mindfultech, breathwork]
+
+# ---------------------------------------------------------------- week 3
+- id: w3-mon-tricky
+  week: 3
+  day: mon
+  platform: threads
+  pillar: feeling
+  text: |-
+    The feed doesn't feel stressful while you're in it. That's the tricky part.
+
+    It's only when you look up that you notice the tight jaw, the shallow breath, the low buzz. By then you've been carrying it for a while.
+
+- id: w3-tue-firmness
+  week: 3
+  day: tue
+  platform: instagram
+  pillar: product
+  kicker: How DeRot works
+  slides:
+    - { template: cover, headline: "Choose how firmly DeRot holds you to the reset" }
+    - { template: phone, screen: firmness, headline: "Three levels of firm", body: "Pick the one that fits how you want to feel." }
+    - { template: point, headline: "Stay the course", body: "The reset finishes before the app opens. For the days you want a firm hand." }
+    - { template: point, headline: "Flexible", body: "Skip after 10 seconds if you need to. The pause alone is often enough." }
+    - { template: point, headline: "Gentle reminder", body: "A soft nudge with nothing required. Good if you're just getting started." }
+  closing: prelaunch
+  caption: |-
+    Not everyone wants the same amount of friction, and not every day is the same.
+
+    DeRot has three firmness levels. Stay the course means the calm reset finishes before you're back in the app. Flexible lets you skip after 10 seconds. Gentle reminder is a soft nudge with nothing required.
+
+    Whichever you pick, you're never locked out. A breath is always the way through.
+
+    Coming soon to iPhone. Join the launch list: link in bio.
+  hashtags: [digitalwellbeing, mindfultech, calmreset]
+
+- id: w3-tue-478
+  week: 3
+  day: tue
+  platform: threads
+  pillar: reset
+  url: https://derot.org/tools/4-7-8-breathing-timer/
+  text: |-
+    4-7-8 breathing, the one people reach for when winding down at night:
+
+    In for 4. Hold for 7. Out slowly for 8.
+
+    Start with four rounds. If the hold makes you lightheaded, skip it and just lengthen the exhale. Free timer:
+    {url}
+
+- id: w3-wed-smaller
+  week: 3
+  day: wed
+  platform: threads
+  pillar: pov
+  text: |-
+    You don't need to delete everything. You don't need a 30-day reset. You don't need more willpower.
+
+    You need a minute to come back down after the apps wind you up. That's a much smaller ask, and it's one you can actually keep.
+
+- id: w3-thu-privacy
+  week: 3
+  day: thu
+  platform: threads
+  pillar: product
+  text: |-
+    Things DeRot doesn't need from you:
+
+    An account.
+    Your email.
+    The names of the apps you pick. Apple hands DeRot private Screen Time tokens, and they stay on your phone.
+
+    A calm app shouldn't come with a side of worry.
+
+- id: w3-fri-which
+  week: 3
+  day: fri
+  platform: threads
+  pillar: building
+  text: |-
+    Which app leaves you the most wired after you close it?
+
+    Not judging, just curious. For a lot of us it isn't the obvious one.
+
+- id: w3-sat-signs
+  week: 3
+  day: sat
+  platform: instagram
+  pillar: feeling
+  kicker: Notice this
+  slides:
+    - { template: cover, headline: "Signs the scroll has gotten to you" }
+    - { template: point, headline: "You've read the same comment twice", body: "Your eyes are moving but nothing is going in. Attention is usually the first thing to go." }
+    - { template: point, headline: "Your jaw is doing something", body: "Clenched, pushed forward, or just tight. Unclench it now and notice the difference." }
+    - { template: point, headline: "Your breath has gone shallow", body: "Short breaths, high in the chest, without you noticing when it started." }
+    - { template: point, headline: "You feel wired, not informed", body: "That buzz isn't a character flaw. It's a cue to come back down for a minute." }
+  closing: prelaunch
+  caption: |-
+    None of these mean you did anything wrong. They're signals that the feed has wound you up.
+
+    The fix is small: one long, slow exhale, then a few more. About a minute is usually enough to feel the edge come off.
+
+    Which one do you notice first? Tell us below.
+
+    DeRot is coming soon to iPhone. Launch list: link in bio.
+  hashtags: [mindfulscrolling, digitalwellbeing, breathwork]
+
+# ---------------------------------------------------------------- week 4
+- id: w4-mon-bed
+  week: 4
+  day: mon
+  platform: threads
+  pillar: feeling
+  text: |-
+    Scrolling in bed and then wondering why you can't fall asleep is one of the most relatable things a person can do.
+
+    The content keeps your mind busy, and your body never gets the signal that the day is over. A long, slow exhale is one way to send it.
+
+- id: w4-tue-privacy
+  week: 4
+  day: tue
+  platform: instagram
+  pillar: product
+  kicker: Privacy
+  slides:
+    - { template: cover, headline: "What DeRot doesn't ask for" }
+    - { template: point, headline: "No account", body: "Open it and breathe. There's nothing to sign up for." }
+    - { template: phone, screen: myapps, headline: "Your app picks stay private", body: "Apple gives DeRot private Screen Time tokens for the apps you choose, and they stay on your phone." }
+    - { template: point, headline: "No guilt charts", body: "No screen time report waiting to make you feel bad. Just a calm reset when you need one." }
+  closing: prelaunch
+  caption: |-
+    A calm app shouldn't come with a side of worry about your data.
+
+    DeRot doesn't need an account. The apps you choose are handled by Apple as private Screen Time tokens that stay on your phone.
+
+    Less to think about, which is sort of the point.
+
+    Coming soon to iPhone. Join the launch list: link in bio.
+  hashtags: [digitalwellbeing, privacy, mindfultech]
+
+- id: w4-tue-sigh
+  week: 4
+  day: tue
+  platform: threads
+  pillar: reset
+  url: https://derot.org/tools/physiological-sigh/
+  text: |-
+    The physiological sigh: two inhales through the nose (a full one, then a short top-up), then one long exhale through the mouth.
+
+    One or two of these can take the edge off quickly. Guide here:
+    {url}
+
+- id: w4-wed-guilty
+  week: 4
+  day: wed
+  platform: threads
+  pillar: pov
+  text: |-
+    We'd rather you keep scrolling and feel okay than quit scrolling and feel guilty.
+
+    That's not a loophole. That's the whole point of DeRot: stay connected, feel calm.
+
+- id: w4-thu-notice
+  week: 4
+  day: thu
+  platform: threads
+  pillar: product
+  slides:
+    - { template: phone, screen: reset-complete, crop: 0.1, headline: "Nicely done.", body: "Notice how you feel now." }
+  text: |-
+    The last screen of every DeRot reset says: "Nicely done. Notice how you feel now."
+
+    That second line matters more than it looks. Noticing the shift is what makes the next reset easier to say yes to.
+
+- id: w4-fri-almost
+  week: 4
+  day: fri
+  platform: threads
+  pillar: building
+  images: { post: w4-sat-almost, slides: [1] }
+  text: |-
+    DeRot is almost here. It's a calm reset for the apps that wind you up: it pauses your scroll, walks you through about a minute of slow breathing, and sends you back calmer.
+
+    Coming soon to iPhone. Join the launch list and we'll tell you the day it's live:
+    {url}
+
+- id: w4-sat-almost
+  week: 4
+  day: sat
+  platform: instagram
+  pillar: building
+  kicker: Almost here
+  slides:
+    - { template: statement, headline: "A calm reset for the apps that wind you up.", body: "DeRot is coming soon to iPhone. Join the launch list at derot.org." }
+  caption: |-
+    Almost here.
+
+    DeRot is a calm reset for the apps that wind you up. It pauses your scroll, guides you through about a minute of slow breathing, and sends you back feeling more like yourself.
+
+    Join the launch list (link in bio) and we'll tell you the day it's live.
+  hashtags: [digitalwellbeing, breathwork, mindfultech]
+
+# Launch week. Released by `social launch --date`; {url} becomes the App Store link.
+launch:
+
+- id: launch-d0-carousel
+  day: 0
+  platform: instagram
+  kicker: Now on iPhone
+  slides:
+    - { template: cover, headline: "DeRot is here.", hint: "See how it works  →" }
+    - { template: phone, screen: shield, crop: 0.25, headline: "It meets you mid-scroll", body: "When a feed has wound you up, DeRot pauses it for a calm reset." }
+    - { template: phone, screen: breathing-exhale, crop: 0.1, headline: "About a minute of slow breathing", body: "Nothing to get right. Just follow the circle." }
+    - { template: phone, screen: reset-complete, crop: 0.1, headline: "Then you're on your way", body: "Back to the feed, or not. Either way, calmer." }
+  closing: launch
+  caption: |-
+    DeRot is here.
+
+    It's a calm reset for the apps that wind you up. Mid-scroll, DeRot pauses you, guides you through about a minute of slow breathing, and sends you back feeling more like yourself.
+
+    No account needed. You're never locked out of anything.
+
+    Download it today: link in bio.
+  hashtags: [digitalwellbeing, breathwork, mindfultech, calmreset]
+
+- id: launch-d0-threads
+  day: 0
+  platform: threads
+  images: { post: launch-d0-carousel, slides: [1, 2, 3, 4] }
+  text: |-
+    DeRot is live on the App Store.
+
+    It's a calm reset for the apps that wind you up. Mid-scroll, it pauses you, guides you through about a minute of slow breathing, and sends you back calmer. No account needed.
+
+    Regulate, don't restrict.
+    {url}
+
+- id: launch-d1-setup
+  day: 1
+  platform: threads
+  text: |-
+    Just downloaded DeRot? Setup is three steps:
+
+    1. Pick the apps that wind you up.
+    2. Choose how firm the pause is.
+    3. Keep scrolling. DeRot will meet you mid-scroll.
+
+    {url}
+
+- id: launch-d2-statement
+  day: 2
+  platform: instagram
+  kicker: Now on iPhone
+  slides:
+    - { template: statement, headline: "Your apps wind you up. DeRot brings you back down.", body: "Now on iPhone. Link in bio." }
+  caption: |-
+    Your apps wind you up. DeRot brings you back down.
+
+    One minute of slow breathing, right when you need it, inside the apps that tend to leave you wired.
+
+    Now on iPhone. Download: link in bio.
+  hashtags: [digitalwellbeing, breathwork, calmreset]
+
+- id: launch-d3-notice
+  day: 3
+  platform: threads
+  text: |-
+    After your first DeRot reset, the screen says: "Nicely done. Notice how you feel now."
+
+    We'd love to know what you noticed. Shoulders, jaw, breath, mood, anything. Reply and tell us.
+
+- id: launch-d5-setup
+  day: 5
+  platform: instagram
+  kicker: Get started
+  slides:
+    - { template: cover, headline: "Set up DeRot in three steps" }
+    - { template: phone, screen: myapps, headline: "1. Pick the apps that wind you up", body: "Choose apps or whole categories." }
+    - { template: phone, screen: firmness, headline: "2. Choose how firm the pause is", body: "Stay the course, Flexible, or Gentle reminder." }
+    - { template: phone, screen: shield, crop: 0.25, headline: "3. Keep scrolling", body: "DeRot meets you mid-scroll with a calm reset." }
+  closing: launch
+  caption: |-
+    Three steps and you're set.
+
+    Pick the apps (or whole categories) that wind you up. Choose how firm you want the pause to be. Then use your phone like normal: DeRot meets you mid-scroll and brings you back down.
+
+    Download DeRot: link in bio.
+  hashtags: [digitalwellbeing, mindfultech, breathwork]
+
+- id: launch-d5-patterns
+  day: 5
+  platform: threads
+  text: |-
+    Every DeRot reset uses a breathing pattern you choose: Calm (in for 4, out for 6), Box, or 4-7-8. Pro unlocks custom routines with your own counts.
+
+    Start with Calm. It's the default for a reason: the long exhale is the easiest way down.
+
+    {url}

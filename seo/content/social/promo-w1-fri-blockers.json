@@ -1,0 +1,22 @@
+{
+  "kind": "promo",
+  "slug": "promo-w1-fri-blockers",
+  "phase": "prelaunch",
+  "pillar": "building",
+  "title": "Genuine question for anyone who has tried an app blocker: what made you turn it off?",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "Genuine question for anyone who has tried an app blocker: what made you turn it off?\n\nFor a lot of people it's the feeling of being grounded by their own phone. That feeling is a big part of why DeRot pauses you instead of shutting your apps off."
+  },
+  "images": [],
+  "threads_images": [],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-10-16T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

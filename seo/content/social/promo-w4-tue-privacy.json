@@ -1,0 +1,53 @@
+{
+  "kind": "promo",
+  "slug": "promo-w4-tue-privacy",
+  "phase": "prelaunch",
+  "pillar": "product",
+  "title": "A calm app shouldn't come with a side of worry about your data.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "A calm app shouldn't come with a side of worry about your data.\n\nDeRot doesn't need an account. The apps you choose are handled by Apple as private Screen Time tokens that stay on your phone.\n\nLess to think about, which is sort of the point.\n\nComing soon to iPhone. Join the launch list: link in bio.",
+    "instagram_hashtags": [
+      "digitalwellbeing",
+      "privacy",
+      "mindfultech"
+    ]
+  },
+  "images": [
+    {
+      "path": "img/social/promo-w4-tue-privacy/slide-01.jpg",
+      "url": "https://derot.org/img/social/promo-w4-tue-privacy/slide-01.jpg",
+      "alt": "What DeRot doesn't ask for"
+    },
+    {
+      "path": "img/social/promo-w4-tue-privacy/slide-02.jpg",
+      "url": "https://derot.org/img/social/promo-w4-tue-privacy/slide-02.jpg",
+      "alt": "No account Open it and breathe. There's nothing to sign up for."
+    },
+    {
+      "path": "img/social/promo-w4-tue-privacy/slide-03.jpg",
+      "url": "https://derot.org/img/social/promo-w4-tue-privacy/slide-03.jpg",
+      "alt": "Your app picks stay private Apple gives DeRot private Screen Time tokens for the apps you choose, and they stay on your phone."
+    },
+    {
+      "path": "img/social/promo-w4-tue-privacy/slide-04.jpg",
+      "url": "https://derot.org/img/social/promo-w4-tue-privacy/slide-04.jpg",
+      "alt": "No guilt charts No screen time report waiting to make you feel bad. Just a calm reset when you need one."
+    },
+    {
+      "path": "img/social/promo-w4-tue-privacy/slide-05.jpg",
+      "url": "https://derot.org/img/social/promo-w4-tue-privacy/slide-05.jpg",
+      "alt": "Coming soon to iPhone. Join the launch list: link in bio. We'll tell you the day it's live. Regulate, don't restrict."
+    }
+  ],
+  "threads_images": null,
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-11-03T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

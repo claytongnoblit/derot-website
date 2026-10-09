@@ -1,0 +1,9 @@
+# Pinned so a scheduled run never breaks on an upstream release.
+anthropic==0.125.0
+google-auth==2.50.0
+Jinja2==3.1.6
+Markdown==3.9
+pillow==11.3.0
+pytest==8.4.2
+PyYAML==6.0.3
+requests==2.32.5

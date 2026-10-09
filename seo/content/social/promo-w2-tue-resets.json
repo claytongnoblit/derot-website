@@ -1,0 +1,54 @@
+{
+  "kind": "promo",
+  "slug": "promo-w2-tue-resets",
+  "phase": "prelaunch",
+  "pillar": "reset",
+  "title": "Three resets, three moments. Save this one for later.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "Three resets, three moments. Save this one for later.\n\nCalm breathing (in for 4, out for 6) is the everyday reset. It's DeRot's default because it's the easiest one to do without thinking.\n\nBox breathing gives a busy mind something to count. 4-7-8 is slower and works well when you're trying to wind down at night.\n\nThere are free timers for all three at derot.org/tools. If any pattern makes you dizzy, stop and breathe normally.\n\nDeRot brings these into the apps that wind you up. Coming soon to iPhone. Launch list: link in bio.",
+    "instagram_hashtags": [
+      "breathwork",
+      "breathingexercises",
+      "boxbreathing",
+      "calmreset"
+    ]
+  },
+  "images": [
+    {
+      "path": "img/social/promo-w2-tue-resets/slide-01.jpg",
+      "url": "https://derot.org/img/social/promo-w2-tue-resets/slide-01.jpg",
+      "alt": "Three 60-second resets for three moments"
+    },
+    {
+      "path": "img/social/promo-w2-tue-resets/slide-02.jpg",
+      "url": "https://derot.org/img/social/promo-w2-tue-resets/slide-02.jpg",
+      "alt": "Mid-scroll, any time Calm breathing: in for 4, out for 6. Repeat for about a minute. The long exhale does the work."
+    },
+    {
+      "path": "img/social/promo-w2-tue-resets/slide-03.jpg",
+      "url": "https://derot.org/img/social/promo-w2-tue-resets/slide-03.jpg",
+      "alt": "When your head is buzzing Box breathing: in for 4, hold for 4, out for 4, hold for 4. Shorten the holds if they feel like too much."
+    },
+    {
+      "path": "img/social/promo-w2-tue-resets/slide-04.jpg",
+      "url": "https://derot.org/img/social/promo-w2-tue-resets/slide-04.jpg",
+      "alt": "Winding down at night 4-7-8: in for 4, hold for 7, out for 8. Start with four rounds. Skip the hold if you feel lightheaded."
+    },
+    {
+      "path": "img/social/promo-w2-tue-resets/slide-05.jpg",
+      "url": "https://derot.org/img/social/promo-w2-tue-resets/slide-05.jpg",
+      "alt": "Coming soon to iPhone. Join the launch list: link in bio. We'll tell you the day it's live. Regulate, don't restrict."
+    }
+  ],
+  "threads_images": null,
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-10-20T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

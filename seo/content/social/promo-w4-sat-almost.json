@@ -1,0 +1,33 @@
+{
+  "kind": "promo",
+  "slug": "promo-w4-sat-almost",
+  "phase": "prelaunch",
+  "pillar": "building",
+  "title": "Almost here.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "Almost here.\n\nDeRot is a calm reset for the apps that wind you up. It pauses your scroll, guides you through about a minute of slow breathing, and sends you back feeling more like yourself.\n\nJoin the launch list (link in bio) and we'll tell you the day it's live.",
+    "instagram_hashtags": [
+      "digitalwellbeing",
+      "breathwork",
+      "mindfultech"
+    ]
+  },
+  "images": [
+    {
+      "path": "img/social/promo-w4-sat-almost/slide-01.jpg",
+      "url": "https://derot.org/img/social/promo-w4-sat-almost/slide-01.jpg",
+      "alt": "A calm reset for the apps that wind you up. DeRot is coming soon to iPhone. Join the launch list at derot.org."
+    }
+  ],
+  "threads_images": null,
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-11-07T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

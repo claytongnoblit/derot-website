@@ -1,0 +1,22 @@
+{
+  "kind": "promo",
+  "slug": "promo-w3-mon-tricky",
+  "phase": "prelaunch",
+  "pillar": "feeling",
+  "title": "The feed doesn't feel stressful while you're in it. That's the tricky part.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "The feed doesn't feel stressful while you're in it. That's the tricky part.\n\nIt's only when you look up that you notice the tight jaw, the shallow breath, the low buzz. By then you've been carrying it for a while."
+  },
+  "images": [],
+  "threads_images": [],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-10-26T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

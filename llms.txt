@@ -1,0 +1,20 @@
+# DeRot
+
+> DeRot is an iOS app that pauses your social media scroll mid-session and walks you through a 60-second calming breath exercise (Calm 4-6, box breathing, 4-7-8, or custom), so you put the phone down feeling settled instead of wired. Tagline: Regulate, don't restrict. derot.org publishes evidence-based guides on breathwork, nervous system regulation, and calmer phone use, plus free browser breathing tools.
+
+Key facts: made by NinetyFourVentures LLC; no account required; works on-device; DeRot never locks you out of apps, it interrupts mid-scroll with a breathable pause. Contact: support@derot.org.
+
+## Breathing tools
+- [4-7-8 Breathing Timer: Free Guided Exercise](https://derot.org/tools/4-7-8-breathing-timer/): Free 4-7-8 breathing timer. Breathe in for 4, hold for 7, breathe out for 8, with a gentle visual guide and optional sound cues. Great for winding down.
+- [Box Breathing Timer: Free 4-4-4-4 Guided Exercise](https://derot.org/tools/box-breathing-timer/): Free box breathing timer. Breathe in 4, hold 4, out 4, hold 4 with a calm visual guide, optional soft sound cues, and 1 to 5 minute sessions.
+- [Calm Breathing 4-6: 6 Breaths Per Minute Timer](https://derot.org/tools/calm-breathing-4-6/): Breathe in for 4, out for 6: about six breaths a minute, the pace known as resonance or coherent breathing. A free guided timer from DeRot.
+- [Custom Breathing Timer: Set Your Own Pattern](https://derot.org/tools/custom-breathing-timer/): Free custom breathing timer. Set your own inhale, hold and exhale from 1 to 12 seconds, pick a session length, and follow a calm visual guide.
+- [Free Breathing Exercises Online: Guided Timers](https://derot.org/tools/): Free guided breathing exercises in your browser: box breathing, 4-7-8, calm 4-6 breathing, the physiological sigh, and a custom breathing timer.
+- [Physiological Sigh Timer: Cyclic Sighing Guide](https://derot.org/tools/physiological-sigh/): Free guided physiological sigh: a double inhale through the nose and a long exhale. Practice cyclic sighing with a calm visual timer.
+
+## Doomscrolling and scrolling stress
+- [Doomscrolling at Night: Why You're Wired and a 60-Second Way Down](https://derot.org/blog/doomscrolling-at-night/): Doomscrolling at night leaves you wired, not sleepy. Here's why, plus a 60-second breathing script to use in bed with the phone still in hand.
+
+## About
+- [About DeRot and editorial standards](https://derot.org/about/)
+- [Full text of all articles](https://derot.org/llms-full.txt)

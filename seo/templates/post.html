@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+{% block main %}
+  <article class="post">
+    <header class="post-head">
+      <nav class="crumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a><span aria-hidden="true">/</span><a href="/blog/">Blog</a><span aria-hidden="true">/</span><a href="/blog/topics/{{ post.cluster }}/">{{ cluster_name }}</a>
+      </nav>
+      <h1>{{ post.title }}</h1>
+      <p class="dek">{{ post.dek }}</p>
+      <p class="byline">
+        By <a href="/about/" rel="author">DeRot Editorial</a>
+        <span aria-hidden="true">·</span>
+        {% if post.date_modified and post.date_modified != post.date_published %}Updated <time datetime="{{ post.date_modified }}">{{ modified_human }}</time>{% else %}<time datetime="{{ post.date_published }}">{{ published_human }}</time>{% endif %}
+        <span aria-hidden="true">·</span>
+        {{ reading_minutes }} min read
+      </p>
+    </header>
+
+    <aside class="takeaways glass" aria-label="Key takeaways">
+      <h2>Key takeaways</h2>
+      <ul>{% for t in post.key_takeaways %}<li>{{ t }}</li>{% endfor %}</ul>
+    </aside>
+
+    {% if toc|length >= 4 %}
+    <nav class="toc" aria-label="In this article">
+      <p class="toc-label">In this article</p>
+      <ol>{% for item in toc %}<li><a href="#{{ item.id }}">{{ item.name }}</a></li>{% endfor %}</ol>
+    </nav>
+    {% endif %}
+
+    <div class="prose">
+{{ body_html | safe }}
+    </div>
+
+    <aside class="try-it glass">
+      <p class="eyebrow">Try it now</p>
+      <p class="try-title">{{ tool.label }}</p>
+      <p>A free guided timer in your browser. One minute is enough to feel the shift.</p>
+      <a class="btn-primary" href="{{ tool.url }}">Start breathing</a>
+    </aside>
+
+    <section class="faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently asked questions</h2>
+      {% for f in post.faqs %}
+      <details{% if loop.first %} open{% endif %}>
+        <summary>{{ f.question }}</summary>
+        <p>{{ f.answer }}</p>
+      </details>
+      {% endfor %}
+    </section>
+
+    <section class="sources" aria-labelledby="sources-heading">
+      <h2 id="sources-heading">Sources</h2>
+      <ol>
+        {% for s in post.sources %}<li><a href="{{ s.url }}" rel="noopener">{{ s.title }}</a>{% if s.publisher %}. {{ s.publisher }}{% endif %}{% if s.year %}, {{ s.year }}{% endif %}.</li>
+        {% endfor %}
+      </ol>
+    </section>
+
+    <aside class="derot-box glass">
+      <p class="eyebrow">DeRot</p>
+      <p class="derot-title">Your apps wind you up. DeRot brings you back down.</p>
+      <p>DeRot pauses your scroll mid-session and walks you through a 60-second calm reset, right inside the apps that leave you wired. No willpower needed, and you are never locked out.</p>
+      {% if app_store_url %}<a class="btn-primary" href="{{ app_store_url }}">Download on the App Store</a>
+      {% else %}<a class="btn-secondary" href="#newsletter">Get notified at launch</a>{% endif %}
+    </aside>
+
+    <p class="disclaimer">This article is for general education and is not medical advice. Breathing exercises are safe for most people, but stop if you feel dizzy or unwell. If you have a heart or lung condition, are pregnant, or live with anxiety or panic that disrupts your life, talk with a qualified professional. If you are in crisis, contact local emergency services or call or text 988 in the US. <a href="/about/#editorial-standards">How we research and write.</a></p>
+  </article>
+
+  {% if related %}
+  <section class="related" aria-labelledby="related-heading">
+    <h2 id="related-heading" class="section-title">Keep reading</h2>
+    <div class="card-grid">
+      {% for r in related %}
+      <a class="post-card glass" href="/blog/{{ r.slug }}/">
+        <span class="card-topic">{{ r.cluster_name }}</span>
+        <span class="card-title">{{ r.title }}</span>
+        <span class="card-dek">{{ r.dek }}</span>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+{% include "_newsletter.html" %}
+{% endblock %}

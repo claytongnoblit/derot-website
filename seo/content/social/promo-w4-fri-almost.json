@@ -1,0 +1,34 @@
+{
+  "kind": "promo",
+  "slug": "promo-w4-fri-almost",
+  "phase": "prelaunch",
+  "pillar": "building",
+  "title": "DeRot is almost here. It's a calm reset for the apps that wind you up: it pauses your scro",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "DeRot is almost here. It's a calm reset for the apps that wind you up: it pauses your scroll, walks you through about a minute of slow breathing, and sends you back calmer.\n\nComing soon to iPhone. Join the launch list and we'll tell you the day it's live:\n{url}"
+  },
+  "images": [
+    {
+      "path": "img/social/promo-w4-sat-almost/slide-01.jpg",
+      "url": "https://derot.org/img/social/promo-w4-sat-almost/slide-01.jpg",
+      "alt": "A calm reset for the apps that wind you up. DeRot is coming soon to iPhone. Join the launch list at derot.org."
+    }
+  ],
+  "threads_images": [
+    {
+      "path": "img/social/promo-w4-sat-almost/slide-01.jpg",
+      "url": "https://derot.org/img/social/promo-w4-sat-almost/slide-01.jpg",
+      "alt": "A calm reset for the apps that wind you up. DeRot is coming soon to iPhone. Join the launch list at derot.org."
+    }
+  ],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-11-06T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

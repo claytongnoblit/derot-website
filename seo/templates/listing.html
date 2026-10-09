@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block main %}
+  <header class="listing-head">
+    {% if crumbs %}<nav class="crumbs" aria-label="Breadcrumb">{% for c in crumbs %}<a href="{{ c.url }}">{{ c.name }}</a><span aria-hidden="true">/</span>{% endfor %}<span>{{ heading }}</span></nav>{% endif %}
+    <p class="eyebrow">{{ eyebrow }}</p>
+    <h1>{{ heading }}</h1>
+    <p class="dek">{{ intro }}</p>
+  </header>
+
+  {% if topics %}
+  <nav class="topic-chips" aria-label="Topics">
+    {% for t in topics %}<a class="chip{% if t.active %} active{% endif %}" href="/blog/topics/{{ t.id }}/">{{ t.name }} <span>{{ t.count }}</span></a>{% endfor %}
+  </nav>
+  {% endif %}
+
+  {% if featured %}
+  <section class="featured">
+    <a class="post-card glass featured-card" href="/blog/{{ featured.slug }}/">
+      <span class="card-topic">{{ featured.label }}</span>
+      <span class="card-title">{{ featured.title }}</span>
+      <span class="card-dek">{{ featured.dek }}</span>
+    </a>
+  </section>
+  {% endif %}
+
+  <section class="listing">
+    {% if posts %}
+    <div class="card-grid">
+      {% for p in posts %}
+      <a class="post-card glass" href="/blog/{{ p.slug }}/">
+        <span class="card-topic">{{ p.cluster_name }}</span>
+        <span class="card-title">{{ p.title }}</span>
+        <span class="card-dek">{{ p.dek }}</span>
+        <span class="card-meta"><time datetime="{{ p.date_published }}">{{ p.date_human }}</time> · {{ p.reading_minutes }} min read</span>
+      </a>
+      {% endfor %}
+    </div>
+    {% else %}
+    <p class="empty">The first articles are on their way. In the meantime, try a <a href="/tools/">free breathing exercise</a>.</p>
+    {% endif %}
+  </section>
+
+  <section class="tools-strip">
+    <h2 class="section-title">Free breathing tools</h2>
+    <div class="card-grid">
+      {% for t in tools %}<a class="post-card glass" href="{{ t.url }}"><span class="card-title">{{ t.title }}</span></a>{% endfor %}
+    </div>
+  </section>
+
+{% include "_newsletter.html" %}
+{% endblock %}

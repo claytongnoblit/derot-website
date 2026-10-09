@@ -1,0 +1,34 @@
+{
+  "kind": "promo",
+  "slug": "promo-w2-thu-firmness",
+  "phase": "prelaunch",
+  "pillar": "product",
+  "title": "DeRot lets you choose how firm the pause is:",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "DeRot lets you choose how firm the pause is:\n\nStay the course: the reset finishes before the app opens.\nFlexible: skip after 10 seconds if you want to.\nGentle reminder: a soft nudge, nothing required.\n\nSome days you want a firm hand. Some days you just want a tap on the shoulder."
+  },
+  "images": [
+    {
+      "path": "img/social/promo-w3-tue-firmness/slide-02.jpg",
+      "url": "https://derot.org/img/social/promo-w3-tue-firmness/slide-02.jpg",
+      "alt": "Three levels of firm Pick the one that fits how you want to feel."
+    }
+  ],
+  "threads_images": [
+    {
+      "path": "img/social/promo-w3-tue-firmness/slide-02.jpg",
+      "url": "https://derot.org/img/social/promo-w3-tue-firmness/slide-02.jpg",
+      "alt": "Three levels of firm Pick the one that fits how you want to feel."
+    }
+  ],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-10-22T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "kind": "promo",
+  "slug": "promo-w3-wed-smaller",
+  "phase": "prelaunch",
+  "pillar": "pov",
+  "title": "You don't need to delete everything. You don't need a 30-day reset. You don't need more wi",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "You don't need to delete everything. You don't need a 30-day reset. You don't need more willpower.\n\nYou need a minute to come back down after the apps wind you up. That's a much smaller ask, and it's one you can actually keep."
+  },
+  "images": [],
+  "threads_images": [],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-10-28T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

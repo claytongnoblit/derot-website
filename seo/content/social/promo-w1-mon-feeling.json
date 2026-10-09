@@ -1,0 +1,22 @@
+{
+  "kind": "promo",
+  "slug": "promo-w1-mon-feeling",
+  "phase": "prelaunch",
+  "pillar": "feeling",
+  "title": "You open the app to check one thing. Twenty minutes later your jaw is tight, your breath i",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "You open the app to check one thing. Twenty minutes later your jaw is tight, your breath is shallow, and you feel wired for no reason you can name.\n\nYou didn't do anything wrong. The feed is built to hold your attention, and your body quietly pays for it.\n\nWe're building DeRot for that exact moment."
+  },
+  "images": [],
+  "threads_images": [],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-10-12T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

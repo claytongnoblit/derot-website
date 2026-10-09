@@ -1,0 +1,22 @@
+{
+  "kind": "promo",
+  "slug": "promo-w3-fri-which",
+  "phase": "prelaunch",
+  "pillar": "building",
+  "title": "Which app leaves you the most wired after you close it?",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "Which app leaves you the most wired after you close it?\n\nNot judging, just curious. For a lot of us it isn't the obvious one."
+  },
+  "images": [],
+  "threads_images": [],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-10-30T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

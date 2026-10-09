@@ -1,0 +1,33 @@
+{
+  "kind": "promo",
+  "slug": "promo-w2-sat-regulate",
+  "phase": "prelaunch",
+  "pillar": "pov",
+  "title": "Regulate, don't restrict.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "Regulate, don't restrict.\n\nThat's the whole philosophy. Blockers and timers treat your phone like the enemy and you like someone who can't be trusted with it. That rarely feels good, and it rarely lasts.\n\nDeRot does something smaller. When an app has wound you up, it pauses you for a calm reset, then gets out of the way.\n\nComing soon to iPhone. Link in bio for the launch list.",
+    "instagram_hashtags": [
+      "digitalwellbeing",
+      "mindfultech",
+      "breathwork"
+    ]
+  },
+  "images": [
+    {
+      "path": "img/social/promo-w2-sat-regulate/slide-01.jpg",
+      "url": "https://derot.org/img/social/promo-w2-sat-regulate/slide-01.jpg",
+      "alt": "Regulate, don't restrict. No lockouts. No guilt charts. No willpower required. Just a minute to come back down."
+    }
+  ],
+  "threads_images": null,
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-10-24T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

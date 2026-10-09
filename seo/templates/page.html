@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block main %}
+  <article class="post">
+    <header class="post-head">
+      <h1>{{ heading }}</h1>
+      <p class="dek">{{ intro }}</p>
+    </header>
+    <div class="prose">
+{{ body_html | safe }}
+    </div>
+  </article>
+{% include "_newsletter.html" %}
+{% endblock %}

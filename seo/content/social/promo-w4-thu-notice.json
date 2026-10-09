@@ -1,0 +1,34 @@
+{
+  "kind": "promo",
+  "slug": "promo-w4-thu-notice",
+  "phase": "prelaunch",
+  "pillar": "product",
+  "title": "The last screen of every DeRot reset says: \"Nicely done. Notice how you feel now.\"",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "The last screen of every DeRot reset says: \"Nicely done. Notice how you feel now.\"\n\nThat second line matters more than it looks. Noticing the shift is what makes the next reset easier to say yes to."
+  },
+  "images": [
+    {
+      "path": "img/social/promo-w4-thu-notice/slide-01.jpg",
+      "url": "https://derot.org/img/social/promo-w4-thu-notice/slide-01.jpg",
+      "alt": "Nicely done. Notice how you feel now."
+    }
+  ],
+  "threads_images": [
+    {
+      "path": "img/social/promo-w4-thu-notice/slide-01.jpg",
+      "url": "https://derot.org/img/social/promo-w4-thu-notice/slide-01.jpg",
+      "alt": "Nicely done. Notice how you feel now."
+    }
+  ],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-11-05T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

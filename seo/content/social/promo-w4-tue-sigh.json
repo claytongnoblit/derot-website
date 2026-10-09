@@ -1,0 +1,22 @@
+{
+  "kind": "promo",
+  "slug": "promo-w4-tue-sigh",
+  "phase": "prelaunch",
+  "pillar": "reset",
+  "title": "The physiological sigh: two inhales through the nose (a full one, then a short top-up), th",
+  "url": "https://derot.org/tools/physiological-sigh/",
+  "approved": true,
+  "copy": {
+    "threads_text": "The physiological sigh: two inhales through the nose (a full one, then a short top-up), then one long exhale through the mouth.\n\nOne or two of these can take the edge off quickly. Guide here:\n{url}"
+  },
+  "images": [],
+  "threads_images": [],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-11-03T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

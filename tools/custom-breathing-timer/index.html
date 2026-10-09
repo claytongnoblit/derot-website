@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Custom Breathing Timer: Set Your Own Pattern | DeRot</title>
+  <meta name="description" content="Free custom breathing timer. Set your own inhale, hold and exhale from 1 to 12 seconds, pick a session length, and follow a calm visual guide." />
+  <link rel="canonical" href="https://derot.org/tools/custom-breathing-timer/" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="DeRot" />
+  <meta property="og:title" content="Custom Breathing Timer: Set Your Own Pattern | DeRot" />
+  <meta property="og:description" content="Free custom breathing timer. Set your own inhale, hold and exhale from 1 to 12 seconds, pick a session length, and follow a calm visual guide." />
+  <meta property="og:image" content="https://derot.org/img/og-image.png" />
+  <meta property="og:url" content="https://derot.org/tools/custom-breathing-timer/" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Custom Breathing Timer: Set Your Own Pattern | DeRot" />
+  <meta name="twitter:description" content="Free custom breathing timer. Set your own inhale, hold and exhale from 1 to 12 seconds, pick a session length, and follow a calm visual guide." />
+  <meta name="twitter:image" content="https://derot.org/img/og-image.png" />
+  <meta name="theme-color" content="#0C0907" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=DM+Serif+Display&family=Fraunces:ital,opsz,wght@0,9..144,300;1,9..144,300;1,9..144,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/amber.css" />
+  <link rel="stylesheet" href="/tools/tools.css" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "DeRot Custom Breathing Timer",
+    "url": "https://derot.org/tools/custom-breathing-timer/",
+    "description": "Free custom breathing timer. Set your own inhale, hold and exhale from 1 to 12 seconds, pick a session length, and follow a calm visual guide.",
+    "applicationCategory": "HealthApplication",
+    "operatingSystem": "Any (web browser)",
+    "browserRequirements": "Requires JavaScript",
+    "isAccessibleForFree": true,
+    "inLanguage": "en",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "DeRot",
+      "url": "https://derot.org/",
+      "logo": "https://derot.org/img/derot-icon-384.png"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "How to set up a custom breathing pattern",
+    "description": "A custom breathing timer lets you set your own pattern: how long to breathe in, hold, breathe out and hold again, from 1 to 12 seconds each, with holds optional. It is useful once you know a technique, or when the standard counts feel too long. A good starting point is in 4, out 6.",
+    "totalTime": "PT2M",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "name": "Set your inhale",
+        "text": "Choose how many seconds to breathe in, from 1 to 12. Four is a comfortable start for most people."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "name": "Add holds if you want them",
+        "text": "Set the hold after breathing in and the hold after breathing out, from 0 to 12 seconds. Zero skips that hold."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "name": "Set your exhale",
+        "text": "Choose how long to breathe out. Making it a little longer than the inhale tends to feel calmer."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "name": "Pick a session length",
+        "text": "Choose 1, 2, 3 or 5 minutes. Sessions finish at the end of a full breath, so they may run a few seconds over."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "name": "Press Start and follow the circle",
+        "text": "Breathe in as it grows and out as it shrinks. Press Space or the Pause button any time."
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What breathing pattern should I start with?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Breathe in for 4 and out for 6, with no holds. It is gentle, works out to six breaths a minute, and suits most people. Add holds later if you want to."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I set a hold to zero?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Both holds accept 0 to 12 seconds, and 0 skips that hold completely. Breathing in and out each need at least 1 second."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I work out breaths per minute?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Add up the seconds in one full cycle and divide 60 by that number. For example, 4 in plus 6 out is 10 seconds, which is six breaths a minute."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I breathe too slowly?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "If you feel short of breath, strained or lightheaded, you are going slower than is comfortable right now. Shorten your counts. Most people find somewhere around five to seven breaths a minute comfortable."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why does my session run a little past the minute?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sessions always end at the end of a full breath, so you are never cut off mid-exhale. Depending on your pattern, that can add a few seconds."
+        }
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://derot.org/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Breathing tools",
+        "item": "https://derot.org/tools/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Custom breathing timer",
+        "item": "https://derot.org/tools/custom-breathing-timer/"
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+  <div class="glow quiet" aria-hidden="true"></div>
+
+  <nav>
+    <a href="/" class="logo">DeRot</a>
+    <div class="nav-links">
+      <a href="/blog/">Blog</a>
+      <a href="/tools/">Breathing tools</a>
+      <a href="/support.html">Support</a>
+    </div>
+  </nav>
+
+  <main>
+  <header class="tool-hero">
+    <p class="crumbs"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/tools/">Breathing tools</a><span aria-hidden="true">/</span>Custom breathing timer</p>
+    <h1>Custom breathing timer</h1>
+    <p class="lede">Choose your own counts for breathing in, holding and breathing out. Change any number and the timer resets to match.</p>
+  </header>
+
+  <div class="tool-wrap">
+    <div class="breath-tool glass" role="region" aria-label="Custom breathing timer" data-minutes="2" data-custom>
+      <noscript><p>This timer needs JavaScript. You can still follow the steps below at your own pace.</p></noscript>
+    </div>
+  </div>
+
+  <article class="content">
+    <section aria-labelledby="what-h">
+      <h2 id="what-h">What is a custom breathing timer?</h2>
+      <p class="answer">A custom breathing timer lets you set your own pattern: how long to breathe in, hold, breathe out and hold again, from 1 to 12 seconds each, with holds optional. It is useful once you know a technique, or when the standard counts feel too long. A good starting point is in 4, out 6.</p>
+      <p>Most named techniques are just particular numbers. Box breathing is 4, 4, 4, 4. Calm breathing is 4 in and 6 out. 4-7-8 is, well, 4, 7 and 8. This timer lets you dial in any of them, or something in between that suits your lungs and your day.</p>
+      <p>To work out your pace, add up the seconds in one cycle and divide 60 by the total. A 5 second inhale and 5 second exhale is 10 seconds, so six breaths a minute.</p>
+      <h3>Patterns worth trying</h3>
+      <ul>
+        <li><strong>4 in, 6 out:</strong> six breaths a minute with a longer exhale. Gentle and easy to sustain.</li>
+        <li><strong>5 in, 5 out:</strong> also six breaths a minute, with equal halves. Often called coherent breathing.</li>
+        <li><strong>3, 3, 3, 3:</strong> a softer version of box breathing if four second holds feel long.</li>
+        <li><strong>4 in, 2 hold, 6 out:</strong> the timer's default, a short pause at the top and a long exhale.</li>
+        <li><strong>2 in, 4 hold, 4 out:</strong> a shortened take on 4-7-8 that keeps a similar shape.</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="how-h">
+      <h2 id="how-h">How to do it, step by step</h2>
+      <ol>
+        <li><strong>Set your inhale.</strong> Choose how many seconds to breathe in, from 1 to 12. Four is a comfortable start for most people.</li>
+        <li><strong>Add holds if you want them.</strong> Set the hold after breathing in and the hold after breathing out, from 0 to 12 seconds. Zero skips that hold.</li>
+        <li><strong>Set your exhale.</strong> Choose how long to breathe out. Making it a little longer than the inhale tends to feel calmer.</li>
+        <li><strong>Pick a session length.</strong> Choose 1, 2, 3 or 5 minutes. Sessions finish at the end of a full breath, so they may run a few seconds over.</li>
+        <li><strong>Press Start and follow the circle.</strong> Breathe in as it grows and out as it shrinks. Press Space or the Pause button any time.</li>
+      </ol>
+
+    </section>
+
+    <section aria-labelledby="when-h">
+      <h2 id="when-h">When to use it</h2>
+      <ul>
+        <li><strong>When a standard pattern feels too long:</strong> scale it down while keeping the same shape.</li>
+        <li><strong>When you want to go slower over time:</strong> add a second to the exhale every week or two as it becomes easy.</li>
+        <li><strong>To find your own comfortable pace:</strong> try 4-6, then 5-5, then 5-6, and notice which feels most natural.</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="research-h">
+      <h2 id="research-h">What the research says</h2>
+      <p>A few principles from the research can guide your choices. A 2018 systematic review looked at slow breathing, defined as under 10 breaths a minute, and found it was associated with higher heart rate variability and with people feeling more relaxed and less anxious (<a href="https://doi.org/10.3389/fnhum.2018.00353" rel="noopener">Zaccaro et al., 2018</a>). So almost any pattern with a cycle longer than six seconds lands in that range.</p>
+      <p>Research on heart rate variability biofeedback suggests the effect on heart rhythm peaks at roughly six breaths a minute, though each person's ideal pace varies a little (<a href="https://doi.org/10.3389/fpsyg.2014.00756" rel="noopener">Lehrer and Gevirtz, 2014</a>). A 10 second cycle is a good target.</p>
+      <p>Exhale length may matter too. In a 2023 study comparing breathing practices, the one built around long exhales, cyclic sighing, produced the biggest lift in positive mood (<a href="https://doi.org/10.1016/j.xcrm.2022.100895" rel="noopener">Balban et al., 2023</a>). That is one reason we suggest an exhale at least as long as your inhale.</p>
+    </section>
+
+    <section aria-labelledby="care-h">
+      <h2 id="care-h">Who should go gently</h2>
+      <div class="callout glass">
+        <p>Long holds and very slow breathing are where most discomfort comes from. Build up gradually, and if you feel dizzy, tingly, or short of breath, stop and breathe normally. Slower is not always better: the right pace is one you can keep easily.</p>
+        <p>If you are pregnant, have a heart or lung condition, or have a history of panic attacks, keep holds short or skip them, and stop if anything feels off. This is a general wellbeing tool, not medical advice or treatment. If you have a health condition or concerns, check with your doctor before starting a new breathing practice.</p>
+      </div>
+    </section>
+
+
+    <section aria-labelledby="faq-h">
+      <h2 id="faq-h">Frequently asked questions</h2>
+      <div class="faq-item">
+        <h3>What breathing pattern should I start with?</h3>
+        <p>Breathe in for 4 and out for 6, with no holds. It is gentle, works out to six breaths a minute, and suits most people. Add holds later if you want to.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Can I set a hold to zero?</h3>
+        <p>Yes. Both holds accept 0 to 12 seconds, and 0 skips that hold completely. Breathing in and out each need at least 1 second.</p>
+      </div>
+      <div class="faq-item">
+        <h3>How do I work out breaths per minute?</h3>
+        <p>Add up the seconds in one full cycle and divide 60 by that number. For example, 4 in plus 6 out is 10 seconds, which is six breaths a minute.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Can I breathe too slowly?</h3>
+        <p>If you feel short of breath, strained or lightheaded, you are going slower than is comfortable right now. Shorten your counts. Most people find somewhere around five to seven breaths a minute comfortable.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Why does my session run a little past the minute?</h3>
+        <p>Sessions always end at the end of a full breath, so you are never cut off mid-exhale. Depending on your pattern, that can add a few seconds.</p>
+      </div>
+    </section>
+
+
+    <section aria-labelledby="derot-h">
+      <div class="derot-card glass">
+        <p class="eyebrow">From the makers of this timer</p>
+        <h2 id="derot-h">Want this to show up mid-scroll?</h2>
+        <p>DeRot pauses your scroll and walks you through a breath like this one. Sixty seconds later your shoulders have dropped, your head feels clearer, and you carry on, calmer. No willpower needed, just a breather.</p>
+        <a href="/#newsletter" class="btn-primary">Get launch updates</a>
+        <p class="small">Coming soon to iOS. Regulate, don't restrict.</p>
+      </div>
+    </section>
+
+
+    <section aria-labelledby="more-h">
+      <h2 id="more-h">More free breathing tools</h2>
+      <div class="tool-grid">
+        <a class="tool-card glass" href="/tools/calm-breathing-4-6/">
+          <div class="pattern">4-6</div>
+          <h3>Calm breathing 4-6</h3>
+          <p>In for 4, out for 6. About six breaths a minute, and DeRot&#x27;s everyday Calm pattern.</p>
+        </a>
+        <a class="tool-card glass" href="/tools/box-breathing-timer/">
+          <div class="pattern">4-4-4-4</div>
+          <h3>Box breathing</h3>
+          <p>Four equal sides: in, hold, out, hold. Steady and easy to remember.</p>
+        </a>
+        <a class="tool-card glass" href="/tools/4-7-8-breathing-timer/">
+          <div class="pattern">4-7-8</div>
+          <h3>4-7-8 breathing</h3>
+          <p>A long hold and a longer exhale. A favorite for winding down at night.</p>
+        </a>
+        <a class="tool-card glass" href="/tools/physiological-sigh/">
+          <div class="pattern">In, in, out</div>
+          <h3>Physiological sigh</h3>
+          <p>A double inhale and a long, slow exhale. Repeat it for cyclic sighing.</p>
+        </a>
+      </div>
+      <p style="margin-top:18px;"><a href="/tools/">See all breathing exercises</a></p>
+    </section>
+
+
+    <section aria-labelledby="src-h">
+      <h2 id="src-h">Sources</h2>
+      <ul class="sources">
+        <li>Zaccaro A, Piarulli A, Laurino M, et al. (2018). How breath-control can change your life: a systematic review on psycho-physiological correlates of slow breathing. <em>Frontiers in Human Neuroscience</em>, 12, 353. <a href="https://doi.org/10.3389/fnhum.2018.00353" rel="noopener">doi.org/10.3389/fnhum.2018.00353</a></li>
+        <li>Lehrer PM, Gevirtz R. (2014). Heart rate variability biofeedback: how and why does it work? <em>Frontiers in Psychology</em>, 5, 756. <a href="https://doi.org/10.3389/fpsyg.2014.00756" rel="noopener">doi.org/10.3389/fpsyg.2014.00756</a></li>
+        <li>Balban MY, et al. (2023). Brief structured respiration practices enhance mood and reduce physiological arousal. <em>Cell Reports Medicine</em>, 100895. <a href="https://doi.org/10.1016/j.xcrm.2022.100895" rel="noopener">doi.org/10.1016/j.xcrm.2022.100895</a></li>
+      </ul>
+    </section>
+
+  </article>
+  </main>
+
+  <script src="/tools/breathing.js" defer></script>
+
+  <footer>
+    <p class="footer-links">
+      <a href="/privacy.html">Privacy Policy</a>
+      <a href="/support.html">Support</a>
+      <a href="/blog/">Blog</a>
+      <a href="/tools/">Breathing tools</a>
+      <a href="/about/">About</a>
+    </p>
+    <p style="margin-top: 10px;">© 2026 DeRot</p>
+    <p style="margin-top: 4px; opacity: 0.75;">NinetyFourVentures LLC</p>
+  </footer>
+
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "88986d6b96cc48b1920f4b9a088e7c35"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>

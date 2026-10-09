@@ -1,0 +1,33 @@
+{
+  "kind": "promo",
+  "slug": "promo-w1-sat-statement",
+  "phase": "prelaunch",
+  "pillar": "pov",
+  "title": "Scroll all you want. Just don't leave wired.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "Scroll all you want. Just don't leave wired.\n\nMost advice about phones is about minutes: fewer opens, less time, stricter limits. But you've probably had ten minutes that left you rattled and an hour that left you fine.\n\nWe care about the part after. The tight jaw, the shallow breath, the buzz that follows you into whatever you do next. That's what DeRot is built for.\n\nComing soon to iPhone. Launch list: link in bio.",
+    "instagram_hashtags": [
+      "digitalwellbeing",
+      "mindfulscrolling",
+      "breathwork"
+    ]
+  },
+  "images": [
+    {
+      "path": "img/social/promo-w1-sat-statement/slide-01.jpg",
+      "url": "https://derot.org/img/social/promo-w1-sat-statement/slide-01.jpg",
+      "alt": "Scroll all you want. Just don't leave wired. The minutes were never the problem. How you feel after is."
+    }
+  ],
+  "threads_images": null,
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-10-17T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

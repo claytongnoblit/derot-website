@@ -1,0 +1,180 @@
+# DeRot blog: full text
+
+# Doomscrolling at Night: Why You're Wired and a 60-Second Way Down
+
+URL: https://derot.org/blog/doomscrolling-at-night/
+Updated: 2026-10-09
+
+Key takeaways:
+- Doomscrolling at night tends to leave you wired rather than sleepy because charged content keeps the mind active, and in a study of 830 young adults, emotional investment and frequent checking predicted poor sleep more strongly than total screen time.
+- Blue light has a real but modest effect: in a 2015 study, about four hours of iPad reading on five evenings meant people took nearly 10 minutes longer to fall asleep.
+- A 60-second in-bed off-ramp: breathe in for 4 and out for 6 for five or six rounds (or do two or three physiological sighs), then put the phone face down.
+- Slow breathing with a longer exhale is linked to higher heart rate variability and better mood, but the evidence that it objectively improves sleep is still inconclusive.
+- Stop if you feel lightheaded. Ongoing insomnia, anxiety, or a racing heart that keeps happening is worth raising with a professional.
+
+Doomscrolling at night winds your body up just when you meant to wind down. You can take the edge off in about 60 seconds without getting out of bed. Breathe in through your nose for 4 and out slowly for 6, five or six times (or do two or three physiological sighs), then turn the phone face down.
+
+You probably know how this goes. You got into bed, picked up the phone to check one thing, and came up half an hour later with a tight jaw and a slightly quick heartbeat. Sleep felt further away than when you started.
+
+Most advice on this starts with rules: keep the phone out of the bedroom, or stop at a hard cutoff time. Those work for some people. This guide starts with how the scroll leaves you feeling. The number of minutes matters less than the state you end up in, and you can change that state tonight.
+
+## What to do if you're doomscrolling at night right now
+
+Stop on whatever post is on screen and give yourself one minute of slow breathing with an exhale longer than the inhale. Then turn the phone face down. You don't need a new rule or a resolution. Just change where your body is heading.
+
+Here is the short version:
+
+1. Let your thumb go still. You don't need to close the app.
+2. Breathe in through your nose for 4, then out slowly for 6. Do this five or six times.
+3. Turn the phone face down and let one more slow exhale be the end of the day.
+
+The full script, what it should feel like, and the mistakes that cancel it out are further down. First, it helps to know why the feed revs you up at all.
+
+## Why scrolling in bed leaves you wired instead of sleepy
+
+Late-night feeds are built to hold your attention, and the content that holds attention best often keeps your mind active, which is the opposite of what sleep needs. The problem is less about time on the screen and more about how emotionally involved the screen makes you.
+
+### Bad news is sticky
+
+Susan Tapert, a professor of psychiatry at UC San Diego, puts it plainly: "[Bad news grabs and holds our attention more strongly than good news](https://universityofcalifornia.edu/news/doomscrolling-again-expert-explains-why-were-wired-worry) ..." Alarming headlines engage the brain's threat detection. That is useful when there is something to deal with and much less useful at 11:40 pm with the lights off.
+
+### How invested you are matters more than how long you scroll
+
+A 2024 study of 830 young adults found that [frequent checking and emotional investment in social media predicted poor sleep more strongly than total screen time](https://www.phillyvoice.com/social-media-sleep-disruption-emotional-engagement/). Pre-sleep cognitive arousal (a busy, revved-up mind) and social comparison helped explain the link. That is the state-over-minutes idea in data form. As an illustration rather than a study result, ten minutes in a heated comment thread may leave you more wound up than forty minutes of cooking videos.
+
+An earlier survey of 1,763 US young adults proposed [three routes from social media to poor sleep: mental activation, a later bedtime, and screen light](https://blog.oup.com/2018/05/social-media-use-disturbed-sleep/). Like most research in this area, it was cross-sectional, so it shows associations rather than proving cause.
+
+### The "one more" loop
+
+Getting into bed is not the same thing as trying to sleep. In a study of 338 young adults, researchers found [an average gap of about 39 minutes between going to bed and trying to sleep, linked to evening media use](https://pubmed.ncbi.nlm.nih.gov/28271575/). An infinite feed never gives you a natural place to stop, so the stopping point has to come from you, at the end of the day when you're most tired.
+
+## Is it the blue light or the content keeping you awake?
+
+Both can play a part, but for ordinary scrolling, blue light probably gets more blame than the evidence supports. The best-known study found an effect that was real, though modest, and it took a heavy dose.
+
+In that 2015 study, [12 adults who read on an iPad for about four hours before bed on five evenings took nearly 10 minutes longer to fall asleep](https://www.psu.edu/news/research/story/light-emitting-e-readers-detrimentally-shift-circadian-clock) than when they read a printed book. They also showed suppressed melatonin, a delayed body clock, and lower alertness the next morning. Those findings are worth taking seriously. They also came from four hours of reading a night in a lab, which is a long way from a typical scroll.
+
+Given the emotional-investment findings above, our reading is that what you look at probably matters at least as much as the light it comes through. That is an inference. The studies here weren't designed to settle it. Night mode or a warmer screen is a reasonable thing to keep on, though the evidence on night mode specifically is limited, and it won't touch the wired feeling you get from a news alert or a friend's highlight reel.
+
+## The 60-second off-ramp: a breathing script to use in bed, phone in hand
+
+The off-ramp is one minute of slow breathing where the exhale is longer than the inhale. You do it right where you are, then put the phone face down. There are two versions, and both skip breath holds. Pick whichever feels easier tonight.
+
+### Option A: Calm 4-6 breathing
+
+Calm 4-6 breathing is a slow-breathing pattern in which you inhale for 4 counts and exhale for 6, which comes to six breaths per minute.
+
+1. Stop scrolling and let your head sink into the pillow.
+2. Unclench your jaw and let your tongue rest loosely.
+3. Breathe in gently through your nose for a count of 4.
+4. Breathe out slowly for a count of 6, through your nose or softly through slightly parted lips, as if fogging a cool window.
+5. Repeat for five or six rounds. Each breath takes about 10 seconds, so six rounds is one minute.
+
+If you'd like something to pace you, the free [calm 4-6 breathing timer](/tools/calm-breathing-4-6/) runs in your browser.
+
+### Option B: The physiological sigh
+
+The physiological sigh is a breathing pattern in which you take a full inhale through the nose, top it up with a second short sip of air, then release it in a long, slow exhale through the mouth.
+
+1. Inhale through your nose until you feel comfortably full.
+2. Take one more short sip of air through the nose.
+3. Exhale slowly through your mouth, letting it last longer than both inhales together.
+4. Take two or three normal, easy breaths.
+5. Repeat for two or three sighs in total.
+
+The [physiological sigh timer](/tools/physiological-sigh/) walks you through the rhythm if counting in the dark feels like work.
+
+### Then: phone face down
+
+After your last round, turn the phone face down on the nightstand and let one more slow exhale be the full stop. If you use the same small gesture every night, it can start to work as a cue that the day is over.
+
+### Why the longer exhale helps
+
+Slow breathing under 10 breaths per minute is [associated with increased heart rate variability](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/pdf), and a meta-analysis of 223 studies found that [voluntary slow breathing increases vagally mediated heart rate variability](https://ro.uow.edu.au/test2021/5166), a marker tied to the vagus nerve and the body's rest-and-digest side. In a Stanford-led remote trial, [108 people did 5 minutes of breathwork or mindfulness a day for 28 days, and cyclic sighing was the only breathing practice that improved positive mood significantly more than mindfulness meditation](https://pmc.ncbi.nlm.nih.gov/articles/9873947/). The breathwork groups also saw [a bigger drop in respiratory rate than the mindfulness group](https://pmc.ncbi.nlm.nih.gov/articles/9873947/).
+
+### Why not 4-7-8 or box breathing at bedtime?
+
+Both include breath holds. For some people, holding the breath while already keyed up feels effortful or a little air-hungry, so we keep the bedtime script free of holds. That's a practical judgment on our part, not a study finding. Both techniques can still be useful at other times, and you'll find them with the other [free breathing timers](/tools/).
+
+## What it should feel like, and the most common mistakes
+
+By the third or fourth round, the exhale should get easier to stretch out. Your shoulders settle into the mattress and your jaw softens. The itch for "one more" goes quiet. It should feel easy. Some nights the change is obvious, and some nights it's subtle, and both are normal.
+
+The mistakes that undo it:
+
+- **Forcing big breaths.** What matters is the pace. Huge gulps can leave you lightheaded. Breathe at about the size of a normal breath, just slower.
+- **Chaining sighs back to back.** Take a few ordinary breaths between sighs.
+- **Holding at the top.** Let the inhale turn straight into the exhale.
+- **Counting too fast.** If 4-6 feels long, try 3-5. The key is keeping the exhale longer than the inhale.
+- **Going straight back to the feed.** Opening the same app again drops you right back where you started. Turn the phone over first and decide afterwards.
+
+If you pick it back up anyway, that's fine. No guilt, no streak to break. Run the script again in ten minutes or tomorrow night. Each time you notice the wired feeling and do something about it, you're practising.
+
+## Does breathing help you fall asleep? What the evidence says
+
+Slow breathing can help you feel calmer and less keyed up before bed, and people who practise it regularly often report sleeping better. The evidence that it objectively helps you fall asleep faster or sleep longer is still inconclusive.
+
+A 2026 systematic review of 9 studies with 457 participants found that [self-reported sleep improved in seven studies, most of which used 28 to 30 days of pre-bed slow breathing, while objective sleep results were inconclusive](https://qigonginstitute.org/abstract-print/20405). The studies that measured sleep objectively tested only a single day of practice, so that question is still open. Six of the studies showed effects on heart rate variability. The Stanford trial matches that picture: [mood improved and breathing rate came down, but there were no significant changes in heart rate variability, resting heart rate, or sleep](https://pmc.ncbi.nlm.nih.gov/articles/9873947/) over the month.
+
+So treat the off-ramp as a way to come down from the feed, not as a sleeping pill. It helps you stop the climb, and sleep has a better chance from there.
+
+## Why you keep scrolling when you're exhausted
+
+Revenge bedtime procrastination is staying up later than you meant to, often to claim some personal time after a day that felt like it belonged to everyone else. The phone is the easiest place to find that time, which is part of why it's so hard to put down.
+
+That pull may be part of why the gap between getting into bed and trying to sleep stretches out, though the 39-minute study above didn't look at it directly. We'll cover it properly in a dedicated explainer soon. For now: wanting time of your own is reasonable. It just helps if that time doesn't leave you wound up.
+
+## Small evening setups that help (no hard cutoff required)
+
+The aim of these setups is to put a little friction between you and the content that winds you up, without banning the phone. Choose one or two.
+
+- **Charger across the room.** You can still reach the phone. It just takes a few steps, and that's often enough to make you pause before picking it up.
+- **Mute news and social alerts after a set time.** Your phone's sleep or focus settings can do this automatically every night.
+- **Move the charged apps off the home screen.** In the evening, keep the apps that tend to wind you up a swipe or two further away.
+- **Choose calmer content late.** Since [emotional investment tracks with poor sleep](https://www.phillyvoice.com/social-media-sleep-disruption-emotional-engagement/), a low-stakes hobby account or a long read is a better last stop than the news.
+- **Make "face down" your ending ritual.** Do the same gesture and the same slow exhale every night.
+
+This mid-scroll moment is what DeRot is being built for. It meets you in the feed, pauses the scroll, and walks you through a 60-second breath so your shoulders drop and the wired feeling fades, and then you can carry on if you like. It's coming soon to iOS. There's more on why feeds leave you tense in our [doomscrolling and scrolling stress hub](/blog/topics/doomscrolling-scrolling-stress/).
+
+## When to talk to someone
+
+Breathing is a low-risk way to feel calmer, but it's no substitute for care if you're dealing with insomnia, anxiety, or a heart condition. A few simple guardrails:
+
+- **Stop if you feel dizzy, tingly, or lightheaded**, and go back to normal breathing.
+- **Keep it gentle and check with a clinician** if you're pregnant, have a heart or lung condition, or have a history of fainting or panic. The Stanford trial [excluded people with heart disease, glaucoma, seizures, or pregnancy, and about 10% of participants reported a negative experience](https://pmc.ncbi.nlm.nih.gov/articles/9873947/).
+- **See a doctor** if your heart races often, or if a racing heart comes with chest pain, shortness of breath, or fainting.
+- **Talk to a GP or mental health professional** if trouble sleeping or anxiety keeps coming back.
+
+If you're in distress or feel unsafe, contact local emergency services, or call or text 988 in the US.
+
+## FAQ
+**Why does my heart race when I scroll at night?**
+Emotionally charged content, like alarming news or a tense comment thread, can engage the brain's threat detection and keep your mind active, and you may notice that in your body as a quicker heartbeat or a tight jaw. A minute of slow breathing with a longer exhale often helps you feel calmer. If your heart races often, or it comes with chest pain, breathlessness, or fainting, see a doctor.
+
+**How long before bed should I stop scrolling?**
+There's no evidence-based cutoff that suits everyone. What may matter more is what you're scrolling and how it leaves you feeling: research on young adults found emotional investment predicted poor sleep more strongly than total screen time. If a full cutoff isn't realistic, switch to calmer content late in the evening and finish with a minute of slow breathing and the phone face down.
+
+**What should I do if I wake at 3am and want to grab my phone?**
+Before you reach for it, try two or three physiological sighs or a minute of 4-6 breathing in the dark, with no screen needed. If you do pick the phone up to check the time, keep the brightness low and stay out of news and social apps, which are the most likely to wind you up. If you wake at night regularly, it's worth mentioning to a GP.
+
+**Is the physiological sigh safe to do in bed?**
+For most people, yes. It's gentle and has no breath holds. Keep the breaths about normal size rather than huge, take a few easy breaths between sighs, and stop if you feel dizzy, tingly, or lightheaded. If you're pregnant, have a heart or lung condition, or have a history of fainting or panic, keep it soft and check with a clinician.
+
+**Is it bad to scroll if I can't sleep anyway?**
+Not automatically, but it depends on what you scroll. Low-stakes, calm content is unlikely to wind you up the way news or comparison-heavy feeds can. If you notice your jaw tightening or your mind speeding up, that tells you to stop and do a minute of slow breathing. If you can't sleep most nights, talk to a GP or sleep professional.
+
+**Does night mode stop my phone from keeping me awake?**
+Night mode may help a little with light exposure, though the evidence on night mode specifically is limited. The best-known screen study showed a modest effect, nearly 10 minutes longer to fall asleep, after about four hours of iPad reading on five nights. Night mode does nothing about the content, though, and emotionally charged scrolling can keep your mind wired whatever color the screen is.
+
+## Sources
+- Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.): https://pmc.ncbi.nlm.nih.gov/articles/9873947/
+- Slow breathing techniques before bedtime and the effects on sleep: a systematic review (Eide, Hernes & Grønli): https://qigonginstitute.org/abstract-print/20405
+- Social media sleep disruption is driven by emotional engagement (Brian N. Chin): https://www.phillyvoice.com/social-media-sleep-disruption-emotional-engagement/
+- Bedtime, shuteye time and electronic media: sleep displacement is a two-step process (Exelmans & Van den Bulck): https://pubmed.ncbi.nlm.nih.gov/28271575/
+- Light-emitting e-readers detrimentally shift circadian clock: https://www.psu.edu/news/research/story/light-emitting-e-readers-detrimentally-shift-circadian-clock
+- Doomscrolling again? Expert explains why we're wired to worry: https://universityofcalifornia.edu/news/doomscrolling-again-expert-explains-why-were-wired-worry
+- How breath-control can change your life: a systematic review on psycho-physiological correlates of slow breathing (Zaccaro et al.): https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/pdf
+- Effects of voluntary slow breathing on heart rate and heart rate variability: a systematic review and meta-analysis: https://ro.uow.edu.au/test2021/5166
+- Social media use and disturbed sleep: https://blog.oup.com/2018/05/social-media-use-disturbed-sleep/
+
+---

@@ -1,0 +1,58 @@
+{
+  "kind": "promo",
+  "slug": "promo-w3-sat-signs",
+  "phase": "prelaunch",
+  "pillar": "feeling",
+  "title": "None of these mean you did anything wrong. They're signals that the feed has wound you up.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "None of these mean you did anything wrong. They're signals that the feed has wound you up.\n\nThe fix is small: one long, slow exhale, then a few more. About a minute is usually enough to feel the edge come off.\n\nWhich one do you notice first? Tell us below.\n\nDeRot is coming soon to iPhone. Launch list: link in bio.",
+    "instagram_hashtags": [
+      "mindfulscrolling",
+      "digitalwellbeing",
+      "breathwork"
+    ]
+  },
+  "images": [
+    {
+      "path": "img/social/promo-w3-sat-signs/slide-01.jpg",
+      "url": "https://derot.org/img/social/promo-w3-sat-signs/slide-01.jpg",
+      "alt": "Signs the scroll has gotten to you"
+    },
+    {
+      "path": "img/social/promo-w3-sat-signs/slide-02.jpg",
+      "url": "https://derot.org/img/social/promo-w3-sat-signs/slide-02.jpg",
+      "alt": "You've read the same comment twice Your eyes are moving but nothing is going in. Attention is usually the first thing to go."
+    },
+    {
+      "path": "img/social/promo-w3-sat-signs/slide-03.jpg",
+      "url": "https://derot.org/img/social/promo-w3-sat-signs/slide-03.jpg",
+      "alt": "Your jaw is doing something Clenched, pushed forward, or just tight. Unclench it now and notice the difference."
+    },
+    {
+      "path": "img/social/promo-w3-sat-signs/slide-04.jpg",
+      "url": "https://derot.org/img/social/promo-w3-sat-signs/slide-04.jpg",
+      "alt": "Your breath has gone shallow Short breaths, high in the chest, without you noticing when it started."
+    },
+    {
+      "path": "img/social/promo-w3-sat-signs/slide-05.jpg",
+      "url": "https://derot.org/img/social/promo-w3-sat-signs/slide-05.jpg",
+      "alt": "You feel wired, not informed That buzz isn't a character flaw. It's a cue to come back down for a minute."
+    },
+    {
+      "path": "img/social/promo-w3-sat-signs/slide-06.jpg",
+      "url": "https://derot.org/img/social/promo-w3-sat-signs/slide-06.jpg",
+      "alt": "Coming soon to iPhone. Join the launch list: link in bio. We'll tell you the day it's live. Regulate, don't restrict."
+    }
+  ],
+  "threads_images": null,
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-10-31T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

@@ -1,0 +1,169 @@
+# DeRot SEO/GEO content engine configuration.
+# Everything the pipeline does is driven from here. See seo/README.md.
+
+site:
+  base_url: https://derot.org
+  name: DeRot
+  tagline: "Regulate, don't restrict."
+  publisher: NinetyFourVentures LLC
+  logo: https://derot.org/apple-touch-icon.png
+  default_og_image: https://derot.org/img/og-image.png
+  newsletter_url: https://derot.org/#newsletter
+  # Flip to the real App Store URL at launch; the CTA box switches automatically.
+  app_store_url: ""
+  language: en-US
+
+publishing:
+  # auto   = commit straight to main and deploy (fully automatic)
+  # review = push a branch and open a pull request for a human to merge
+  mode: auto
+  # Hard cap across any 7-day window, so manual re-runs can never flood the blog.
+  max_posts_per_week: 3
+  # Minimum hours between two published posts.
+  min_hours_between_posts: 20
+
+llm:
+  # subscription = headless Claude Code on your Claude Pro/Max plan
+  #                (GitHub secret CLAUDE_CODE_OAUTH_TOKEN, made once with `claude setup-token`)
+  # api          = Anthropic API key, billed per use (GitHub secret ANTHROPIC_API_KEY)
+  backend: subscription
+
+models:
+  # Claude Opus 5.5 for every stage. Effort is the cost/quality dial.
+  planner:  { model: claude-opus-5-5, effort: medium }
+  research: { model: claude-opus-5-5, effort: high, max_searches: 10 }
+  writer:   { model: claude-opus-5-5, effort: high }
+  reviewer: { model: claude-opus-5-5, effort: high, max_searches: 5 }
+  utility:  { model: claude-opus-5-5, effort: low }
+  social:   { model: claude-opus-5-5, effort: medium }
+
+quality:
+  # Editorial review score (1-10) an article needs to publish.
+  min_review_score: 8
+  # When the editor's only remaining issues are exact wording fixes it supplied, those
+  # fixes are applied and the article publishes if the editor scored it at least this.
+  # Set equal to min_review_score to require a clean 8 with no edits.
+  min_score_with_edits: 7
+  # Revision passes allowed after a failed review before the draft is parked.
+  max_revisions: 2
+  min_sources: 3
+  min_authoritative_sources: 2
+  min_internal_links: 2
+  max_product_mentions: 4
+  word_count:
+    pillar:     [2200, 4000]
+    how-to:     [1300, 2600]
+    explainer:  [1300, 2600]
+    comparison: [1400, 2800]
+    list:       [1300, 2600]
+    faq:        [1100, 2200]
+    glossary:   [800, 1600]
+  # Domains that count as authoritative evidence for health claims.
+  authoritative_domains:
+    - nih.gov
+    - ncbi.nlm.nih.gov
+    - pubmed.ncbi.nlm.nih.gov
+    - cdc.gov
+    - who.int
+    - nhs.uk
+    - nature.com
+    - cell.com
+    - sciencedirect.com
+    - frontiersin.org
+    - jamanetwork.com
+    - bmj.com
+    - thelancet.com
+    - springer.com
+    - link.springer.com
+    - wiley.com
+    - onlinelibrary.wiley.com
+    - plos.org
+    - journals.plos.org
+    - apa.org
+    - psychiatry.org
+    - mayoclinic.org
+    - clevelandclinic.org
+    - health.harvard.edu
+    - hopkinsmedicine.org
+    - stanford.edu
+    - med.stanford.edu
+    - harvard.edu
+    - ox.ac.uk
+    - ucla.edu
+    - berkeley.edu
+    - pewresearch.org
+    - mdpi.com
+    - sagepub.com
+    - tandfonline.com
+    - academic.oup.com
+    - bps.org.uk
+    - mit.edu
+    - yale.edu
+    - nimh.nih.gov
+    - heart.org
+    - sleepfoundation.org
+    - aasm.org
+
+keywords:
+  # Planner scoring weights (see derot_seo/keywords.py).
+  weights:
+    business_fit: 3.0
+    volume: 1.6
+    ease: 2.6           # (6 - difficulty_tier): new domains win on low-difficulty terms
+    cluster_priority: 1.0
+    seasonal_bonus: 3.0
+    gsc_bonus: 5.0
+    recent_cluster_penalty: 2.5   # per post in the same cluster among the last 4
+    similarity_penalty: 6.0       # x max token overlap with an existing post's keywords (>= 0.4)
+    pillar_ready_bonus: 4.0       # cluster has >=2 posts but no pillar yet
+    pillar_too_early_penalty: 4.0 # pillar attempted before the cluster has any support posts
+  # How many top candidates the planner model chooses between.
+  shortlist_size: 8
+  # Weekly autocomplete expansion.
+  expansion:
+    enabled: true
+    seeds_per_run: 12
+    max_new_keywords_per_run: 30
+    min_business_fit: 3
+
+refresh:
+  enabled: true
+  # Articles older than this become refresh candidates.
+  min_age_days: 120
+  # At most this many refreshes per weekly maintenance run.
+  max_per_run: 1
+
+indexnow:
+  enabled: true
+  key: 8f3c1d2e9a7b4c6d5e0f1a2b3c4d5e6f
+
+search_console:
+  # Enabled automatically when the GSC_SERVICE_ACCOUNT_JSON secret is present.
+  property: "sc-domain:derot.org"
+  lookback_days: 28
+
+# Which free breathing tool each article's "Try it now" box points to.
+# First rule whose terms appear in the primary keyword (or cluster id) wins.
+tool_links:
+  - { match: ["box breath", "box-breath", "square breath"], url: /tools/box-breathing-timer/, label: "Box breathing timer" }
+  - { match: ["4-7-8", "478", "4 7 8"], url: /tools/4-7-8-breathing-timer/, label: "4-7-8 breathing timer" }
+  - { match: ["sigh"], url: /tools/physiological-sigh/, label: "Physiological sigh guide" }
+  - { match: [], url: /tools/calm-breathing-4-6/, label: "60-second calm breathing" }
+
+# Instagram, Threads, and Facebook posts for every article (see seo/SOCIAL.md).
+# Times are UTC. Each platform needs its secrets; without them its posts wait.
+social:
+  enabled: true
+  # true = packages are queued with "approved": false; flip it in the JSON to release.
+  require_approval: false
+  graph_version: v26.0
+  points: [3, 5]          # carousel content slides (plus a cover and a closing slide)
+  max_hashtags: 5
+  min_lead_minutes: 60    # never schedule sooner than this (lets GitHub Pages deploy)
+  max_attempts: 3         # per platform, then the post is marked failed and an issue opens
+  max_late_hours: 72      # skip rather than post something days late after an outage
+  backfill_days: 7        # `social prepare --missing` looks back this far
+  platforms:
+    facebook:  { enabled: true, post_at: "16:30", day_offset: 0, format: link, utm: true }   # 12:30pm ET
+    threads:   { enabled: true, post_at: "16:30", day_offset: 0, media: cover }             # cover | carousel | link
+    instagram: { enabled: true, post_at: "23:30", day_offset: 0 }                           # 7:30pm ET

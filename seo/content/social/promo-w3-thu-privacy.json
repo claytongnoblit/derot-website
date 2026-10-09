@@ -1,0 +1,22 @@
+{
+  "kind": "promo",
+  "slug": "promo-w3-thu-privacy",
+  "phase": "prelaunch",
+  "pillar": "product",
+  "title": "Things DeRot doesn't need from you:",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "Things DeRot doesn't need from you:\n\nAn account.\nYour email.\nThe names of the apps you pick. Apple hands DeRot private Screen Time tokens, and they stay on your phone.\n\nA calm app shouldn't come with a side of worry."
+  },
+  "images": [],
+  "threads_images": [],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-10-29T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}

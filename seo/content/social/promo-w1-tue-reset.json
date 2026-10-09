@@ -1,0 +1,22 @@
+{
+  "kind": "promo",
+  "slug": "promo-w1-tue-reset",
+  "phase": "prelaunch",
+  "pillar": "reset",
+  "title": "A 60-second reset you can do right now, mid-scroll:",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "A 60-second reset you can do right now, mid-scroll:\n\nBreathe in through your nose for 4.\nBreathe out slowly for 6.\nRepeat about six times.\n\nThe longer exhale is the whole trick. By the third round, check where your shoulders are."
+  },
+  "images": [],
+  "threads_images": [],
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-10-13T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-09T05:00:00+00:00"
+}
