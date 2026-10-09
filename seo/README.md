@@ -16,11 +16,11 @@ keywords.json --score--> shortlist --Claude planner--> plan (primary + secondary
 **Choosing what to write.** Every keyword in `data/keywords.json` has volume, difficulty, and business-fit tiers, a cluster, and a format. The planner scores them (low difficulty weighs heavily because derot.org is a new domain), adds seasonal and Search Console boosts, rotates clusters so topics stay balanced, holds each cluster's pillar guide until two supporting articles exist, and skips anything that would cannibalize an existing post. Claude then picks from the top 8 and chooses secondary keywords to fold in.
 
 **Quality gate.** An article only publishes if all of these pass:
-- Every external link comes from the research step's actual search results (invented URLs are dropped automatically), and every cited source resolves.
+- Every external link comes from the research step's actual search results, kept exactly as found (invented URLs are dropped automatically), and every cited source resolves. PubMed, PubMed Central, and DOI links are verified through NCBI's and Crossref's official lookup services, because those sites block ordinary link checkers.
 - At least 3 sources, 2 of them authoritative (journals, NIH, universities, major clinics).
 - Brand rules: no em-dashes, never "lock" for DeRot, no "phone addiction" framing, no cure/treatment claims, at most 4 product mentions.
 - SEO structure: keyword in the title, first 100 words, and meta; 4+ H2 sections; answer-first opening; takeaways; FAQ; 2+ internal links to real pages; length right for the format.
-- A separate Claude fact-check (with its own web searches) and a senior-editor review scoring 8/10 or higher with no blocking issues.
+- A separate Claude fact-check (with its own web searches) and a senior-editor review scoring 8/10 or higher with no blocking issues. When the editor's only remaining issues are exact wording fixes it supplies, those are applied directly and the article publishes if it scored at least `min_score_with_edits` (7). Later review rounds verify earlier issues were fixed rather than starting over.
 
 **What every article gets.** A canonical URL, BlogPosting + FAQPage + BreadcrumbList (+ HowTo) structured data with citations, a custom OG image, a table of contents, a "Try it now" link to the matching free breathing tool, sources, a safety disclaimer, related posts, a newsletter signup, and the App Store button once you set `app_store_url`. Sitemap, RSS, `llms.txt`, `llms-full.txt`, topic hubs, and the homepage "From the blog" block all update on every publish, and IndexNow notifies Bing (and through it ChatGPT search and Copilot) within minutes.
 
@@ -36,24 +36,37 @@ keywords.json --score--> shortlist --Claude planner--> plan (primary + secondary
 | SEO weekly maintenance | Sun 14:05 UTC | Search Console pull, keyword discovery, refreshes one article older than 120 days, posts a report issue |
 | SEO build | On push to posts, templates, or tools | Re-renders all generated pages |
 
-## Deploy (about 15 minutes)
+## Setup status
 
-1. **Connect your Claude subscription** (the default, `llm.backend: subscription` in `config.yaml`):
-   - On your Mac, in Terminal, run `claude setup-token`. Approve it in the browser, then copy the token it prints. It lasts one year, so put a reminder in your calendar.
-   - Optional 30-second check that the token works: `echo "Say OK" | CLAUDE_CODE_OAUTH_TOKEN=<token> claude -p --model claude-opus-5-5 --tools ""` should print `OK`.
-   - GitHub > derot-website > Settings > Secrets and variables > Actions > New repository secret: name `CLAUDE_CODE_OAUTH_TOKEN`, value the token.
-   - Prefer pay-as-you-go instead? Set `llm.backend: api` and add an `ANTHROPIC_API_KEY` secret.
-2. **Let Actions push.** Settings > Actions > General > Workflow permissions: "Read and write permissions". If you use `publishing.mode: review`, also tick "Allow GitHub Actions to create and approve pull requests".
-3. **Commit and push** this folder, `.github/workflows/`, and the generated files (see the commit message in the handoff).
-4. **Dry run first.** Actions > SEO publish > Run workflow, mode `dry-run`. When it finishes, download the `seo-dry-run` artifact and read the article (`blog/<slug>/index.html` opens in a browser). Nothing is committed in dry-run mode.
-5. **First live post.** Run it again with mode `publish`. After that the schedule takes over.
-6. **Cloudflare checks** (dash.cloudflare.com > derot.org):
-   - SSL/TLS > Edge Certificates > **Always Use HTTPS: on.** Right now `http://derot.org` serves a duplicate copy of the site instead of redirecting.
-   - Security > Bots / **AI Crawl Control**: make sure AI crawlers (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot) are **allowed** and "managed robots.txt" is off, or Cloudflare will override our robots.txt and block the engines we want to be cited by.
-7. **Search engines.**
-   - Google Search Console: add the domain property `derot.org` (DNS TXT record in Cloudflare), submit `https://derot.org/sitemap.xml`.
-   - Bing Webmaster Tools: import from Search Console. Bing powers ChatGPT search and Copilot results.
-8. **Optional, recommended: connect Search Console data** so the planner learns from real rankings. In Google Cloud, create a service account, enable the Search Console API, download its JSON key, add the service account's email as a user (Restricted) on the Search Console property, then save the whole JSON as the `GSC_SERVICE_ACCOUNT_JSON` secret.
+Deployed and verified on 2026-10-09. Everything below is done; it stays here as the reference for redoing any piece.
+
+| Piece | State |
+|---|---|
+| Claude subscription token | `CLAUDE_CODE_OAUTH_TOKEN` repo secret, created with `claude setup-token`. **Expires about 2027-10-09.** Renew: run `claude setup-token`, then `printf %s "$CLAUDE_CODE_OAUTH_TOKEN" \| gh secret set CLAUDE_CODE_OAUTH_TOKEN -R claytongnoblit/derot-website` after exporting the new token. |
+| Actions permissions | Workflow permissions set to "Read and write". |
+| First article | "Doomscrolling at Night" published 2026-10-09 (generated locally, reviewed, committed). |
+| GitHub dry run | Passed on GitHub's servers 2026-10-09 (token, Claude Code 2.1.295, web search). |
+| Cloudflare | Always Use HTTPS on (http 301s to https). AI crawlers allowed; managed robots.txt off. |
+| Google Search Console | Verified; sitemap submitted. |
+| Bing Webmaster Tools | Verified with `/BingSiteAuth.xml`; sitemap submitted. |
+| Search Console data for the planner | Not connected (optional, see below). |
+| Meta / Threads posting | Not connected yet; see `SOCIAL.md`. Until then the Sunday social login check opens an issue. |
+
+**Do not delete these root files:** `BingSiteAuth.xml` (Bing verification), `8f3c1d2e9a7b4c6d5e0f1a2b3c4d5e6f.txt` (IndexNow key), `.nojekyll` (stops GitHub Pages running Jekyll), `robots.txt`, `sitemap.xml`, `llms.txt`, `llms-full.txt` (the last four are regenerated on every build).
+
+**Cloudflare caching gotcha:** if a static file (`.txt`, `.png`, and similar) is requested before it is deployed, Cloudflare caches the 404 for up to 4 hours. Fix with Caching > Configuration > Purge Cache > Custom Purge (URL). New article URLs are never requested before they exist, so normal publishing is unaffected.
+
+**Optional: connect Search Console data** so the planner learns from real rankings. In Google Cloud, create a service account, enable the Search Console API, download its JSON key, add the service account's email as a user (Restricted) on the Search Console property, then save the whole JSON as the `GSC_SERVICE_ACCOUNT_JSON` secret.
+
+**Testing a change locally with the real model** (writes nothing to the repo):
+
+```
+rm -rf /tmp/derot-test && rsync -a --exclude .git "/Users/clayton/Derot Parent/derot-website/" /tmp/derot-test/
+cd /tmp/derot-test/seo && python3 -m venv .venv && .venv/bin/pip install -q -r requirements.txt
+export CLAUDE_CODE_OAUTH_TOKEN=...   # or a logged-in local claude (2.1.280+ for Opus 5.5)
+.venv/bin/python -m derot_seo publish --force
+open /tmp/derot-test/blog/*/index.html
+```
 
 ## Day-to-day
 
