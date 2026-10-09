@@ -188,7 +188,7 @@ def _finalize(article: dict, the_plan: dict, existing: Optional[dict]) -> dict:
         "faqs": article["faqs"], "howto_steps": article.get("howto_steps", []),
         "sources": article.get("sources", []), "social": article.get("social", {}),
         "word_count": article.get("word_count"), "review_score": article.get("review_score"),
-        "review_scores": article.get("review_scores"),
+        "review_scores": article.get("review_scores"), "editor_edits": article.get("editor_edits", 0),
         "date_published": existing["date_published"] if existing else today().isoformat(),
         "date_modified": today().isoformat(),
         "published_at": existing.get("published_at", stamp) if existing else stamp,
