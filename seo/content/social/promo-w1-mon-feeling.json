@@ -13,9 +13,14 @@
   "threads_images": [],
   "platforms": {
     "threads": {
-      "status": "queued",
+      "status": "posted",
       "scheduled_at": "2026-10-12T21:00:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "id": "18107416957948443",
+      "permalink": "https://www.threads.com/@derotorg/post/DeaY0bhDzGG",
+      "posted_at": "2026-10-12T23:13:50+00:00",
+      "error": null,
+      "retry_after": null
     }
   },
   "built_at": "2026-10-09T05:00:00+00:00"
