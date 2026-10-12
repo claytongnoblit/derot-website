@@ -39,9 +39,8 @@
   </script>
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="theme-color" content="#0C0907" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=DM+Serif+Display&family=Fraunces:ital,opsz,wght@0,9..144,300;1,9..144,300;1,9..144,400&display=swap" rel="stylesheet" />
+  <link rel="preload" href="/fonts/dm-sans.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/fonts/fraunces-italic.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="stylesheet" href="amber.css" />
   <style>
     /* HERO */
@@ -420,7 +419,7 @@
   </nav>
 
   <section class="hero">
-    <img class="hero-icon" src="img/derot-icon-384.png" alt="DeRot app icon: a sun setting on the horizon" width="112" height="112" />
+    <img class="hero-icon" src="img/derot-icon-224.webp" srcset="img/derot-icon-224.webp 2x, img/derot-icon-336.webp 3x" alt="DeRot app icon: a sun setting on the horizon" width="112" height="112" fetchpriority="high" />
     <h1><span class="lead">Your apps wind you up.</span> <span class="main">DeRot brings you back down.</span></h1>
     <p>A quick calm reset, built right into the apps that stress you out. No willpower needed. Just a calmer you on the other side.</p>
     <a href="#newsletter" class="btn-primary">Get notified at launch</a>
@@ -446,9 +445,9 @@
   </section>
 
   <section class="screens" aria-label="DeRot app screens">
-    <figure><img src="img/screen-home.jpg" alt="DeRot home screen with the calm reset card" width="598" height="1300" loading="lazy" /></figure>
-    <figure><img src="img/screen-breathing-inhale.jpg" alt="Guided breathing screen on the inhale" width="598" height="1300" loading="lazy" /></figure>
-    <figure><img src="img/screen-reset-complete.jpg" alt="Completion screen after a calm reset" width="598" height="1300" loading="lazy" /></figure>
+    <figure><img src="img/screen-home-598.webp" srcset="img/screen-home-300.webp 300w, img/screen-home-598.webp 598w" sizes="(max-width: 640px) calc((100vw - 72px) / 3), 240px" alt="DeRot home screen with the calm reset card" width="598" height="1300" loading="lazy" /></figure>
+    <figure><img src="img/screen-breathing-inhale-598.webp" srcset="img/screen-breathing-inhale-300.webp 300w, img/screen-breathing-inhale-598.webp 598w" sizes="(max-width: 640px) calc((100vw - 72px) / 3), 240px" alt="Guided breathing screen on the inhale" width="598" height="1300" loading="lazy" /></figure>
+    <figure><img src="img/screen-reset-complete-598.webp" srcset="img/screen-reset-complete-300.webp 300w, img/screen-reset-complete-598.webp 598w" sizes="(max-width: 640px) calc((100vw - 72px) / 3), 240px" alt="Completion screen after a calm reset" width="598" height="1300" loading="lazy" /></figure>
   </section>
 
   <section class="how-it-works">
