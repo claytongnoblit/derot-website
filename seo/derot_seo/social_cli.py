@@ -210,6 +210,39 @@ def run(a, mock: bool = False) -> int:
         _offer_gh_secrets({"THREADS_USER_ID": str(user.get("id", "")), "THREADS_ACCESS_TOKEN": res["access_token"]})
         return 0
 
+    if a.action == "setup-instagram":
+        from .meta_api import exchange_instagram
+        print("Saves an Instagram Login token (Instagram API with Instagram Login, no Facebook Page link needed).")
+        secret = _secret("INSTAGRAM_APP_SECRET", "Instagram app secret (hidden; Enter to skip if the token is from the dashboard)")
+        tok = _secret("INSTAGRAM_SHORT_TOKEN", "Instagram access token (hidden)")
+        res = exchange_instagram(secret, tok, sc.get("graph_version", "v26.0"))
+        user = res.get("user") or {}
+        uid = str(user.get("user_id") or user.get("id") or "")
+        if res.get("already_long_lived"):
+            print("That token was already long-lived (about 60 days), so it is used as-is.")
+        print(f"Instagram account: @{user.get('username')} ({uid}), token valid "
+              f"{int(res.get('expires_in', 0)) // 86400} days (the weekly job refreshes it).")
+        _offer_gh_secrets({"INSTAGRAM_USER_ID": uid, "INSTAGRAM_ACCESS_TOKEN": res["access_token"]})
+        return 0
+
+    if a.action == "refresh-instagram-token":
+        from .meta_api import InstagramClient
+        tok = os.environ.get("INSTAGRAM_ACCESS_TOKEN")
+        if not tok:
+            print("INSTAGRAM_ACCESS_TOKEN is not set; nothing to refresh.")
+            return 0
+        res = InstagramClient(tok, os.environ.get("INSTAGRAM_USER_ID") or "me",
+                              sc.get("graph_version", "v26.0"), instagram_login=True).refresh_token()
+        new = res["access_token"]
+        if os.environ.get("GITHUB_ACTIONS"):
+            print(f"::add-mask::{new}")
+        if a.out:
+            fd = os.open(a.out, os.O_WRONLY | os.O_CREAT | os.O_TRUNC, 0o600)
+            with os.fdopen(fd, "w") as f:
+                f.write(new)
+        print(f"Instagram token refreshed; valid for {int(res.get('expires_in', 0)) // 86400} days.")
+        return 0
+
     if a.action == "refresh-threads-token":
         from .meta_api import ThreadsClient
         tok = os.environ.get("THREADS_ACCESS_TOKEN")

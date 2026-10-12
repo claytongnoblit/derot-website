@@ -3,7 +3,7 @@ name: SEO social
 # Posts each article's queued Instagram, Threads, and Facebook posts when their
 # time slot arrives (slots are in seo/config.yaml under social.platforms).
 # Hourly: a cheap check exits in seconds when nothing is due.
-# Sundays: refreshes the Threads token (60-day lifetime) and checks every login.
+# Sundays: refreshes the Threads and Instagram Login tokens (60-day lifetime) and checks every login.
 
 on:
   schedule:
@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
     inputs:
       action:
-        description: "post = post what is due; dry-run = show what is due; prepare = write missing packages; maintenance = refresh Threads token + check logins"
+        description: "post = post what is due; dry-run = show what is due; prepare = write missing packages; maintenance = refresh Threads/Instagram tokens + check logins"
         type: choice
         options: [post, dry-run, prepare, maintenance]
         default: dry-run
@@ -35,6 +35,8 @@ env:
   META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
   META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
   META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
+  INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+  INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
   THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
   THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
   GH_TOKEN: ${{ github.token }}
@@ -207,6 +209,26 @@ jobs:
           GH_TOKEN="$PAT" gh secret set THREADS_ACCESS_TOKEN --repo "${{ github.repository }}" < "$tokfile"
           rm -f "$tokfile"
           echo "Saved the refreshed token to the THREADS_ACCESS_TOKEN secret."
+
+      - name: Refresh Instagram token
+        working-directory: seo
+        env:
+          PAT: ${{ secrets.SOCIAL_SECRETS_PAT }}
+        run: |
+          if [ -z "$INSTAGRAM_ACCESS_TOKEN" ]; then echo "Instagram Login not configured"; exit 0; fi
+          if [ -z "$PAT" ]; then
+            echo "::warning::SOCIAL_SECRETS_PAT is not set, so the Instagram token cannot be refreshed automatically. Re-run 'social setup-instagram' every 60 days, or add the PAT (see seo/SOCIAL.md)."
+            exit 0
+          fi
+          tokfile="$RUNNER_TEMP/ig_token"
+          # Meta only refreshes tokens at least 24h old; a failure here leaves the current token in place.
+          if python -m derot_seo social refresh-instagram-token --out "$tokfile"; then
+            GH_TOKEN="$PAT" gh secret set INSTAGRAM_ACCESS_TOKEN --repo "${{ github.repository }}" < "$tokfile"
+            echo "Saved the refreshed token to the INSTAGRAM_ACCESS_TOKEN secret."
+          else
+            echo "::warning::Instagram token refresh failed; the current token stays in place. The login check below shows whether it still works."
+          fi
+          rm -f "$tokfile"
 
       - name: Check logins
         working-directory: seo

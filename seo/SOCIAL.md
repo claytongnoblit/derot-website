@@ -29,7 +29,7 @@ SEO social workflow, hourly at :40
 - If social prep fails during publishing, the article still publishes; the hourly run notices the missing package and makes it.
 - A post that errors is retried after 1h, then 2h; on the third failure it is marked `failed` and an issue labeled `seo-social` opens (at most one a day).
 - Nothing is ever posted for an article that has been unpublished, or more than 72 hours late.
-- Sundays: the Threads token is refreshed and every login is checked; a broken login opens an issue.
+- Sundays: the Threads and Instagram Login tokens are refreshed and every login is checked; a broken login opens an issue.
 
 ## One-time setup (about 30 minutes)
 
@@ -57,6 +57,14 @@ SEO social workflow, hourly at :40
 1. In the app: Use cases > Access the Threads API > Settings. Note the **Threads app secret** (it differs from the main app secret) and generate a user token for your tester account.
 2. Run `python -m derot_seo social setup-threads`. It swaps the 1-hour token for a 60-day one and offers to save `THREADS_USER_ID` and `THREADS_ACCESS_TOKEN`.
 3. So the token renews itself: create a [fine-grained personal access token](https://github.com/settings/personal-access-tokens/new) limited to the derot-website repo with **Secrets: Read and write**, and save it as the secret `SOCIAL_SECRETS_PAT`. Without it, re-run step 2 every 60 days. The PAT itself expires (a year at most), so put a reminder on the calendar.
+
+### 4b. Instagram without a Facebook Page link (Instagram Login)
+Use this if Meta will not link the Instagram account to the Page. It posts with the Instagram account's own token, and it wins over the Page route if both are set.
+1. Instagram must still be a professional account (Business or Creator).
+2. In the app: Use cases > add "Manage messaging and content on Instagram", choosing **API setup with Instagram login**. Add `instagram_business_basic` and `instagram_business_content_publish`.
+3. On that use case's setup page, under **Generate access tokens**, add the Instagram account, log in with it, and copy the token. If an invite is needed, accept it in Instagram (Settings > Website permissions, or Apps and websites).
+4. Run `python -m derot_seo social setup-instagram`. It asks for the Instagram app secret (press Enter to skip if the token came from the dashboard, which is already a 60-day token) and the token, then offers to save `INSTAGRAM_USER_ID` and `INSTAGRAM_ACCESS_TOKEN`.
+5. The Sunday job refreshes this token with the same `SOCIAL_SECRETS_PAT`. Without the PAT, re-run step 4 every 60 days.
 
 ### 5. Test
 1. Actions > SEO social > Run workflow > `maintenance`: should print OK with the account name for all three.
@@ -92,7 +100,7 @@ One model call per article (two if the first draft fails the gate), made through
 |---|---|
 | `derot_seo/social.py` | copy prompt and gate, packages, scheduling, posting |
 | `derot_seo/social_images.py` | slide renderer |
-| `derot_seo/meta_api.py` | Instagram, Facebook Page, and Threads clients; token helpers |
+| `derot_seo/meta_api.py` | Instagram (Page-linked or Instagram Login), Facebook Page, and Threads clients; token helpers |
 | `derot_seo/social_cli.py` | `python -m derot_seo social ...` |
 | `.github/workflows/seo-social.yml` | hourly posting, Sunday token refresh and login check |
 | `content/social/<slug>.json` | the queue and the record of what posted |

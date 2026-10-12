@@ -36,14 +36,15 @@ def main(argv=None) -> int:
     so = sub.add_parser("social", help="Instagram, Threads, and Facebook posts for each article")
     so.add_argument("action", choices=["prepare", "post", "status", "preview", "render", "reschedule", "check",
                                        "promo-build", "promo-calendar", "launch",
-                                       "setup-facebook", "setup-threads", "refresh-threads-token"])
+                                       "setup-facebook", "setup-threads", "refresh-threads-token",
+                                       "setup-instagram", "refresh-instagram-token"])
     so.add_argument("--slug", help="limit to one article")
     so.add_argument("--platform", choices=["facebook", "threads", "instagram"])
     so.add_argument("--missing", action="store_true", help="prepare: every recent post without a package")
     so.add_argument("--force", action="store_true", help="prepare: regenerate copy and images")
     so.add_argument("--dry-run", action="store_true", help="post: show what is due without posting")
     so.add_argument("--now", help="post: pretend it is this ISO time (UTC)")
-    so.add_argument("--out", help="refresh-threads-token: file to write the new token to")
+    so.add_argument("--out", help="refresh-*-token: file to write the new token to")
     so.add_argument("--start", help="promo-build: move the pre-launch calendar to start this Monday")
     so.add_argument("--date", help="launch: the App Store release day (YYYY-MM-DD)")
 

@@ -324,7 +324,11 @@ def make_clients(cfg: dict, env: Optional[dict] = None, **client_kw) -> dict:
     page_token = env.get("META_PAGE_ACCESS_TOKEN")
     if page_token and env.get("META_PAGE_ID"):
         out["facebook"] = FacebookPageClient(page_token, env["META_PAGE_ID"], ver, **client_kw)
-    if page_token and env.get("META_IG_USER_ID"):
+    if env.get("INSTAGRAM_ACCESS_TOKEN"):
+        # Instagram Login: the account's own token, no Facebook Page link needed. Wins if both are set.
+        out["instagram"] = InstagramClient(env["INSTAGRAM_ACCESS_TOKEN"], env.get("INSTAGRAM_USER_ID") or "me",
+                                           ver, instagram_login=True, **client_kw)
+    elif page_token and env.get("META_IG_USER_ID"):
         out["instagram"] = InstagramClient(page_token, env["META_IG_USER_ID"], ver, **client_kw)
     if env.get("THREADS_ACCESS_TOKEN"):
         out["threads"] = ThreadsClient(env["THREADS_ACCESS_TOKEN"], env.get("THREADS_USER_ID") or "me", **client_kw)

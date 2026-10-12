@@ -1,7 +1,10 @@
 """Minimal clients for the three Meta publishing APIs.
 
-  * Instagram: Graph API "Instagram API with Facebook Login". Carousel = one
-    child container per image, a CAROUSEL parent, then media_publish.
+  * Instagram: either "Instagram API with Facebook Login" (graph.facebook.com,
+    Page token, IG account linked to the Page) or "Instagram API with Instagram
+    Login" (graph.instagram.com, the account's own token, no Page link needed).
+    Same calls on both: one child container per image, a CAROUSEL parent, then
+    media_publish.
   * Facebook Page: a link post (the article's OG card) or a multi-photo post.
   * Threads: graph.threads.net. Image or carousel container, then threads_publish.
 
@@ -19,6 +22,7 @@ import requests
 
 GRAPH = "https://graph.facebook.com"
 THREADS = "https://graph.threads.net"
+IG_GRAPH = "https://graph.instagram.com"
 # Error codes Meta documents as temporary (rate limits, transient server errors).
 TRANSIENT_CODES = {1, 2, 4, 17, 32, 341, 368, 613, 9004, 9007, 2207001, 2207003}
 
@@ -82,10 +86,11 @@ class _Client:
 
 
 class InstagramClient(_Client):
-    def __init__(self, token: str, ig_user_id: str, version: str, **kw):
+    def __init__(self, token: str, ig_user_id: str, version: str, instagram_login: bool = False, **kw):
         super().__init__(token, **kw)
-        self.base = f"{GRAPH}/{version}"
-        self.user = ig_user_id
+        self.instagram_login = instagram_login
+        self.base = f"{IG_GRAPH if instagram_login else GRAPH}/{version}"
+        self.user = ig_user_id or "me"
 
     def whoami(self) -> dict:
         return self._req("GET", self.user, fields="username,name")
@@ -134,6 +139,18 @@ class InstagramClient(_Client):
         except MetaError:
             pass
         return {"id": media_id, "permalink": permalink}
+
+    def refresh_token(self) -> dict:
+        """Instagram Login tokens last 60 days; refreshing (allowed once the token is
+        24h old) returns a new 60-day token. Page tokens never expire, so no-op there."""
+        if not self.instagram_login:
+            raise MetaError("only Instagram Login tokens can be refreshed")
+        saved = self.base
+        self.base = IG_GRAPH
+        try:
+            return self._req("GET", "refresh_access_token", grant_type="ig_refresh_token")
+        finally:
+            self.base = saved
 
 
 class FacebookPageClient(_Client):
@@ -268,3 +285,26 @@ def exchange_threads(app_secret: str, short_token: str, session=None) -> dict:
     me = http.get(f"{THREADS}/v1.0/me", timeout=60,
                   params={"fields": "id,username", "access_token": body["access_token"]}).json()
     return {**body, "user": me}
+
+
+def exchange_instagram(app_secret: str, token: str, version: str, session=None) -> dict:
+    """Instagram Login token -> 60-day token. The dashboard's token generator already
+    issues a long-lived token, which cannot be exchanged again; then it is used as-is.
+    Returns {access_token, expires_in, user: {user_id, username}}."""
+    http = session or requests.Session()
+
+    def me(tok: str) -> dict:
+        return http.get(f"{IG_GRAPH}/{version}/me", timeout=60,
+                        params={"fields": "user_id,username", "access_token": tok}).json()
+
+    body = {}
+    if app_secret:
+        body = http.get(f"{IG_GRAPH}/access_token", timeout=60, params={
+            "grant_type": "ig_exchange_token", "client_secret": app_secret, "access_token": token}).json()
+    if "access_token" in body:
+        return {**body, "user": me(body["access_token"])}
+    info = me(token)
+    if info.get("user_id") or info.get("id"):
+        return {"access_token": token, "expires_in": 60 * 86400, "user": info, "already_long_lived": True}
+    err = body.get("error") or info.get("error") or {}
+    raise MetaError(f"instagram token check failed: {err.get('message', body or info)}")

@@ -363,3 +363,74 @@ def test_failing_copy_is_rewritten_once_then_held(published):
     assert run_post(cfg, FakeMeta(), due_now(held))["posted"] == []
     assert len(social.unnotified_holds()) == 1
     assert social.unnotified_holds() == []          # only reported once
+
+
+# ------------------------------------------------------------ Instagram Login (no Page link)
+def test_instagram_login_client_preferred_and_posts_to_graph_instagram():
+    cfg = load_config()
+    env = {"META_PAGE_ACCESS_TOKEN": "PAGETOKEN", "META_PAGE_ID": "PAGE1", "META_IG_USER_ID": "IG1",
+           "INSTAGRAM_ACCESS_TOKEN": "IGLTOKEN", "INSTAGRAM_USER_ID": "IGL1"}
+    fake = FakeMeta()
+    cl = social.make_clients(cfg, env=env, session=fake, sleep=lambda s: None)
+    ig = cl["instagram"]
+    assert ig.instagram_login and ig.base.startswith("https://graph.instagram.com/")
+    assert cl["facebook"].base.startswith("https://graph.facebook.com/")
+    res = ig.post("caption", [{"url": "https://derot.org/a.jpg", "alt": "a"},
+                              {"url": "https://derot.org/b.jpg", "alt": "b"}])
+    assert res["id"] and res["permalink"]
+    media = [c for c in fake.calls if c[0] == "POST" and c[1].endswith("/IGL1/media")]
+    assert len(media) == 3 and all(c[1].startswith("https://graph.instagram.com/") for c in media)
+    assert all(c[2]["access_token"] == "IGLTOKEN" for c in fake.calls)
+    assert len(fake.posts_to("/IGL1/media_publish")) == 1
+
+
+def test_page_route_still_used_without_instagram_login():
+    env = {"META_PAGE_ACCESS_TOKEN": "PAGETOKEN", "META_PAGE_ID": "PAGE1", "META_IG_USER_ID": "IG1"}
+    ig = social.make_clients(load_config(), env=env)["instagram"]
+    assert not ig.instagram_login and ig.base.startswith("https://graph.facebook.com/") and ig.user == "IG1"
+
+
+def test_instagram_login_refresh_token():
+    fake = FakeMeta()
+    ig = meta_api.InstagramClient("IGLTOKEN", "IGL1", "v26.0", instagram_login=True, session=fake)
+    ig.refresh_token()
+    method, url, params = fake.calls[-1]
+    assert url == "https://graph.instagram.com/refresh_access_token"
+    assert params["grant_type"] == "ig_refresh_token"
+    assert ig.base == "https://graph.instagram.com/v26.0"
+
+
+class FakeIGAuth:
+    def __init__(self, exchange_ok):
+        self.exchange_ok = exchange_ok
+        self.calls = []
+
+    def get(self, url, params=None, timeout=None):
+        self.calls.append((url, dict(params or {})))
+        if url.endswith("/access_token"):
+            if self.exchange_ok:
+                return FakeResp(200, {"access_token": "LONG", "expires_in": 5184000})
+            return FakeResp(400, {"error": {"message": "Session key invalid"}})
+        if url.endswith("/me"):
+            if params["access_token"] in ("LONG", "DASH"):
+                return FakeResp(200, {"user_id": "1784", "username": "derotorg", "id": "app-scoped"})
+            return FakeResp(400, {"error": {"message": "Invalid OAuth access token"}})
+        raise AssertionError(url)
+
+
+def test_exchange_instagram_short_token():
+    res = meta_api.exchange_instagram("SECRET", "SHORT", "v26.0", session=FakeIGAuth(True))
+    assert res["access_token"] == "LONG" and res["user"]["user_id"] == "1784"
+    assert not res.get("already_long_lived")
+
+
+def test_exchange_instagram_dashboard_token_used_as_is():
+    res = meta_api.exchange_instagram("SECRET", "DASH", "v26.0", session=FakeIGAuth(False))
+    assert res["access_token"] == "DASH" and res["already_long_lived"] and res["user"]["username"] == "derotorg"
+    res = meta_api.exchange_instagram("", "DASH", "v26.0", session=FakeIGAuth(False))
+    assert res["access_token"] == "DASH"
+
+
+def test_exchange_instagram_bad_token_raises():
+    with pytest.raises(meta_api.MetaError):
+        meta_api.exchange_instagram("SECRET", "BAD", "v26.0", session=FakeIGAuth(False))
