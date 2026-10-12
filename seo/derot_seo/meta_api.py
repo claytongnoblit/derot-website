@@ -258,6 +258,12 @@ def exchange_threads(app_secret: str, short_token: str, session=None) -> dict:
         "grant_type": "th_exchange_token", "client_secret": app_secret, "access_token": short_token})
     body = r.json()
     if "access_token" not in body:
+        # The dashboard's User Token Generator already hands out a long-lived (60-day) token,
+        # which Meta refuses to exchange again. If the token works as-is, use it directly.
+        me = http.get(f"{THREADS}/v1.0/me", timeout=60,
+                      params={"fields": "id,username", "access_token": short_token}).json()
+        if me.get("id"):
+            return {"access_token": short_token, "expires_in": 60 * 86400, "user": me, "already_long_lived": True}
         raise MetaError(f"threads token exchange failed: {body.get('error', {}).get('message', body)}")
     me = http.get(f"{THREADS}/v1.0/me", timeout=60,
                   params={"fields": "id,username", "access_token": body["access_token"]}).json()

@@ -203,6 +203,8 @@ def run(a, mock: bool = False) -> int:
         short = _secret("THREADS_SHORT_TOKEN", "Short-lived Threads user token (hidden)")
         res = exchange_threads(secret, short)
         user = res.get("user") or {}
+        if res.get("already_long_lived"):
+            print("That token was already long-lived (about 60 days), so it is used as-is.")
         print(f"Threads account: @{user.get('username')} ({user.get('id')}), token valid "
               f"{int(res.get('expires_in', 0)) // 86400} days (the weekly job refreshes it).")
         _offer_gh_secrets({"THREADS_USER_ID": str(user.get("id", "")), "THREADS_ACCESS_TOKEN": res["access_token"]})
