@@ -50,7 +50,7 @@ Deployed and verified on 2026-10-09. Everything below is done; it stays here as 
 | Google Search Console | Verified; sitemap submitted. |
 | Bing Webmaster Tools | Verified with `/BingSiteAuth.xml`; sitemap submitted. |
 | Search Console data for the planner | Not connected (optional, see below). |
-| Meta / Threads posting | Not connected yet; see `SOCIAL.md`. Until then the Sunday social login check opens an issue. |
+| Meta / Threads posting | Live since 2026-10-12: Facebook Page, Threads, and Instagram (via Instagram Login, not the Page link). See `SOCIAL.md`. |
 
 **Do not delete these root files:** `BingSiteAuth.xml` (Bing verification), `8f3c1d2e9a7b4c6d5e0f1a2b3c4d5e6f.txt` (IndexNow key), `.nojekyll` (stops GitHub Pages running Jekyll), `robots.txt`, `sitemap.xml`, `llms.txt`, `llms-full.txt` (the last four are regenerated on every build).
 

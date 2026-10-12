@@ -33,8 +33,13 @@ SEO social workflow, hourly at :40
 
 ## One-time setup (about 30 minutes)
 
+**Current setup (done 2026-10-12):** Facebook Page and Threads use steps 3 and 4. Instagram uses step 4b (Instagram Login), because Meta refused to link the Instagram account to the Page. Secrets in use: `META_PAGE_ID`, `META_PAGE_ACCESS_TOKEN`, `THREADS_USER_ID`, `THREADS_ACCESS_TOKEN`, `INSTAGRAM_USER_ID`, `INSTAGRAM_ACCESS_TOKEN`. Still to add: `SOCIAL_SECRETS_PAT`, or both 60-day tokens lapse around 2026-12-11.
+
+On a Mac with only the Xcode Python, use `python3` in place of `python` below, after `python3 -m pip install --user -r requirements.txt`.
+
 ### 1. Accounts
 - Instagram must be a **professional account** (Business or Creator) **linked to the DeRot Facebook Page**. In Instagram: Settings > Account type and tools. Link it from the Page: Meta Business Suite > Settings > Linked accounts > Instagram.
+- If Meta says connecting to Instagram isn't available, skip the link and use step 4b instead.
 - Set the Instagram and Threads bio link to `https://derot.org/`. Captions say "link in bio" for both articles and the launch list, and the homepage has both.
 
 ### 2. Meta app
@@ -55,7 +60,7 @@ SEO social workflow, hourly at :40
 
 ### 4. Threads token (60 days, refreshed weekly)
 1. In the app: Use cases > Access the Threads API > Settings. Note the **Threads app secret** (it differs from the main app secret) and generate a user token for your tester account.
-2. Run `python -m derot_seo social setup-threads`. It swaps the 1-hour token for a 60-day one and offers to save `THREADS_USER_ID` and `THREADS_ACCESS_TOKEN`.
+2. Run `python -m derot_seo social setup-threads`. The dashboard's token generator usually hands out a 60-day token already; the command then uses it as-is. Otherwise it swaps the 1-hour token for a 60-day one and offers to save `THREADS_USER_ID` and `THREADS_ACCESS_TOKEN`.
 3. So the token renews itself: create a [fine-grained personal access token](https://github.com/settings/personal-access-tokens/new) limited to the derot-website repo with **Secrets: Read and write**, and save it as the secret `SOCIAL_SECRETS_PAT`. Without it, re-run step 2 every 60 days. The PAT itself expires (a year at most), so put a reminder on the calendar.
 
 ### 4b. Instagram without a Facebook Page link (Instagram Login)
