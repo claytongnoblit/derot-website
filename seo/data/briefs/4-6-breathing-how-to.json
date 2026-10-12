@@ -1,0 +1,268 @@
+{
+  "title_options": [
+    "4-6 Breathing: How to Do It, a 60-Second Script, and Why It's So Gentle",
+    "4-6 Breathing (In for 4, Out for 6): Steps, Mistakes, and a Mid-Scroll Script",
+    "How to Do 4-6 Breathing: The No-Hold Pattern That Brings You Back Down"
+  ],
+  "search_intent": "How-to. Searchers want a plain definition of 4-6 breathing (inhale 4, exhale 6, no holds, about 6 breaths per minute), steps they can follow right now, how long to do it, and how it differs from 4-7-8 and box breathing. A timer or pacer is expected too.",
+  "serp_summary": "The results are mostly thin wellness blogs, app pages and PDFs. No health authority has a page on \"4-6 breathing\" as a named term. The strongest competitor is trybreathtaking.com: it has a definition, 5 steps, \"6 breaths ≈ 1 minute\" and a prose comparison with 4-7-8, but no table, almost no safety advice, uncited vagus nerve claims, and app promotion mixed into the steps. QuietKit is 2 steps and a GIF. RoundGlass is a short tip. The PPT UK PDF gives no-hold advice and says to build up to 10 minutes. Calm and Mindful rank for long-exhale terms. YouTube and Insight Timer cover the timer intent. Similar patterns (4-4-6, 4-2-6, 4-7-8) also appear in the results and confuse readers.",
+  "gaps": [
+    "No page gives a timed 60-second script written out breath by breath, or covers the mid-scroll use case.",
+    "Nobody covers common mistakes: gulping the inhale, forcing the exhale, counting too fast, lifting the shoulders, holding at the top out of habit, mouth-open sighs that turn into over-breathing.",
+    "No one is honest about the exhale-ratio evidence. Slow pace has the clearest support. A longer exhale may add to how relaxed you feel, but it adds no clear HRV benefit.",
+    "No comparison table of 4-6 vs box vs 4-7-8 vs physiological sigh.",
+    "Safety advice is thin or missing on every ranking 4-6 page.",
+    "No progression path (3-5, then 4-6, optionally 5-7) and no description of what 'too long' feels like.",
+    "No page clears up the confusion with 4-4-6, 4-2-6 and coherent 5-5 breathing."
+  ],
+  "outline": [
+    {
+      "h2": "What is 4-6 breathing?",
+      "points": [
+        "Quotable definition: in through the nose for 4 counts, out for 6, no holds, about 10 seconds per breath, about 6 breaths per minute.",
+        "Six breaths is roughly one minute, which is exactly what makes it fit a mid-scroll pause.",
+        "How it differs from 4-4-6 and 4-2-6, which add a hold, and from coherent 5-5 breathing, which has the same pace but an equal ratio.",
+        "Link to the free calm 4-6 breathing tool at /tools/."
+      ]
+    },
+    {
+      "h2": "How to do 4-6 breathing, step by step",
+      "points": [
+        "1. Sit or stand with shoulders loose. Sit while learning.",
+        "2. Breathe in softly through the nose for 4, to about 70-80% of a full breath, letting the belly move.",
+        "3. With no pause at the top, breathe out slowly for 6, through the nose or through softly pursed lips.",
+        "4. Let the next inhale start on its own.",
+        "5. Repeat for 6 breaths, about a minute.",
+        "Nose or mouth: nose in; out through either, whichever feels easier."
+      ]
+    },
+    {
+      "h2": "A 60-second 4-6 breathing script for mid-scroll",
+      "points": [
+        "The moment to use it: you notice a clenched jaw or a wired feeling partway through the feed. Put the phone face down or just look away.",
+        "Breath 1: just slow down, and count without judging.",
+        "Breaths 2-3: let the shoulders drop on each exhale.",
+        "Breaths 4-5: unclench the jaw and soften the eyes.",
+        "Breath 6: notice what changed, then decide on purpose whether to go back to the feed.",
+        "State over minutes: the aim is to come back down, not to log off."
+      ]
+    },
+    {
+      "h2": "What 4-6 breathing feels like (and what it shouldn't)",
+      "points": [
+        "Common felt changes: shoulders drop, the jaw loosens, the breath gets quieter, the buzz eases. These are felt experiences, not guarantees.",
+        "Warning signs: air hunger, gasping on the next inhale, tingling, lightheadedness. Each means shorten the counts or stop."
+      ]
+    },
+    {
+      "h2": "Common 4-6 breathing mistakes",
+      "points": [
+        "Gulping the inhale or over-filling.",
+        "Pushing the exhale out instead of letting it go.",
+        "Counting too fast, so you end up at about 10 breaths a minute instead of about 6.",
+        "Lifting the shoulders.",
+        "Holding at the top out of habit.",
+        "Big mouth-open sighs that tip into over-breathing.",
+        "Getting perfectionist about the count. Fix: drop the numbers and just make the out-breath a bit longer than the in-breath."
+      ]
+    },
+    {
+      "h2": "What if 6 seconds feels too long? Try 3-5 first",
+      "points": [
+        "Keep the ratio and shorten the counts. The NHS suggests going shorter if 5 counts is too much.",
+        "Progression: 3-5, then 4-6, then optionally 5-7 once it feels easy.",
+        "Comfort beats hitting exact numbers."
+      ]
+    },
+    {
+      "h2": "4-6 breathing vs 4-7-8 vs box breathing: which is gentler?",
+      "points": [
+        "4-6 has no holds, so it's easier for people who find holds uncomfortable.",
+        "Table: pattern | holds | breaths/min (approx) | difficulty | dizziness risk | best moment. Rows: 4-6, box 4-4-4-4, 4-7-8, physiological sigh.",
+        "Fairness: official bodies such as NHS inform use hold-based patterns too, and cyclic sighing did well in Balban 2023.",
+        "Link to the box, 4-7-8 and physiological sigh tools."
+      ]
+    },
+    {
+      "h2": "Why does a longer exhale help? A short, honest summary",
+      "points": [
+        "Slow breathing, under 10 breaths a minute, is associated with higher HRV, more comfort and relaxation, and less arousal (Zaccaro 2018, Laborde 2022).",
+        "Van Diest 2014: a longer exhale felt more relaxing.",
+        "Birdee 2023 and Meehan and Shaffer 2024 found no extra HRV or anxiety benefit over equal breathing. Lin 2014 favoured equal ratios.",
+        "Takeaway: the slow pace is the main ingredient; the longer exhale makes it easy and pleasant. Keep this section short (it gets its own article)."
+      ]
+    },
+    {
+      "h2": "How long should you do 4-6 breathing?",
+      "points": [
+        "One minute (6 breaths) is enough to reset in a mid-scroll moment.",
+        "For a longer practice: the NHS says at least 5 minutes, and the PPT guide says build up to 10.",
+        "Breathwork meta-analysis: small-to-medium stress effect, with the evidence still developing (Fincham 2023). Keep this short."
+      ]
+    }
+  ],
+  "questions": [
+    "Is 4-6 breathing the same as 4-7-8?",
+    "Should I breathe through my nose or mouth for 4-6 breathing?",
+    "How many breaths per minute is 4-6 breathing?",
+    "Why do I feel dizzy or short of air doing 4-6 breathing?",
+    "Is 4-6 breathing the same as coherent or resonance breathing?",
+    "Can 4-6 breathing help me fall asleep?",
+    "What's the difference between 4-6 and 4-4-6 or 4-2-6 breathing?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10395759/",
+      "title": "Slow breathing for reducing stress: The effect of extending exhale (Birdee et al.)",
+      "publisher": "Complementary Therapies in Medicine",
+      "year": "2023",
+      "key_findings": "12-week RCT, 94 of 99 adults with complete data. Anxiety fell in both the exhale>inhale and the equal-breathing group, with no difference between groups (p=0.350). The extra HF-HRV rise in the longer-exhale group was not significant (p=0.563)."
+    },
+    {
+      "id": "S2",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11310264/",
+      "title": "Do Longer Exhalations Increase HRV During Slow-Paced Breathing? (Meehan & Shaffer)",
+      "publisher": "Applied Psychophysiology and Biofeedback",
+      "year": "2024",
+      "key_findings": "Compared 1:1 vs 1:2 at 6 breaths/min (n=26, plus a replication with n=16): no HRV difference. Earlier ratio studies are mixed. Comfort was not measured."
+    },
+    {
+      "id": "S3",
+      "url": "https://research.vu.nl/en/publications/inhalationexhalation-ratio-modulates-the-effect-of-slow-breathing/",
+      "title": "Inhalation/Exhalation Ratio Modulates the Effect of Slow Breathing on HRV and Relaxation (Van Diest et al.)",
+      "publisher": "Applied Psychophysiology and Biofeedback",
+      "year": "2014",
+      "key_findings": "30 participants. A long exhale gave more self-reported relaxation and less stress, and more HF-HRV but only at 6 breaths/min."
+    },
+    {
+      "id": "S4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24380741/",
+      "title": "Breathing at 5.5 breaths per minute with equal inhalation-to-exhalation ratio increases HRV (Lin et al.)",
+      "publisher": "International Journal of Psychophysiology (PubMed)",
+      "year": "2014",
+      "key_findings": "Equal ratio at 5.5 breaths/min had an HRV advantage."
+    },
+    {
+      "id": "S5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30245619/",
+      "title": "How Breath-Control Can Change Your Life (Zaccaro et al.)",
+      "publisher": "Frontiers in Human Neuroscience",
+      "year": "2018",
+      "key_findings": "Systematic review of 15 studies. Slow breathing (<10/min) was associated with higher HRV and more comfort, relaxation and alertness, with less arousal and anxiety. Small evidence base."
+    },
+    {
+      "id": "S6",
+      "url": "https://eprints.bournemouth.ac.uk/38169/",
+      "title": "Effects of voluntary slow breathing on heart rate and HRV: systematic review and meta-analysis (Laborde et al.)",
+      "publisher": "Neuroscience & Biobehavioral Reviews",
+      "year": "2022",
+      "key_findings": "223 studies. Vagally mediated HRV rose during, immediately after, and after multi-session slow breathing. Low-cost, with few adverse effects expected."
+    },
+    {
+      "id": "S7",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/",
+      "title": "Effect of breathwork on stress and mental health: meta-analysis of RCTs (Fincham et al.)",
+      "publisher": "Scientific Reports",
+      "year": "2023",
+      "key_findings": "Stress g≈-0.35 (12 RCTs, 785 adults), anxiety g=-0.32, depression g=-0.40. Moderate risk of bias. Warns against hype."
+    },
+    {
+      "id": "S8",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.)",
+      "publisher": "Cell Reports Medicine",
+      "year": "2023",
+      "key_findings": "Daily 5-minute cyclic sighing improved mood and lowered respiratory rate more than mindfulness meditation. Sample size unverified, so omit it."
+    },
+    {
+      "id": "S9",
+      "url": "https://www.nhs.uk/conditions/stress-anxiety-depression/ways-relieve-stress/",
+      "title": "Ways to relieve stress",
+      "publisher": "NHS",
+      "year": "current",
+      "key_findings": "Calming breathing takes a few minutes and can be done anywhere. Repeat for at least 5 minutes."
+    },
+    {
+      "id": "S10",
+      "url": "https://www.nhsinform.scot/healthy-living/mental-wellbeing/breathing-and-relaxation-exercises/controlled-breathing-exercise",
+      "title": "Controlled breathing exercise",
+      "publisher": "NHS inform (Scotland)",
+      "year": "current",
+      "key_findings": "Uses a 3-3-3-3 pattern with holds. Notes dizziness when anxious should ease after a few minutes."
+    },
+    {
+      "id": "S11",
+      "url": "https://www.theppt.org.uk/wp-content/uploads/2024/03/Breathing-Out-Anxiety.pdf",
+      "title": "Breathing Out Anxiety",
+      "publisher": "PPT (UK)",
+      "year": "2024",
+      "key_findings": "In for 4, out for 6. Don't hold your breath, stop if it isn't helpful, build up gradually to 10 minutes."
+    },
+    {
+      "id": "S12",
+      "url": "https://www.trybreathtaking.com/techniques/4-6-breathing",
+      "title": "4-6 Breathing: In for Four, Out for Six",
+      "publisher": "Breathtaking",
+      "year": "n.d.",
+      "key_findings": "Competitor reference only: about 10 seconds per breath, 6 per minute. Keep the ratio and shorten the counts if needed."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "Slow breathing is defined as fewer than 10 breaths per minute and was associated with higher HRV and more comfort and relaxation in a review of 15 studies.",
+      "source_id": "S5"
+    },
+    {
+      "fact": "A meta-analysis of 223 studies found vagally mediated HRV rose during slow breathing, right after a single session, and after multi-session practice.",
+      "source_id": "S6"
+    },
+    {
+      "fact": "In 30 participants, a long exhale produced more self-reported relaxation and less stress than a long inhale; the HF-HRV gain appeared only at 6 breaths/min.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "In a 12-week RCT (94 adults analysed), anxiety fell in both the longer-exhale and equal-breathing groups, with no significant difference between them (p=0.350).",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Comparing 1:1 vs 1:2 breathing at 6 breaths/min (n=26 plus a replication of 16) found no HRV difference.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "Equal inhale/exhale at 5.5 breaths/min showed an HRV advantage.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "A breathwork meta-analysis found a small-to-medium stress reduction (g≈-0.35, 12 RCTs, 785 adults), with most studies at moderate risk of bias.",
+      "source_id": "S7"
+    },
+    {
+      "fact": "Daily 5-minute cyclic sighing improved mood and lowered respiratory rate more than mindfulness meditation over one month.",
+      "source_id": "S8"
+    },
+    {
+      "fact": "The NHS says calming breathing can be done anywhere and suggests repeating it for at least 5 minutes.",
+      "source_id": "S9"
+    },
+    {
+      "fact": "A UK mental health guide recommends in for 4, out for 6, with no breath holding, building up gradually to 10 minutes.",
+      "source_id": "S11"
+    },
+    {
+      "fact": "NHS inform's controlled breathing uses a 3-3-3-3 pattern that includes holds.",
+      "source_id": "S10"
+    }
+  ],
+  "safety_notes": [
+    "Stop and go back to normal breathing if you feel dizzy, lightheaded, tingly or short of air, or have chest discomfort. Sit or lie down while learning.",
+    "Don't force big breaths. Keep the inhale soft (about 70-80% of a full breath). If 6 counts brings on air hunger, use 3-5.",
+    "Breath holds and fast breathing aren't for everyone, including people who are pregnant, have heart or lung conditions, or have a history of fainting or panic. 4-6 has no holds, but people with heart or lung conditions should still check with a clinician before regular practice.",
+    "Breathing can help you feel calmer and may reduce stress. It doesn't treat anxiety, panic or insomnia. If anxiety, distress or sleep problems persist, talk to a professional. In crisis, call 988 (US) or local emergency services.",
+    "Don't cite the unverified 2025 Frontiers 4:6 study (n=17), and don't state a Balban sample size.",
+    "Present the vagus nerve and longer-exhale mechanism as plausible and partly supported, not settled."
+  ],
+  "word_count_target": 1700,
+  "dropped_sources": [],
+  "research_notes": "I've finished searching and checking sources, and the research notes are below.\n\n# Research notes: 4-6 breathing (how-to)\n\n## SERP ANALYSIS\n\n**Who ranks:** Most results are thin wellness blogs, app pages and PDFs. There is no authoritative health body page for \"4-6 breathing\" as a named term, so the term is open to own.\n\n- **trybreathtaking.com/techniques/4-6-breathing** is the strongest competitor. It has a definition, 5 numbered steps, \"about 10 seconds per breath, six breaths per minute,\" \"six breaths is about one minute,\" and a prose comparison with 4-7-8. It cites 3 small studies, including a Frontiers 2025 study (n=17, 5 min of 4:6, state anxiety d = -1.46) that I could not verify or get a URL for, so don't use it. Its weaknesses: no safety section beyond \"shorten the count if you feel air hunger,\" no comparison table, uncited claims about the vagus nerve and blood pressure, and app promotion mixed into the instructions.\n- **quietkit.com/4-6-breathing** is minimal: 2 steps (in 4 and out 6, both through the nose) plus a pacing GIF. It says nothing on purpose, duration, safety or mistakes, and the page itself says tips are \"coming soon.\"\n- **roundglassliving.com** is a short tip: in through the nose for 4, out through the mouth for 6, aimed at sleep and busy thoughts.\n- **theppt.org.uk \"Breathing Out Anxiety\"** is a UK mental health PDF. It says not to hold your breath, stop if it isn't helping, and build up to 10 minutes.\n- **calm.com/blog/long-exhale** and **mindful.org \"practice the power of the long exhale\"** rank for the extended-exhale keywords. Calm presents the vagus nerve mechanism as a theory. Mindful works toward a 2:1 exhale:inhale ratio.\n- A YouTube 10-minute 4-6 video and Insight Timer pages fill the timer and audio intent.\n- The SERP mixes in confusable variants: 4-4-6, 4-2-6, 6-4-6 and \"4-6-8.\" Readers can easily mix up which version has holds.\n\n**Format that wins:** a short definition, then numbered steps, then timing, then a few FAQs. A timer or visual pacer is common and expected.\n\n## GAPS AND ANGLE\n\n1. **No page gives the mid-scroll use case or a timed 60-second script.** Breathtaking only says \"six breaths ≈ one minute.\" Write out all six breaths, with cues for breath 1, breaths 2 to 3, and so on.\n2. **Common mistakes are covered nowhere:** gulping the inhale, pushing air out on the exhale, counting too fast (so it's really about 10 breaths a minute instead of about 6), lifting the shoulders, holding at the top out of habit, and a mouth-open sigh that turns into over-breathing.\n3. **Nobody is honest about the evidence on exhale ratio.** Most pages say \"a longer exhale activates the vagus nerve\" as settled fact. The evidence is mixed:\n   - Van Diest 2014 favours a longer exhale for how relaxed people *feel*.\n   - Birdee 2023 (RCT, n=99) and Meehan and Shaffer 2024 (n=26 plus a replication of 16) found no extra HRV benefit over equal breathing.\n   - Strongest honest framing: the slow pace (about 6 breaths a minute) has the clearest evidence. The longer exhale makes the pattern easy and pleasant and may add a little to feeling relaxed. That is a real information gain.\n4. **No comparison table.** Compare 4-6, box 4-4-4-4, 4-7-8 and the physiological sigh across: holds (yes/no), breaths per minute, difficulty, dizziness risk, and best moment to use.\n5. **Safety is thin or missing on every ranking 4-6 page.** Add stop-if-lightheaded advice, no forced deep breaths, a heart/lung/pregnancy caveat, and point people with persistent anxiety to a professional, plus 988 in the US.\n6. **Adaptation:** 3-5 as an on-ramp. Breathtaking has the \"keep the ratio, shorten the counts\" idea. We can add a progression (3-5, then 4-6, then optionally 5-7) and what \"too long\" feels like (air hunger, gasping on the next inhale).\n7. **DeRot point of view:** this is about how you feel after scrolling, not screen-time minutes. Link /tools/ (calm 4-6 tool), plus the box breathing, 4-7-8 and physiological sigh tools in the comparison.\n\n## QUESTIONS (People Also Ask style)\n\nI found no Reddit or forum threads, so these come from SERP FAQs and the variants that show up in results.\n\n- What is 4-6 breathing? / Is 4-6 breathing the same as 4-7-8?\n- Should you breathe in and out through the nose or mouth for 4-6 breathing?\n- Is it better to have a longer exhale than inhale? Does exhale length actually matter?\n- How long should you do 4-6 breathing? (Answers in ranking pages vary: 1 minute, 3 to 5 minutes, building to 10 minutes, or 5 to 10 minutes daily.)\n- How many breaths per minute is 4-6 breathing? (6 per minute, 10 seconds per breath.)\n- Why do I feel dizzy or short of air doing 4-6 breathing? / What if 6 seconds is too long?\n- Is 4-6 breathing the same as coherent or resonance breathing? (Coherent breathing is often 5-5 at about 6 breaths a minute. Same pace, different ratio.)\n- Can I do 4-6 breathing to fall asleep?\n- What about 4-4-6 or 4-2-6? (Those add a hold, so they're not the same pattern.)\n\n## SOURCES\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC10395759/ | Slow breathing for reducing stress: The effect of extending exhale (Birdee et al.) | Complementary Therapies in Medicine 73:102937 | 2023 | 12-week single-blind RCT, healthy adults aged 30-60. 99 enrolled, 94 with complete data (48 exhale>inhale vs 46 exhale=inhale). PROMIS anxiety fell significantly in both groups, with no difference between groups (p = 0.350, d = 0.2). Extra HF-HRV rise in the longer-exhale group was not significant (p = 0.563, d = 0.12). Conclusion: \"breath ratios do not have a significant differential effect on stress reduction among healthy adults.\" Use this as honest nuance: both slow patterns helped.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC11310264/ | Do Longer Exhalations Increase HRV During Slow-Paced Breathing? (Meehan & Shaffer) | Applied Psychophysiology and Biofeedback | 2024 | Of 11 earlier IE-ratio studies: 3 found no effect, 4 favoured a longer exhale, 1 favoured equal, 1 favoured a longer inhale. Their own studies compared 1:1 vs 1:2 at 6 breaths/min (n=26, plus a replication with n=16) and found no HRV differences (e.g., SDNN 100.69 vs 101.82, p = .77). Limits: undergraduate samples, HRV only, comfort and relaxation not measured.\n\nhttps://research.vu.nl/en/publications/inhalationexhalation-ratio-modulates-the-effect-of-slow-breathing/ | Inhalation/Exhalation Ratio Modulates the Effect of Slow Breathing on Heart Rate Variability and Relaxation (Van Diest et al.) | Applied Psychophysiology and Biofeedback 39(3-4):171-180 | 2014 | 30 participants breathed at 6 or 12 breaths/min with an I/E ratio of 0.42 (long exhale) or 2.33 (long inhale). The long exhale gave more self-reported relaxation, less stress, more mindfulness and more positive energy. It also gave more HF-HRV, but only at the slow rate. The slower rate alone was linked only to more positive energy. This is the key support for \"longer exhale feels more relaxing.\"\n\nhttps://pubmed.ncbi.nlm.nih.gov/24380741/ | Breathing at a rate of 5.5 breaths per minute with equal inhalation-to-exhalation ratio increases heart rate variability (Lin et al.) | Int J Psychophysiology (via PubMed) | 2014 | Equal inhale/exhale at 5.5 breaths/min had an HRV advantage. Counter-evidence that the ratio matters less than the pace.\n\nhttps://pubmed.ncbi.nlm.nih.gov/30245619/ | How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing (Zaccaro et al.) | Frontiers in Human Neuroscience | 2018 | Defines slow breathing as <10 breaths/min. Screened 2,461 abstracts and included 15 studies of healthy people. Slow breathing was associated with higher HRV and RSA, higher EEG alpha and lower theta, and more comfort, relaxation, vigor and alertness, with fewer symptoms of arousal, anxiety and depression. Small evidence base; the mechanisms are still debated. (Full text: https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full)\n\nhttps://eprints.bournemouth.ac.uk/38169/ | Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis (Laborde et al.) | Neuroscience & Biobehavioral Reviews 138:104711 | 2022 | 1,842 abstracts screened and 223 studies included (172 measured during breathing, 16 immediately after one session, 49 after a multi-session intervention). Vagally mediated HRV rose at all three timepoints. The authors call it low-cost with few adverse effects expected. Supports \"slow pace (about 6/min) is the active ingredient.\"\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/ | Effect of breathwork on stress and mental health: A meta-analysis of randomised-controlled trials (Fincham et al.) | Scientific Reports 13:432 | 2023 | Stress: 12 RCTs, 785 adults, Hedges' g ≈ -0.35 (95% CI -0.55 to -0.14), a small-to-medium effect. Anxiety g = -0.32 (20 trials); depressive symptoms g = -0.40 (18 trials). Most studies had moderate risk of bias. The authors warn against \"miscalibration between hype and evidence.\"\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9873947 | Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.) | Cell Reports Medicine | 2023 | Remote RCT (NCT05304000) comparing daily 5-minute cyclic sighing (exhale-focused), box breathing and cyclic hyperventilation with retention against mindfulness meditation over 1 month. Breathwork, especially cyclic sighing, improved mood more (p < 0.05) and lowered respiratory rate more (p < 0.05) than mindfulness. I couldn't confirm the sample size (I think it's about 108 to 111, but the page was behind a captcha), so leave the number out unless it's checked. Useful for the comparison table and for exhale-focused practice in general, not 4-6 specifically. Stanford summary: https://hubermanlab.stanford.edu/publications/brief-structured-respiration-practices-enhance-mood-and-reduce-physiological-arousal?.com\n\nhttps://www.nhs.uk/conditions/stress-anxiety-depression/ways-relieve-stress/ | Ways to relieve stress | NHS (UK) | current | The NHS describes a calming breathing technique for stress, anxiety and panic that \"takes just a few minutes and can be done anywhere.\" In through the nose, out through the mouth, \"Repeat for at least 5 minutes.\" Search snippets of the NHS breathing page say to count steadily 1 to 5 and to go shorter if 5 is too much, which supports the 3-5 on-ramp.\n\nhttps://www.nhsinform.scot/healthy-living/mental-wellbeing/breathing-and-relaxation-exercises/controlled-breathing-exercise | Controlled breathing exercise | NHS inform (Scotland) | current | 3-3-3-3 with holds, repeated for a few minutes. Says it helps if you feel dizzy or light-headed when anxious, and that dizziness should ease after a few minutes. Shows that official bodies also use hold-based patterns, which makes a fair comparison point.\n\nhttps://www.theppt.org.uk/wp-content/uploads/2024/03/Breathing-Out-Anxiety.pdf | Breathing Out Anxiety | The Pharmacy/PPT (UK mental health guide) | 2024 | In for 4 and out for 6. Advises not holding your breath, stopping if it isn't helpful, and building up gradually to 10 minutes.\n\nhttps://www.trybreathtaking.com/techniques/4-6-breathing | 4-6 Breathing: In for Four, Out for Six | Breathtaking (competitor) | n.d. | SERP reference only, not evidence. About 10 seconds per breath, 6 per minute. \"Keep the ratio, shorten the counts\" if it's too much. Calls 4-7-8 stronger and harder to sustain.\n\n## SAFETY\n\n- Stop and go back to normal breathing if you feel dizzy, lightheaded, tingly or short of air, or have chest discomfort. Sit or lie down while learning. Sources: NHS-trust leaflets in results (\"STOP the exercise and allow your breathing to return to its accustomed pattern\") and the Sheffield leaflet's advice to sit or lie down while getting used to it.\n- Don't force big breaths. Over-deep breathing can tip into over-breathing and faintness. The inhale should be soft, about 70 to 80% of a full breath. If 6 feels like air hunger, use 3-5 and keep the ratio.\n- 4-6 has no breath holds, so it's gentler than 4-7-8 or box breathing for people who find holds uncomfortable. Breath holds and fast breathing (e.g., cyclic hyperventilation) aren't for everyone: pregnancy, heart or lung conditions, history of fainting or panic.\n- People with respiratory or heart conditions should check with a clinician before regular practice.\n- Breathing can help you feel calmer and may reduce stress. It doesn't treat anxiety disorders, panic disorder or insomnia. If anxiety, distress or sleep problems persist, talk to a professional. In crisis, call 988 (US) or local emergency services.\n- If counting starts to feel stressful (perfectionism about the count), drop the numbers and just make the out-breath a bit longer than the in-breath.\n\n**Notes for the writer**\n- Searching didn't turn up the 2025 Frontiers 4:6 study that Breathtaking cites (n=17, d = -1.46), so I have no URL for it. Don't cite it.\n- No Reddit or forum results came up, so the questions above come from SERP FAQs and pattern confusion.\n\nSources:\n- [trybreathtaking.com: 4-6 Breathing](https://www.trybreathtaking.com/techniques/4-6-breathing)\n- [QuietKit: 4-6 Breathing Technique](https://quietkit.com/4-6-breathing/)\n- [RoundGlass Living: quiet your mind with 4-6 breathing](https://roundglassliving.com/tips/quiet-your-mind-with-4-6-breathing)\n- [PPT: Breathing Out Anxiety (PDF)](https://www.theppt.org.uk/wp-content/uploads/2024/03/Breathing-Out-Anxiety.pdf)\n- [Calm: benefits of a long exhale](https://www.calm.com/blog/long-exhale)\n- [Mindful: the power of the long exhale](https://www.mindful.org/practice-the-power-of-the-long-exhale/)\n- [Birdee et al. 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10395759/)\n- [Meehan & Shaffer 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11310264/)\n- [Van Diest et al. 2014](https://research.vu.nl/en/publications/inhalationexhalation-ratio-modulates-the-effect-of-slow-breathing/)\n- [Lin et al. 2014](https://pubmed.ncbi.nlm.nih.gov/24380741/)\n- [Zaccaro et al. 2018](https://pubmed.ncbi.nlm.nih.gov/30245619/)\n- [Laborde et al. 2022](https://eprints.bournemouth.ac.uk/38169/)\n- [Fincham et al. 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/)\n- [Balban et al. 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947)\n- [NHS: ways to relieve stress](https://www.nhs.uk/conditions/stress-anxiety-depression/ways-relieve-stress/)\n- [NHS inform: controlled breathing](https://www.nhsinform.scot/healthy-living/mental-wellbeing/breathing-and-relaxation-exercises/controlled-breathing-exercise)"
+}

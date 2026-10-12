@@ -354,7 +354,8 @@
       "content_type": "how-to",
       "angle": "Why a longer out-breath is the core of DeRot's Calm 4-6 pattern, explained simply.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "4-6-breathing-how-to"
     },
     {
       "keyword": "4-6 breathing",
@@ -366,8 +367,10 @@
       "content_type": "how-to",
       "angle": "Own the term: the Calm 4-6 pattern, how to do it, and why it is gentler than holds.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Near-empty SERP."
+      "status": "published",
+      "notes": "Near-empty SERP.",
+      "post": "4-6-breathing-how-to",
+      "published": "2026-10-12"
     },
     {
       "keyword": "breathing with longer exhale than inhale",
@@ -379,7 +382,8 @@
       "content_type": "explainer",
       "angle": "The physiology of exhale-led breathing for people who want to know why it calms them.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "4-6-breathing-how-to"
     },
     {
       "keyword": "exhale longer than inhale why",
@@ -502,7 +506,8 @@
       "content_type": "tool",
       "angle": "A true 60-second guided breath, the same length as a DeRot reset.",
       "seasonality": [],
-      "status": "tool"
+      "status": "covered",
+      "covered_by": "4-6-breathing-how-to"
     },
     {
       "keyword": "breathing pacer",
@@ -2901,9 +2906,10 @@
       "content_type": "tool",
       "angle": "Point to the free calm 4-6 breathing tool with a short guide on how to use it.",
       "seasonality": [],
-      "status": "tool",
+      "status": "covered",
       "source": "expansion",
-      "added": "2026-10-11"
+      "added": "2026-10-11",
+      "covered_by": "4-6-breathing-how-to"
     },
     {
       "keyword": "how long to do 4 6 breathing",
