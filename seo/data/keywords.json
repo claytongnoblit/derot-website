@@ -1904,7 +1904,8 @@
         11,
         12
       ],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "is-scrolling-before-bed-bad"
     },
     {
       "keyword": "is scrolling before bed bad",
@@ -1920,7 +1921,9 @@
         11,
         12
       ],
-      "status": "queued"
+      "status": "published",
+      "post": "is-scrolling-before-bed-bad",
+      "published": "2026-10-14"
     },
     {
       "keyword": "how to stop scrolling in bed",
@@ -1949,7 +1952,8 @@
       "content_type": "faq",
       "angle": "Why you feel wired at bedtime and a 2-minute down-shift.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "is-scrolling-before-bed-bad"
     },
     {
       "keyword": "blue light vs stimulation sleep",
@@ -1961,7 +1965,8 @@
       "content_type": "explainer",
       "angle": "Myth check: it is the content and arousal more than the light.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "is-scrolling-before-bed-bad"
     },
     {
       "keyword": "bedtime breathing exercise",

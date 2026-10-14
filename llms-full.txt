@@ -1,5 +1,163 @@
 # DeRot blog: full text
 
+# Is Scrolling Before Bed Bad? What Matters More Than Blue Light
+
+URL: https://derot.org/blog/is-scrolling-before-bed-bad/
+Updated: 2026-10-14
+
+Key takeaways:
+- Scrolling before bed isn't automatically bad: a 2024 panel of 16 experts agreed that screens harm sleep in children and teens, but reached no consensus for adults.
+- Phone light can lower melatonin, but at typical phone brightness the effect is usually modest, and sensitivity to evening light varies more than 50-fold between people.
+- Night Shift made no measurable difference to sleep in a 2021 study of 167 adults aged 18 to 24.
+- For many adults the bigger costs are a later bedtime and content that leaves them wired. Each extra hour of screen use in bed was linked to about 24 fewer minutes of sleep.
+- How you feel when you put the phone down, drowsy or wired, tells you more about your sleep than your screen-time number does.
+
+Scrolling before bed isn't automatically bad for sleep. For most adults, the blue light from a phone is probably a smaller factor than the headlines suggest. What tends to matter more is how much later the "one more" loop pushes your bedtime, and how wound up you feel when you finally put the phone down.
+
+Most advice skips that last part. Two people can scroll for the same 30 minutes and have very different nights. One drifts off. The other lies there with a busy head and a tight jaw. The minutes matter less than the state you're in when you stop.
+
+## Is scrolling before bed bad? What the experts actually agree on
+
+Researchers agree about children and teenagers, and they don't agree about adults. In 2024, [a panel of 16 experts reviewed more than 2,200 articles on screens and sleep](https://www.colorado.edu/today/2024/05/28/light-or-content-what-we-know-about-screens-and-sleep-disruption) and reached consensus that screens and the content on them impair sleep in children and adolescents. They did not reach consensus on whether screen light impairs sleep for anyone, or on whether screen time, light or content affects adults.
+
+That's worth sitting with, given how confidently most articles open with "yes, it's bad."
+
+One of the largest recent studies of young adults points somewhere more specific. In [a 2025 study of 45,202 students aged 18 to 28](https://www.frontiersin.org/news/2025/03/31/hours-screen-use-after-bed-increases-insomnia-risk-frontiers-psychiatry), each extra hour of screen use after going to bed was linked to 59% higher odds of insomnia symptoms and about 24 fewer minutes of sleep. Social media was no worse than other things people did on screens in bed. Total time in bed with a screen mattered more than the app.
+
+That study is cross-sectional, a single snapshot, so it can't show which way the arrow points. Still, it nudges the useful question away from "is my phone bad for me?" and toward "what is my scroll doing to me tonight?"
+
+## Three ways a bedtime scroll can affect sleep
+
+A bedtime scroll can affect your sleep in three different ways: through the light from the screen, by pushing your bedtime later, or by leaving your mind and body activated. Each has its own evidence, and most articles blend them together. Pulling them apart tells you which one, if any, applies to you.
+
+| Mechanism | What it does | Evidence in adults | What helps |
+|---|---|---|---|
+| Light | Screen light can suppress melatonin and nudge your body clock later | Real in lab studies, usually modest at normal phone brightness; sensitivity varies a lot | Lower brightness, dim room lights; night mode helps only a little |
+| Bedtime displacement | "One more" pushes sleep later, so you get less of it | Consistent links with shorter sleep, mostly from snapshot surveys | A rough stop time; phone charging across the room |
+| Arousal | Charged content keeps your mind busy and your body activated | Plausible and expert-backed, but no formal consensus | Gentler content; a slow-exhale breath before you settle |
+
+## Does blue light from your phone really suppress melatonin?
+
+Yes, bright evening light, including screen light, can suppress melatonin, the hormone that rises in the evening as your body gets ready for sleep. The real question is how much a phone at ordinary brightness does, and for most adults the answer seems to be "some, but less than you've heard."
+
+The study behind many headlines is [a 2015 lab experiment in which 12 adults read on a light-emitting eReader for four hours a night, five nights in a row](https://pubmed.ncbi.nlm.nih.gov/25535358/). Compared with reading a printed book, melatonin was suppressed by 55%, its evening rise came more than 1.5 hours later, and falling asleep took about 10 minutes longer (25.7 versus 15.8 minutes). Those are real effects. They also came from four hours of reading in a dim lab, night after night, which isn't how most people use a phone.
+
+A closer match to everyday life: [a 2024 study found that 90 minutes of reading on a smartphone lowered melatonin, but whole-night sleep was largely unaffected](https://academic.oup.com/braincomms/article/6/3/fcae173/7675955). The adults in that study had a little less deep sleep early in the night, and that was about it. It included only males aged 14 to 25, so it doesn't settle the question for everyone.
+
+Brightness is part of the story. Stanford sleep researcher Jamie Zeitzer [estimates that a phone at night gives off roughly 25 to 50 lux, compared with 10,000 to 100,000 lux from sunlight](https://lifestylemedicine.stanford.edu/screen-time-and-sleep-its-different-for-adults).
+
+### Why "it's probably fine" isn't the whole answer
+
+People differ a lot in how sensitive they are to evening light. In [a 2019 study of 55 adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC6575863), melatonin was half-suppressed at about 25 lux on average, but individual sensitivity ranged from 6 to 350 lux, a more than 50-fold difference. That study used room lighting, not phones, so it doesn't translate directly. What it does show is that an "average" effect hides a wide spread. Screen light may barely register for one person and matter more for another.
+
+So blue light isn't nothing. For most adults it's just unlikely to be the main event.
+
+## Does night mode or Night Shift help you sleep?
+
+Night mode probably does little for sleep on its own. In [a 2021 BYU study of 167 adults aged 18 to 24](https://sleepreviewmag.com/sleep-treatments/therapy-devices/emerging-technology/apples-night-shift-help-sleep/), sleep did not differ between people who used their phone with Night Shift on, with Night Shift off, or who didn't use a phone at all in the hour before bed. The [BYU researchers pointed to psychological stimulation](https://magazine.byu.edu/article/good-night-night-mode) as a separate factor, one a warmer tint can't touch.
+
+A [small University of Salzburg pilot of 14 people](https://www.plus.ac.at/news/impact-of-evening-smartphone-use/?lang=en) found that blue-light filters only partly softened the effects of evening smartphone light.
+
+The verdict: if you like the warmer screen, leave night mode on. It's harmless. Just don't count on it to fix a bad night. The same goes for blue-light glasses: none of the studies here tested them, and we wouldn't spend money expecting them to change your sleep. If you suspect you're light-sensitive, turning the brightness down and keeping room lights low is simpler.
+
+## The bigger factor: "one more" and a later bedtime
+
+For many people, the main cost of a bedtime scroll is time. You pick up the phone at 10:40 to check one thing, and the next time you look at the clock it's 11:55. In [the 2025 student study](https://www.frontiersin.org/news/2025/03/31/hours-screen-use-after-bed-increases-insomnia-risk-frontiers-psychiatry), each extra hour of screen use after going to bed went with about 24 fewer minutes of sleep.
+
+Researchers call this bedtime procrastination: putting off sleep without a real reason to stay up. In [a 2024 study of 245 adolescents](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11059092/), bedtime procrastination helped explain the link between problematic phone use and poor sleep quality. That study was of teenagers and was cross-sectional, so treat it as a plausible mechanism for adults rather than proof.
+
+There's also a direction problem. Snapshot studies measure everything at once, so poor sleepers may reach for the phone because they can't sleep, not only the other way around. If you've ever lain awake and picked up your phone out of restlessness, you know that loop from the inside.
+
+## Why some content leaves you wired
+
+What you scroll may matter more than the light it's shown on. Zeitzer [argues that emotionally activating content probably matters more than screen light](https://lifestylemedicine.stanford.edu/screen-time-and-sleep-its-different-for-adults). Some people use soothing videos to wind down, though he cautions that even positive content can be stimulating. [Sleep experts at Singapore General Hospital](https://www.sgh.com.sg/news/patient-care/is-your-phone-keeping-you-awake-4-tips-for-sleep-deprived-sporeans) make a similar point: how long you use the phone near bedtime and how emotionally stimulating the content is matter more in delaying sleep.
+
+Think about what a typical feed serves up in five minutes: a friend's baby photo, a heated argument in the comments, a work message, a news alert, a clip that makes you laugh out loud. Each one asks your nervous system to respond. Your heart runs a little quicker, your jaw sets, your thoughts start replaying the reply you didn't write. That's arousal in the physiological sense, and it's close to the opposite of the slow, heavy settling that sleep needs.
+
+To be honest about the evidence: this explanation is plausible and backed by experts, but the 2024 panel [found no consensus on content and adult sleep either](https://www.colorado.edu/today/2024/05/28/light-or-content-what-we-know-about-screens-and-sleep-disruption). Treat it as a strong hunch you can test against your own nights. For more on this pattern, see [why doomscrolling at night leaves you wired](/blog/doomscrolling-at-night/).
+
+## Why you fall asleep fine some nights and lie awake on others
+
+Sleep pressure explains a lot of it. The longer you've been awake and the more tired you are, the stronger your drive to sleep. BYU researcher Chad Jensen [summed it up this way: when you're very tired, you fall asleep regardless](https://sleepreviewmag.com/sleep-treatments/therapy-devices/emerging-technology/apples-night-shift-help-sleep/) of what you did on your phone.
+
+So after a long, draining day, a 30-minute scroll may cost you almost nothing. On a night when you're less tired, or when the feed served up something that got under your skin, the same habit can leave you staring at the ceiling.
+
+Two other things move from night to night. Your sensitivity to light is your own ([and it varies widely between people](https://pmc.ncbi.nlm.nih.gov/articles/PMC6575863)), and what you happened to see changes every time you open the app. Inconsistent nights don't mean you're doing something wrong. They mean the scroll is one input among several.
+
+## The drowsy-or-wired test
+
+The most useful data point is how you feel in the moment you put the phone down. Next time, before you roll over, take ten seconds and notice:
+
+- **Eyelids:** heavy, or wide open?
+- **Jaw and shoulders:** soft, or held?
+- **Thoughts:** drifting, or replaying something you read?
+- **Heart:** slow and unremarkable, or a little quick?
+
+**If you're drowsy,** the scroll is probably harmless, or its main cost is time. If you're waking up short on sleep, the thing to change is when you stop, not whether you scroll. Try a rough stop time for a week and see whether you wake up better rested.
+
+**If you're wired,** arousal is the likely issue, and night mode won't touch it. What helps is changing what you look at in the last stretch (some people do fine with familiar, low-stakes content), stopping earlier, or bringing your body down before you try to sleep. If what you watch leaves you distressed or excited, Zeitzer suggests [putting the phone down about an hour before bed](https://lifestylemedicine.stanford.edu/screen-time-and-sleep-its-different-for-adults). That's expert advice rather than a tested cutoff, so treat it as a starting point you can adjust.
+
+Run the check for a week. Many people find a pattern quickly: one app, one topic, or one kind of late-night thread that reliably leaves them buzzing, while other scrolling barely registers.
+
+## If you're wired: a slow-exhale breath to come down
+
+A slow breath with a longer exhale is a simple way to come down from a wired scroll. Calm 4-6 breathing means breathing in for a count of 4 and out for a count of 6, which works out to about six breaths per minute. One minute is six breaths.
+
+1. Put the phone face down on the nightstand.
+2. Breathe in gently through your nose for a count of 4, letting your belly rise.
+3. Breathe out slowly through your nose or softly parted lips for a count of 6.
+4. Repeat for about 60 seconds, roughly six breaths.
+5. Check again: jaw, shoulders, thoughts. Notice whether anything has softened.
+
+If counting in the dark is annoying, the [calm 4-6 breathing timer](/tools/calm-breathing-4-6/) paces it for you. For more detail on technique and common mistakes, see [how to do 4-6 breathing in 60 seconds](/blog/4-6-breathing-how-to/).
+
+### What the evidence does and doesn't show
+
+The most relevant trial is encouraging. In [a 2019 randomized trial with 64 participants analyzed](https://pmc.ncbi.nlm.nih.gov/articles/PMC6406675/), 15 minutes of slow breathing at about six breaths per minute each evening for 30 days improved self-reported sleep quality and overnight vagal activity (a marker of the nervous system's calming branch). A comparison group that spent the same 15 minutes on social media saw no change. That was 15 minutes a night for a month, though. A 60-second version is less tested.
+
+A [2020 pilot of 20 young adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7198497/) found that 30 minutes of slow breathing before bed raised heart rate variability right away but had no robust effect on sleep measured in the lab. The honest summary: slow breathing can help you feel calmer in the moment, which may make settling easier. It isn't a sleep treatment.
+
+That mid-scroll moment, when you notice you're wound up but still holding the phone, is what DeRot is being built for. It meets you mid-scroll and walks you through a minute of breathing, so you put the phone down with your shoulders lower and your head quieter. It's coming soon to iOS. For a fuller wind-down routine, see the [night doomscrolling guide](/blog/doomscrolling-at-night/), and browse more in [sleep and winding down](/blog/topics/sleep-and-winding-down/).
+
+### A few safety notes
+
+Keep the breathing gentle. If you feel dizzy or lightheaded, stop and breathe normally. The 4-6 pattern has no breath holds, but if you're pregnant, have a heart or lung condition, or have a history of fainting or panic, skip breath holds and fast breathing and check with your doctor before trying new techniques.
+
+Changing your phone habits or your breathing won't treat insomnia. If poor sleep happens most nights for several weeks, or it's affecting your days, talk to a doctor or sleep specialist. If the wired feeling is really recurring anxiety or distress, a professional can help. If you might be in crisis, contact local emergency services, or call or text 988 in the US.
+
+## FAQ
+**Is social media worse than watching TV or reading on my phone before bed?**
+Not necessarily. In a 2025 study of 45,202 students aged 18 to 28, social media was no worse for sleep than other screen activities in bed. Total time on screens after going to bed mattered more. What you see still counts, though: a heated comment thread can leave you more activated than a familiar show. How you feel when you stop is a better guide than the app's name.
+
+**How long before bed should I stop using my phone?**
+There's no tested cutoff. If what you watch leaves you distressed or excited, Stanford sleep researcher Jamie Zeitzer suggests stopping about an hour before bed, but that's expert advice rather than a rule from the studies here. A practical approach is to notice how you feel when you put the phone down. If you're drowsy and sleeping enough, your current habit may be fine. If you're wired or regularly losing sleep, try stopping earlier or switching to calmer content.
+
+**Do blue-light glasses help with sleep?**
+There isn't good evidence that they do, and none of the research reviewed for this article tested them. Related studies suggest blue-light filters only partly soften the effects of evening phone light, and Night Shift made no measurable difference to sleep in a 2021 study of young adults. Lowering screen brightness and keeping room lights dim is simpler and costs nothing.
+
+**Is it okay to watch calming videos to fall asleep?**
+For some people, yes. Stanford sleep researcher Jamie Zeitzer has said emotionally activating content probably matters more than screen light, though he cautions that even positive content can be stimulating. If a quiet, familiar video leaves you drowsy, it's likely fine. If you keep queuing up one more and bedtime keeps slipping later, the cost is lost sleep time.
+
+**What should I do if I feel wired after scrolling in bed?**
+Put the phone face down and try a minute of slow breathing with a longer exhale, such as breathing in for 4 counts and out for 6. It can help you feel calmer in the moment, though it isn't a sleep treatment. Stop if you feel lightheaded. If feeling wired at night is a regular pattern tied to anxiety or distress, talk to a professional.
+
+## Sources
+- The light or the content? What we know about screens and sleep disruption: https://www.colorado.edu/today/2024/05/28/light-or-content-what-we-know-about-screens-and-sleep-disruption
+- Hours of screen use after bed increases insomnia risk: https://www.frontiersin.org/news/2025/03/31/hours-screen-use-after-bed-increases-insomnia-risk-frontiers-psychiatry
+- Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness: https://pubmed.ncbi.nlm.nih.gov/25535358/
+- High sensitivity and interindividual variability in the response of the human circadian system to evening light: https://pmc.ncbi.nlm.nih.gov/articles/PMC6575863
+- Effects of evening smartphone use on sleep and declarative memory consolidation in male adolescents and young adults: https://academic.oup.com/braincomms/article/6/3/fcae173/7675955
+- Impact of evening smartphone use: https://www.plus.ac.at/news/impact-of-evening-smartphone-use/?lang=en
+- Does Apple's Night Shift help sleep?: https://sleepreviewmag.com/sleep-treatments/therapy-devices/emerging-technology/apples-night-shift-help-sleep/
+- Night Mode Doesn't Actually Improve Sleep, BYU Researchers Find: https://magazine.byu.edu/article/good-night-night-mode
+- Screen Time and Sleep: It's Different for Adults: https://lifestylemedicine.stanford.edu/screen-time-and-sleep-its-different-for-adults
+- The Association Between Bedtime Procrastination, Sleep Quality, and Problematic Smartphone Use in Adolescents: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11059092/
+- Influence of a 30-Day Slow-Paced Breathing Intervention Compared to Social Media Use on Subjective Sleep Quality and Cardiac Vagal Activity: https://pmc.ncbi.nlm.nih.gov/articles/PMC6406675/
+- Is your phone keeping you awake? 4 tips for sleep-deprived Singaporeans: https://www.sgh.com.sg/news/patient-care/is-your-phone-keeping-you-awake-4-tips-for-sleep-deprived-sporeans
+- The Effects of Presleep Slow Breathing and Music Listening on Polysomnographic Sleep Measures: a pilot trial: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7198497/
+
+---
+
 # 4-6 Breathing: How to Do the Calm Pattern in 60 Seconds
 
 URL: https://derot.org/blog/4-6-breathing-how-to/
