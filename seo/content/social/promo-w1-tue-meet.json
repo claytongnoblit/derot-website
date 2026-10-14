@@ -50,9 +50,14 @@
   "threads_images": null,
   "platforms": {
     "instagram": {
-      "status": "queued",
+      "status": "posted",
       "scheduled_at": "2026-10-13T23:30:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "id": "18057471044641937",
+      "permalink": "https://www.instagram.com/p/DedRyH7nD-b/",
+      "posted_at": "2026-10-14T02:10:05+00:00",
+      "error": null,
+      "retry_after": null
     }
   },
   "built_at": "2026-10-09T05:00:00+00:00"
