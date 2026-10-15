@@ -45,9 +45,14 @@
   ],
   "platforms": {
     "threads": {
-      "status": "queued",
+      "status": "posted",
       "scheduled_at": "2026-10-15T21:00:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "id": "17943738327089001",
+      "permalink": "https://www.threads.com/@derotorg/post/DeiHtBGCXRr",
+      "posted_at": "2026-10-15T23:18:12+00:00",
+      "error": null,
+      "retry_after": null
     }
   },
   "built_at": "2026-10-09T05:00:00+00:00"
