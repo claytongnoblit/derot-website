@@ -63,9 +63,14 @@
       "retry_after": null
     },
     "instagram": {
-      "status": "queued",
+      "status": "posted",
       "scheduled_at": "2026-10-14T23:30:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "id": "17907271050591665",
+      "permalink": "https://www.instagram.com/p/Deft4usAI98/",
+      "posted_at": "2026-10-15T00:54:07+00:00",
+      "error": null,
+      "retry_after": null
     }
   },
   "images": [
