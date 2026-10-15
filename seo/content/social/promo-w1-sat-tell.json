@@ -1,0 +1,36 @@
+{
+  "kind": "promo",
+  "slug": "promo-w1-sat-tell",
+  "phase": "prelaunch",
+  "pillar": "reset",
+  "title": "A breathing exercise for doomscrolling, because your doomscroll has a tell.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "A breathing exercise for doomscrolling, because your doomscroll has a tell.\n\nCheck your shoulders right now. Up by your ears? Jaw tight? That's the feed winding you up, quietly, while you weren't looking.\n\nTwenty seconds of slow breathing, with the exhale longer than the inhale (in for 4, out for 6), is often enough to take the edge off. Save this for the next time you catch it.\n\nWhere did you feel it first? Tell us below.\n\nDeRot is coming soon to iPhone. It brings this minute to you mid-scroll. Launch list: link in bio.",
+    "instagram_hashtags": [
+      "doomscrolling",
+      "breathwork",
+      "breathingexercise",
+      "calmreset"
+    ]
+  },
+  "images": [],
+  "threads_images": null,
+  "reel": {
+    "path": "img/social/promo-w1-sat-tell/reel.mp4",
+    "url": "https://derot.org/img/social/promo-w1-sat-tell/reel.mp4",
+    "cover_path": "img/social/promo-w1-sat-tell/reel-cover.jpg",
+    "cover_url": "https://derot.org/img/social/promo-w1-sat-tell/reel-cover.jpg",
+    "duration": 37.1,
+    "hash": "e6acd722b21df092"
+  },
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-10-17T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-15T21:50:49+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "kind": "promo",
+  "slug": "promo-w3-tue-247",
+  "phase": "prelaunch",
+  "pillar": "reset",
+  "title": "Can't sleep after scrolling in bed? Try 4-7-8 breathing before the next video.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "Can't sleep after scrolling in bed? Try 4-7-8 breathing before the next video.\n\nThe content keeps your mind busy, so your body never gets the cue to wind down. 4-7-8 is a slow pattern a lot of people reach for at night: in for 4, hold for 7, out for 8.\n\nTwo to four rounds is plenty. If the hold makes you lightheaded, skip it and just make the exhale long. Save this for tonight.\n\nWhat time did you put your phone down last night? No judgment.\n\nDeRot is coming soon to iPhone. Launch list: link in bio.",
+    "instagram_hashtags": [
+      "cantsleep",
+      "478breathing",
+      "doomscrolling",
+      "breathwork"
+    ]
+  },
+  "images": [],
+  "threads_images": null,
+  "reel": {
+    "path": "img/social/promo-w3-tue-247/reel.mp4",
+    "url": "https://derot.org/img/social/promo-w3-tue-247/reel.mp4",
+    "cover_path": "img/social/promo-w3-tue-247/reel-cover.jpg",
+    "cover_url": "https://derot.org/img/social/promo-w3-tue-247/reel-cover.jpg",
+    "duration": 49.9,
+    "hash": "2ced396c47b0bac6"
+  },
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-10-27T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-15T21:50:49+00:00"
+}

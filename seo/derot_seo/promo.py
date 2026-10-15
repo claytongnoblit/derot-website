@@ -1,6 +1,7 @@
 """Promotional posts for Threads and Instagram, from seo/content/promo/plan.yaml.
 
-`build` renders every post's images to img/social/promo-<id>/ and writes one
+`build` renders every post's images (and Instagram Reels, from a post's `reel`
+beats; see social_reels.py) to img/social/promo-<id>/ and writes one
 package per post into seo/content/social/promo-<id>.json, the same queue the
 article posts use, so the hourly SEO social workflow posts them on schedule.
 Launch posts stay out of the queue until `launch --date` (which needs the App
@@ -17,6 +18,7 @@ import yaml
 
 from . import qa, social
 from . import social_images as simg
+from . import social_reels as reels
 from .util import SEO_DIR, SITE_DIR, now_utc, read_json
 
 PLAN = SEO_DIR / "content" / "promo" / "plan.yaml"
@@ -53,6 +55,8 @@ def check_post(post: dict) -> list[str]:
     fields = [("text", post.get("text", "")) if post["platform"] == "threads" else ("caption", post.get("caption", ""))]
     for i, s in enumerate(post.get("slides") or []):
         fields += [(f"slides[{i}].headline", s.get("headline", "")), (f"slides[{i}].body", s.get("body", ""))]
+    for i, b in enumerate(post.get("reel") or []):
+        fields += [(f"reel[{i}].{k}", v) for k, v in reels.beat_text(b)]
     for name, text in fields:
         if re.search(r"[—–]", text):
             errors.append(f"{name}: em or en dash")
@@ -81,8 +85,13 @@ def check_post(post: dict) -> list[str]:
             errors.append("caption: no URLs on Instagram")
         if len(cap) + sum(len(h) + 2 for h in post.get("hashtags") or []) > social.IG_CAPTION_MAX:
             errors.append("caption too long")
-        if not post.get("slides"):
-            errors.append("instagram post needs slides")
+        if not post.get("slides") and not post.get("reel"):
+            errors.append("instagram post needs a reel or slides")
+        if post.get("reel"):
+            errors += reels.check_beats(post["reel"], simg.SCREENS)
+            ends = [b for b in post["reel"] if b.get("beat") == "end"]
+            if any(b.get("closing", "prelaunch") != post["phase"] for b in ends):
+                errors.append(f"reel end card does not match the {post['phase']} phase")
         n = len(post.get("slides") or []) + (1 if post.get("closing") else 0)
         if n > 10:
             errors.append(f"{n} images (Instagram carousels max out at 10)")
@@ -110,9 +119,17 @@ def check_plan(plan: dict) -> list[str]:
                     errors.append(f"{p['id']}: slide numbers out of range for {ref['post']}")
                 if src["phase"] != p["phase"]:
                     errors.append(f"{p['id']}: borrows images from a {src['phase']} post")
+        if p["platform"] == "threads":
+            topic = _topic(plan, p)
+            if topic and (len(topic) > 50 or re.search(r"[.&#]", topic)):
+                errors.append(f"{p['id']}: topic '{topic}' must be 1-50 characters with no . & or #")
         if p["phase"] == "prelaunch" and p.get("day") not in DAYS:
             errors.append(f"{p['id']}: day must be one of {', '.join(DAYS)}")
     return errors
+
+
+def _topic(plan: dict, post: dict) -> str:
+    return post.get("topic") or (plan.get("topics") or {}).get(post.get("pillar") or "", "")
 
 
 def _slot(plan: dict, post: dict, launch_date: Optional[dt.date]) -> dt.datetime:
@@ -155,11 +172,30 @@ def build(cfg: dict, plan: Optional[dict] = None, launch_date: Optional[dt.date]
     posts = [p for p in _all_posts(plan) if p["phase"] in phases]
     rendered: dict[str, list[dict]] = {}
     counts = {"queued": 0, "kept": 0, "past": 0, "launch_previewed": 0}
-    if "launch" not in phases:  # render launch images now so they can be reviewed in the calendar
+    if "launch" not in phases:  # render launch media now so they can be reviewed in the calendar
         for p in _all_posts(plan):
-            if p["phase"] == "launch" and p.get("slides"):
-                _images(p, base)
+            if p["phase"] == "launch" and (p.get("slides") or p.get("reel")):
+                if p.get("slides"):
+                    _images(p, base)
+                if p.get("reel"):
+                    _reel(p, cfg)
                 counts["launch_previewed"] += 1
+
+    # Posts taken out of the plan (or moved to a new id) must not go out from an old package.
+    plan_slugs = {f"promo-{p['id']}" for p in _all_posts(plan)}
+    counts["removed"] = 0
+    for f in sorted(social.SOCIAL_DIR.glob("promo-*.json")):
+        old = read_json(f)
+        if old.get("kind") != "promo" or old["slug"] in plan_slugs:
+            continue
+        changed = False
+        for st in (old.get("platforms") or {}).values():
+            if st.get("status") == "queued":
+                st.update(status="skipped", error="removed from the promo plan")
+                changed = True
+        if changed:
+            social.save_package(old)
+            counts["removed"] += 1
 
     for p in sorted(posts, key=lambda x: 0 if x.get("slides") else 1):  # sources before borrowers
         slug = f"promo-{p['id']}"
@@ -177,6 +213,7 @@ def build(cfg: dict, plan: Optional[dict] = None, launch_date: Optional[dt.date]
             images = [src[i - 1] for i in p["images"]["slides"] if i - 1 < len(src)]
         else:
             images = []
+        reel = _reel(p, cfg) if p.get("reel") else None
         url = p.get("url") or (app_url if p["phase"] == "launch" else plan["cta_url"])
         slot = _slot(plan, p, launch_date)
         status = "queued"
@@ -193,6 +230,8 @@ def build(cfg: dict, plan: Optional[dict] = None, launch_date: Optional[dt.date]
             "title": (p.get("text") or p.get("caption") or "").split("\n")[0][:90],
             "url": url, "approved": True, "copy": copy, "images": images,
             "threads_images": images if p["platform"] == "threads" else None,
+            **({"reel": reel} if reel else {}),
+            **({"threads_topic": _topic(plan, p)} if p["platform"] == "threads" and _topic(plan, p) else {}),
             "platforms": {p["platform"]: {"status": status, "scheduled_at": slot.isoformat(), "attempts": 0,
                                           **({"error": "date passed before the plan was built"} if status == "skipped" else {})}},
             "built_at": now.replace(microsecond=0).isoformat(),
@@ -200,6 +239,17 @@ def build(cfg: dict, plan: Optional[dict] = None, launch_date: Optional[dt.date]
         social.save_package(pkg)
         counts["queued" if status == "queued" else "past"] += 1
     return counts
+
+
+def _reel(post: dict, cfg: dict) -> dict:
+    """Render (or reuse, if the beats haven't changed) a post's reel."""
+    return social.reel_files(social.IMG_DIR / f"promo-{post['id']}", post["reel"], cfg)
+
+
+def _disk_reel(post: dict) -> Optional[dict]:
+    """The reel rendered for a post that has no package yet (launch posts), if any."""
+    meta = social.IMG_DIR / f"promo-{post['id']}" / "reel.json"
+    return read_json(meta) if meta.exists() else None
 
 
 def _disk_images(post: dict, by_id: dict) -> list[dict]:
@@ -235,8 +285,12 @@ def calendar_html(cfg: dict, out: Path, plan: Optional[dict] = None) -> Path:
         if week != cur_week:
             rows.append(f"<h2>{e(week)}</h2>")
             cur_week = week
-        imgs = pkg.get("images") or _disk_images(p, by_id)
+        reel = pkg.get("reel") or (_disk_reel(p) if p.get("reel") else None)
+        imgs = [] if p.get("reel") else (pkg.get("images") or _disk_images(p, by_id))
         strip = "".join(f'<img loading="lazy" src="{e(rel + "/" + i["path"])}" alt="{e(i["alt"])}">' for i in imgs)
+        if reel:
+            strip = (f'<video controls playsinline preload="none" poster="{e(rel + "/" + reel["cover_path"])}" '
+                     f'src="{e(rel + "/" + reel["path"])}"></video><span class="dur">Reel, {reel["duration"]:.0f}s</span>')
         text = p.get("text", "").replace("{url}", pkg.get("url") or p.get("url") or "(App Store link)") \
             if p["platform"] == "threads" else p.get("caption", "") + "\n\n" + " ".join("#" + t for t in p.get("hashtags") or [])
         badge = st.get("status", "not queued")
@@ -254,10 +308,11 @@ h2{{font-size:13px;color:#F2C48A;text-transform:uppercase;letter-spacing:.1em;ma
 .meta{{display:flex;flex-wrap:wrap;gap:10px;align-items:center;font-size:13px;color:#B9AC9E;margin-bottom:10px}}
 .plat{{font-weight:700;color:#F5EDE3}} .instagram .plat{{color:#F2A341}} .pill{{border:1px solid #3a2c20;border-radius:99px;padding:0 8px}}
 .st{{color:#E9D9C6}} code{{margin-left:auto;font-size:12px;color:#7d7064}} a{{color:#F2A341}}
-.strip{{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px;margin-bottom:10px}} .strip img{{width:200px;border-radius:8px;flex:none}}
+.strip{{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px;margin-bottom:10px;align-items:flex-end}} .strip img{{width:200px;border-radius:8px;flex:none}}
+.strip video{{width:220px;border-radius:10px;flex:none;background:#000}} .dur{{font-size:13px;color:#B9AC9E}}
 pre{{white-space:pre-wrap;margin:0;font:inherit;color:#E9D9C6}}
 </style></head><body><main><h1>DeRot promo calendar</h1>
-<p class="lede">Threads Mon to Fri, Instagram Tue and Sat, plus the automatic blog shares. Source: seo/content/promo/plan.yaml.</p>
+<p class="lede">Threads Mon to Fri, Instagram Reels Tue, Thu and Sat, plus the automatic blog shares (also Reels on Instagram). Source: seo/content/promo/plan.yaml.</p>
 {''.join(rows)}</main></body></html>"""
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(doc, encoding="utf-8")

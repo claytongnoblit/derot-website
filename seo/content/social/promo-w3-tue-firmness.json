@@ -49,9 +49,10 @@
   "threads_images": null,
   "platforms": {
     "instagram": {
-      "status": "queued",
+      "status": "skipped",
       "scheduled_at": "2026-10-27T23:30:00+00:00",
-      "attempts": 0
+      "attempts": 0,
+      "error": "removed from the promo plan"
     }
   },
   "built_at": "2026-10-09T05:00:00+00:00"

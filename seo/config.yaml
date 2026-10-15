@@ -165,5 +165,10 @@ social:
   backfill_days: 7        # `social prepare --missing` looks back this far
   platforms:
     facebook:  { enabled: true, post_at: "16:30", day_offset: 0, format: link, utm: true }   # 12:30pm ET
-    threads:   { enabled: true, post_at: "16:30", day_offset: 0, media: cover }             # cover | carousel | link
-    instagram: { enabled: true, post_at: "23:30", day_offset: 0 }                           # 7:30pm ET
+    threads:   { enabled: true, post_at: "16:30", day_offset: 0, media: cover, topic_tag: Breathwork }   # media: cover | carousel | link; one topic per post
+    instagram: { enabled: true, post_at: "23:30", day_offset: 0, format: reel }             # 7:30pm ET; reel | carousel
+  reels:
+    # Optional background track for every reel, relative to seo/ (e.g. assets/audio/calm.m4a).
+    # Must be royalty-free and cleared for social use. Empty = a silent track. The API can't
+    # attach Instagram's music library, so trending audio is only possible by posting in the app.
+    audio: ""

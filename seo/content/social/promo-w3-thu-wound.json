@@ -1,0 +1,36 @@
+{
+  "kind": "promo",
+  "slug": "promo-w3-thu-wound",
+  "phase": "prelaunch",
+  "pillar": "feeling",
+  "title": "Three signs scrolling has you wound up, and a 10-second breathing reset for it.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "Three signs scrolling has you wound up, and a 10-second breathing reset for it.\n\nShoulders up. Breath short and high in the chest. Jaw tight. None of it means you did anything wrong. It's a cue to come back down for a minute.\n\nOne long, slow exhale is a good start. About a minute is usually enough to feel the edge come off.\n\nWhich one did you notice first? Tell us below.\n\nDeRot is coming soon to iPhone. Launch list: link in bio.",
+    "instagram_hashtags": [
+      "doomscrolling",
+      "mindfulscrolling",
+      "breathwork",
+      "digitalwellbeing"
+    ]
+  },
+  "images": [],
+  "threads_images": null,
+  "reel": {
+    "path": "img/social/promo-w3-thu-wound/reel.mp4",
+    "url": "https://derot.org/img/social/promo-w3-thu-wound/reel.mp4",
+    "cover_path": "img/social/promo-w3-thu-wound/reel-cover.jpg",
+    "cover_url": "https://derot.org/img/social/promo-w3-thu-wound/reel-cover.jpg",
+    "duration": 28.4,
+    "hash": "8490ce6a458772b6"
+  },
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-10-29T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-15T21:50:49+00:00"
+}

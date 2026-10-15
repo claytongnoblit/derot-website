@@ -1,0 +1,36 @@
+{
+  "kind": "promo",
+  "slug": "promo-w2-sat-screentime",
+  "phase": "prelaunch",
+  "pillar": "pov",
+  "title": "Screen time and how you actually feel are two different things. Your screen time app only ",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "Screen time and how you actually feel are two different things. Your screen time app only tracks one of them.\n\nIt counts minutes. But you've probably had ten minutes that left you rattled and an hour that left you fine.\n\nWe care about the part after. The tight jaw, the shallow breath, the buzz that follows you into whatever you do next.\n\nDo you check your screen time report? Does it ever help? Honest answers welcome.\n\nComing soon to iPhone. Launch list: link in bio.",
+    "instagram_hashtags": [
+      "screentime",
+      "digitalwellbeing",
+      "doomscrolling",
+      "mindfultech"
+    ]
+  },
+  "images": [],
+  "threads_images": null,
+  "reel": {
+    "path": "img/social/promo-w2-sat-screentime/reel.mp4",
+    "url": "https://derot.org/img/social/promo-w2-sat-screentime/reel.mp4",
+    "cover_path": "img/social/promo-w2-sat-screentime/reel-cover.jpg",
+    "cover_url": "https://derot.org/img/social/promo-w2-sat-screentime/reel-cover.jpg",
+    "duration": 23.9,
+    "hash": "083596aa4eb9dca5"
+  },
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-10-24T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-15T21:50:49+00:00"
+}

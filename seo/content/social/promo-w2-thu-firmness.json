@@ -11,18 +11,19 @@
   },
   "images": [
     {
-      "path": "img/social/promo-w3-tue-firmness/slide-02.jpg",
-      "url": "https://derot.org/img/social/promo-w3-tue-firmness/slide-02.jpg",
+      "path": "img/social/promo-w2-thu-firmness/slide-01.jpg",
+      "url": "https://derot.org/img/social/promo-w2-thu-firmness/slide-01.jpg",
       "alt": "Three levels of firm Pick the one that fits how you want to feel."
     }
   ],
   "threads_images": [
     {
-      "path": "img/social/promo-w3-tue-firmness/slide-02.jpg",
-      "url": "https://derot.org/img/social/promo-w3-tue-firmness/slide-02.jpg",
+      "path": "img/social/promo-w2-thu-firmness/slide-01.jpg",
+      "url": "https://derot.org/img/social/promo-w2-thu-firmness/slide-01.jpg",
       "alt": "Three levels of firm Pick the one that fits how you want to feel."
     }
   ],
+  "threads_topic": "Digital Wellbeing",
   "platforms": {
     "threads": {
       "status": "queued",
@@ -30,5 +31,5 @@
       "attempts": 0
     }
   },
-  "built_at": "2026-10-09T05:00:00+00:00"
+  "built_at": "2026-10-15T21:50:49+00:00"
 }

@@ -33,58 +33,79 @@ About one post in three carries a call to action, so the feed reads as useful fi
 | | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|
 | Threads promo (21:00 UTC) | Feeling | Reset | POV | Product | Building | |
-| Instagram promo (23:30 UTC) | | Carousel | | | | Single image |
+| Instagram promo (23:30 UTC) | | Reel | | Reel | | Reel |
 | Blog share, automatic (Threads 16:30, Instagram 23:30) | Article | | Article | | Article | |
 
-That's 5 Threads promo posts and 2 Instagram promo posts a week, on top of the 3 blog shares. Threads rewards frequent text posts. Instagram rewards fewer posts that are worth saving.
+**Changed 2026-10-15:** Instagram switched from carousels to Reels, because Reels are where Instagram shows accounts to people who don't follow them yet. Instagram promo went from 2 to 3 posts a week, and article shares on Instagram are now Reels too. Threads is unchanged.
+
+That's 5 Threads promo posts and 3 Instagram promo Reels a week, on top of the blog shares.
+
+### What makes a DeRot reel work
+
+- **The first frame is the hook.** No logo, no intro, no fade. It has to make sense with the sound off, in about a second.
+- **Hooks that point at the viewer's body right now** are the strongest on-brand option ("Your jaw is probably clenched right now."). They're felt-experience first, which is exactly the copy rules, and people check, which buys the next three seconds.
+- **Breathe-alongs are the core format.** Watching the whole reel is the point, they loop, and people save them. Retention and saves are what push a reel to new people.
+- **Relatable moments** ("You opened the app to check one thing.") and **mild contrarian lines** ("Screen time was never the problem.") are the other two hook types. Rotate all three.
+- **Product last.** Cold viewers get value first; DeRot shows up in the last few seconds and on the end card.
+- **Caption line 1 carries search keywords.** Instagram works like a search engine, so the first line says what the reel is in words people type ("breathing exercise for doomscrolling", "can't sleep after scrolling"). "Link in bio" stays at the end for the launch list.
+- **Every caption asks one real question** to pull comments.
+- **Scroll break** is a weekly numbered breathe-along series (01, 02, ...). Series give people a reason to follow.
+- **Threads posts carry one topic tag** set per pillar in `plan.yaml` (`topics:`); article shares use `Breathwork`.
+- **No on-camera reels** (Clay's call, 2026-10-15). Ideas that need a face, trending audio, or Remix stay out of the automated calendar.
+- Hook ideas adapted from Muse, 2026-10-15. Reworded where they broke the copy rules: no breathe-before-you-open framing, no nervous-system or threat-system mechanism talk.
 
 ## Calendar (pre-launch: Oct 12 to Nov 7)
 
+Instagram before Oct 15 went out as carousels (Meet DeRot, Oct 13). Everything from Oct 17 is a Reel.
+
 **Week 1: introduce the idea**
 - Mon, Threads: the "check one thing, surface 20 minutes later" moment
-- Tue, Instagram: *Meet DeRot* carousel (6 slides with real screens: pick apps, mid-scroll pause, breathing, done)
+- Tue, Instagram: *Meet DeRot* carousel (posted before the switch)
 - Tue, Threads: 60-second calm breathing (in for 4, out for 6)
 - Wed, Threads: minutes are not the problem, the feeling is
 - Thu, Threads: how DeRot works in 3 steps (carousel of 3 screens)
 - Fri, Threads: "what made you turn your app blocker off?"
-- Sat, Instagram: *Scroll all you want. Just don't leave wired.*
+- Sat, Instagram Reel: *Your doomscroll has a tell.* (shoulders check, then breathe-along)
 
 **Week 2: be useful**
 - Mon, Threads: signs the scroll has gotten to you
-- Tue, Instagram: *Three 60-second resets for three moments* carousel
+- Tue, Instagram Reel: *Scroll break 01: Do this with us before you keep scrolling.* (calm breathe-along)
 - Tue, Threads: box breathing, with the free timer link
 - Wed, Threads: "use your phone less" is the wrong goal
 - Thu, Threads: the three firmness levels (with the firmness screen)
+- Thu, Instagram Reel: *You opened the app to check one thing.* (relatable, ends on the mid-scroll pause)
 - Fri, Threads: DeRot never stands at the door
-- Sat, Instagram: *Regulate, don't restrict.*
+- Sat, Instagram Reel: *Your screen time app is missing something.* (point of view)
 
-**Week 3: how it works**
+**Week 3: how it feels**
 - Mon, Threads: the feed doesn't feel stressful while you're in it
-- Tue, Instagram: *Choose how firmly DeRot holds you to the reset* carousel
+- Tue, Instagram Reel: *POV: 2:47 AM, video 400 about nothing.* (4-7-8 breathe-along)
 - Tue, Threads: 4-7-8, with the free timer link
 - Wed, Threads: you don't need to delete everything
 - Thu, Threads: what DeRot doesn't need from you (privacy)
+- Thu, Instagram Reel: *Three signs the scroll has you wound up* (then a one-round reset)
 - Fri, Threads: "which app leaves you the most wired?"
-- Sat, Instagram: *Signs the scroll has gotten to you* carousel
+- Sat, Instagram Reel: *Stop trying to quit scrolling. Try this instead.* (sigh breathe-along)
 
 **Week 4: build toward launch**
 - Mon, Threads: scrolling in bed
-- Tue, Instagram: *What DeRot doesn't ask for* carousel (privacy)
+- Tue, Instagram Reel: *Scroll break 02* (box breathe-along)
 - Tue, Threads: the physiological sigh, with the guide link
 - Wed, Threads: keep scrolling and feel okay beats quit and feel guilty
 - Thu, Threads: "Nicely done. Notice how you feel now." (with the screen)
+- Thu, Instagram Reel: *App blocker failed? Good.* (point of view, ends on the pause screen)
 - Fri, Threads: DeRot is almost here, join the launch list
-- Sat, Instagram: *A calm reset for the apps that wind you up.*
+- Sat, Instagram Reel: *Keep scrolling. Just don't leave wired.* (almost here)
 
 ## Launch week (held until you release it)
 
 | Day | Threads | Instagram |
 |---|---|---|
-| 0 | "DeRot is live on the App Store" + 4-slide carousel + link | *DeRot is here.* carousel (pause, breathe, done, download) |
+| 0 | "DeRot is live on the App Store" + 4-slide carousel + link | Reel: *Your apps wind you up. This brings you back down.* (pause, breathe, done) |
 | 1 | Setup in three steps + link | |
-| 2 | | *Your apps wind you up. DeRot brings you back down.* |
+| 2 | | Reel: *Take 20 seconds before you keep scrolling.* (a real DeRot reset) |
 | 3 | "What did you notice after your first reset?" | |
-| 5 | The breathing patterns, Pro custom routines + link | *Set up DeRot in three steps* carousel |
+| 5 | The breathing patterns, Pro custom routines + link | Reel: *Set up DeRot in under a minute.* |
 
 To release: set `site.app_store_url` in `seo/config.yaml`, then run `python -m derot_seo social launch --date YYYY-MM-DD` from `seo/` and push. The App Store link drops into the Threads posts automatically.
 
@@ -108,10 +129,10 @@ The automation posts; it can't take part in the conversation, and both platforms
 Check weekly, in the platforms' own insights:
 - Launch-list signups (newsletter provider)
 - Follows on each platform
-- Instagram saves and shares per post
+- Instagram Reels: 3-second hold rate, average watch time, saves, and shares per reel (Professional dashboard > the reel > Insights)
 - Threads replies and reposts per post
 
-After week 2, double down on whichever pillar wins (likely Reset on Instagram and Feeling or POV on Threads), and trim the weakest.
+After week 2, double down on whichever hook type wins on Instagram (body check, relatable moment, or point of view) and whichever pillar wins on Threads, and trim the weakest. A reel that loses most people in the first 3 seconds needs a new hook, not a new body.
 
 ## Running it
 

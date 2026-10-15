@@ -1,0 +1,36 @@
+{
+  "kind": "promo",
+  "slug": "promo-w4-thu-blockers",
+  "phase": "prelaunch",
+  "pillar": "pov",
+  "title": "An app blocker alternative for people whose app blocker didn't stick.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "An app blocker alternative for people whose app blocker didn't stick.\n\nIf you turned yours off, you're not weak. Walls and timers are all or nothing, and when they slip you're back where you started, plus guilt.\n\nDeRot does something smaller. When a feed has wound you up, it pauses you for about a minute of slow breathing, then gets out of the way. You're never locked out.\n\nWhat made you turn your blocker off? Genuinely curious.\n\nComing soon to iPhone. Launch list: link in bio.",
+    "instagram_hashtags": [
+      "appblocker",
+      "screentime",
+      "doomscrolling",
+      "digitalwellbeing"
+    ]
+  },
+  "images": [],
+  "threads_images": null,
+  "reel": {
+    "path": "img/social/promo-w4-thu-blockers/reel.mp4",
+    "url": "https://derot.org/img/social/promo-w4-thu-blockers/reel.mp4",
+    "cover_path": "img/social/promo-w4-thu-blockers/reel-cover.jpg",
+    "cover_url": "https://derot.org/img/social/promo-w4-thu-blockers/reel-cover.jpg",
+    "duration": 24.2,
+    "hash": "87b7df5d8fc8f104"
+  },
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-11-05T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-15T21:50:49+00:00"
+}

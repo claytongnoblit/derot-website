@@ -105,7 +105,11 @@ def run(a, mock: bool = False) -> int:
                 print(f"{slug}: no article package (promo posts: `social promo-calendar`)")
                 continue
             if a.action == "render":
-                pkg["images"] = social.render_images(pkg, cfg, _post_by_slug(slug))
+                post = _post_by_slug(slug)
+                pkg["images"] = social.render_images(pkg, cfg, post)
+                if social.instagram_format(cfg) == "reel":
+                    pkg["reel"] = social.render_reel(pkg, cfg, post)
+                    pkg.pop("reel_error", None)
                 social.save_package(pkg)
             print(social.preview_html(pkg, cfg))
         return 0

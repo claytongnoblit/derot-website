@@ -218,10 +218,13 @@ def test_posts_everything_due_once(published):
     n_img = len(pkg["images"])
 
     ig_media = fake.posts_to("/IG1/media")
-    children = [c for c in ig_media if c[2].get("is_carousel_item") == "true"]
-    parent = [c for c in ig_media if c[2].get("media_type") == "CAROUSEL"]
-    assert len(children) == n_img and len(parent) == 1
-    assert all(c[2]["alt_text"] for c in children)
+    # Instagram gets the article as a Reel (config: instagram.format = reel)
+    assert "reel_error" not in pkg and pkg["reel"]["duration"] > 5
+    assert (site / pkg["reel"]["path"]).stat().st_size > 10_000
+    parent = [c for c in ig_media if c[2].get("media_type") == "REELS"]
+    assert len(ig_media) == 1 and len(parent) == 1
+    assert parent[0][2]["video_url"] == pkg["reel"]["url"] and parent[0][2]["cover_url"] == pkg["reel"]["cover_url"]
+    assert n_img >= 3   # slides are still rendered (Threads cover, Facebook photos mode)
     assert parent[0][2]["caption"].rstrip().endswith(("#" + pkg["copy"]["instagram_hashtags"][-1]))
     assert "link in bio" in parent[0][2]["caption"].lower()
     assert len(fake.posts_to("/IG1/media_publish")) == 1

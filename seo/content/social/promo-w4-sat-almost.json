@@ -3,15 +3,16 @@
   "slug": "promo-w4-sat-almost",
   "phase": "prelaunch",
   "pillar": "building",
-  "title": "Almost here.",
+  "title": "Keep scrolling. Just don't leave wired. That's the idea behind DeRot, a calm reset app for",
   "url": "https://derot.org/#newsletter",
   "approved": true,
   "copy": {
-    "instagram_caption": "Almost here.\n\nDeRot is a calm reset for the apps that wind you up. It pauses your scroll, guides you through about a minute of slow breathing, and sends you back feeling more like yourself.\n\nJoin the launch list (link in bio) and we'll tell you the day it's live.",
+    "instagram_caption": "Keep scrolling. Just don't leave wired. That's the idea behind DeRot, a calm reset app for iPhone.\n\nDeRot is a calm reset for the apps that wind you up. It pauses your scroll, guides you through about a minute of slow breathing, and sends you back feeling more like yourself.\n\nIt's almost here. Join the launch list (link in bio) and we'll tell you the day it's live.",
     "instagram_hashtags": [
       "digitalwellbeing",
       "breathwork",
-      "mindfultech"
+      "mindfultech",
+      "calmreset"
     ]
   },
   "images": [
@@ -22,6 +23,14 @@
     }
   ],
   "threads_images": null,
+  "reel": {
+    "path": "img/social/promo-w4-sat-almost/reel.mp4",
+    "url": "https://derot.org/img/social/promo-w4-sat-almost/reel.mp4",
+    "cover_path": "img/social/promo-w4-sat-almost/reel-cover.jpg",
+    "cover_url": "https://derot.org/img/social/promo-w4-sat-almost/reel-cover.jpg",
+    "duration": 23.8,
+    "hash": "93a069681274a710"
+  },
   "platforms": {
     "instagram": {
       "status": "queued",
@@ -29,5 +38,5 @@
       "attempts": 0
     }
   },
-  "built_at": "2026-10-09T05:00:00+00:00"
+  "built_at": "2026-10-15T21:50:49+00:00"
 }

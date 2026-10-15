@@ -6,7 +6,7 @@ Every article the blog engine publishes also goes out on Instagram, Threads, and
 
 | Platform | Format | Default time (UTC) |
 |---|---|---|
-| Instagram | Carousel: cover, 3 to 5 takeaway slides, closing slide. Caption with a hook, 3 to 6 short paragraphs, "Full guide: link in bio.", 3 to 5 hashtags. Alt text on every slide. | 23:30 (7:30pm ET) |
+| Instagram | Reel (9:16 MP4, about 15 to 30 seconds): the cover headline as the first-frame hook, one beat per takeaway, a closing card. Caption with a hook, 3 to 6 short paragraphs, "Full guide: link in bio.", 3 to 5 hashtags. Set `instagram.format: carousel` to go back to carousels. | 23:30 (7:30pm ET) |
 | Threads | Short conversational post with the article link, plus the cover slide | 16:30 (12:30pm ET) |
 | Facebook Page | 2 to 4 short paragraphs with the article's link card (OG image), link tagged `utm_source=facebook` | 16:30 (12:30pm ET) |
 
@@ -87,13 +87,27 @@ Every platform is independent: one with no secrets just waits, and the others st
 - **Approve everything by hand:** set `social.require_approval: true` in `config.yaml`; packages then arrive with `"approved": false` and wait for you to flip it.
 - **Retry or re-time:** `python -m derot_seo social reschedule --slug <slug>` re-queues every platform that has not posted, from now (useful after a failure or a late review-mode merge).
 - **Regenerate copy and slides:** `python -m derot_seo social prepare --slug <slug> --force` (platforms that already posted are left alone).
-- **Change times, formats, or platforms:** `social:` in `config.yaml`. `threads.media` can be `cover`, `carousel` (all slides), or `link` (text with a link preview). `facebook.format` can be `link` or `photos` (the carousel as a photo post).
+- **Change times, formats, or platforms:** `social:` in `config.yaml`. `threads.media` can be `cover`, `carousel` (all slides), or `link` (text with a link preview). `facebook.format` can be `link` or `photos` (the carousel as a photo post). `instagram.format` can be `reel` or `carousel`.
+
+## Reels
+
+Instagram posts go out as Reels, rendered by `derot_seo/social_reels.py` with Pillow and ffmpeg (the system ffmpeg, or the one bundled with the `imageio-ffmpeg` package in requirements.txt, so it works on a Mac with no Homebrew). A reel is a list of beats:
+
+| Beat | Fields | What it is |
+|---|---|---|
+| `hook` | `text`, `kicker`, `sub` | The first frame, on screen from frame 0. Under 70 characters. It is also the cover. |
+| `text` | `headline`, `body`, `secs` | A line or two. Time on screen comes from the word count unless `secs` is set. |
+| `breathe` | `pattern` (calm, box, 478, sigh), `rounds`, `title`, `note` | A breathe-along circle with counts. `note` shows during the last round. |
+| `phone` | `screen`, `crop`, `headline`, `body` | An app screen from `assets/screens/` rising into frame. |
+| `end` | `closing` (prelaunch, launch, article) | The closing card. |
+
+Text stays inside Instagram's safe zone (clear of the caption, the buttons down the right edge, and the top bar). Each reel is saved as `reel.mp4`, `reel-cover.jpg`, and `reel.json`; a reel is only re-rendered when its beats change. Instagram fetches the video from derot.org like the images, so the hourly workflow waits until the files are live. The API cannot attach Instagram's music library; reels carry a silent track, or the royalty-free file set in `social.reels.audio`.
 
 ## Promo plan
 
-Besides article shares, a hand-written promotional calendar for Threads and Instagram lives in `content/promo/plan.yaml`. It has four pre-launch weeks (Threads Mon to Fri, Instagram Tue and Sat) plus a launch week that stays held until you release it. The strategy, calendar, and launch steps are in `../marketing/Promo-Plan-2026-10/README.md`, and every post with its images is in `../marketing/Promo-Plan-2026-10/calendar.html`.
+Besides article shares, a hand-written promotional calendar for Threads and Instagram lives in `content/promo/plan.yaml`. It has four pre-launch weeks (Threads Mon to Fri, Instagram Reels Tue, Thu and Sat) plus a launch week that stays held until you release it. The strategy, calendar, and launch steps are in `../marketing/Promo-Plan-2026-10/README.md`, and every post with its images is in `../marketing/Promo-Plan-2026-10/calendar.html`.
 
-`social promo-build` checks every post against the copy rules (including the consumer rules: no vagus, heart rate, or nervous-system wording, and no "available now" before launch), renders the images to `img/social/promo-<id>/`, and queues each post as `content/social/promo-<id>.json`. The same hourly workflow posts them. `social launch --date YYYY-MM-DD` queues launch week once `site.app_store_url` is set.
+`social promo-build` checks every post against the copy rules (including the consumer rules: no vagus, heart rate, or nervous-system wording, and no "available now" before launch), renders the images and reels to `img/social/promo-<id>/`, and queues each post as `content/social/promo-<id>.json`. The same hourly workflow posts them. `social launch --date YYYY-MM-DD` queues launch week once `site.app_store_url` is set.
 
 ## Cost
 

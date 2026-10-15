@@ -90,7 +90,7 @@ def _prompt(post: dict, cfg: dict, tool: dict) -> str:
 Every claim, number, and technique in the social copy must come from the article below. Do not add studies, statistics, mechanisms, or advice the article does not contain. Keep claims as cautious as the article keeps them. Never give medical advice or imply breathing treats a condition.
 
 PLATFORM BRIEFS
-- cover_headline: the first carousel slide. A hook that names the feeling or the promise, plain and specific, under 70 characters. Not a question. No clickbait.
+- cover_headline: the first carousel slide, and also the first frame of the Instagram Reel, where it has about one second to stop someone mid-scroll. A hook that names a feeling the reader has right now or a specific promise, plain and concrete, under 60 characters. Second person beats third person ("Your jaw is tight" not "Scrolling causes tension"). Not a question. No clickbait.
 - points: {n_min}-{n_max} carousel slides, one idea each, in reading order, that let someone get real value without leaving Instagram. headline under 48 characters; body under 190 characters, concrete (counts, timings, what it feels like). If the article teaches a technique, one slide gives the exact steps. Do not end with a call to action; a closing slide is added automatically.
 - instagram_caption: the first line is a hook under 125 characters (it shows before "more"). Then 3-6 short paragraphs that add to the slides rather than repeat them. Links are not clickable on Instagram, so no URLs: the caption ends with the exact line "Full guide: link in bio." Under 1500 characters.
 - instagram_hashtags: 3-5 specific, relevant tags without the # sign (for example breathwork, nervoussystemregulation). No generic tags like love or instagood, nothing about addiction or detox.
@@ -244,6 +244,51 @@ def render_images(pkg: dict, cfg: dict, post: dict) -> list[dict]:
             for p, a in zip(paths, alts)]
 
 
+def reel_audio(cfg: dict) -> Optional[Path]:
+    a = (scfg(cfg).get("reels") or {}).get("audio")
+    return (SEO_DIR / a) if a else None
+
+
+def instagram_format(cfg: dict) -> str:
+    return ((scfg(cfg).get("platforms") or {}).get("instagram") or {}).get("format", "carousel")
+
+
+def reel_files(out_dir: Path, beats: list[dict], cfg: dict) -> dict:
+    """Render a reel into out_dir (reel.mp4, reel-cover.jpg, and reel.json recording what
+    was rendered) unless an identical one is already there. Returns the package's "reel" entry."""
+    from . import social_reels as reels
+    audio = reel_audio(cfg)
+    h = reels.spec_hash(beats, audio.name if audio else "")
+    mp4, cover, meta = out_dir / "reel.mp4", out_dir / "reel-cover.jpg", out_dir / "reel.json"
+    base = cfg["site"]["base_url"]
+    if meta.exists() and mp4.exists() and cover.exists():
+        done = read_json(meta)
+        if done.get("hash") == h:
+            return done
+    info = reels.render_reel(beats, mp4, cover, audio)
+    site_root = IMG_DIR.parent.parent   # IMG_DIR is <site>/img/social
+    rel_v, rel_c = mp4.relative_to(site_root).as_posix(), cover.relative_to(site_root).as_posix()
+    entry = {"path": rel_v, "url": f"{base}/{rel_v}", "cover_path": rel_c, "cover_url": f"{base}/{rel_c}",
+             "duration": info["duration"], "hash": h}
+    write_json(meta, entry)
+    return entry
+
+
+def article_beats(pkg: dict, cfg: dict, post: dict) -> list[dict]:
+    clusters = {c["id"]: c for c in (read_json(SEO_DIR / "data" / "keywords.json", {}) or {}).get("clusters", [])}
+    tool = site.tool_for(post, cfg)
+    copy = pkg["copy"]
+    beats = [{"beat": "hook", "text": copy["cover_headline"],
+              "kicker": clusters.get(post.get("cluster"), {}).get("name", "")}]
+    beats += [{"beat": "text", "headline": p["headline"], "body": p["body"]} for p in copy["points"]]
+    beats.append({"beat": "end", "closing": "article", "tool": tool["label"], "secs": 3.5})
+    return beats
+
+
+def render_reel(pkg: dict, cfg: dict, post: dict) -> dict:
+    return reel_files(IMG_DIR / pkg["slug"], article_beats(pkg, cfg, post), cfg)
+
+
 # ------------------------------------------------------------ scheduling
 def schedule_for(cfg: dict, post: dict, now: dt.datetime) -> dict[str, dict]:
     sc = scfg(cfg)
@@ -292,6 +337,11 @@ def prepare(post: dict, cfg: dict, llm, now: Optional[dt.datetime] = None, force
     if errors:
         pkg["needs_review"] = True
     pkg["images"] = render_images(pkg, cfg, post)
+    if instagram_format(cfg) == "reel":
+        try:
+            pkg["reel"] = render_reel(pkg, cfg, post)
+        except Exception as e:  # no ffmpeg, bad font: fall back to the carousel rather than not posting
+            pkg["reel_error"] = f"{type(e).__name__}: {e}"[:500]
     if existing:  # keep what already went out on a forced regenerate
         for name, st in (existing.get("platforms") or {}).items():
             if st.get("status") == "posted":
@@ -335,15 +385,24 @@ def make_clients(cfg: dict, env: Optional[dict] = None, **client_kw) -> dict:
     return out
 
 
+def media_to_check(pkg: dict) -> list[dict]:
+    """Every file a package will hand to Meta: slides, plus the reel and its cover."""
+    out = list(pkg.get("images") or [])
+    reel = pkg.get("reel")
+    if reel:
+        out += [{"url": reel["url"]}] + ([{"url": reel["cover_url"]}] if reel.get("cover_url") else [])
+    return out
+
+
 def images_live(images: list[dict], session=None) -> Optional[str]:
-    """None if every image URL serves an image, else a reason."""
+    """None if every image (or video) URL serves one, else a reason."""
     http = session or requests
     for im in images:
         try:
             r = http.head(im["url"], timeout=20, allow_redirects=True)
         except requests.RequestException as e:
             return f"{im['url']}: {type(e).__name__}"
-        if r.status_code != 200 or not r.headers.get("content-type", "").startswith("image/"):
+        if r.status_code != 200 or not r.headers.get("content-type", "").startswith(("image/", "video/")):
             return f"{im['url']}: HTTP {r.status_code}"
     return None
 
@@ -353,13 +412,17 @@ def _publish_one(name: str, client, pkg: dict, cfg: dict) -> dict:
     copy = pkg["copy"]
     images = [{"url": i["url"], "alt": i["alt"]} for i in pkg["images"]]
     if name == "instagram":
+        reel = pkg.get("reel")
+        if reel:
+            return client.post_reel(instagram_caption(copy), reel["url"], reel.get("cover_url"))
         return client.post(instagram_caption(copy), images)
     if name == "threads":
         mode = ((sc.get("platforms") or {}).get("threads") or {}).get("media", "cover")
         media = {"carousel": images, "cover": images[:1], "link": []}.get(mode, images[:1])
         if pkg.get("kind") == "promo":  # promo posts choose their own images (often none)
             media = [{"url": i["url"], "alt": i["alt"]} for i in pkg.get("threads_images") or []]
-        return client.post(copy["threads_text"].replace("{url}", pkg["url"]), media)
+        topic = pkg.get("threads_topic") or ((sc.get("platforms") or {}).get("threads") or {}).get("topic_tag")
+        return client.post(copy["threads_text"].replace("{url}", pkg["url"]), media, topic_tag=topic or None)
     if name == "facebook":
         fc = (sc.get("platforms") or {}).get("facebook") or {}
         link = pkg["url"]
@@ -421,7 +484,7 @@ def post_due(cfg: dict, now: Optional[dt.datetime] = None, clients: Optional[dic
             log(f"WAIT {tag}: credentials not configured")
             continue
         if pkg["slug"] not in image_ok:
-            image_ok[pkg["slug"]] = None if dry_run else check_images(pkg["images"])
+            image_ok[pkg["slug"]] = None if dry_run else check_images(media_to_check(pkg))
         if image_ok[pkg["slug"]]:
             result["waiting"].append(f"{tag} (images not live yet)")
             log(f"WAIT {tag}: images not live yet ({image_ok[pkg['slug']]})")
@@ -494,7 +557,8 @@ pre{{white-space:pre-wrap;background:#160F0B;border:1px solid #2a211a;border-rad
 </style></head><body><main>
 <h1>{e(pkg['title'])}</h1><div class="meta"><a href="{e(pkg['url'])}">{e(pkg['url'])}</a> · approved: {pkg.get('approved')}</div>
 {f'<h2>Needs review</h2><ul class="warn">{issues}</ul>' if issues else ''}
-<h2>Carousel (Instagram{', Threads' if ((scfg(cfg).get('platforms') or {}).get('threads') or {}).get('media') == 'carousel' else ''})</h2><div class="strip">{slides}</div>
+<h2>{'Slides (Threads cover image; Instagram posts the reel)' if pkg.get('reel') else 'Carousel (Instagram' + (', Threads' if ((scfg(cfg).get('platforms') or {}).get('threads') or {}).get('media') == 'carousel' else '') + ')'}</h2><div class="strip">{slides}</div>
+{f'<h2>Instagram Reel ({pkg["reel"]["duration"]:.0f}s)</h2><video controls playsinline muted width="300" poster="{e(rel + "/" + pkg["reel"]["cover_path"])}" src="{e(rel + "/" + pkg["reel"]["path"])}"></video>' if pkg.get("reel") else ''}
 <h2>Instagram caption</h2><pre>{e(instagram_caption(copy))}</pre><div class="meta">{len(instagram_caption(copy))} / {IG_CAPTION_MAX} characters</div>
 <h2>Threads</h2><pre>{e(threads)}</pre><div class="meta">{len(threads.encode('utf-8'))} / {THREADS_MAX_BYTES} bytes</div>
 <h2>Facebook</h2><pre>{e(copy['facebook_message'])}</pre><div class="meta">Posted with the article's link card.</div>

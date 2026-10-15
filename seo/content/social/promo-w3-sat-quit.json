@@ -1,0 +1,36 @@
+{
+  "kind": "promo",
+  "slug": "promo-w3-sat-quit",
+  "phase": "prelaunch",
+  "pillar": "pov",
+  "title": "How to stop doomscrolling without quitting: come back down instead.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "How to stop doomscrolling without quitting: come back down instead.\n\nDeleting apps and 30-day resets are all or nothing. They rarely last, and when they slip you feel worse than before.\n\nTry something smaller. When a feed winds you up, breathe in through your nose, sneak in a second short breath on top, then let it all out in one long sigh. One or two rounds is often enough.\n\nHave you ever quit an app for good? What brought you back?\n\nDeRot is coming soon to iPhone. Launch list: link in bio.",
+    "instagram_hashtags": [
+      "doomscrolling",
+      "digitalwellbeing",
+      "breathwork",
+      "screentime"
+    ]
+  },
+  "images": [],
+  "threads_images": null,
+  "reel": {
+    "path": "img/social/promo-w3-sat-quit/reel.mp4",
+    "url": "https://derot.org/img/social/promo-w3-sat-quit/reel.mp4",
+    "cover_path": "img/social/promo-w3-sat-quit/reel-cover.jpg",
+    "cover_url": "https://derot.org/img/social/promo-w3-sat-quit/reel-cover.jpg",
+    "duration": 35.8,
+    "hash": "b351fd1b67b42d29"
+  },
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-10-31T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-15T21:50:49+00:00"
+}

@@ -4,7 +4,7 @@
     Page token, IG account linked to the Page) or "Instagram API with Instagram
     Login" (graph.instagram.com, the account's own token, no Page link needed).
     Same calls on both: one child container per image, a CAROUSEL parent, then
-    media_publish.
+    media_publish. Reels are one REELS container from a video URL, then media_publish.
   * Facebook Page: a link post (the article's OG card) or a multi-photo post.
   * Threads: graph.threads.net. Image or carousel container, then threads_publish.
 
@@ -98,8 +98,9 @@ class InstagramClient(_Client):
     def publishing_limit(self) -> dict:
         return self._req("GET", f"{self.user}/content_publishing_limit", fields="quota_usage,config")
 
-    def _wait(self, container_id: str) -> None:
+    def _wait(self, container_id: str, timeout: Optional[float] = None) -> None:
         waited = 0.0
+        limit = self.poll_timeout if timeout is None else timeout
         while True:
             st = self._req("GET", container_id, fields="status_code,status")
             code = st.get("status_code")
@@ -107,7 +108,7 @@ class InstagramClient(_Client):
                 return
             if code in ("ERROR", "EXPIRED"):
                 raise MetaError(f"instagram container {container_id} {code}: {st.get('status', '')}")
-            if waited >= self.poll_timeout:
+            if waited >= limit:
                 raise MetaError(f"instagram container {container_id} still {code} after {waited:.0f}s", transient=True)
             self.sleep(self.poll_interval)
             waited += self.poll_interval
@@ -131,6 +132,19 @@ class InstagramClient(_Client):
                                children=",".join(children), caption=caption)
             creation = parent["id"]
         self._wait(creation)
+        return self._publish(creation)
+
+    def post_reel(self, caption: str, video_url: str, cover_url: Optional[str] = None,
+                  share_to_feed: bool = True) -> dict:
+        """One Reel from a public MP4 URL. Video processing takes longer than images,
+        so the status poll gets at least 10 minutes."""
+        c = self._req("POST", f"{self.user}/media", media_type="REELS", video_url=video_url,
+                      caption=caption, cover_url=cover_url,
+                      share_to_feed="true" if share_to_feed else "false")
+        self._wait(c["id"], timeout=max(self.poll_timeout, 600.0))
+        return self._publish(c["id"])
+
+    def _publish(self, creation: str) -> dict:
         pub = self._req("POST", f"{self.user}/media_publish", creation_id=creation)
         media_id = pub["id"]
         permalink = None
@@ -208,14 +222,27 @@ class ThreadsClient(_Client):
             self.sleep(self.poll_interval)
             waited += self.poll_interval
 
-    def post(self, text: str, images: list[dict]) -> dict:
-        """No images = text post with a link preview; 1 = image post; 2-20 = carousel."""
+    def _with_topic(self, topic_tag: Optional[str], make: Callable[..., dict]) -> dict:
+        """Create a container with a topic tag, retrying without it if Meta rejects the tag."""
+        if topic_tag:
+            try:
+                return make(topic_tag=topic_tag[:50])
+            except MetaError as e:
+                if "topic" not in str(e).lower():
+                    raise
+        return make()
+
+    def post(self, text: str, images: list[dict], topic_tag: Optional[str] = None) -> dict:
+        """No images = text post with a link preview; 1 = image post; 2-20 = carousel.
+        topic_tag: one Threads topic (no # sign), set on the post or carousel parent."""
         if not images:
-            c = self._req("POST", f"{self.user}/threads", media_type="TEXT", text=text)
+            c = self._with_topic(topic_tag, lambda **kw: self._req(
+                "POST", f"{self.user}/threads", media_type="TEXT", text=text, **kw))
             creation = c["id"]
         elif len(images) == 1:
-            c = self._create_with_alt(f"{self.user}/threads", images[0].get("alt"),
-                                      media_type="IMAGE", image_url=images[0]["url"], text=text)
+            c = self._with_topic(topic_tag, lambda **kw: self._create_with_alt(
+                f"{self.user}/threads", images[0].get("alt"), media_type="IMAGE",
+                image_url=images[0]["url"], text=text, **kw))
             creation = c["id"]
         else:
             children = []
@@ -225,8 +252,9 @@ class ThreadsClient(_Client):
                 children.append(c["id"])
             for cid in children:
                 self._wait(cid)
-            parent = self._req("POST", f"{self.user}/threads", media_type="CAROUSEL",
-                               children=",".join(children), text=text)
+            parent = self._with_topic(topic_tag, lambda **kw: self._req(
+                "POST", f"{self.user}/threads", media_type="CAROUSEL",
+                children=",".join(children), text=text, **kw))
             creation = parent["id"]
         self._wait(creation)
         pub = self._req("POST", f"{self.user}/threads_publish", creation_id=creation)

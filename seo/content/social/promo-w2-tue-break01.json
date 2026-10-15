@@ -1,0 +1,36 @@
+{
+  "kind": "promo",
+  "slug": "promo-w2-tue-break01",
+  "phase": "prelaunch",
+  "pillar": "reset",
+  "title": "A 30-second scroll break: calm breathing to do before you keep scrolling.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "A 30-second scroll break: calm breathing to do before you keep scrolling.\n\nIn through your nose for 4. Out slowly for 6. Three rounds. The long exhale does the work.\n\nThis is Scroll break 01. A new one every week. Save it and come back whenever the feed has you wired.\n\nDeRot is coming soon to iPhone. It brings a break like this into the apps that wind you up. Launch list: link in bio.",
+    "instagram_hashtags": [
+      "scrollbreak",
+      "breathwork",
+      "breathingexercise",
+      "doomscrolling"
+    ]
+  },
+  "images": [],
+  "threads_images": null,
+  "reel": {
+    "path": "img/social/promo-w2-tue-break01/reel.mp4",
+    "url": "https://derot.org/img/social/promo-w2-tue-break01/reel.mp4",
+    "cover_path": "img/social/promo-w2-tue-break01/reel-cover.jpg",
+    "cover_url": "https://derot.org/img/social/promo-w2-tue-break01/reel-cover.jpg",
+    "duration": 35.4,
+    "hash": "890f66c1de2960e1"
+  },
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-10-20T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-10-15T21:50:49+00:00"
+}
