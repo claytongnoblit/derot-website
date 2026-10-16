@@ -1,0 +1,261 @@
+{
+  "title_options": [
+    "Nervous System Overload From Your Phone: Why Scrolling Leaves You Wired (and How to Come Down in 60 Seconds)",
+    "Why Your Phone Leaves You Wired: Nervous System Overload, Explained Honestly",
+    "Nervous System Overload From Phone Use: What the Research Shows and a 60-Second Reset"
+  ],
+  "search_intent": "Informational explainer. The searcher has felt tense, buzzy, or 'wired but flat' after scrolling and wants to know whether their phone can really overstimulate their nervous system, why it happens, and how to calm down quickly, without being told they're addicted or need to quit social media.",
+  "serp_summary": "This is a weak SERP. Most of what ranks is uncited Substack essays (przemkasmosky, theschoolofvisibility), a Goodreads blog post, a Spanish hospital page about posture, an Audible listing, a Reddit r/cfs thread, and a therapy practice blog. The strongest adjacent competitor is Calm's 'What does it mean to feel overstimulated?': it lists 7 causes, 5 prevention habits, 10 in-the-moment tips and a 7-question FAQ, names 'wired but exhausted' as a symptom, and has clinician review, but it cites no studies and its phone advice is all restriction. Across the results, 'your sympathetic system stays on' is stated as fact without evidence, every fix is a limit or removal, and nobody gives breath counts, timings, a mid-scroll protocol, or any honesty about what the evidence shows.",
+  "gaps": [
+    "No competitor cites physiology. The Durham Instagram study (Wadsley & Ihssen, n=54) shows a more nuanced pattern: heart rate fell and skin conductance rose while people scrolled (absorbed, reward-driven arousal), then heart rate, skin conductance and self-reported stress rose when they stopped. That explains the 'wired but flat' feeling and the edgy comedown.",
+    "State over minutes: interruption style and content emotion matter more than raw time. Batched notifications lowered stress, while turning notifications off completely raised anxiety and FOMO (Fitz 2019), so restriction alone can backfire.",
+    "No one gives a 60-second script for the moment you notice you're already wound up mid-scroll.",
+    "No one is honest about evidence: slow breathing raising vagal HRV is well supported, 'longer exhale is better' is mixed, Balban 2023 found mood gains but no HRV change, and the hunched-breathing evidence is thin.",
+    "Competitors use addiction framing. Durham found the same physiological pattern regardless of problematic-use scores.",
+    "Gap for the writer: the Meehan & Shaffer 2024 replication (mixed IE-ratio evidence) could not be included as a citable source, because the URL in the notes does not match the verified list. Describe the longer-exhale nuance using Bae 2021 plus cautious wording, or leave out the replication claim."
+  ],
+  "outline": [
+    {
+      "h2": "What is nervous system overload from your phone?",
+      "points": [
+        "Answer first in 40-60 words: a plain-language label (not a diagnosis) for the revved-up, tense, wired-but-flat state that fast, novel, emotionally charged feeds and constant alerts can leave you in",
+        "Name the felt signs: tight jaw, raised shoulders, buzzy head, irritability, trouble settling",
+        "Frame it as a state, not a screen-time number; you're a regular user, not an addict",
+        "Say briefly that the sympathetic (revved) and parasympathetic (settling) sides of the nervous system work together, and avoid presenting 'stuck in fight or flight' as proven"
+      ]
+    },
+    {
+      "h2": "Why does 'one quick check' leave you wired?",
+      "points": [
+        "Fast switching, novelty, emotionally charged content and notifications pile up",
+        "Doomscrolling is associated with higher existential anxiety (S8, survey, association only)",
+        "Content emotion and pace shape how you feel afterward more than the minutes do"
+      ]
+    },
+    {
+      "h2": "What happens in your body while you scroll, and when you stop",
+      "points": [
+        "Durham study: 54 young adults, 15 minutes of Instagram, heart rate down and skin conductance up compared with baseline (absorbed arousal)",
+        "When they stopped: heart rate and skin conductance rose, with self-reported stress, anxiety and craving",
+        "The pattern didn't depend on problematic-use scores; the author doesn't conclude that everyone is addicted",
+        "Caveat: one small study"
+      ]
+    },
+    {
+      "h2": "Do notifications and fast-switching feeds make it worse?",
+      "points": [
+        "Kushlev 2016 (n=221): with alerts on, people reported more inattention and hyperactivity, which predicted lower well-being; self-report only, and it does not show phones cause ADHD",
+        "Fitz 2019 (n=237): batching notifications 3 times a day improved mood and stress; no notifications at all raised anxiety and FOMO",
+        "Practical takeaway: batch alerts rather than cutting everything off"
+      ]
+    },
+    {
+      "h2": "Does hunching over your phone change how you breathe?",
+      "points": [
+        "Jung 2016 (n=50): heavier users had more forward head posture and lower peak expiratory flow, but other lung measures weren't different",
+        "Honest framing: you may notice shallow, upper-chest breathing, but the evidence is limited",
+        "Don't use 'screen apnea'"
+      ]
+    },
+    {
+      "h2": "How to calm down mid-scroll: a 60-second script",
+      "points": [
+        "Why mid-scroll: the moment you notice you're wound up (and the comedown when you stop) is where a reset helps, not a gate before you open the app",
+        "Numbered steps: notice and name it; drop the shoulders; unclench the jaw, tongue resting; widen your gaze to the edges of the room; breathe in 4, out 6 for about 6 breaths (6 breaths per minute, about 60 seconds)",
+        "What it feels like and common mistakes: forcing the exhale, overfilling the lungs, checking the feed in between",
+        "Opt-out: if focusing on the breath feels worse, keep your eyes open, breathe normally, and just soften the body",
+        "Link to the calm 4-6 breathing tool; mention DeRot once, felt-experience first (it meets you mid-scroll and brings you back down)"
+      ]
+    },
+    {
+      "h2": "What the research supports, and where it's still early",
+      "points": [
+        "Well supported: slow breathing raises vagally mediated HRV during a session, right after, and over multiple sessions (Laborde 2022, 223 studies)",
+        "Breathing at 6 cycles per minute raised RMSSD even in short sessions (Laborde 2021)",
+        "Mixed: a longer exhale helped in Bae 2021 (n=28), but findings across studies disagree; treat it as a comfortable default, not proven superior",
+        "Balban 2023 (n=108): 5 minutes a day of cyclic sighing improved mood and lowered breathing rate, with no significant HRV change; mostly a young student sample",
+        "Untested: gaze widening and jaw unclenching are simple body cues with no physiological claim attached",
+        "Possibly a short comparison table: claim / evidence strength / source"
+      ]
+    },
+    {
+      "h2": "Regulate, don't restrict: staying connected without the overstimulation tax",
+      "points": [
+        "You don't have to delete or lock anything",
+        "Batch notifications (evidence-backed), and take a breathable pause when you notice you're wired",
+        "Mention the other tools (physiological sigh, box breathing) with a safety note on breath holds",
+        "When to talk to a professional"
+      ]
+    }
+  ],
+  "questions": [
+    "Why do I feel wired but tired after being on my phone?",
+    "Why do I feel anxious or irritable when I put my phone down?",
+    "Can your phone overstimulate your nervous system?",
+    "Is it bad to turn off all notifications?",
+    "How long does slow breathing take to calm you down?",
+    "Does a longer exhale actually help?",
+    "Why do I clench my jaw when I'm on my phone?",
+    "Is doomscrolling bad for anxiety?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Cell Reports Medicine (Balban et al., Stanford)",
+      "year": "2023",
+      "key_findings": "Remote RCT, n=108, 28 days, 5 min/day. Breathwork, especially cyclic sighing, improved mood and lowered respiratory rate more than mindfulness. No significant change in HRV, resting heart rate or sleep. Mostly a young university sample."
+    },
+    {
+      "id": "S2",
+      "url": "https://www.simplypsychology.org/news/breathwork-practices-for-reducing-anxiety",
+      "title": "Breathwork Practices for Reducing Anxiety and Improving Mood: RCT",
+      "publisher": "Simply Psychology",
+      "year": "2023",
+      "key_findings": "Secondary summary of Balban 2023: n=108, mostly Stanford undergrads, people with moderate to severe conditions excluded, no significant HRV change. Use only as backup to S1."
+    },
+    {
+      "id": "S3",
+      "url": "https://ro.uow.edu.au/test2021/5166",
+      "title": "Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis",
+      "publisher": "Neuroscience and Biobehavioral Reviews (Laborde et al., via University of Wollongong)",
+      "year": "2022",
+      "key_findings": "223 studies included. Slow breathing increased vagally mediated HRV during the session, immediately after one session, and after multi-session interventions. Few adverse effects expected."
+    },
+    {
+      "id": "S4",
+      "url": "https://pure.solent.ac.uk/en/publications/effects-of-voluntary-slow-breathing-on-heart-rate-and-heart-rate-/",
+      "title": "Effects of voluntary slow breathing on heart rate and heart rate variability (repository listing)",
+      "publisher": "Solent University",
+      "year": "2022",
+      "key_findings": "Alternate listing for the Laborde 2022 meta-analysis (S3)."
+    },
+    {
+      "id": "S5",
+      "url": "https://eprints.bournemouth.ac.uk/38163/7/Psychophysiology%20-%202021%20-%20Laborde%20-%20Psychophysiological%20effects%20of%20slow%E2%80%90paced%20breathing%20at%20six%20cycles%20per%20minute%20with%20or.pdf",
+      "title": "Psychophysiological effects of slow-paced breathing at six cycles per minute",
+      "publisher": "Psychophysiology (Bournemouth University repository)",
+      "year": "2021",
+      "key_findings": "Breathing at 6 cycles/min for 5 to 20 minutes increased RMSSD during practice compared with control, at every session length tested."
+    },
+    {
+      "id": "S6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34289128/",
+      "title": "Slow breathing with longer exhalation vs inhalation and HRV (Bae et al.)",
+      "publisher": "Psychophysiology (PubMed)",
+      "year": "2021",
+      "key_findings": "n=28. A longer exhale than inhale, at the same breathing rate, acutely increased RMSSD and HF-HRV, and HF-HRV stayed elevated about 4 minutes afterward. Details come from the abstract summary."
+    },
+    {
+      "id": "S7",
+      "url": "https://durham-repository.worktribe.com/OutputFile/3489734",
+      "title": "Physiological and subjective responses to Instagram use and cessation (Wadsley & Ihssen)",
+      "publisher": "Durham University",
+      "year": "2025",
+      "key_findings": "n=54. Compared with baseline, Instagram lowered heart rate and raised skin conductance. Stopping raised heart rate and skin conductance, plus self-reported stress, anxiety and craving. The pattern was not associated with problematic-use scores. Single small study."
+    },
+    {
+      "id": "S8",
+      "url": "https://researchnow.flinders.edu.au/en/publications/doomscrolling-evokes-existential-anxiety-and-fosters-pessimism-ab/",
+      "title": "Doomscrolling evokes existential anxiety and fosters pessimism about human nature",
+      "publisher": "Computers in Human Behavior Reports (Flinders University)",
+      "year": "2024",
+      "key_findings": "Survey of 800 students in Iran and the US: doomscrolling associated with higher existential anxiety. Cross-sectional."
+    },
+    {
+      "id": "S9",
+      "url": "https://www.sciencealert.com/scrolling-through-social-media-has-a-unique-effect-on-your-body",
+      "title": "Scrolling through social media has a unique effect on your body",
+      "publisher": "ScienceAlert (The Conversation, Niklas Ihssen)",
+      "year": "2025",
+      "key_findings": "Lay explanation of the Durham study: heart rate slowed during Instagram, skin conductance climbed further on interruption, and people reported stress and cravings at log-off. The author does not conclude that everyone is addicted."
+    },
+    {
+      "id": "S10",
+      "url": "https://scholars.duke.edu/publication/1402953",
+      "title": "Batching smartphone notifications can improve well-being",
+      "publisher": "Computers in Human Behavior (Fitz, Kushlev et al., Duke)",
+      "year": "2019",
+      "key_findings": "Field experiment, n=237. Notifications batched 3 times a day improved attentiveness and mood and lowered stress. Receiving no notifications raised anxiety and FOMO. Some co-authors reportedly have ties to the app used."
+    },
+    {
+      "id": "S11",
+      "url": "https://www.interruptions.net/literature/Kushlev-CHI16.pdf",
+      "title": "Smartphone notifications and inattention and hyperactivity symptoms (Kushlev, Proulx, Dunn)",
+      "publisher": "CHI 2016 (ACM)",
+      "year": "2016",
+      "key_findings": "n=221. More self-reported inattention and hyperactivity in the week with alerts on, and inattention predicted lower well-being. Self-report; does not show that phones cause ADHD."
+    },
+    {
+      "id": "S12",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4756000/",
+      "title": "The effect of smartphone usage time on posture and respiratory function",
+      "publisher": "Journal of Physical Therapy Science (Jung et al.)",
+      "year": "2016",
+      "key_findings": "n=50. People using a smartphone more than 4 h/day had more forward head posture and rounded shoulders and lower peak expiratory flow (6.2 vs 4.3 L/s). FVC and FEV1 were not significantly different."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "In a Durham lab study of 54 young adults, 15 minutes of Instagram lowered heart rate and raised skin conductance compared with baseline.",
+      "source_id": "S7"
+    },
+    {
+      "fact": "When participants stopped using Instagram, heart rate and skin conductance rose, and they reported stress, anxiety and craving.",
+      "source_id": "S7"
+    },
+    {
+      "fact": "The physiological changes during and after Instagram use were not associated with problematic-use scores.",
+      "source_id": "S7"
+    },
+    {
+      "fact": "The study's author does not conclude that everyone is addicted and says it is unclear whether the log-off response is withdrawal.",
+      "source_id": "S9"
+    },
+    {
+      "fact": "In a 237-person field experiment, batching notifications 3 times a day improved mood and lowered stress, while no notifications at all raised anxiety and FOMO.",
+      "source_id": "S10"
+    },
+    {
+      "fact": "In a study of 221 adults, people reported more inattention and hyperactivity in the week with alerts on, and that inattention predicted lower well-being (self-report).",
+      "source_id": "S11"
+    },
+    {
+      "fact": "A meta-analysis of 223 studies found slow breathing increases vagally mediated HRV during a session, immediately after one, and over multiple sessions.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "Breathing at 6 cycles per minute increased RMSSD during practice compared with control, even in 5-minute sessions.",
+      "source_id": "S5"
+    },
+    {
+      "fact": "In a study of 28 adults, a longer exhale at the same breathing rate acutely increased RMSSD and HF-HRV.",
+      "source_id": "S6"
+    },
+    {
+      "fact": "In a 108-person, 28-day RCT, 5 minutes a day of cyclic sighing improved mood and lowered respiratory rate more than mindfulness, with no significant HRV change.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "In a study of 50 people, those using a smartphone more than 4 h/day had more forward head posture and lower peak expiratory flow (4.3 vs 6.2 L/s), but FVC and FEV1 did not differ.",
+      "source_id": "S12"
+    },
+    {
+      "fact": "In a survey of 800 students in two countries, doomscrolling was associated with higher existential anxiety.",
+      "source_id": "S8"
+    }
+  ],
+  "safety_notes": [
+    "If you feel dizzy, lightheaded, tingly or short of breath, stop and breathe normally. Don't force the exhale or strain to fill your lungs.",
+    "Breath holds and forceful patterns (box breathing, 4-7-8, the physiological sigh) are not for everyone: take care with pregnancy, heart or lung conditions, or a history of fainting or panic.",
+    "If focusing on the breath makes you more anxious, keep your eyes open, breathe normally, and just soften your shoulders and jaw.",
+    "No treatment claims. Breathing may help you feel calmer and is associated with higher vagal HRV. Do not say it treats anxiety, panic, insomnia or ADHD, and do not cite Kushlev as showing phones cause ADHD.",
+    "For persistent jaw clenching, headaches or neck pain, see a dentist, doctor or physiotherapist.",
+    "For persistent anxiety, sleep problems or distress, talk to a professional. If you're in crisis, contact local emergency services or call or text 988 in the US.",
+    "Avoid addiction framing, and don't make claims about cortisol, 'screen apnea' or gaze widening, which are unsourced."
+  ],
+  "word_count_target": 1900,
+  "dropped_sources": [],
+  "research_notes": "I hit the 10-search limit, and several primary-source pages (PubMed, Springer, the Durham repository) blocked fetching. Where a number comes from an abstract or secondary summary instead of the full paper, I say so below.\n\n# Research notes: nervous system overload from phone (explainer)\n\n## SERP ANALYSIS\n\n**What ranks for \"nervous system overload from phone\"** (standard search, US):\n- Mostly Substack essays: przemkasmosky.substack.com (\"Why does constant access to technology... overwhelm the brain\") and theschoolofvisibility.substack.com (\"The nervous system can't scroll forever\").\n- Also a Goodreads author blog post, a Spanish hospital news page (hcmarbella.com) about posture strain and neck pain, an Audible book listing (\"Your Brain Isn't Broken, It's Just Overstimulated\"), a Reddit r/cfs thread, and a therapy practice blog (avenapsych.com).\n- Format: short opinion or wellness essays. Nothing authoritative ranks yet. That's a weak SERP with a real opening for a well-sourced explainer.\n- What they cover: sympathetic \"fight or flight\" staying switched on while the parasympathetic side goes underused; symptom lists (racing thoughts, tension, headaches, irritability, restless sleep); \"digital overload\" (more input than the brain can process); generic fixes (turn off notifications, no phone after waking, screen breaks).\n- What they get wrong or miss: they state \"your sympathetic system stays activated\" as settled fact with no citations. Fixes are all restriction (limit, remove, avoid). None gives a technique for the moment you're already wound up. No breath counts, no timings, no honesty about evidence.\n\n**\"Overstimulated how to calm down\" / \"overstimulated after scrolling\":**\n- Calm blog, \"What does it mean to feel overstimulated?\" (strongest competitor): intro, 7 causes (noise, demands, screen and notification overload, touch, crowds, no downtime, sleep loss), 5 prevention habits, 10 in-the-moment tips (slow breathing, reframing, stepping away, less sensory input, 5-4-3-2-1 grounding, movement, safe space, food and water, telling someone, rest), and a 7-question FAQ. It names \"wired but exhausted\" as a symptom. It cites **no studies**, leans on analogies (the nervous system as a Wi-Fi router), says slow breathing \"signals safety\" without detail, and gives phone advice that's restrictive (phone in another room 30 min before bed, silence notifications). It has clinical review by a named clinician.\n- Thriveworks \"What is overstimulation\": a general definition page aimed at therapy leads.\n- Thin content-farm tag pages (science-divine.typeflo.io) and a productivity-framed Showwcase post. The productivity angle isn't our reader.\n\n**Adjacent results (\"anxious after scrolling\"):** Calm \"5 signs of social media anxiety\", jomo.so, Denova, ReachLink, CK Birla hospital blog, Ken Lane Substack. Ideas that recur: rapid context-switching, social comparison, FOMO, doomscrolling, sleep. Some frame it as addiction and suggest app blockers.\n\n## GAPS AND ANGLE\n\n1. **Nobody cites the physiology.** One recent lab study measured the body during and after scrolling (Wadsley & Ihssen, Durham, 54 young adults). It found the actual pattern is more interesting than \"you're stressed the whole time\": heart rate *dropped* and skin conductance *rose* during Instagram, read as absorbed, reward-driven arousal. Then stopping triggered a rise in heart rate and skin conductance plus self-reported stress, anxiety, and craving. This is a strong information-gain hook: the \"wired but flat\" feeling is plausibly a revved-and-absorbed state, and the comedown when you surface can itself feel stressful. It also gives an honest reason why the moment you look up is where to step in. Caveat: one study, small sample. Don't overstate it.\n2. **State, not minutes.** Competitors count minutes or prescribe limits. The evidence supports texture over total. Interruption style matters: batched notifications lowered stress, but *no* notifications raised anxiety and FOMO (Fitz et al. 2019). Content emotion matters too (doomscrolling research). This fits \"regulate, don't restrict\" well. The Fitz finding is useful honest nuance: cutting things off entirely backfired on some measures.\n3. **Notifications and fast switching.** Kushlev 2016 (221 people): alerts on meant more self-reported inattention and hyperactivity, and that inattention predicted lower well-being. Present it as self-report and a within-person comparison, not \"phones cause ADHD\". There's a usable verbatim Kushlev quote in the VICE piece saying they are *not* claiming phones cause ADHD, but I only have it via the search summary. Better to paraphrase and not attribute a quote.\n4. **Hunched-over breathing: be honest.** Small studies (Jung 2016, n=50) link heavier use to forward head posture and lower peak expiratory flow. Other spirometry measures weren't significant, and a 2023 study of 217 people found the posture link but **no** lung-function effect. \"Shallow breathing while hunched\" is plausible but not well established. Frame it as \"you may notice\" and \"the evidence is limited\". Don't use \"screen apnea\", which has no source in my results.\n5. **The mid-scroll moment.** No competitor gives a 60-second protocol for when you've already noticed the wired feeling. Our script: 4-in, 6-out (about 6 breaths/min, matching the slow-breathing literature at roughly 6 cycles/min), drop the shoulders, unclench the jaw, widen your gaze.\n6. **Honest evidence boxes:**\n   - Slow breathing raising vagally mediated HRV is well supported: Laborde 2022 meta-analysis of 223 studies found increases during, right after, and over multiple sessions.\n   - \"Longer exhale is better\" is **mixed**: Bae 2021 (n=28) found a benefit, the Meehan & Shaffer 2024 replication found none, and nine studies have reached four different conclusions. Say a longer exhale is a comfortable, reasonable default, not proven to be superior.\n   - Balban 2023 (n=108, 28 days, 5 min/day): exhale-focused cyclic sighing improved positive affect more than mindfulness and lowered respiratory rate, but **no significant HRV change**. Mostly Stanford undergrads, remote, adherence not verified.\n   - Gaze widening and jaw unclenching: **I found no source**. Present them as simple body cues readers can feel for themselves, with no physiological claim, or label them as untested.\n7. **Close on regulate, don't restrict:** you don't need to delete anything. Batching notifications (with evidence) and a breathable mid-scroll pause make a better fit than lockouts.\n\n**Suggested H2s:**\n- What is nervous system overload from your phone?\n- Why does \"one quick check\" leave you wired?\n- What happens in your body while you scroll (and when you stop)\n- Do notifications and fast-switching feeds make it worse?\n- Does hunching over your phone change how you breathe?\n- How to calm down when you're overstimulated: a 60-second script\n- What the research supports and where it's still early\n- Regulate, don't restrict\n\n**Internal links:** /tools/ calm 4-6 breathing (primary), physiological sigh tool, box breathing timer. I don't have a site inventory with exact slugs, so the writer should use only inventory URLs.\n\n## QUESTIONS (PAA, forum, and blog FAQ themes)\n\n- Why do I feel worse after scrolling when it's supposed to be relaxing?\n- Why do I feel wired but tired after being on my phone?\n- Can your phone overstimulate your nervous system?\n- What does overstimulation feel like in the body (jaw tension, headaches, irritability, light and noise sensitivity)?\n- How do you calm an overstimulated nervous system quickly?\n- Why do I clench my jaw when I'm on my phone? (No source found. Answer gently and suggest a dentist if it's persistent.)\n- Is it bad to turn off all notifications? (Fitz 2019 is directly relevant.)\n- Is doomscrolling bad for anxiety?\n- Why do I feel anxious or irritable when I put my phone down? (Wadsley & Ihssen cessation finding.)\n- Is overstimulation the same as being overwhelmed? (Calm's FAQ covers this.)\n- Does breathing really calm your nervous system, and how long does it take?\n- Does a longer exhale actually help? (Mixed evidence.)\n- Does scrolling before bed affect sleep?\n\n## SOURCES\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9873947 | Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.) | Cell Reports Medicine (Stanford) | 2023 | Remote RCT (NCT05304000), 108 participants, 28 days, one 5-min exercise a day: cyclic sighing, box breathing, or cyclic hyperventilation with retention, vs mindfulness meditation. Breathwork, especially exhale-focused cyclic sighing, gave greater improvement in mood (p<0.05) and reduction in respiratory rate (p<0.05) than mindfulness. All groups improved daily positive affect and reduced state anxiety and negative affect. The positive-affect gain from cyclic sighing grew with more days of practice. NO significant changes in HRV, resting heart rate, sleep, or trait anxiety. Limitations: remote and unsupervised, mostly young university sample, 1 month. (Sample size and HRV null come from the Simply Psychology summary; the PMC page was captcha-blocked.)\n\nhttps://www.simplypsychology.org/news/breathwork-practices-for-reducing-anxiety | Breathwork Practices for Reducing Anxiety and Improving Mood: RCT | Simply Psychology | 2023 | Secondary summary of Balban 2023: n=108 healthy adults, mostly a Stanford undergrad psychology class; people with moderate to severe psychiatric, medical, or substance use disorders excluded; WHOOP wearable measured HR, HRV, and respiratory rate; no significant HRV change; respiratory rate reduction correlated with increased positive affect. Use only as backup to the primary.\n\nhttps://ro.uow.edu.au/test2021/5166 | Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis (Laborde et al.) | Neuroscience and Biobehavioral Reviews (via Univ. of Wollongong repository) | 2022 | From 1,842 screened abstracts, 223 studies included. Vagally mediated HRV increased with voluntary slow breathing during the session, immediately after one session, and after multi-session interventions. Authors call it a low-tech, low-cost technique for prevention and adjunct treatment, with few adverse effects expected. Effect sizes not retrieved. (The URL redirects; alternate repository listing from the same search: https://pure.solent.ac.uk/en/publications/effects-of-voluntary-slow-breathing-on-heart-rate-and-heart-rate-/)\n\nhttps://eprints.bournemouth.ac.uk/38163/7/Psychophysiology%20-%202021%20-%20Laborde%20-%20Psychophysiological%20effects%20of%20slow%E2%80%90paced%20breathing%20at%20six%20cycles%20per%20minute%20with%20or.pdf | Psychophysiological effects of slow-paced breathing at six cycles per minute (Laborde et al.) | Psychophysiology (Bournemouth Univ. repository) | 2021 | Slow breathing at 6 cycles/min for 5, 10, 15, or 20 min vs control: RMSSD (a vagal HRV marker) increased in all breathing conditions during practice compared with control. Supports the idea that even short sessions shift HRV while you're breathing. 4-in/6-out = 6 breaths/min.\n\nhttps://pubmed.ncbi.nlm.nih.gov/34289128/ | Bae et al., slow breathing with longer exhalation vs inhalation and HRV | Psychophysiology (PubMed) | 2021 | n=28 (16 young, 12 older adults). A longer exhale relative to inhale, at the same breathing rate, acutely increased RMSSD and HF-HRV, consistent with higher cardiac vagal tone. HF-HRV stayed elevated about 4 min after the 2:1 block. (Details from the search summary; PubMed blocked fetch.)\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC11310264 | Do Longer Exhalations Increase HRV During Slow-Paced Breathing? (Meehan & Shaffer) | Applied Psychophysiology and Biofeedback | 2024 | Replication testing 1:2 vs 1:1 inhale-exhale ratio at 6 breaths/min: the ratio did not affect HRV time- or frequency-domain measures, and the replication also found no effect on nonlinear measures. Their review notes nine studies reaching four different conclusions on IE ratio. Key nuance: \"longer exhale is better\" is not settled. (Details from the search summary.)\n\nhttps://durham-repository.worktribe.com/OutputFile/3489734 | Wadsley & Ihssen, physiological and subjective responses to Instagram use and cessation | Durham University (journal on ScienceDirect, name not retrieved) | 2025 | 54 young adults. Three 15-min phases: baseline reading, Instagram, cessation (news reading). Compared with baseline, Instagram produced a large decrease in heart rate and an increase in skin conductance (GSR), read as appetitive arousal and deep attentional engagement. A news-reading control showed it wasn't just phone use or reading. Cessation raised heart rate and GSR compared with exposure (aversive, stress-related arousal), plus self-reported stress, anxiety, and craving. Physiological changes were NOT associated with problematic-use scores, so this applies to regular users too. Single small study. (The repository returned 403 on fetch; details from search results.)\n\nhttps://www.sciencealert.com/scrolling-through-social-media-has-a-unique-effect-on-your-body | Scrolling through social media has a unique effect on your body | ScienceAlert (The Conversation piece by Niklas Ihssen, Durham) | 2025 | Lay explanation of the Durham study: 15 min of Instagram slowed heart rate compared with news reading; skin conductance was higher during Instagram and climbed further when people were interrupted. Participants reported stress, anxiety, and cravings at log-off. The author says it's unclear whether this is withdrawal and does not conclude that everyone is addicted. Good for the \"it's not about being an addict\" framing.\n\nhttps://scholars.duke.edu/publication/1402953 | Batching smartphone notifications can improve well-being (Fitz, Kushlev, Jagannathan, Lewis, Paliwal, Ariely) | Computers in Human Behavior 101:84-94 | 2019 | Randomized field experiment, n=237: notifications as usual, batched 3 times a day, or never. The batched group reported more attentiveness, better mood, lower stress, fewer interruptions, and greater sense of control. The no-notification group got few benefits and reported HIGHER anxiety and FOMO. Inattention and phone-related FOMO explained the results. Note: some co-authors have financial ties to the app used (per news coverage in the search results).\n\nhttps://www.interruptions.net/literature/Kushlev-CHI16.pdf | \"Silence your phones\": Smartphone notifications increase inattention and hyperactivity symptoms (Kushlev, Proulx, Dunn) | CHI 2016 (ACM), DOI 10.1145/2858036.2858359 | 2016 | 221 adults from the general population. One week with alerts on and phone in reach, one week with alerts off and phone away. Higher self-reported inattention and hyperactivity with alerts on, and inattention predicted lower productivity and psychological well-being. Self-report. None of the participants had an ADHD diagnosis. Don't imply the study shows phones cause ADHD. (The full title is from memory and isn't confirmed on the fetched page, so cite it by venue and DOI or use a short descriptive anchor. Whether the order was counterbalanced isn't confirmed.)\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC4756000/ | The effect of smartphone usage time on posture and respiratory function (Jung, Lee, Kang, Kim, Lee) | Journal of Physical Therapy Science 28(1):186-189 | 2016 | 50 healthy volunteers: under 4 h/day (mean 3.0 h) vs over 4 h/day (mean 5.5 h). Craniovertebral angle 54.5° vs 53.0° (more forward head), scapular index 67.5 vs 65.5 (more rounded shoulders), peak expiratory flow 6.2 vs 4.3 L/s, all reported significant. FVC, FEV1, and FEV1/FVC not significantly different. Small sample; the posture-breathing link wasn't tested directly. A 2023 Pakistani cross-sectional study of 217 young adults found a posture link but no lung-function effect (link not verified, so mention only as \"other research has not found a lung-function effect\" if at all).\n\nhttps://researchnow.flinders.edu.au/en/publications/doomscrolling-evokes-existential-anxiety-and-fosters-pessimism-ab/ | Doomscrolling evokes existential anxiety and fosters pessimism about human nature (Shabahang et al.) | Computers in Human Behavior Reports (Flinders University) | 2024 | Survey of 800 university students in Iran and the US: doomscrolling associated with higher existential anxiety in both samples. Cross-sectional convenience samples, so association only.\n\nhttps://www.calm.com/blog/overstimulated-meaning | What does it mean to feel overstimulated? Plus, how to cope | Calm | n.d. | SERP competitor only, not an evidence source. Lists \"wired but exhausted\" as a symptom; no research citations.\n\n**Not sourced; don't make physiological claims:**\n- Panoramic or widened gaze calming the nervous system.\n- Jaw unclenching or awake bruxism linked to phone use.\n- \"Screen apnea\".\n- Cortisol rising during scrolling. The Durham study measured heart rate and skin conductance, not cortisol.\n- The Boston Marathon statistic (4,675 people; more than 6 h/day of coverage linked to 9 times higher odds of acute stress). I only saw it secondhand via insidescience.org, so skip it or treat it as unverified.\n\n## SAFETY\n\n- 4-in/6-out slow breathing is gentle and generally well tolerated. The Laborde 2022 review expects few adverse effects. Still, tell readers to stop and breathe normally if they feel dizzy, lightheaded, tingly, or short of breath, and not to force the exhale or strain to fill the lungs.\n- The script has no breath holds or fast breathing. If the article mentions box breathing, 4-7-8, or the physiological sigh as alternatives, note that breath holds and forceful patterns aren't for everyone: pregnancy, heart or lung conditions, a history of fainting or panic. Balban 2023 excluded people with moderate to severe psychiatric or medical conditions, so its findings don't automatically apply to them.\n- Some people find attention on the breath makes anxiety worse. Offer an out: keep eyes open, breathe normally, and just drop the shoulders and soften the jaw.\n- No treatment claims: breathing \"may help you feel calmer\" and \"is associated with\" higher vagal HRV. It doesn't treat anxiety, panic, insomnia, or ADHD. Don't cite Kushlev as showing phones cause ADHD; the authors explicitly say they don't.\n- Persistent jaw clenching, headaches, neck pain, or tingling hands: suggest a dentist, doctor, or physiotherapist. These can have other causes.\n- Persistent anxiety, sleep problems, or distress: talk to a professional. If a reader may be in crisis, point to local emergency services or a crisis line (988 in the US).\n- Avoid addiction framing. The Durham study found the same physiological pattern whether or not people scored high on problematic use, which supports talking to readers as regular users, not addicts."
+}

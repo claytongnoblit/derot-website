@@ -1,5 +1,194 @@
 # DeRot blog: full text
 
+# Nervous System Overload From Your Phone: How to Come Down Mid-Scroll
+
+URL: https://derot.org/blog/nervous-system-overload-from-phone/
+Updated: 2026-10-16
+
+Key takeaways:
+- Nervous system overload from your phone is a plain-language name, not a diagnosis, for the tense, wired-but-flat state that fast, emotionally charged feeds and constant alerts can leave you in.
+- In a Durham lab study of 54 young adults, Instagram use lowered heart rate but raised skin conductance, and stopping pushed both up along with self-reported stress, whether or not people scored as problematic users.
+- Batching notifications three times a day improved mood and lowered stress in a 237-person experiment, while turning notifications off completely raised anxiety and FOMO.
+- The most useful time to step in is mid-scroll, once you notice you're wound up: drop your shoulders, unclench your jaw, widen your gaze, and take six slow breaths of 4 counts in and 6 counts out.
+- Slow breathing reliably raises vagally mediated heart rate variability across 223 studies, but evidence that a longer exhale adds extra benefit is still early and mixed.
+
+Nervous system overload from your phone is a plain-language name (not a diagnosis) for the tense, wired-but-flat state that fast, emotionally charged feeds and constant alerts can leave you in. Early research suggests scrolling keeps your body quietly aroused, and stopping can bring a spike of stress. Slow breathing (for example 4 counts in, 6 out) is one of the better-supported ways down.
+
+In short, the problem has less to do with how many minutes you spend and more to do with the state the feed leaves you in. You can work with that state directly, in the middle of a scroll, without deleting anything or shutting yourself out.
+
+## What is nervous system overload from your phone?
+
+Nervous system overload from your phone describes how your body feels after a stretch of scrolling that was supposed to be relaxing: switched on and oddly drained at the same time. It isn't a medical term, and having it doesn't mean something is wrong with you.
+
+The felt signs tend to be physical before they are mental:
+
+- A tight jaw, or back teeth pressed together
+- Shoulders creeping up toward your ears
+- A buzzy head that won't settle on one thing
+- A shorter fuse with the people around you
+- Trouble settling into the next task, or into sleep
+
+Your autonomic nervous system has two broad branches that work together all day. The sympathetic side revs you up for action. The parasympathetic side, which includes the vagus nerve, helps you settle and recover. Neither one is "bad," and you are never running purely on one of them.
+
+Lots of articles say phones keep you "stuck in fight or flight." It's a tidy story, but the research is messier than that. What the evidence actually suggests is more interesting, and more useful.
+
+It also helps to think of this as a state, not a score. Two people can spend the same 20 minutes on the same app and come away feeling completely different, depending on what they saw, how fast it moved, and what pinged in the middle. You don't need to think of yourself as having a problem to notice that some sessions leave you rattled.
+
+## Why does "one quick check" leave you wired?
+
+"One quick check" tends to leave you wired because a feed packs dozens of small jolts into a few minutes: rapid topic switches, constant novelty, emotionally loaded posts, and notification interruptions. None of them is a big deal on its own. They add up.
+
+Picture a typical two minutes. A friend's holiday photo, a clip about a disaster, a joke, an argument in the comments, an ad, then a message alert that pulls you into another app. Your attention and your emotions get pulled somewhere new every few seconds, and you rarely get to finish one feeling before the next one starts.
+
+What you're looking at matters too. In [a survey of 800 university students in Iran and the US, doomscrolling was associated with higher existential anxiety](https://researchnow.flinders.edu.au/en/publications/doomscrolling-evokes-existential-anxiety-and-fosters-pessimism-ab/). That was a cross-sectional study, so it shows a link and doesn't prove that doomscrolling causes anxiety. Still, it matches something most people already know: five minutes of bleak headlines lands differently from five minutes of dog videos.
+
+That is why minutes alone are a blunt measure. Pace, emotional tone and interruptions all shape how you feel afterward, not just the clock. If evenings are when this hits hardest, our piece on [why doomscrolling at night leaves you wired](/blog/doomscrolling-at-night/) goes deeper on that window.
+
+## What happens in your body while you scroll, and when you stop
+
+A small Durham University lab study found that scrolling Instagram lowered heart rate while raising skin conductance, a common marker of arousal, and that stopping pushed both up along with stress. Put simply, you can seem absorbed and still while you scroll, then feel edgy the moment you put the phone down.
+
+Here are the details. [Researchers had 54 young adults use Instagram for 15 minutes. Compared with a baseline reading task, heart rate went down and skin conductance went up](https://durham-repository.worktribe.com/OutputFile/3489734). Skin conductance tracks tiny changes in sweat gland activity, which is why researchers use it as a sign of physiological arousal. So the picture during scrolling wasn't panic. It was closer to absorbed and quietly switched on at the same time.
+
+The more striking part came afterward. [When participants stopped, their heart rate and skin conductance rose, and they reported stress, anxiety and craving](https://durham-repository.worktribe.com/OutputFile/3489734). As one of the researchers described it, [skin conductance climbed further when the session was interrupted](https://www.sciencealert.com/scrolling-through-social-media-has-a-unique-effect-on-your-body).
+
+That maps neatly onto the "wired but flat" feeling. While you scroll, you're absorbed and physically still. When you stop, there's a small surge, and you look up at your kitchen with a tight jaw and an itch to pick the phone back up.
+
+There are two important caveats:
+
+- **This isn't about addiction.** [The physiological pattern was not associated with participants' problematic-use scores](https://durham-repository.worktribe.com/OutputFile/3489734), so it showed up in ordinary users and not only heavy ones. The author [does not conclude that everyone is addicted, and says it is unclear whether the log-off response is withdrawal](https://www.sciencealert.com/scrolling-through-social-media-has-a-unique-effect-on-your-body).
+- **It's one small study.** Fifty-four young adults, one app, in a lab. It's a useful clue, not a settled fact.
+
+The practical point is that the moment you stop scrolling is a pressure point of its own, and a short reset there can help.
+
+## Do notifications and fast-switching feeds make it worse?
+
+Notifications seem to add to the load, but cutting them off completely isn't automatically better. The best available evidence favors batching alerts over silencing everything.
+
+In [a study of 221 people, participants reported more inattention and hyperactivity during a week with phone alerts on than during a week with them off, and that inattention predicted lower well-being](https://www.interruptions.net/literature/Kushlev-CHI16.pdf). The study relied on self-report and doesn't show that phones cause ADHD. What it does suggest is that a steady trickle of pings makes it harder to feel settled.
+
+A later field experiment adds an important twist. In [a 237-person study, getting notifications in batches three times a day improved mood and lowered stress, while getting no notifications at all raised anxiety and fear of missing out](https://scholars.duke.edu/publication/1402953). It's a single experiment, so treat it as a strong hint rather than a rule.
+
+That second finding matters. Switching every alert off can backfire, because worrying about what you're missing turns into its own source of tension. Fewer, predictable interruptions seem to work better than none.
+
+## Does hunching over your phone change how you breathe?
+
+Possibly, but the evidence is thin. One small study found heavier phone users had more forward head posture and weaker forceful exhales, while other lung measures didn't differ significantly.
+
+In [a study of 50 people, those who used a smartphone more than 4 hours a day had more forward head posture and lower peak expiratory flow, but their forced vital capacity and FEV1 did not differ significantly](https://pmc.ncbi.nlm.nih.gov/articles/PMC4756000/). Peak expiratory flow measures how hard you can blow out, not how you breathe at rest, so it tells us little about breathing while you scroll.
+
+You might notice something for yourself, though: shallow, upper-chest breathing when you're hunched and absorbed, or holding your breath while you read something tense. That's worth paying attention to. Just treat it as something you observe in yourself, not an established mechanism. We're skipping the catchy labels here, because the research hasn't caught up with them.
+
+## How to calm down when you're overstimulated mid-scroll
+
+The best time to calm down is mid-scroll, right when you notice you're wound up, not at a gate before you open the app. That's when the overstimulated feeling is actually there. And the Durham findings suggest the comedown, when you stop, is when stress tends to rise.
+
+A pause before you open an app catches you at a moment when you're usually fine. A mid-scroll pause catches you when you aren't.
+
+### The 60-second script
+
+1. **Notice and name it.** Say it in your head: "I'm wound up." Naming the state is your cue to switch, and it keeps the reset from feeling like a punishment.
+2. **Drop your shoulders.** Lift them slightly toward your ears, then let them fall. Let your arms feel heavy.
+3. **Unclench your jaw.** Let your back teeth part a little. Your lips can stay closed, with your tongue resting softly in your mouth.
+4. **Widen your gaze.** Look up from the screen and take in the edges of the room (the walls, the window, the ceiling) without focusing hard on anything.
+5. **Breathe in for 4, out for 6.** Inhale gently through your nose for a count of 4, then breathe out slowly for a count of 6. Each breath takes about 10 seconds.
+6. **Repeat for six breaths.** Six breaths of 4 in and 6 out takes one minute, which works out to six breaths per minute. Then decide on purpose whether to keep scrolling.
+
+Steps 2 to 4 take a few seconds, so fold them into your first breath or two. If you'd like a pacer, the [calm 4-6 breathing timer](/tools/calm-breathing-4-6/) counts for you, and our [guide to 4-6 breathing](/blog/4-6-breathing-how-to/) covers variations and how to adjust the counts.
+
+### What it feels like, and common mistakes
+
+The first two breaths usually feel a little awkward. By the fourth or fifth, many people find their shoulders have dropped further on their own and their head has gone quieter. You're not aiming for bliss. You're aiming to come down a notch.
+
+Common mistakes:
+
+- **Forcing the exhale.** Six counts should feel like a slow leak, not a push. If you run out of air early, count a bit faster.
+- **Overfilling your lungs.** A 4-count inhale is a normal-sized breath, not a gulp.
+- **Checking the feed between breaths.** One glance restarts the whole cycle. Turn the phone face down for the minute.
+- **Treating it like a test.** If you lose count, pick it up again at the next inhale.
+
+### If focusing on your breath feels worse
+
+Some people find that focusing on their breath makes them more anxious. If that's you, skip the counting. Keep your eyes open, breathe normally, and just do the body steps: shoulders, jaw, gaze. If you feel dizzy, lightheaded, tingly or short of breath at any point, stop and go back to breathing normally.
+
+This mid-scroll moment is exactly what DeRot is built for. It pauses your scroll after the feed has wound you up and walks you through a 60-second breath, so your shoulders drop and the wired feeling fades before you carry on. DeRot is coming soon to iOS.
+
+## What the research supports, and where it's still early
+
+There's strong evidence that slow breathing raises vagally mediated heart rate variability. Whether a longer exhale beats an even breath is less clear, and the body cues in the script (shoulders, jaw, gaze) haven't been tested. They're simply easy ways to let go of tension.
+
+Heart rate variability (HRV) is the natural beat-to-beat variation in your heart rate. Some HRV measures, such as RMSSD and high-frequency HRV, reflect activity of the vagus nerve, the main parasympathetic "settling" pathway.
+
+Here is what the studies show:
+
+- **Slow breathing and HRV.** [A meta-analysis of 223 studies found slow breathing increased vagally mediated HRV during a session, immediately after a single session, and after multi-session practice](https://pure.solent.ac.uk/en/publications/effects-of-voluntary-slow-breathing-on-heart-rate-and-heart-rate-/).
+- **Six breaths per minute.** [Slow breathing at six cycles per minute raised RMSSD from before to after practice, with or without HRV biofeedback](https://eprints.bournemouth.ac.uk/38163/7/Psychophysiology%20-%202021%20-%20Laborde%20-%20Psychophysiological%20effects%20of%20slow%E2%80%90paced%20breathing%20at%20six%20cycles%20per%20minute%20with%20or.pdf). The one-minute version above is shorter than the sessions typically studied. Treat it as a quick reset, and take a few minutes when you can.
+- **Longer exhale.** In [a study of 28 adults, breathing out longer than breathing in, at the same overall rate, acutely increased RMSSD and high-frequency HRV, and high-frequency HRV stayed elevated for about 4 minutes afterward](https://pubmed.ncbi.nlm.nih.gov/34289128/). That's encouraging, but it's one small study, and researchers haven't settled whether exhale length matters as much as simply slowing down. Use 4-6 because it's comfortable, not because it's proven to be better.
+- **Mood without HRV change.** In [a month-long randomized trial, 5 minutes a day of cyclic sighing improved mood and lowered breathing rate more than mindfulness meditation](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947). According to a summary of the trial, [there was no significant change in HRV, and most of the 108 participants were Stanford undergraduates](https://www.simplypsychology.org/news/breathwork-practices-for-reducing-anxiety), so the results may not apply to everyone. It's also a useful reminder that feeling better and moving an HRV number aren't the same thing.
+
+| Claim | Evidence strength | Source |
+|---|---|---|
+| Slow breathing raises vagally mediated HRV | Strong: meta-analysis of 223 studies | [Laborde 2022](https://pure.solent.ac.uk/en/publications/effects-of-voluntary-slow-breathing-on-heart-rate-and-heart-rate-/) |
+| Six breaths per minute raises RMSSD, with or without biofeedback | Moderate: one lab study, before-and-after change | [Laborde 2021](https://eprints.bournemouth.ac.uk/38163/7/Psychophysiology%20-%202021%20-%20Laborde%20-%20Psychophysiological%20effects%20of%20slow%E2%80%90paced%20breathing%20at%20six%20cycles%20per%20minute%20with%20or.pdf) |
+| A longer exhale adds extra benefit | Early and mixed: small studies | [Bae 2021](https://pubmed.ncbi.nlm.nih.gov/34289128/) |
+| Daily breathwork improves mood | Promising: one month-long trial, mostly students | [Balban 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947) |
+| Scrolling raises arousal and stopping spikes stress | Early: one lab study of 54 | [Wadsley and Ihssen (Durham)](https://durham-repository.worktribe.com/OutputFile/3489734) |
+| Phone posture changes breathing | Thin: 50 people, one measure differed | [Jung 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4756000/) |
+| Dropping shoulders, unclenching jaw, widening gaze | Untested: simple comfort cues | None |
+
+None of this turns a breathing exercise into medical care for anxiety or any other condition. Slow breathing is associated with higher vagal HRV, and it may help you feel calmer in the moment. That's a worthwhile, modest claim, and we'd rather make that one honestly than a bigger one we can't back up.
+
+## Regulate, don't restrict: staying connected without the overstimulation tax
+
+"Regulate, don't restrict" means dealing with the state your phone leaves you in instead of deleting apps or shutting yourself out. You can keep the group chat, the news and the funny videos, and still stop paying the overstimulation tax.
+
+Two moves have the best support:
+
+- **Batch your notifications** into a few set times a day instead of switching everything off. In the 237-person experiment above, three batches a day beat both constant alerts and none at all. On an iPhone, go to Settings > Notifications > Scheduled Summary, switch it on, choose which apps to include, and set two or three delivery times. Calls, messages from people and time-sensitive alerts can still come through right away.
+- **Take a breathable pause** when you notice you're wired. Run the 60-second script mid-scroll, then decide whether to keep going.
+
+If you'd like other options, the [physiological sigh](/tools/physiological-sigh/) (two inhales through the nose, then a long, slow exhale) and [box breathing](/tools/box-breathing-timer/) are both worth trying. A safety note: breath holds and more forceful patterns, including box breathing, 4-7-8 and the physiological sigh, aren't for everyone. Take care if you're pregnant, have a heart or lung condition, or have a history of fainting or panic. Gentle 4-6 breathing, or ordinary breathing with soft shoulders, is a fine place to stay.
+
+### When to talk to a professional
+
+A breathing reset is for everyday overstimulation, and it doesn't replace care. If jaw clenching, headaches or neck pain keep coming back, see a dentist, doctor or physiotherapist. If anxiety, sleep problems or distress persist, talk to a professional. If you're in crisis, contact local emergency services, or call or text 988 in the US.
+
+For everyone else, the point is a small one: you don't have to give up the feed to stop leaving it frazzled. Notice the state, come down a notch, and carry on.
+
+## FAQ
+**Why do I feel wired but tired after being on my phone?**
+In a small Durham lab study, scrolling Instagram lowered heart rate while raising skin conductance, a marker of arousal. So your body may be physically still and quietly switched on at the same moment, which can feel like being wired and flat at once. Fast topic switching and emotionally charged posts probably add to it. It's one study, but it fits what a lot of people describe.
+
+**Why do I feel anxious or irritable when I put my phone down?**
+In the same Durham study of 54 young adults, heart rate and skin conductance rose after people stopped using Instagram, and they reported stress, anxiety and craving. This happened regardless of their problematic-use scores. The researchers say it's unclear whether this is withdrawal. Practically, the moment you put the phone down is a good time for a few slow breaths.
+
+**Is it bad to turn off all notifications?**
+Not necessarily bad, but it isn't always better. In a 237-person field experiment, people who got notifications in three batches a day reported better mood and lower stress, while people who got no notifications at all reported more anxiety and fear of missing out. A few predictable check-in times seem to work better than an all-or-nothing approach.
+
+**How long does slow breathing take to calm you down?**
+A meta-analysis of 223 studies found slow breathing raises vagally mediated heart rate variability during a session and right after a single one. The research doesn't set a minimum time, and a single minute is shorter than the sessions typically studied. Six breaths of 4 counts in and 6 out takes exactly 60 seconds, which makes it a practical quick reset mid-scroll. When you have more time, a few minutes is closer to what researchers test.
+
+**Why do I clench my jaw when I'm on my phone?**
+Lots of people notice that they clench their jaw, raise their shoulders or hold their breath while they're absorbed in a screen, especially when the content is tense. There's little direct research on why. A simple fix is to check in mid-scroll: part your back teeth slightly and drop your shoulders. If jaw pain or headaches keep coming back, see a dentist or doctor.
+
+**Is doomscrolling bad for anxiety?**
+A survey of 800 university students in Iran and the US found that doomscrolling was associated with higher existential anxiety. Because it was a survey taken at a single point in time, it can't show that doomscrolling causes anxiety. Anxious people may also scroll more. If bleak content leaves you rattled, choosing what you look at and taking a breathing pause mid-scroll can both help.
+
+## Sources
+- Brief structured respiration practices enhance mood and reduce physiological arousal: https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947
+- Breathwork Practices for Reducing Anxiety and Improving Mood: RCT: https://www.simplypsychology.org/news/breathwork-practices-for-reducing-anxiety
+- Effects of voluntary slow breathing on heart rate and heart rate variability (repository listing): https://pure.solent.ac.uk/en/publications/effects-of-voluntary-slow-breathing-on-heart-rate-and-heart-rate-/
+- Psychophysiological effects of slow-paced breathing at six cycles per minute: https://eprints.bournemouth.ac.uk/38163/7/Psychophysiology%20-%202021%20-%20Laborde%20-%20Psychophysiological%20effects%20of%20slow%E2%80%90paced%20breathing%20at%20six%20cycles%20per%20minute%20with%20or.pdf
+- Slow breathing with longer exhalation vs inhalation and HRV (Bae et al.): https://pubmed.ncbi.nlm.nih.gov/34289128/
+- Physiological and subjective responses to Instagram use and cessation (Wadsley & Ihssen): https://durham-repository.worktribe.com/OutputFile/3489734
+- Doomscrolling evokes existential anxiety and fosters pessimism about human nature: https://researchnow.flinders.edu.au/en/publications/doomscrolling-evokes-existential-anxiety-and-fosters-pessimism-ab/
+- Scrolling through social media has a unique effect on your body: https://www.sciencealert.com/scrolling-through-social-media-has-a-unique-effect-on-your-body
+- Batching smartphone notifications can improve well-being: https://scholars.duke.edu/publication/1402953
+- Smartphone notifications and inattention and hyperactivity symptoms (Kushlev, Proulx, Dunn): https://www.interruptions.net/literature/Kushlev-CHI16.pdf
+- The effect of smartphone usage time on posture and respiratory function: https://pmc.ncbi.nlm.nih.gov/articles/PMC4756000/
+
+---
+
 # Is Scrolling Before Bed Bad? What Matters More Than Blue Light
 
 URL: https://derot.org/blog/is-scrolling-before-bed-bad/

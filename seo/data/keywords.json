@@ -879,7 +879,8 @@
       "content_type": "how-to",
       "angle": "Sensory overload from screens and a quick down-shift routine.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "nervous-system-overload-from-phone"
     },
     {
       "keyword": "nervous system overload from phone",
@@ -891,7 +892,9 @@
       "content_type": "explainer",
       "angle": "How constant inputs keep your system activated and how a pause helps.",
       "seasonality": [],
-      "status": "queued"
+      "status": "published",
+      "post": "nervous-system-overload-from-phone",
+      "published": "2026-10-16"
     },
     {
       "keyword": "regulate don't restrict",
@@ -903,8 +906,9 @@
       "content_type": "pillar",
       "angle": "DeRot's manifesto page: why regulation beats restriction for healthier phone use.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Brand-owned term; zero competition."
+      "status": "covered",
+      "notes": "Brand-owned term; zero competition.",
+      "covered_by": "nervous-system-overload-from-phone"
     },
     {
       "keyword": "why does scrolling make me anxious",
