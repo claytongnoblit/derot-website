@@ -14,9 +14,14 @@
   "threads_topic": "Building in Public",
   "platforms": {
     "threads": {
-      "status": "queued",
+      "status": "posted",
       "scheduled_at": "2026-10-16T21:00:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "id": "18166564759486519",
+      "permalink": "https://www.threads.com/@derotorg/post/DekqlENmeAL",
+      "posted_at": "2026-10-16T23:01:26+00:00",
+      "error": null,
+      "retry_after": null
     }
   },
   "built_at": "2026-10-15T21:50:49+00:00"
