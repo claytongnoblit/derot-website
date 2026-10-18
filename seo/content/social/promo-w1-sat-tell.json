@@ -27,9 +27,14 @@
   },
   "platforms": {
     "instagram": {
-      "status": "queued",
+      "status": "posted",
       "scheduled_at": "2026-10-17T23:30:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "id": "17999254602031429",
+      "permalink": "https://www.instagram.com/reel/DenY3vmCCl_/",
+      "posted_at": "2026-10-18T00:24:48+00:00",
+      "error": null,
+      "retry_after": null
     }
   },
   "built_at": "2026-10-15T21:50:49+00:00"
