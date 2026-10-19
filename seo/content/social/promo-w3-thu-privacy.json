@@ -14,7 +14,7 @@
   "threads_topic": "Digital Wellbeing",
   "platforms": {
     "threads": {
-      "status": "queued",
+      "status": "skipped",
       "scheduled_at": "2026-10-29T21:00:00+00:00",
       "attempts": 0
     }
