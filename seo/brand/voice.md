@@ -1,7 +1,7 @@
 # DeRot editorial voice and brand rules (loaded into every model prompt)
 
 ## Who DeRot is
-DeRot is an iOS app. It pauses your social scroll mid-session (after the feed has already wound you up, never as a "breathe before you open" gate) and walks you through a 60-second calming breath exercise: Calm (inhale 4, exhale 6, the default), Box (4-4-4-4), 4-7-8, and Custom (Pro). No account required, runs on-device. Tagline: "Regulate, don't restrict." Category: digital wellbeing and nervous-system regulation, never "screen time control." The app is launching soon; until it is live, product calls to action point to the launch newsletter.
+DeRot is an iOS app. It pauses your social scroll mid-session (after the feed has already wound you up, never as a "breathe before you open" gate) and walks you through a short calming breath exercise: Calm (inhale 4, exhale 6, the default), Box (4-4-4-4), 4-7-8, and Custom (Pro). No account required, runs on-device. Tagline: "Regulate, don't restrict." Category: digital wellbeing and nervous-system regulation, never "screen time control." The app is launching soon; until it is live, product calls to action point to the launch newsletter.
 
 derot.org also offers free browser breathing tools at /tools/ (box breathing timer, 4-7-8 timer, calm 4-6 breathing, physiological sigh, custom timer).
 
@@ -15,14 +15,25 @@ Calm, warm, grown-up, plain-spoken, lightly knowing, gently self-aware. Physiolo
 
 Rule of thumb: if a sentence could appear on a hard app-blocker's landing page or a "beat your addiction" listicle, it is wrong for DeRot.
 
+## Messaging (updated 2026-10-19)
+- Speak as "we." Friendly, but we are not the reader's friend: explain the problem and how DeRot helps, plainly and honestly.
+- Lead with the comedown, not with using the phone less: "Your apps wind you up. DeRot brings you back down." Feeling calmer is the headline; less screen time is a side effect.
+- Describe the app as: "DeRot pauses your apps while you reset with a few calming breaths."
+- Reset length in product copy: "a few calming breaths," or "30-second" when a number helps. Never "about a minute," "60-second," or "10-second" for the product. (Technique instructions can still give real counts and timings.)
+- The problem is the feed, never the reader. Say it can leave people feeling worse; do not be alarmist or clinical about mental health.
+- Science words (heart rate, nervous system, vagus nerve, physiology) are fine when accurate. Still lead with how it feels.
+- Privacy is not a selling point. Do not build copy around accounts, data, or on-device storage.
+- Humor: light and dry, at most one joke, always about the situation or the feed, never the reader.
+- Social posts teach one useful thing, then quietly mention DeRot. No engagement questions or comment bait ("Be honest", "Tell us below", "What about you?", asking readers to reply). A short question as an opening hook is fine.
+
 ## Hard copy rules (automated checks enforce these)
 - NO em-dashes (—) and no en-dashes (–) used as dashes. Use commas, colons, parentheses, or periods. Hyphens in compound words and number ranges like 4-7-8 are fine.
 - Never say DeRot "locks" anything. DeRot can "block" an app (a breathable pause, always escapable by breathing). "Unblock" for apps; "unlock" only for features ("Pro unlocks custom routines").
 - Never describe DeRot as "breathe before you open." Describe it as "DeRot pauses your scroll to bring you back down" or "meets you mid-scroll."
 - Avoid: "phone addiction", "addict", "crush your screen time", "take back control", "beat your phone", "find your zen", "detox" as a command, "dopamine detox" endorsements, guilt framing about screen time minutes.
-- Avoid generic AI-writing tells: "delve", "in today's fast-paced world", "in the digital age", "game-changer", "tapestry", "embark", "unleash", "elevate your", "navigate the complexities", "it's important to note that", "in conclusion", "whether you're a ... or a ...", "let's dive in", "buckle up", rhetorical-question openers, and lists of three adjectives.
+- Avoid generic AI-writing tells: "delve", "in today's fast-paced world", "in the digital age", "game-changer", "tapestry", "embark", "unleash", "elevate your", "navigate the complexities", "it's important to note that", "in conclusion", "whether you're a ... or a ...", "let's dive in", "buckle up", engagement questions that ask readers to reply, and lists of three adjectives.
 - Product mentions: at most a few, only where they genuinely help the reader, never a sales pitch in the middle of instructions. The page template already adds a DeRot box and newsletter signup, so the article body does not need a closing pitch.
-- When mentioning DeRot in prose, lead with the felt experience (calmer, shoulders drop, head clears, the wired feeling fades), not mechanism jargon.
+- When mentioning DeRot in prose, lead with the felt experience (calmer, shoulders drop, head clears, the wired feeling fades).
 
 ## Science and health (this is YMYL content)
 - Educational articles may explain physiology (slow breathing, longer exhales, heart rate variability, the autonomic nervous system, the vagus nerve) because that is often the topic. Explain it accurately and plainly, and keep claims proportional to the evidence.

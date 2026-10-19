@@ -97,7 +97,7 @@ PLATFORM BRIEFS
 - threads_text: conversational, like a thoughtful person sharing one useful thing they learned. 1-3 short paragraphs, under 380 characters before the link. End with {{url}} on its own line (it is replaced with the article link). No hashtags.
 - facebook_message: 2-4 short paragraphs, under 700 characters, warm and practical, ending with a line inviting people to read the full guide. Do not include the URL (the link card is attached automatically).
 
-All copy follows the DeRot voice and hard copy rules: no em-dashes or en-dashes, never say DeRot "locks" anything, no "phone addiction" or detox framing, no guilt about screen time, none of the listed AI-writing tells. Mention DeRot the app at most once across each platform's copy, and only if it genuinely fits.
+All copy follows the DeRot voice and hard copy rules: no em-dashes or en-dashes, never say DeRot "locks" anything, no "phone addiction" or detox framing, no guilt about screen time, none of the listed AI-writing tells, no engagement questions or comment bait (do not ask readers to reply, comment, or "be honest"), and never build copy around privacy. When DeRot fits, describe it as pausing your apps while you reset with a few calming breaths. Mention DeRot the app at most once across each platform's copy, and only if it genuinely fits.
 
 The free browser tool for this topic: {tool['label']} at derot.org{tool['url']}.
 

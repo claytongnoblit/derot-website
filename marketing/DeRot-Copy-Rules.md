@@ -14,7 +14,7 @@
 
 Consumer-facing copy leads with how it *feels* (calmer, shoulders drop, head clears, the wired feeling fades) — not the clinical explanation of why it works.
 
-**Avoid in user-facing copy:** "vagus nerve," "heart rate," "nervous system reset," "it's physiology," biology jargon generally, "breathing gate," "strict."
+**Avoid in user-facing copy:** "breathing gate," "strict." (Updated 2026-10-19: science words like "heart rate" and "nervous system" are allowed again. Still lead with how it feels.)
 
 Physiology is the internal reason DeRot works — real, and fine to know — but it's not the marketing line anymore. If you see "It's not woo, it's physiology" or similar in older docs, treat it as retired.
 
@@ -49,3 +49,12 @@ DeRot interrupts **mid-scroll** — after the feed has already wound you up, not
 ---
 
 *This is a living doc. Update it the moment a wording decision changes — don't wait to write it down.*
+
+## Voice guide decisions (2026-10-19)
+
+- Speak as "we." Social posts teach one useful thing, then quietly mention DeRot.
+- Lead with the comedown, not with using the phone less.
+- App description: "DeRot pauses your apps while you reset with a few calming breaths."
+- Reset length: "a few calming breaths," or "30-second" when a number helps. Never "about a minute" or "10-second."
+- No engagement questions ("Be honest," "Tell us below"). They read as AI.
+- Privacy is not a selling point.

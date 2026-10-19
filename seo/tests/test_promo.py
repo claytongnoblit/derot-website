@@ -23,11 +23,11 @@ def test_plan_passes_copy_rules():
 def test_copy_rules_catch_promo_mistakes():
     plan = copylib.deepcopy(promo.load_plan())
     t = next(p for p in plan["prelaunch"] if p["platform"] == "threads")
-    t["text"] = "DeRot is available now — it calms your vagus nerve. https://example.com"
+    t["text"] = "DeRot is available now — a strict detox for your feed. https://example.com"
     ig = next(p for p in plan["prelaunch"] if p["platform"] == "instagram")
     ig["caption"] = "No bio line here."
     errors = "\n".join(promo.check_plan(plan))
-    for needle in ("pre-launch", "dash", "vagus", "example.com", "link in bio"):
+    for needle in ("pre-launch", "dash", "strict", "example.com", "link in bio"):
         assert needle in errors, needle
 
 

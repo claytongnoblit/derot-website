@@ -24,13 +24,9 @@ from .util import SEO_DIR, SITE_DIR, now_utc, read_json
 PLAN = SEO_DIR / "content" / "promo" / "plan.yaml"
 DAYS = {"mon": 0, "tue": 1, "wed": 2, "thu": 3, "fri": 4, "sat": 5, "sun": 6}
 
-# Consumer copy rules (marketing/DeRot-Copy-Rules.md): lead with the felt
-# experience, keep mechanism jargon out of promo copy.
+# Consumer copy rules (marketing/DeRot-Copy-Rules.md). Science words like
+# "heart rate" are allowed again (2026-10-19); lead with the felt experience.
 CONSUMER_BANNED = [
-    (r"\bvagus\b", "copy rules: no 'vagus nerve' in consumer copy"),
-    (r"\bheart rate\b", "copy rules: no 'heart rate' in consumer copy"),
-    (r"\bnervous[- ]system\b", "copy rules: no 'nervous system' in consumer copy"),
-    (r"\bphysiolog(y|ical)\b(?! sigh)", "copy rules: no 'physiology' in consumer copy"),
     (r"\bbreathing gate\b", "copy rules: no 'breathing gate'"),
     (r"\bstrict\b", "copy rules: avoid 'strict'"),
     (r"\bdetox\b(?!\w)", "copy rules: no detox framing"),
