@@ -57,3 +57,57 @@ def test_real_keyword_file_is_valid():
         assert 1 <= k.get("volume_tier", 1) <= 5
         assert 1 <= k.get("difficulty_tier", 1) <= 5
     assert kw.shortlist(copy.deepcopy(data), [], CFG, 5)
+
+
+# ---------------------------------------------------------------- comparison track
+def _cmp_cfg():
+    cfg = copy.deepcopy(CFG)
+    cfg["comparison_track"] = {"enabled": True, "clusters": ["b"], "max_posts_per_week": 2,
+                               "min_hours_between_posts": 40, "social": False,
+                               "content_type_bonus": {"list": 3.0}}
+    return cfg
+
+
+def test_tracks_split_the_keyword_universe():
+    cfg = _cmp_cfg()
+    main = {k["cluster"] for k in kw.shortlist(universe(), [], cfg, 10)}
+    comp = {k["cluster"] for k in kw.shortlist(universe(), [], cfg, 10, track="comparison")}
+    assert main == {"a"} and comp == {"b"}
+
+
+def test_disabled_track_leaves_main_untouched():
+    cfg = _cmp_cfg()
+    cfg["comparison_track"]["enabled"] = False
+    assert not kw.comparison_clusters(cfg)
+    assert {k["cluster"] for k in kw.shortlist(universe(), [], cfg, 10)} == {"a", "b"}
+    assert kw.shortlist(universe(), [], cfg, 10, track="comparison") == []
+
+
+def test_list_bonus_favors_roundups():
+    cfg = _cmp_cfg()
+    data = universe()
+    data["keywords"].append({"keyword": "best calm apps", "cluster": "b", "volume_tier": 2, "difficulty_tier": 1,
+                             "business_fit": 5, "content_type": "list", "status": "queued"})
+    assert kw.shortlist(data, [], cfg, 1, track="comparison")[0]["keyword"] == "best calm apps"
+
+
+def test_cadence_is_per_track(monkeypatch):
+    from derot_seo import pipeline
+    from derot_seo.util import today
+    cfg = _cmp_cfg()
+    d = today().isoformat()
+    main_posts = [{"slug": f"m{i}", "cluster": "a", "date_published": d} for i in range(3)]
+    assert "weekly cap" in pipeline.cadence_block(cfg, main_posts, "main")
+    assert pipeline.cadence_block(cfg, main_posts, "comparison") is None
+    comp_posts = [{"slug": f"c{i}", "cluster": "b", "date_published": d} for i in range(2)]
+    assert "weekly cap" in pipeline.cadence_block(cfg, comp_posts, "comparison")
+    assert pipeline.cadence_block(cfg, comp_posts, "main") is None
+
+
+def test_comparison_posts_skip_social():
+    from derot_seo import social
+    cfg = _cmp_cfg()
+    assert social.wants_social({"cluster": "a"}, cfg)
+    assert not social.wants_social({"cluster": "b"}, cfg)
+    cfg["comparison_track"]["social"] = True
+    assert social.wants_social({"cluster": "b"}, cfg)

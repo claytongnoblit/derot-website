@@ -22,7 +22,21 @@ publishing:
   # Minimum hours between two published posts.
   min_hours_between_posts: 20
 
-llm:
+# Second publishing track for comparison and "best X" roundup posts, aimed at AI answers
+# (ChatGPT search, AI Overviews / AI Mode, Perplexity). It has its own weekly budget on top of
+# the main schedule, owns the clusters listed here (the main track no longer plans them), and
+# is blog-only: no Instagram / Threads / Facebook posts. Runs Tue + Thu (seo-publish.yml).
+comparison_track:
+  enabled: true
+  clusters: [comparisons-and-alternatives]
+  max_posts_per_week: 2
+  min_hours_between_posts: 40
+  social: false
+  # Prices and features change, so these come due for refresh sooner than other posts.
+  refresh_min_age_days: 60
+  # Planner score bonus by format. Roundups are the most-cited format on "best X" prompts.
+  content_type_bonus: { list: 3.0, comparison: 0.0 }
+
   # subscription = headless Claude Code on your Claude Pro/Max plan
   #                (GitHub secret CLAUDE_CODE_OAUTH_TOKEN, made once with `claude setup-token`)
   # api          = Anthropic API key, billed per use (GitHub secret ANTHROPIC_API_KEY)
@@ -78,6 +92,7 @@ quality:
     - wiley.com
     - onlinelibrary.wiley.com
     - plos.org
+    - pnas.org          # e.g. the 2023 one sec friction study used in comparison posts
     - journals.plos.org
     - apa.org
     - psychiatry.org

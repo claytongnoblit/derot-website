@@ -16,12 +16,15 @@ def main(argv=None) -> int:
     p.add_argument("--keyword", help="force a specific primary keyword")
     p.add_argument("--force", action="store_true", help="ignore the weekly cadence cap")
     p.add_argument("--no-link-check", action="store_true", help="skip live HTTP checks of source URLs")
+    p.add_argument("--track", choices=["main", "comparison"], default="main",
+                   help="main = the regular schedule; comparison = blog-only comparison/roundup posts")
 
     b = sub.add_parser("build", help="re-render every generated page from post JSON")
     b.add_argument("--images", action="store_true", help="regenerate OG images too")
 
     pl = sub.add_parser("plan", help="show the keyword shortlist and cadence state")
     pl.add_argument("-n", type=int, default=12)
+    pl.add_argument("--track", choices=["main", "comparison"], default="main")
 
     r = sub.add_parser("refresh", help="update an aging article with new research")
     r.add_argument("--slug")
@@ -54,11 +57,11 @@ def main(argv=None) -> int:
     a = ap.parse_args(argv)
     if a.cmd == "publish":
         return pipeline.cmd_publish(mock=a.mock, keyword=a.keyword, force=a.force,
-                                    check_links=not a.no_link_check)
+                                    check_links=not a.no_link_check, track=a.track)
     if a.cmd == "build":
         return pipeline.cmd_build(regenerate_images=a.images)
     if a.cmd == "plan":
-        return pipeline.cmd_plan(a.n)
+        return pipeline.cmd_plan(a.n, track=a.track)
     if a.cmd == "refresh":
         return pipeline.cmd_refresh(mock=a.mock, slug=a.slug, check_links=not a.no_link_check)
     if a.cmd == "promote":

@@ -22,6 +22,19 @@ GSC_PATH = DATA_DIR / "gsc_snapshot.json"
 #   rejected            (off-brand or cannibalizing, never planned)
 PLANNABLE = {"queued", "parked"}
 
+TRACKS = ("main", "comparison")
+
+
+def comparison_clusters(cfg: dict) -> set:
+    """Clusters owned by the comparison track (empty when the track is off)."""
+    ct = cfg.get("comparison_track") or {}
+    return set(ct.get("clusters") or []) if ct.get("enabled") else set()
+
+
+def track_of(item: dict, cfg: dict) -> str:
+    """Which publishing track a post or keyword belongs to, by its cluster."""
+    return "comparison" if item.get("cluster") in comparison_clusters(cfg) else "main"
+
 
 def load_universe() -> dict:
     data = read_json(KEYWORDS_PATH)
@@ -109,15 +122,24 @@ def score_keyword(k: dict, data: dict, posts: list[dict], cfg: dict, gsc_queries
             s -= w["pillar_too_early_penalty"]
     if k.get("status") == "parked":
         s -= 3
+    if track_of(k, cfg) == "comparison":
+        # AI answers cite "best X" roundups far more than head-to-head pages (Wix AI Search Lab, 2026).
+        bonus = ((cfg.get("comparison_track") or {}).get("content_type_bonus") or {}).get(k.get("content_type"), 0)
+        if bonus:
+            s += bonus
+            why.append(f"{k.get('content_type')} format bonus")
     return round(s, 2), why
 
 
-def shortlist(data: dict, posts: list[dict], cfg: dict, n: Optional[int] = None) -> list[dict]:
+def shortlist(data: dict, posts: list[dict], cfg: dict, n: Optional[int] = None,
+              track: str = "main") -> list[dict]:
     n = n or cfg["keywords"]["shortlist_size"]
     gsc = (read_json(GSC_PATH, {}) or {}).get("queries", {})
     out = []
     for k in data["keywords"]:
         if k.get("status") not in PLANNABLE:
+            continue
+        if track_of(k, cfg) != track:
             continue
         if k.get("business_fit", 3) <= 2:
             continue

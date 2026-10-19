@@ -350,6 +350,14 @@ def prepare(post: dict, cfg: dict, llm, now: Optional[dt.datetime] = None, force
     return pkg
 
 
+def wants_social(post: dict, cfg: dict) -> bool:
+    """Comparison-track posts are blog-only unless comparison_track.social is true."""
+    from .keywords import track_of
+    if track_of(post, cfg) == "comparison":
+        return bool((cfg.get("comparison_track") or {}).get("social", False))
+    return True
+
+
 def missing_posts(cfg: dict, now: dt.datetime) -> list[dict]:
     """Recent posts with no package yet (for example if prepare failed during publish)."""
     sc = scfg(cfg)
@@ -357,6 +365,8 @@ def missing_posts(cfg: dict, now: dt.datetime) -> list[dict]:
     out = []
     for p in load_posts():
         if p["date_published"] < cutoff:
+            continue
+        if not wants_social(p, cfg):
             continue
         pkg = load_package(p["slug"])
         if pkg is None or (not pkg.get("copy") and int(pkg.get("prepare_attempts", 0)) < 3):

@@ -1,11 +1,14 @@
 name: SEO publish
 
-# Writes and publishes one article per run: Mon, Wed, Fri at 13:17 UTC (9:17am US Eastern).
-# Guardrails in seo/config.yaml cap the blog at 3 posts per rolling 7 days.
+# Writes and publishes one article per run.
+#   Main track:       Mon, Wed, Fri at 13:17 UTC (9:17am US Eastern), capped at 3 per rolling 7 days.
+#   Comparison track: Tue, Thu at 13:17 UTC, blog-only (no social), capped at 2 per rolling 7 days.
+# Caps live in seo/config.yaml (publishing + comparison_track).
 
 on:
   schedule:
     - cron: "17 13 * * 1,3,5"
+    - cron: "17 13 * * 2,4"
   workflow_dispatch:
     inputs:
       mode:
@@ -21,6 +24,11 @@ on:
         description: "Ignore the weekly cadence cap"
         type: boolean
         default: false
+      track:
+        description: "main = regular schedule; comparison = blog-only comparison/roundup posts"
+        type: choice
+        options: [main, comparison]
+        default: main
 
 permissions:
   contents: write
@@ -42,6 +50,7 @@ jobs:
       GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
       GH_TOKEN: ${{ github.token }}
       MODE: ${{ github.event_name == 'schedule' && 'publish' || inputs.mode }}
+      TRACK: ${{ github.event_name == 'schedule' && (github.event.schedule == '17 13 * * 2,4' && 'comparison' || 'main') || inputs.track || 'main' }}
     steps:
       # Always work from main, whatever branch a manual run was started from.
       - uses: actions/checkout@v4
@@ -105,7 +114,7 @@ jobs:
           FORCE: ${{ inputs.force }}
         run: |
           set +e
-          args=()
+          args=(--track "$TRACK")
           [ -n "$KEYWORD" ] && args+=(--keyword "$KEYWORD")
           [ "$FORCE" = "true" ] && args+=(--force)
           python -m derot_seo publish "${args[@]}"

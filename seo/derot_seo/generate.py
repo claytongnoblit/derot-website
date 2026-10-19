@@ -47,13 +47,13 @@ PLAN_SCHEMA = {
 
 
 def plan(llm, cfg: dict, data: dict, posts: list[dict], system: str,
-         forced_keyword: Optional[str] = None) -> dict:
+         forced_keyword: Optional[str] = None, track: str = "main") -> dict:
     if forced_keyword:
         match = next((k for k in data["keywords"] if k["keyword"].lower() == forced_keyword.lower()), None)
         candidates = [match] if match else [{"keyword": forced_keyword.lower(), "cluster": data["clusters"][0]["id"],
                                              "content_type": "explainer", "score": 0, "why": ["forced"]}]
     else:
-        candidates = kw.shortlist(data, posts, cfg)
+        candidates = kw.shortlist(data, posts, cfg, track=track)
     if not candidates:
         raise RuntimeError("No plannable keywords left. Run the weekly expansion or add keywords.")
     clusters = kw.cluster_map(data)
@@ -114,6 +114,16 @@ BRIEF_SCHEMA = {
 }
 
 
+def _comparison_research(the_plan: dict) -> str:
+    """Extra research steps for app roundups and head-to-head comparisons."""
+    if the_plan.get("content_type") not in ("comparison", "list"):
+        return ""
+    return """
+5. For every app you will compare, open its official website and its App Store listing. Record only what they state: what it does, how it works, platforms, free tier, and listed prices (with the currency and billing period). Note the date you checked. Never fill gaps from memory or third-party blogs; if a fact is not stated, record it as "not stated".
+6. Find any independent research on how this type of app works (for example peer-reviewed studies of friction or delay interventions, or of slow breathing), so the comparison rests on evidence, not only feature lists.
+7. Note how the currently ranking roundups choose and order apps, and whether they disclose ties to any app they list."""
+
+
 def research(llm, cfg: dict, the_plan: dict, system: str) -> dict:
     rc = cfg["models"]["research"]
     prompt = f"""Research an article for derot.org.
@@ -128,7 +138,7 @@ Use web search to:
 1. See what currently ranks for the primary keyword: which pages, their format, what they cover well, and what they miss or get wrong.
 2. Collect the follow-up questions people ask (People Also Ask style, forums, Reddit).
 3. Find the strongest evidence: peer-reviewed studies (PubMed, journal sites), university or major clinic pages, government health bodies. Prefer primary sources and recent reviews. Record exact numbers (sample sizes, effect sizes, durations) and the year.
-4. Note safety caveats for the technique or topic.
+4. Note safety caveats for the technique or topic.{_comparison_research(the_plan)}
 
 Then write research notes with these sections: SERP ANALYSIS, GAPS AND ANGLE, QUESTIONS, SOURCES (one per line: URL | title | publisher | year | key findings with exact numbers), SAFETY.
 Only list URLs that appeared in your search results. Never guess a URL. Aim for 6-12 good sources, at least 3 of them research or authoritative health bodies."""

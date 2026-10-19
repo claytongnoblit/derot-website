@@ -35,12 +35,27 @@ def _summary(md: str) -> None:
     print(md)
 
 
-def cadence_block(cfg: dict, posts: list[dict]) -> Optional[str]:
+def track_limits(cfg: dict, track: str) -> dict:
+    """Cadence limits for a track. The comparison track has its own budget so it never
+    takes a slot from the main schedule (and vice versa)."""
     pub = cfg["publishing"]
+    if track == "comparison":
+        ct = cfg.get("comparison_track") or {}
+        return {"max_posts_per_week": ct.get("max_posts_per_week", 2),
+                "min_hours_between_posts": ct.get("min_hours_between_posts", 20)}
+    return {"max_posts_per_week": pub["max_posts_per_week"],
+            "min_hours_between_posts": pub["min_hours_between_posts"]}
+
+
+def cadence_block(cfg: dict, posts: list[dict], track: str = "main") -> Optional[str]:
+    if track == "comparison" and not kw.comparison_clusters(cfg):
+        return "comparison track is disabled in config.yaml"
+    pub = track_limits(cfg, track)
+    posts = [p for p in posts if kw.track_of(p, cfg) == track]
     week_ago = (today() - dt.timedelta(days=7)).isoformat()
     recent = [p for p in posts if p["date_published"] > week_ago]
     if len(recent) >= pub["max_posts_per_week"]:
-        return f"weekly cap reached ({len(recent)} posts in the last 7 days)"
+        return f"weekly cap reached ({len(recent)} {track} posts in the last 7 days)"
     stamps = [p.get("published_at") for p in posts if p.get("published_at")]
     if stamps:
         last = max(parse_ts(x) for x in stamps)
@@ -86,7 +101,8 @@ Link: {url}
 
 
 def create_article(llm, cfg: dict, data: dict, posts: list[dict], forced_keyword: Optional[str] = None,
-                   check_links: bool = True, existing: Optional[dict] = None) -> tuple[Optional[dict], dict]:
+                   check_links: bool = True, existing: Optional[dict] = None,
+                   track: str = "main") -> tuple[Optional[dict], dict]:
     """Plan (or reuse a plan for refresh), research, write, and gate one article.
     Returns (article_or_None, log)."""
     system = gen.brand_system(cfg)
@@ -98,7 +114,7 @@ def create_article(llm, cfg: dict, data: dict, posts: list[dict], forced_keyword
                         cannibalization_check="refresh of existing article", rationale="scheduled refresh")
         others = [p for p in posts if p["slug"] != existing["slug"]]
     else:
-        the_plan = gen.plan(llm, cfg, data, posts, system, forced_keyword)
+        the_plan = gen.plan(llm, cfg, data, posts, system, forced_keyword, track=track)
         others = posts
     log["plan"] = the_plan
     log["stages"].append("plan")
@@ -218,6 +234,8 @@ def _prepare_social(llm, cfg: dict, article: dict) -> str:
     from . import social as social_posts
     if not social_posts.scfg(cfg).get("enabled"):
         return "Social posting: off"
+    if not social_posts.wants_social(article, cfg):
+        return "Social posting: skipped (comparison track posts are blog-only)"
     try:
         pkg = social_posts.prepare(article, cfg, llm)
         social_posts.preview_html(pkg, cfg)
@@ -231,12 +249,16 @@ def _prepare_social(llm, cfg: dict, article: dict) -> str:
 
 
 def cmd_publish(mock: bool = False, keyword: Optional[str] = None, force: bool = False,
-                check_links: bool = True) -> int:
+                check_links: bool = True, track: str = "main") -> int:
     cfg = load_config()
     data = kw.load_universe()
     posts = load_posts()
+    if track == "comparison" and not kw.comparison_clusters(cfg):
+        _summary("### Skipped: comparison track is disabled in config.yaml")
+        _gh_output(result="skipped")
+        return EXIT_SKIPPED
     if not force:
-        block = cadence_block(cfg, posts)
+        block = cadence_block(cfg, posts, track)
         if block:
             _summary(f"### Skipped: {block}")
             _gh_output(result="skipped")
@@ -245,14 +267,15 @@ def cmd_publish(mock: bool = False, keyword: Optional[str] = None, force: bool =
     llm = make_llm(cfg, mock=mock)
     started = now_utc()
     try:
-        article, log = create_article(llm, cfg, data, posts, forced_keyword=keyword, check_links=check_links)
+        article, log = create_article(llm, cfg, data, posts, forced_keyword=keyword, check_links=check_links,
+                                      track=track)
     except Exception as e:
         append_jsonl(RUN_LOG, {"at": started.isoformat(), "command": "publish", "result": "error",
                                "error": f"{type(e).__name__}: {e}", "cost_usd": round(llm.usage.cost_usd, 3)})
         traceback.print_exc()
         _gh_output(result="error")
         raise
-    record = {"at": started.isoformat(), "command": "publish", "stages": log["stages"],
+    record = {"at": started.isoformat(), "command": "publish", "track": track, "stages": log["stages"],
               "keyword": log["plan"]["primary_keyword"], "slug": article["slug"],
               "reviews": log.get("reviews"), "cost_usd": round(llm.usage.cost_usd, 3),
               "searches": llm.usage.searches}
@@ -301,13 +324,14 @@ def cmd_build(regenerate_images: bool = False) -> int:
     return 0
 
 
-def cmd_plan(n: int = 10) -> int:
+def cmd_plan(n: int = 10, track: str = "main") -> int:
     cfg = load_config()
     data = kw.load_universe()
     posts = load_posts()
-    for k in kw.shortlist(data, posts, cfg, n):
+    print(f"Track: {track}\n")
+    for k in kw.shortlist(data, posts, cfg, n, track=track):
         print(f"{k['score']:6.1f}  {k['keyword']:<55} {k.get('cluster', ''):<32} {k.get('content_type', '')} {' '.join(k['why'])}")
-    block = cadence_block(cfg, posts)
+    block = cadence_block(cfg, posts, track)
     print(f"\nCadence: {'BLOCKED: ' + block if block else 'clear to publish'}")
     return 0
 
@@ -345,10 +369,13 @@ def cmd_refresh(mock: bool = False, slug: Optional[str] = None, check_links: boo
 
 
 def pick_refresh(cfg: dict, posts: list[dict]) -> Optional[dict]:
-    cutoff = (today() - dt.timedelta(days=cfg["refresh"]["min_age_days"])).isoformat()
+    # Comparison posts quote prices and features that change, so they come due sooner.
+    ages = {"main": cfg["refresh"]["min_age_days"],
+            "comparison": (cfg.get("comparison_track") or {}).get("refresh_min_age_days", cfg["refresh"]["min_age_days"])}
+    cutoffs = {t: (today() - dt.timedelta(days=d)).isoformat() for t, d in ages.items()}
     gsc = (read_json(DATA_DIR / "gsc_snapshot.json", {}) or {}).get("pages", {})
     base = cfg["site"]["base_url"]
-    due = [p for p in posts if (p.get("date_modified") or p["date_published"]) < cutoff]
+    due = [p for p in posts if (p.get("date_modified") or p["date_published"]) < cutoffs[kw.track_of(p, cfg)]]
     if not due:
         return None
 
@@ -406,6 +433,10 @@ def cmd_weekly(mock: bool = False) -> int:
         lines += ["", "### Parked drafts needing attention"] + [f"- `seo/content/drafts/{d.name}`" for d in drafts]
     lines += ["", "### Up next (planner shortlist)"]
     lines += [f"- `{k['keyword']}` (score {k['score']}, {k.get('content_type')})" for k in kw.shortlist(data, posts, cfg, 6)]
+    if kw.comparison_clusters(cfg):
+        lines += ["", "### Up next (comparison track, blog-only)"]
+        lines += [f"- `{k['keyword']}` (score {k['score']}, {k.get('content_type')})"
+                  for k in kw.shortlist(data, posts, cfg, 4, track="comparison")] or ["- nothing queued"]
     counts: dict = {}
     for k in data["keywords"]:
         counts[k.get("status", "queued")] = counts.get(k.get("status", "queued"), 0) + 1

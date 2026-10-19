@@ -2136,7 +2136,7 @@
       "difficulty_tier": 2,
       "business_fit": 3,
       "content_type": "comparison",
-      "angle": "Balanced Opal review highlighting the guilt and bypass loop of blockers.",
+      "angle": "Balanced Opal review from its own listing: what it does well, who it suits, and who might prefer a non-blocking reset.",
       "seasonality": [],
       "status": "queued"
     },
@@ -3297,6 +3297,84 @@
       "status": "queued",
       "source": "expansion",
       "added": "2026-10-18"
+    },
+    {
+      "keyword": "best screen time apps for iphone",
+      "cluster": "comparisons-and-alternatives",
+      "intent": "commercial",
+      "volume_tier": 3,
+      "difficulty_tier": 3,
+      "business_fit": 4,
+      "content_type": "list",
+      "angle": "Neutral roundup of blockers, friction apps, and Apple Screen Time, sorted by how strict each is; DeRot noted separately as the non-blocking option.",
+      "seasonality": [],
+      "status": "queued",
+      "notes": "Added 2026-10-18 for the comparison track; common AI-assistant prompt."
+    },
+    {
+      "keyword": "best app blockers for iphone",
+      "cluster": "comparisons-and-alternatives",
+      "intent": "commercial",
+      "volume_tier": 3,
+      "difficulty_tier": 3,
+      "business_fit": 3,
+      "content_type": "list",
+      "angle": "Fair roundup of real blockers for people who want one, with a short note for readers who would rather calm down than be blocked.",
+      "seasonality": [],
+      "status": "queued",
+      "notes": "Added 2026-10-18. Blocker crowd is not our core reader; value is AI-answer visibility."
+    },
+    {
+      "keyword": "best free breathing apps",
+      "cluster": "comparisons-and-alternatives",
+      "intent": "commercial",
+      "volume_tier": 2,
+      "difficulty_tier": 2,
+      "business_fit": 5,
+      "content_type": "list",
+      "angle": "Which breathing apps are actually free, what the free tier includes, and the free browser timers on derot.org/tools.",
+      "seasonality": [],
+      "status": "queued",
+      "notes": "Added 2026-10-18."
+    },
+    {
+      "keyword": "screenzen alternative",
+      "cluster": "comparisons-and-alternatives",
+      "intent": "commercial",
+      "volume_tier": 1,
+      "difficulty_tier": 1,
+      "business_fit": 4,
+      "content_type": "comparison",
+      "angle": "ScreenZen adds a wait before opening; who might want a calming reset mid-scroll instead.",
+      "seasonality": [],
+      "status": "queued",
+      "notes": "Added 2026-10-18."
+    },
+    {
+      "keyword": "one sec vs screenzen",
+      "cluster": "comparisons-and-alternatives",
+      "intent": "commercial",
+      "volume_tier": 1,
+      "difficulty_tier": 1,
+      "business_fit": 4,
+      "content_type": "comparison",
+      "angle": "Two friction apps compared side by side, from their own listings.",
+      "seasonality": [],
+      "status": "queued",
+      "notes": "Added 2026-10-18."
+    },
+    {
+      "keyword": "clearspace alternative",
+      "cluster": "comparisons-and-alternatives",
+      "intent": "commercial",
+      "volume_tier": 1,
+      "difficulty_tier": 1,
+      "business_fit": 4,
+      "content_type": "comparison",
+      "angle": "Clearspace's approach vs other friction and breathing options.",
+      "seasonality": [],
+      "status": "queued",
+      "notes": "Added 2026-10-18."
     }
   ]
 }
