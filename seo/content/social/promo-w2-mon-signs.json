@@ -14,9 +14,14 @@
   "threads_topic": "Doomscrolling",
   "platforms": {
     "threads": {
-      "status": "queued",
+      "status": "posted",
       "scheduled_at": "2026-10-19T21:00:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "id": "17894115285437324",
+      "permalink": "https://www.threads.com/@derotorg/post/DesWVR-j73h",
+      "posted_at": "2026-10-19T22:38:23+00:00",
+      "error": null,
+      "retry_after": null
     }
   },
   "built_at": "2026-10-15T21:50:49+00:00"
