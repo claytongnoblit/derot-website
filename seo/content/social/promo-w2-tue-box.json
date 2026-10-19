@@ -7,7 +7,7 @@
   "url": "https://derot.org/tools/box-breathing-timer/",
   "approved": true,
   "copy": {
-    "threads_text": "Box breathing, for when your head is buzzing:\n\nIn for 4. Hold for 4. Out for 4. Hold for 4.\n\nFour rounds is about a minute. If the holds feel like too much, shorten them to 2. There's a free timer here:\n{url}"
+    "threads_text": "Box breathing, for when your head is buzzing:\n\nIn for 4. Hold for 4. Out for 4. Hold for 4.\n\nFour rounds takes about a minute. Holds too long? Make them 2. Free timer:\n{url}"
   },
   "images": [],
   "threads_images": [],
