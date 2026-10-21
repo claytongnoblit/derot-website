@@ -14,9 +14,14 @@
   "threads_topic": "Breathwork",
   "platforms": {
     "threads": {
-      "status": "queued",
+      "status": "posted",
       "scheduled_at": "2026-10-20T21:00:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "id": "18112892009603346",
+      "permalink": "https://www.threads.com/@derotorg/post/DevFYCaGkCn",
+      "posted_at": "2026-10-21T00:08:03+00:00",
+      "error": null,
+      "retry_after": null
     }
   },
   "built_at": "2026-10-15T21:50:49+00:00"
