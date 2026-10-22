@@ -45,7 +45,7 @@ def queue(tmp_path, monkeypatch):
     return site
 
 
-def fake_render_reel(beats, out_mp4, cover_jpg=None, audio=None):
+def fake_render_reel(beats, out_mp4, cover_jpg=None, audio=None, volume=1.0):
     out_mp4.parent.mkdir(parents=True, exist_ok=True)
     out_mp4.write_bytes(b"mp4")
     if cover_jpg:

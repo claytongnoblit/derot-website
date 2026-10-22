@@ -101,7 +101,9 @@ Instagram posts go out as Reels, rendered by `derot_seo/social_reels.py` with Pi
 | `phone` | `screen`, `crop`, `headline`, `body` | An app screen from `assets/screens/` rising into frame. |
 | `end` | `closing` (prelaunch, launch, article) | The closing card. |
 
-Text stays inside Instagram's safe zone (clear of the caption, the buttons down the right edge, and the top bar). Each reel is saved as `reel.mp4`, `reel-cover.jpg`, and `reel.json`; a reel is only re-rendered when its beats change. Instagram fetches the video from derot.org like the images, so the hourly workflow waits until the files are live. The API cannot attach Instagram's music library; reels carry a silent track, or the royalty-free file set in `social.reels.audio`.
+Text stays inside Instagram's safe zone (clear of the caption, the buttons down the right edge, and the top bar). Each reel is saved as `reel.mp4`, `reel-cover.jpg`, and `reel.json`; a reel is only re-rendered when its beats change. Instagram fetches the video from derot.org like the images, so the hourly workflow waits until the files are live. The API cannot attach Instagram's music library, so audio is baked in: drop CC0 tracks (e.g. freepd.com; the repo is public) into `seo/assets/audio/` and each reel gets one, rotating by slug (`social.reels.volume` sets the level). An empty folder means silent reels. Adding or removing tracks re-renders queued reels on the next promo-build.
+
+What the first stats showed (Oct 2026): carousels got no reach, reels reached non-followers, but most viewers left in the first few seconds. So the hook moves from frame 0 (the breathing circle opens under the text), text beats ease in, reading time caps at 5s per beat, and reels stay short: under 22s without a breathe-along, under 40s with one (checked on build). Article reels use the first 3 points only. Captions are checked for comment bait ("Tell us below", "Be honest").
 
 ## Promo plan
 

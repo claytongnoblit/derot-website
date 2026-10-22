@@ -56,7 +56,7 @@ def check_post(post: dict) -> list[str]:
     for name, text in fields:
         if re.search(r"[—–]", text):
             errors.append(f"{name}: em or en dash")
-        for pattern, label in qa.BANNED + CONSUMER_BANNED:
+        for pattern, label in qa.BANNED + qa.SOCIAL_BAIT + CONSUMER_BANNED:
             m = re.search(pattern, text, re.I)
             if m:
                 errors.append(f"{name}: {label} ('{m.group(0)}')")

@@ -138,8 +138,6 @@ prelaunch:
 
     Twenty seconds of slow breathing, with the exhale longer than the inhale (in for 4, out for 6), is often enough to take the edge off. Save this for the next time you catch it.
 
-    Where did you feel it first? Tell us below.
-
     DeRot is coming soon to iPhone. It brings this minute to you mid-scroll. Launch list: link in bio.
   hashtags: [doomscrolling, breathwork, breathingexercise, calmreset]
 
@@ -294,7 +292,7 @@ prelaunch:
   reel:
     - { beat: hook, text: "POV: 2:47 AM, video 400 about nothing." }
     - { beat: text, headline: "Wide awake. Weirdly wired.", body: "The feed kept your mind busy, so your body never got the signal that the day is over." }
-    - { beat: breathe, pattern: "478", rounds: 2, title: "Try this before the next one", note: "If the hold feels like too much, skip it." }
+    - { beat: breathe, pattern: "478", rounds: 1, title: "Try this before the next one", note: "If the hold feels like too much, skip it." }
     - { beat: end, closing: prelaunch }
   caption: |-
     Can't sleep after scrolling in bed? Try 4-7-8 breathing before the next video.

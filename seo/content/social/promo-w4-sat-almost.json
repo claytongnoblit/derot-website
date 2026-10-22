@@ -3,7 +3,7 @@
   "slug": "promo-w4-sat-almost",
   "phase": "prelaunch",
   "pillar": "building",
-  "title": "Keep scrolling. Just don't leave wired. That's the idea behind DeRot, a calm reset app for",
+  "title": "Keep scrolling. Just don't leave wired.",
   "url": "https://derot.org/#newsletter",
   "approved": true,
   "copy": {
@@ -28,8 +28,8 @@
     "url": "https://derot.org/img/social/promo-w4-sat-almost/reel.mp4",
     "cover_path": "img/social/promo-w4-sat-almost/reel-cover.jpg",
     "cover_url": "https://derot.org/img/social/promo-w4-sat-almost/reel-cover.jpg",
-    "duration": 23.8,
-    "hash": "93a069681274a710"
+    "duration": 23.0,
+    "hash": "93aecc09f694f380"
   },
   "platforms": {
     "instagram": {
@@ -38,5 +38,5 @@
       "attempts": 0
     }
   },
-  "built_at": "2026-10-15T21:50:49+00:00"
+  "built_at": "2026-10-22T13:45:37+00:00"
 }

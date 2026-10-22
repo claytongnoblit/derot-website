@@ -3,7 +3,7 @@
   "slug": "promo-w4-tue-break02",
   "phase": "prelaunch",
   "pillar": "reset",
-  "title": "A 30-second scroll break: box breathing for when your head is buzzing.",
+  "title": "Head buzzing from the feed? Here's a 30-second reset to come back down.",
   "url": "https://derot.org/#newsletter",
   "approved": true,
   "copy": {
@@ -23,7 +23,7 @@
     "cover_path": "img/social/promo-w4-tue-break02/reel-cover.jpg",
     "cover_url": "https://derot.org/img/social/promo-w4-tue-break02/reel-cover.jpg",
     "duration": 37.4,
-    "hash": "23edcf2a3a30bc5a"
+    "hash": "a5d95d177d956c92"
   },
   "platforms": {
     "instagram": {
@@ -32,5 +32,5 @@
       "attempts": 0
     }
   },
-  "built_at": "2026-10-15T21:50:49+00:00"
+  "built_at": "2026-10-22T13:45:37+00:00"
 }

@@ -437,3 +437,27 @@ def test_exchange_instagram_dashboard_token_used_as_is():
 def test_exchange_instagram_bad_token_raises():
     with pytest.raises(meta_api.MetaError):
         meta_api.exchange_instagram("SECRET", "BAD", "v26.0", session=FakeIGAuth(False))
+
+
+def test_reel_audio_rotates_through_a_folder(tmp_path, monkeypatch):
+    monkeypatch.setattr(social, "SEO_DIR", tmp_path)
+    cfg = {"social": {"reels": {"audio": "audio"}}}
+    (tmp_path / "audio").mkdir()
+    assert social.reel_audio(cfg, "promo-a") is None          # empty folder = silent
+    for n in ("a.m4a", "b.mp3", "c.m4a"):
+        (tmp_path / "audio" / n).write_bytes(b"x")
+    (tmp_path / "audio" / "README.md").write_text("not a track")
+    picks = {social.reel_audio(cfg, f"promo-{i}").name for i in range(30)}
+    assert picks == {"a.m4a", "b.mp3", "c.m4a"}
+    assert social.reel_audio(cfg, "promo-7") == social.reel_audio(cfg, "promo-7")
+
+
+def test_comment_bait_is_blocked():
+    import re
+    from derot_seo import qa
+    hits = lambda t: [l for p, l in qa.SOCIAL_BAIT if re.search(p, t, re.I)]
+    assert hits("Where did you feel it first? Tell us below.")
+    assert hits("Be honest, how long was that scroll?")
+    assert hits("Comment below with your number")
+    assert not hits("Save this for tonight.")
+    assert not hits("Share it with someone who scrolls in bed.")

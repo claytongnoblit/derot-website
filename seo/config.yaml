@@ -183,7 +183,10 @@ social:
     threads:   { enabled: true, post_at: "16:30", day_offset: 0, media: cover, topic_tag: Breathwork }   # media: cover | carousel | link; one topic per post
     instagram: { enabled: true, post_at: "23:30", day_offset: 0, format: reel }             # 7:30pm ET; reel | carousel
   reels:
-    # Optional background track for every reel, relative to seo/ (e.g. assets/audio/calm.m4a).
-    # Must be royalty-free and cleared for social use. Empty = a silent track. The API can't
-    # attach Instagram's music library, so trending audio is only possible by posting in the app.
-    audio: ""
+    # Background audio, relative to seo/: one file, or a folder whose tracks rotate (each reel
+    # gets one, picked by its slug). Tracks must be CC0 (the repo is public; see assets/audio/README.md).
+    # An empty folder = silent reels. The API can't attach Instagram's music library, so trending
+    # audio is only possible by posting in the app. Adding or removing tracks re-renders queued
+    # reels on the next promo-build; posted reels are never touched.
+    audio: assets/audio
+    volume: 0.8             # 0..1, applied to every track

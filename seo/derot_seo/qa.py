@@ -16,6 +16,15 @@ DASH_RE = re.compile(r"\s*[—–]\s*")
 LINK_RE = re.compile(r"\[([^\]]+)\]\(((?:[^()\s]|\([^()\s]*\))+)\)")
 RAW_HTML_RE = re.compile(r"<\s*/?\s*[a-zA-Z][^>]*>")
 
+# Social only (brand/voice.md): no engagement questions or comment bait.
+SOCIAL_BAIT = [
+    (r"\b(tell us|let us know|share|drop it|sound off)\b[^.?!\n]{0,20}\b(below|in the comments)\b", "brand: comment bait"),
+    (r"\b(comment|reply) (below|with)\b", "brand: comment bait"),
+    (r"\bdrop an? \S+ (below|in the comments)\b", "brand: comment bait"),
+    (r"\bbe honest\b", "brand: comment bait ('be honest')"),
+    (r"\bwhat about you\?", "brand: comment bait"),
+]
+
 BANNED = [
     # brand rules
     (r"\bphone addiction\b", "brand: 'phone addiction' framing"),

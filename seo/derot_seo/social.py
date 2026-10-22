@@ -15,6 +15,7 @@ or a platform's "status": "skipped". To change copy, edit the JSON (re-run
 from __future__ import annotations
 
 import datetime as dt
+import hashlib
 import html
 import os
 import re
@@ -183,7 +184,7 @@ def check_copy(copy: dict, post: dict, cfg: dict) -> tuple[list[str], list[str]]
     source = _article_text(post)
     source_nums = set(NUM_RE.findall(source))
     for field, text in _strings(copy):
-        for pattern, label in qa.BANNED:
+        for pattern, label in qa.BANNED + qa.SOCIAL_BAIT:
             m = re.search(pattern, text, re.I)
             if m and not (label.startswith("caution: 'cure'") and re.search(r"\bnot a cure\b", text, re.I)):
                 errors.append(f"{field}: {label} ('{m.group(0)}')")
@@ -244,9 +245,27 @@ def render_images(pkg: dict, cfg: dict, post: dict) -> list[dict]:
             for p, a in zip(paths, alts)]
 
 
-def reel_audio(cfg: dict) -> Optional[Path]:
+AUDIO_EXTS = (".m4a", ".mp3", ".aac", ".wav")
+
+
+def reel_audio(cfg: dict, key: str = "") -> Optional[Path]:
+    """The background track for a reel. `reels.audio` is one file, or a folder of tracks that
+    rotate: each reel gets one picked by its key (the package slug), so a re-render keeps
+    the same track. An empty folder, or no setting, means a silent reel."""
     a = (scfg(cfg).get("reels") or {}).get("audio")
-    return (SEO_DIR / a) if a else None
+    if not a:
+        return None
+    p = SEO_DIR / a
+    if p.is_dir():
+        tracks = sorted(t for t in p.iterdir() if t.suffix.lower() in AUDIO_EXTS)
+        if not tracks:
+            return None
+        return tracks[int(hashlib.sha1(key.encode()).hexdigest(), 16) % len(tracks)]
+    return p if p.exists() else None
+
+
+def reel_volume(cfg: dict) -> float:
+    return float((scfg(cfg).get("reels") or {}).get("volume", 1.0))
 
 
 def instagram_format(cfg: dict) -> str:
@@ -257,15 +276,15 @@ def reel_files(out_dir: Path, beats: list[dict], cfg: dict) -> dict:
     """Render a reel into out_dir (reel.mp4, reel-cover.jpg, and reel.json recording what
     was rendered) unless an identical one is already there. Returns the package's "reel" entry."""
     from . import social_reels as reels
-    audio = reel_audio(cfg)
-    h = reels.spec_hash(beats, audio.name if audio else "")
+    audio, volume = reel_audio(cfg, out_dir.name), reel_volume(cfg)
+    h = reels.spec_hash(beats, audio.name if audio else "", volume)
     mp4, cover, meta = out_dir / "reel.mp4", out_dir / "reel-cover.jpg", out_dir / "reel.json"
     base = cfg["site"]["base_url"]
     if meta.exists() and mp4.exists() and cover.exists():
         done = read_json(meta)
         if done.get("hash") == h:
             return done
-    info = reels.render_reel(beats, mp4, cover, audio)
+    info = reels.render_reel(beats, mp4, cover, audio, volume)
     site_root = IMG_DIR.parent.parent   # IMG_DIR is <site>/img/social
     rel_v, rel_c = mp4.relative_to(site_root).as_posix(), cover.relative_to(site_root).as_posix()
     entry = {"path": rel_v, "url": f"{base}/{rel_v}", "cover_path": rel_c, "cover_url": f"{base}/{rel_c}",
@@ -280,7 +299,8 @@ def article_beats(pkg: dict, cfg: dict, post: dict) -> list[dict]:
     copy = pkg["copy"]
     beats = [{"beat": "hook", "text": copy["cover_headline"],
               "kicker": clusters.get(post.get("cluster"), {}).get("name", "")}]
-    beats += [{"beat": "text", "headline": p["headline"], "body": p["body"]} for p in copy["points"]]
+    # three points at most: the carousel can hold more, but a reel has to stay short
+    beats += [{"beat": "text", "headline": p["headline"], "body": p["body"]} for p in copy["points"][:3]]
     beats.append({"beat": "end", "closing": "article", "tool": tool["label"], "secs": 3.5})
     return beats
 

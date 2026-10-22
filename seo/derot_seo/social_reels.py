@@ -6,9 +6,11 @@ that ships with the imageio-ffmpeg package, so Clay's Mac and CI both work.
 
 A reel is a list of beats, each a dict with a "beat" key:
 
-  hook     {text, kicker?, sub?, secs?}  The first frame. On screen from frame 0
+  hook     {text, kicker?, sub?, secs?, circle?}  The first frame. On screen from frame 0
            with no fade in, because the first second decides whether anyone stays.
-  text     {headline, body?, secs?}
+           The breathing circle starts moving under the text from frame 0 (a still
+           first frame loses people); circle: false keeps just the pulsing glow.
+  text     {headline, body?, secs?}  Text eases up into place over the glow.
   breathe  {pattern: calm|box|478|sigh, rounds?, title?, note?}  A breathe-along
            circle. The note appears during the last round.
   phone    {screen, headline, body?, crop?, secs?}  An app screen rising into frame.
@@ -36,7 +38,7 @@ W, H, FPS = 1080, 1920, 30
 X0, X1 = 96, 960            # text column; the right edge leaves room for Instagram's buttons
 Y0, Y1 = 250, 1480          # below the top bar, above the caption overlay
 XFADE = 0.2                 # seconds of crossfade between beats
-RENDER_VERSION = 1          # bump to force every cached reel to re-render
+RENDER_VERSION = 2          # bump to force every cached reel to re-render
 
 BASE, TEXT, TEXT_SOFT, TEXT_2 = simg.BASE, simg.TEXT, simg.TEXT_SOFT, simg.TEXT_2
 AMBER, LABEL = simg.AMBER, simg.LABEL
@@ -55,6 +57,9 @@ CLOSINGS = {
     "article": (["Full guide,", "free."], ["Link in bio, or derot.org/blog."]),
 }
 BEATS = ("hook", "text", "breathe", "phone", "end")
+# Most viewers leave in the first few seconds, so reels stay short.
+TALK_MAX = 22               # seconds, reels without a breathe-along
+BREATHE_MAX = 40            # seconds, any reel
 
 
 # ------------------------------------------------------------ timing
@@ -75,7 +80,7 @@ def beat_secs(b: dict) -> float:
     if kind == "end":
         return 3.0
     n = _words(b.get("headline", ""), b.get("body", ""))
-    return max(2.4, min(6.5, 1.3 + 0.3 * n))
+    return max(2.2, min(5.0, 1.2 + 0.27 * n))
 
 
 def duration(beats: list[dict]) -> float:
@@ -112,8 +117,11 @@ def check_beats(beats: list[dict], screens_dir: Path) -> list[str]:
         return errors
     if total < 5:
         errors.append(f"reel is {total:.0f}s (Instagram needs at least 3, aim for 7+)")
-    if total > 90:
-        errors.append(f"reel is {total:.0f}s; keep it under 90")
+    has_breathe = any(b.get("beat") == "breathe" for b in beats)
+    if not has_breathe and total > TALK_MAX:
+        errors.append(f"reel is {total:.0f}s with no breathe-along; keep it under {TALK_MAX}s")
+    if total > BREATHE_MAX:
+        errors.append(f"reel is {total:.0f}s; keep it under {BREATHE_MAX}s (cut a round or a text beat)")
     return errors
 
 
@@ -122,8 +130,9 @@ def beat_text(b: dict) -> list[tuple[str, str]]:
     return [(k, b[k]) for k in ("text", "kicker", "sub", "headline", "body", "title", "note") if b.get(k)]
 
 
-def spec_hash(beats: list[dict], audio: str = "") -> str:
-    raw = json.dumps({"v": RENDER_VERSION, "beats": beats, "audio": audio}, sort_keys=True)
+def spec_hash(beats: list[dict], audio: str = "", volume: float = 1.0) -> str:
+    raw = json.dumps({"v": RENDER_VERSION, "beats": beats, "audio": audio,
+                      **({"vol": volume} if audio else {})}, sort_keys=True)
     return hashlib.sha1(raw.encode()).hexdigest()[:16]
 
 
@@ -186,30 +195,85 @@ Frame = Callable[[float], Image.Image]
 
 
 def _hook(b: dict) -> tuple[float, Frame]:
-    img = _bg(0.95)
-    d = ImageDraw.Draw(img)
+    secs = beat_secs(b)
+    circle = b.get("circle", True)
+    layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    d = ImageDraw.Draw(layer)
     width = X1 - X0
     kf = simg._sans(32, 600)
-    hf, hl, hs = simg._fit(d, b["text"], simg._serif, list(range(150, 70, -4)), width, 720, 1.08)
+    h_max = 560 if circle else 720
+    hf, hl, hs = simg._fit(d, b["text"], simg._serif, list(range(150, 70, -4)), width, h_max, 1.08)
     sub_lines = []
     if b.get("sub"):
-        sf, sub_lines, ss = simg._fit(d, b["sub"], lambda s: simg._sans(s, 400), list(range(50, 34, -2)), width, 260, 1.35)
+        sf, sub_lines, ss = simg._fit(d, b["sub"], lambda s: simg._sans(s, 400), list(range(50, 34, -2)), width,
+                                      160 if circle else 260, 1.35)
     block = len(hl) * hs * 1.08 + (70 if b.get("kicker") else 0) + ((40 + len(sub_lines) * ss * 1.35) if sub_lines else 0)
-    y = int(Y0 + (Y1 - 120 - Y0 - block) / 2)   # sit a little high: the lower screen gets covered
+    if circle:   # text up top, the circle breathing in below it
+        y = int(Y0 + 30)
+    else:
+        y = int(Y0 + (Y1 - 120 - Y0 - block) / 2)   # sit a little high: the lower screen gets covered
     if b.get("kicker"):
         d.text((X0, y), b["kicker"].upper(), font=kf, fill=LABEL)
         y += 70
     y = simg._draw_lines(d, hl, hf, hs, X0, y, TEXT, 1.08)
     if sub_lines:
-        simg._draw_lines(d, sub_lines, sf, ss, X0, y + 40, TEXT_SOFT, 1.35)
-    return beat_secs(b), lambda t: img
+        y = simg._draw_lines(d, sub_lines, sf, ss, X0, y + 40, TEXT_SOFT, 1.35)
+    lo, hi = _bg(0.8), _bg(1.0)
+    cy = max(int(y) + 120 + HOOK_R[1], 1180)
+
+    def frame(t: float) -> Image.Image:
+        # one slow inhale across the hook: the glow swells and the circle opens
+        p = _ease(t / max(secs, 0.1))
+        img = Image.blend(lo, hi, p)
+        if circle:
+            _draw_circle(img, W // 2, cy, int(HOOK_R[0] + (HOOK_R[1] - HOOK_R[0]) * p), HOOK_R[1])
+        img.paste(layer, (0, 0), layer)
+        return img
+
+    return secs, frame
+
+
+HOOK_R = (120, 210)        # hook circle radius, start and end
 
 
 def _text(b: dict) -> tuple[float, Frame]:
-    img = _bg(0.6)
-    d = ImageDraw.Draw(img)
-    _text_block(d, b["headline"], b.get("body", ""), None, list(range(116, 60, -4)), list(range(52, 34, -2)))
-    return beat_secs(b), lambda t: img
+    secs = beat_secs(b)
+    layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    _text_block(ImageDraw.Draw(layer), b["headline"], b.get("body", ""), None,
+                list(range(116, 60, -4)), list(range(52, 34, -2)))
+    lo, hi = _bg(0.55), _bg(0.7)
+    rise, rise_t = 36, 0.45
+
+    def frame(t: float) -> Image.Image:
+        img = Image.blend(lo, hi, 0.5 + 0.5 * math.sin(math.pi * min(1.0, t / max(secs, 0.1))))
+        img.paste(layer, (0, int(rise * (1 - _ease(t / rise_t)))), layer)
+        return img
+
+    return secs, frame
+
+
+_CIRCLE: dict = {}
+
+
+def _draw_circle(img: Image.Image, cx: int, cy: int, r: int, rmax: int) -> None:
+    """The breathing circle with its soft glow, drawn onto img in place."""
+    pad = 170
+    key = rmax
+    if key not in _CIRCLE:
+        S = 2 * (rmax + pad)
+        sprite = Image.new("L", (S, S), 0)
+        ImageDraw.Draw(sprite).ellipse([pad, pad, S - pad, S - pad], fill=170)
+        _CIRCLE[key] = (S, sprite.filter(ImageFilter.GaussianBlur(70)), Image.new("RGB", (S, S), (200, 96, 30)))
+    S, sprite, glow_rgb = _CIRCLE[key]
+    gs = max(8, int(S * (r + pad) / (rmax + pad)))
+    img.paste(glow_rgb.resize((gs, gs)), (cx - gs // 2, cy - gs // 2), sprite.resize((gs, gs), Image.BILINEAR))
+    ss = 2   # supersampled for a clean edge
+    size = (2 * r + 16) * ss
+    disc = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+    o = 8 * ss
+    ImageDraw.Draw(disc).ellipse([o, o, size - o, size - o], fill=(46, 22, 10, 215), outline=AMBER + (255,), width=6 * ss)
+    disc = disc.resize((size // ss, size // ss), Image.LANCZOS)
+    img.paste(disc, (cx - disc.width // 2, cy - disc.height // 2), disc)
 
 
 def _ease(p: float) -> float:
@@ -246,12 +310,6 @@ def _breathe(b: dict) -> tuple[float, Frame]:
         return img
 
     layers = {(s, n): static(s, n) for s in (0.45, 0.9) for n in (False, True)}
-    pad = 170
-    S = 2 * (rmax + pad)
-    sprite = Image.new("L", (S, S), 0)
-    ImageDraw.Draw(sprite).ellipse([pad, pad, S - pad, S - pad], fill=170)
-    sprite = sprite.filter(ImageFilter.GaussianBlur(70))
-    glow_rgb = Image.new("RGB", (S, S), (200, 96, 30))
     label_f = simg._sans(42, 600)
     count_f = simg._serif(92)
     round_f = simg._sans(28, 600)
@@ -266,20 +324,7 @@ def _breathe(b: dict) -> tuple[float, Frame]:
         last = rnd == rounds - 1
         lo, hi = layers[(0.45, last)], layers[(0.9, last)]
         img = Image.blend(lo, hi, lvl * 0.85)
-        r = int(rmin + (rmax - rmin) * lvl)
-        # soft glow behind the circle
-        gs = max(8, int(S * (r + pad) / (rmax + pad)))
-        g_mask = sprite.resize((gs, gs), Image.BILINEAR)
-        img.paste(glow_rgb.resize((gs, gs)), (cx - gs // 2, cy - gs // 2), g_mask)
-        # the circle, supersampled for a clean edge
-        ss = 2
-        size = (2 * r + 16) * ss
-        disc = Image.new("RGBA", (size, size), (0, 0, 0, 0))
-        dd = ImageDraw.Draw(disc)
-        o = 8 * ss
-        dd.ellipse([o, o, size - o, size - o], fill=(46, 22, 10, 215), outline=AMBER + (255,), width=6 * ss)
-        disc = disc.resize((size // ss, size // ss), Image.LANCZOS)
-        img.paste(disc, (cx - disc.width // 2, cy - disc.height // 2), disc)
+        _draw_circle(img, cx, cy, int(rmin + (rmax - rmin) * lvl), rmax)
         d = ImageDraw.Draw(img)
         count = min(int(secs), int(p * secs) + 1)
         d.text((cx, cy - 28), str(count), font=count_f, fill=AMBER, anchor="mm")
@@ -364,7 +409,7 @@ def ffmpeg_exe() -> str:
 
 
 def render_reel(beats: list[dict], out_mp4: Path, cover_jpg: Optional[Path] = None,
-                audio: Optional[Path] = None) -> dict:
+                audio: Optional[Path] = None, volume: float = 1.0) -> dict:
     """Render a reel to out_mp4 (and its first frame to cover_jpg). Returns {"duration"}."""
     segs = [BUILDERS[b["beat"]](b) for b in beats]
     starts, t = [], 0.0
@@ -377,7 +422,8 @@ def render_reel(beats: list[dict], out_mp4: Path, cover_jpg: Optional[Path] = No
     tmp = out_mp4.with_suffix(".tmp.mp4")
     if audio and Path(audio).exists():
         a_in = ["-stream_loop", "-1", "-i", str(audio)]
-        a_filter = ["-af", f"afade=t=in:d=1,afade=t=out:st={max(0.0, total - 1.5):.2f}:d=1.5"]
+        # no fade in: the sound should be there from frame 0, like the picture
+        a_filter = ["-af", f"volume={volume:.2f},afade=t=out:st={max(0.0, total - 1.5):.2f}:d=1.5"]
     else:  # a silent track: some players and Instagram's processing are happier with one
         a_in = ["-f", "lavfi", "-i", "anullsrc=channel_layout=stereo:sample_rate=48000"]
         a_filter = []
