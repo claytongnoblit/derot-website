@@ -153,6 +153,244 @@ Only if you want to. Cleveland Clinic notes that the counts can lengthen with pr
 
 ---
 
+# Best Apps for Nervous System Regulation, Compared
+
+URL: https://derot.org/blog/best-apps-nervous-system-regulation/
+Updated: 2026-10-23
+
+Key takeaways:
+- The apps with the strongest backing for nervous system regulation pace slow breathing with a longer exhale or use HRV biofeedback. None of the specific apps in this roundup has published outcome trials of its own.
+- A 2022 meta-analysis of 223 studies found slow breathing increased vagally mediated heart rate variability during a session, right after one, and after multi-session programs.
+- Apple Mindfulness (Apple Watch) and Breathe2Relax (iPhone, iPad, Mac) are free, and they are the simplest ways to try paced breathing without a subscription.
+- Most regulation apps assume you will open them at a planned, calm moment, but the moment you most need a reset is often mid-scroll, after the feed has already wound you up.
+- Stop any breathing exercise if you feel dizzy or tingly. Go carefully with breath holds and fast breathing, and see a professional if anxiety persists. No app treats anxiety.
+
+The best apps for nervous system regulation are the ones that slow your breathing and lengthen your exhale. Our shortlist: Apple Mindfulness (free, Apple Watch), Breathe2Relax (free, iPhone), Breathwrk (big exercise library), HeartMath (HRV biofeedback) and Settle (a broad somatic program). If you want to start today, free browser timers work too.
+
+A quick disclosure: DeRot makes an app in this category. We do not rank our own app, and no app paid to be included. Every price and feature below comes from that app's own App Store listing or website, checked on October 23, 2026.
+
+## The best apps for nervous system regulation at a glance
+
+This list is not ranked. Each app suits a different person and a different moment, so the table is organized around how each one helps you come down, not around feature counts.
+
+| App | Best for | How it works | Free option | Price (as listed, checked Oct 23, 2026) | Platforms |
+|---|---|---|---|---|---|
+| Apple Mindfulness (Breathe) | Apple Watch owners who want free and simple | Haptic-paced breathing at 4 to 10 breaths per minute, 1 to 5 minute sessions | Free app | Free | Apple Watch, watchOS 8 or later |
+| Breathe2Relax | Free paced breathing without an Apple Watch | Guided diaphragmatic breathing, optional heart rate via HealthKit | Free app | Free | iPhone, iPad, Mac (M1 or later), Vision |
+| Breathwrk | Variety and guided sessions | 50+ exercises built from timed inhales, exhales and holds | Limited free tier; included for some Peloton members | Pro $9.00/month or $4.08/month billed annually, 7-day trial | iOS, Android, Web |
+| HeartMath | Watching your HRV respond as you breathe | HRV coherence biofeedback via phone camera or Inner Balance sensor | Free download, Premium upgrade | Premium USD 119.99 and USD 99.00, billing period not stated | iPhone, iOS 26 or later |
+| Settle | A structured program mixing breathing, tapping and somatic practices | Onboarding quiz, then 70+ practices | Free download, subscription upgrade | $4.99-$9.99/week, $4.99/month, or $59.99-$119.99/year | iPhone, iPad, iOS 16.4 or later |
+
+## How we compared nervous system regulation apps
+
+We compared every app on the same five criteria, using facts from official App Store listings and the apps' own websites, all checked on October 23, 2026.
+
+1. **Method.** How it helps you come down: slow paced breathing, a longer exhale, biofeedback, or a broad mix of practices.
+2. **Evidence behind the method.** We looked at the research on the approach the app uses, not at the app's marketing copy.
+3. **Cost.** What the free version gives you, what the paid tier costs, and the billing period whenever the listing states one.
+4. **Platforms and hardware.** Whether you need an Apple Watch, a sensor, or a recent iOS version.
+5. **When you would realistically use it.** Whether it depends on you remembering, on a reminder, or on a schedule.
+
+There are no star ratings or scores out of 10 here. We did not run a structured trial of each app, and we are not going to pretend we did. Prices also change and vary by country, so check your own storefront before you subscribe.
+
+Two things are deliberately left out. Big meditation apps include breathing content too, but we could not verify their current features and prices for this check. Vagus nerve stimulation devices are hardware, not apps, so they are outside this roundup, and you should get medical advice before using one.
+
+## What does the research say about breathing and nervous system regulation?
+
+Slow, paced breathing and HRV biofeedback both have real research behind them. The apps themselves mostly do not: we found no outcome trials for any app on this list. So the fairest way to judge an app is to ask whether it uses a well-studied method, and how well it helps you actually do it.
+
+First, some vocabulary. Heart rate variability (HRV) is the small, constant variation in the time between your heartbeats. Researchers use the part linked to the vagus nerve, called vagally mediated HRV, as one window into the calming "rest and digest" branch of the nervous system.
+
+### Slow breathing
+
+A [2022 meta-analysis of 223 studies](https://staffprofiles.bournemouth.ac.uk/display/journal-article/368158) found slow breathing increased vagally mediated HRV during a session, right after a single session, and after multi-session programs. The authors describe slow breathing as a low-tech, low-cost technique with few adverse effects expected.
+
+A common research pace is about six breaths per minute, which has been [studied with and without HRV biofeedback](https://eprints.bournemouth.ac.uk/38163/7/Psychophysiology%20-%202021%20-%20Laborde%20-%20Psychophysiological%20effects%20of%20slow%E2%80%90paced%20breathing%20at%20six%20cycles%20per%20minute%20with%20or.pdf). Six breaths a minute works out to a 10-second breath cycle, which is exactly the pattern of inhaling for 4 and exhaling for 6.
+
+### HRV biofeedback
+
+Biofeedback adds a live readout of your heart rhythm, so you can see your breathing change it. A [2017 meta-analysis of 24 studies and 484 participants](https://www.cambridge.org/core/journals/psychological-medicine/article/effect-of-heart-rate-variability-biofeedback-training-on-stress-and-anxiety-a-metaanalysis/A839E9C968E54774DF5C8FB186764EF0) linked HRV biofeedback training to a large reduction in self-reported stress and anxiety (Hedges' g of 0.83 compared with control groups). The authors also say more well-controlled studies are needed.
+
+### Breathwork compared with mindfulness
+
+A [2023 remote randomized trial of 108 adults](https://pmc.ncbi.nlm.nih.gov/articles/9873947/) compared 5 minutes a day of structured breathing with mindfulness meditation over 28 days. Cyclic sighing (two inhales through the nose, then a long, slow exhale through the mouth) raised daily positive affect by 1.89 points and did better than mindfulness. The breathing practices also lowered respiratory rate more than mindfulness did. HRV and resting heart rate did not change significantly. The trial was registered after the fact, relied on self-report, and had small groups, so treat it as encouraging rather than settled.
+
+### What this means when you pick an app
+
+An app that paces slow breathing is using a method with solid support for raising vagally mediated HRV. A biofeedback app is using a method with promising support. "Reset your vagus nerve" is a marketing frame. The research backs a narrower claim: slow breathing is linked to higher vagally mediated HRV. None of this replaces professional care.
+
+## The apps, compared field by field
+
+Every app below gets the same fields in the same order: Best for, How it works, What stands out, Drawbacks, Price. That way you can compare them line by line.
+
+### Apple Mindfulness (Breathe)
+
+**Best for:** Apple Watch owners who want a free way to slow down with no setup.
+
+**How it works:** Breathe now lives inside the Mindfulness app on Apple Watch. Sessions [run 1 to 5 minutes, with an adjustable breath rate and haptics](https://support.apple.com/HT206999), and your heart rate during the session is saved to the Health app. The App Store listing says it paces breathing at [4 to 10 breaths per minute with haptics](https://apps.apple.com/bh/app/mindfulness/id1560383515).
+
+**What stands out:** It is on your wrist, so you can follow the taps with your eyes closed. Six breaths a minute falls inside its range, so you can set it to the pace that shows up most in the research.
+
+**Drawbacks:** You need an Apple Watch running watchOS 8 or later. Reminders [fire at the start or end of the day, or at custom times](https://support.apple.com/HT206999), which means they follow the clock rather than your actual state. There is not much variety beyond one paced pattern.
+
+**Price:** Free (App Store, checked October 23, 2026).
+
+### Breathe2Relax
+
+**Best for:** iPhone users without an Apple Watch who want free paced breathing and no subscription.
+
+**How it works:** The app [guides diaphragmatic breathing and can read heart rate from an Apple Watch through HealthKit](https://apps.apple.com/us/app/-/id425720246) if you have one.
+
+**What stands out:** It is published by the Defense Health Agency, and it runs on iPhone, iPad, Mac (M1 or later) and Vision, on iOS 15 or later. You will not run into upsells.
+
+**Drawbacks:** The listing centers on diaphragmatic breathing, so it may feel narrow if you want a library of patterns. Like most of the apps here, you have to remember to open it.
+
+**Price:** Free (US App Store, checked October 23, 2026).
+
+### Breathwrk
+
+**Best for:** People who like variety, with guided sessions for different moments of the day.
+
+**How it works:** The official site lists [50+ exercises (100+ in Pro) built from timed inhales, exhales and holds](https://www.breathwrk.com/), and its sleep practices use an elongated exhale or humming. The iPhone app [integrates with Apple Health](https://apps.apple.com/us/app/1481804500).
+
+**What stands out:** It is the biggest dedicated breathing library in this roundup, and it runs on iOS, Android and Web. Breathwrk is [free for Peloton All Access, Guide and App+ members](https://apps.apple.com/us/app/1481804500), so check before you pay.
+
+**Drawbacks:** The free tier is limited. Some exercises include breath holds, which do not suit everyone (see the safety section). The current App Store version needs iOS 26 or later on iPhone (macOS 26 on Mac). We found no published outcome trials of the app itself.
+
+**Price:** Pro is [$9.00/month, or $4.08/month billed annually, with a 7-day trial](https://www.breathwrk.com/) on the official site, checked October 23, 2026. The US App Store shows in-app purchases from $1.99 to $69.99 but does not match each price to a billing period.
+
+### HeartMath
+
+**Best for:** People who like seeing a number respond as they breathe.
+
+**How it works:** HeartMath is an HRV biofeedback app. It [measures HRV coherence with your phone camera or an Inner Balance sensor](https://apps.apple.com/md/app/id6446414998) and gives you feedback while you breathe.
+
+**What stands out:** Of the sources we cite, biofeedback is the method with a meta-analysis on self-reported stress. The camera option means you can try it without buying extra hardware.
+
+**Drawbacks:** The listing says it is not a medical device. It needs an iPhone running iOS 26 or later. The listing we checked does not say how often Premium is billed, so check your own storefront before comparing its cost with the other subscriptions. We did not check the price of the sensor.
+
+**Price:** Free download. Premium is listed at USD 119.99 and USD 99.00, billing period not stated (App Store, Moldova storefront, checked October 23, 2026). Your storefront may show different prices.
+
+### Settle
+
+**Best for:** People who want a guided program that mixes breathwork, tapping and other somatic practices.
+
+**How it works:** You take an onboarding quiz, and then you get [70+ practices including 4-7-8, box breathing, EFT tapping and polyvagal-informed exercises](https://apps.apple.com/us/app/-/id6751709642), pitched as "2 minutes a day."
+
+**What stands out:** It has the most variety in practice types, and it is built around the nervous-system language many readers already use.
+
+**Drawbacks:** The listing mentions research from Stanford, Harvard and UCLA without citing specific studies, so read its claims with healthy skepticism. It has many pricing tiers, and the full experience is a subscription.
+
+**Price:** $4.99 to $9.99/week, $4.99/month, or $59.99 to $119.99/year (US App Store, checked October 23, 2026).
+
+### Free browser timers (ours)
+
+We built these, so they sit in their own section and are not ranked with the apps above.
+
+**Best for:** Trying a pattern right now without downloading anything.
+
+**How it works:** [Our free browser breathing timers](/tools/) pace you through box breathing, 4-7-8, calm 4-6, the physiological sigh, or a custom pattern.
+
+**What stands out:** There is nothing to install. The [calm 4-6 breathing timer](/tools/calm-breathing-4-6/) runs the six-breaths-per-minute pace from the research above, and the [physiological sigh timer](/tools/physiological-sigh/) guides the cyclic sighing pattern from the 2023 trial.
+
+**Drawbacks:** You get no heart rate and no reminders, and you still have to remember to open a tab.
+
+**Price:** Free.
+
+## When do you actually use a regulation app?
+
+Most regulation apps are built for a planned moment. Apple's reminders arrive at the start or end of the day. Settle frames its program as two minutes a day. That is a fine habit if you keep it.
+
+But the moment you most need to come down usually is not on a schedule. You pick up your phone to check one thing, and 20 minutes later you surface with a tight jaw, raised shoulders and a vague wired buzz. Nobody in that state thinks, "Time to open my breathing app." The feed keeps the thumb moving. We wrote more about [coming down from nervous system overload mid-scroll](/blog/nervous-system-overload-from-phone/).
+
+There is some research on why timing matters. In a [six-week field study of 280 people](https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409), the app one sec added a short pause when people opened chosen apps, and 36% of those open attempts were then dismissed. That study measured app opens, not calm, and the app's maker was involved, so take it as a hint rather than proof. Still, it suggests that a pause that shows up right when you reach for an app can change what people do next.
+
+So ask yourself one practical question about any app on this list: will it be there in the moment you are wound up, or only when you remember it?
+
+### A 30-second reset you can use mid-scroll
+
+You do not need an app for this one. It uses the 4-6 pattern, which matches the six-breaths-per-minute pace from the research.
+
+1. Notice the cue: a clenched jaw, raised shoulders, or a thumb that keeps moving after you have stopped enjoying the feed.
+2. Put the phone face down, or rest it on your leg.
+3. Breathe in gently through your nose for a count of 4.
+4. Breathe out slowly for a count of 6, through your nose or softly through pursed lips.
+5. Repeat for 3 rounds (about 30 seconds), or up to 5 if you have time.
+6. Check in. If your shoulders have dropped, decide on purpose whether to keep scrolling.
+
+What it tends to feel like: by the second or third exhale, your shoulders drop and the buzz gets quieter. The most common mistake is gulping a huge inhale. Keep the inhale easy and let the exhale do the work. If 6 counts feels long, try 3 in and 5 out. Our guide to [4-6 breathing](/blog/4-6-breathing-how-to/) covers more variations.
+
+## Which nervous system regulation app should you pick?
+
+Pick the app whose method and timing match how you actually live. Here is the short version.
+
+- **If you have an Apple Watch and want free and simple,** pick Apple Mindfulness.
+- **If you want free with no subscription and no Watch,** pick Breathe2Relax or a browser timer.
+- **If you want variety and guided sessions,** pick Breathwrk, and check whether your Peloton membership already includes it.
+- **If you want to see your HRV change as you breathe,** pick HeartMath.
+- **If you want a structured program mixing breathwork, tapping and somatic practices,** try Settle, and treat its research claims with skepticism.
+- **If you want a hard lockout of your phone,** an app blocker will suit you better than anything on this list.
+
+### Looking for an Apple Watch Breathe app alternative?
+
+If you do not have an Apple Watch, Breathe2Relax is the closest free match: guided diaphragmatic breathing with no subscription. If you want haptic-style pacing without a watch, a browser timer you can follow by eye works too. If you have outgrown Breathe and want to see your physiology, HeartMath adds biofeedback.
+
+### Looking for a Breathwrk alternative?
+
+If you mainly use Breathwrk for one calming pattern, a free app like Breathe2Relax, or a browser timer, may cover what you need. If you want more practice types than breathing alone, Settle is broader. If you want feedback on whether a session is working for you, HeartMath is the biofeedback option.
+
+## Where DeRot fits (our app)
+
+DeRot pauses your apps while you reset with a few calming breaths. Instead of waiting for you to remember a breathing app, it meets you mid-scroll, after the feed has already wound you up, and brings you back down. Calm (inhale 4, exhale 6) is the default. Box and 4-7-8 are built in, and Pro unlocks Custom patterns. The pause is always escapable by breathing through it.
+
+It is not for everyone. If you want a hard lockout, a meditation library, or HRV readings, one of the options above will suit you better.
+
+It is coming soon to iOS and is not available to download yet. You can join the launch newsletter on this page, and the [free browser timers](/tools/) work today.
+
+## Are breathing apps safe for everyone?
+
+For most people, slow breathing with a longer exhale is low-risk. Some techniques in these apps need more care, though, and no app is a substitute for medical help.
+
+- **Stop if you feel dizzy, lightheaded or tingly,** and go back to normal breathing. Usually it means you are breathing too deeply or too fast.
+- **Go carefully with breath holds and fast breathing.** These show up in some Breathwrk exercises and in the cyclic hyperventilation used in the 2023 trial. If you are pregnant, have a heart or lung condition, have a history of fainting, or experience panic attacks, check with a clinician first and stick to gentle, slow patterns.
+- **Stimulation devices are outside this roundup.** Get medical advice before using any vagus nerve stimulation device.
+- **Apps do not treat anxiety, panic disorder or insomnia.** They can help you feel calmer in the moment. If anxiety, low mood or sleep problems persist, talk to a doctor or therapist. If you are in crisis, contact local emergency services, or call or text 988 in the US.
+
+## FAQ
+**What is the best free app for calming your nervous system?**
+If you have an Apple Watch, the free Mindfulness app (which includes Breathe) paces slow breathing with haptics at 4 to 10 breaths per minute. Without a Watch, Breathe2Relax is free on iPhone, iPad and Mac and guides diaphragmatic breathing. Free browser timers also work. Set any of them to about six breaths per minute, for example inhale 4 and exhale 6, which is the pace most common in slow-breathing research.
+
+**What happened to the Breathe app on Apple Watch?**
+Breathe still exists, but it now lives inside the Mindfulness app on Apple Watch, which needs watchOS 8 or later. Sessions run 1 to 5 minutes, you can adjust the breath rate and haptics, and your heart rate during a session is saved to the Health app. You can also set reminders for the start or end of the day, or for custom times.
+
+**Is Breathwrk free, and is it included with Peloton?**
+Breathwrk has a limited free tier. Pro is listed on its official site at $9.00 per month, or $4.08 per month billed annually, with a 7-day trial (checked October 23, 2026). The App Store listing says it is free for Peloton All Access, Guide and App+ members, so check your membership before you pay.
+
+**Do nervous system regulation apps actually work?**
+The methods many of them use have research behind them. A meta-analysis of 223 studies found slow breathing raised vagally mediated heart rate variability, and an HRV biofeedback meta-analysis found large drops in self-reported stress. What is missing is outcome trials of the specific apps. So choose an app for a well-studied method you will actually use, not for its marketing claims.
+
+**Is HRV biofeedback worth it, and do you need a sensor?**
+HRV biofeedback has encouraging evidence: a 2017 meta-analysis of 24 studies linked it to a large reduction in self-reported stress and anxiety, though the authors want more well-controlled studies. It suits people who are motivated by seeing data. You do not always need a sensor. HeartMath, for example, can measure HRV coherence with your phone camera or with its optional Inner Balance sensor.
+
+**Can a breathing app help with anxiety or panic attacks?**
+A breathing app can help you feel calmer in the moment, and slow breathing with a longer exhale is a low-risk place to start. It is not a treatment for anxiety or panic disorder. If you have panic attacks, avoid breath holds and fast breathing unless a clinician says otherwise, and talk to a professional if symptoms persist. In a crisis, call local emergency services, or 988 in the US.
+
+## Sources
+- Brief structured respiration practices enhance mood and reduce physiological arousal: https://pmc.ncbi.nlm.nih.gov/articles/9873947/
+- The effect of heart rate variability biofeedback training on stress and anxiety: a meta-analysis: https://www.cambridge.org/core/journals/psychological-medicine/article/effect-of-heart-rate-variability-biofeedback-training-on-stress-and-anxiety-a-metaanalysis/A839E9C968E54774DF5C8FB186764EF0
+- Effects of voluntary slow breathing on heart rate and heart rate variability: a systematic review and meta-analysis: https://staffprofiles.bournemouth.ac.uk/display/journal-article/368158
+- Psychophysiological effects of slow-paced breathing at six cycles per minute with or without HRV biofeedback: https://eprints.bournemouth.ac.uk/38163/7/Psychophysiology%20-%202021%20-%20Laborde%20-%20Psychophysiological%20effects%20of%20slow%E2%80%90paced%20breathing%20at%20six%20cycles%20per%20minute%20with%20or.pdf
+- Directing smartphone use through the self-nudge app one sec: https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409
+- Breathe in the Mindfulness app on Apple Watch: https://support.apple.com/HT206999
+- Mindfulness (App Store): https://apps.apple.com/bh/app/mindfulness/id1560383515
+- Breathwrk: Breathing Exercises (US App Store): https://apps.apple.com/us/app/1481804500
+- Breathwrk official site: https://www.breathwrk.com/
+- Breathe2Relax (US App Store): https://apps.apple.com/us/app/-/id425720246
+- HeartMath (App Store, Moldova storefront): https://apps.apple.com/md/app/id6446414998
+- Settle: Nervous System Reset (US App Store): https://apps.apple.com/us/app/-/id6751709642
+
+---
+
 # Nervous System Overload From Your Phone: How to Come Down Mid-Scroll
 
 URL: https://derot.org/blog/nervous-system-overload-from-phone/

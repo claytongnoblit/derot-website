@@ -2077,7 +2077,8 @@
       "content_type": "comparison",
       "angle": "Breathwrk for planned sessions vs DeRot for unplanned moments.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "best-apps-nervous-system-regulation"
     },
     {
       "keyword": "one sec alternative",
@@ -2299,7 +2300,9 @@
       "content_type": "list",
       "angle": "Wellness apps that help you regulate, honestly reviewed.",
       "seasonality": [],
-      "status": "queued"
+      "status": "published",
+      "post": "best-apps-nervous-system-regulation",
+      "published": "2026-10-23"
     },
     {
       "keyword": "apple watch breathe app alternative",
@@ -2311,7 +2314,8 @@
       "content_type": "comparison",
       "angle": "Apple's Breathe/Mindfulness reminders vs a breath that triggers when you actually need it.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "best-apps-nervous-system-regulation"
     },
     {
       "keyword": "breathing exercise app for iphone",
