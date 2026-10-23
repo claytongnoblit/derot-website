@@ -185,11 +185,12 @@ jobs:
         run: |
           # Wait (up to 10 min) for Pages to deploy before pinging; never fails the run.
           for i in $(seq 1 30); do
-            status=$(curl -s -o /dev/null -w "%{http_code}" "$URL")
+            status=$(curl -s -m 15 -o /dev/null -w "%{http_code}" "$URL" || true)
             [ "$status" = "200" ] && break
             sleep 20
           done
-          python -m derot_seo indexnow "$URL" "https://derot.org/blog/" "https://derot.org/sitemap.xml" "https://derot.org/"
+          python -m derot_seo indexnow "$URL" "https://derot.org/blog/" "https://derot.org/sitemap.xml" "https://derot.org/" \
+            || echo "::warning::IndexNow ping failed. The post is live; search engines will find it via the sitemap."
 
       - name: Open issue for parked draft
         if: steps.gen.outputs.code == '20' && env.MODE == 'publish'
