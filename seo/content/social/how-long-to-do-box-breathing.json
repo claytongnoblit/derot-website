@@ -42,14 +42,24 @@
   },
   "platforms": {
     "facebook": {
-      "status": "queued",
+      "status": "posted",
       "scheduled_at": "2026-10-23T16:56:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "id": "1073236222529004_122125010571186943",
+      "permalink": "https://www.facebook.com/122123860221186943/posts/122125010571186943",
+      "posted_at": "2026-10-23T18:43:09+00:00",
+      "error": null,
+      "retry_after": null
     },
     "threads": {
-      "status": "queued",
+      "status": "posted",
       "scheduled_at": "2026-10-23T16:56:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "id": "18123298205293530",
+      "permalink": "https://www.threads.com/@derotorg/post/De2OnGqjw4t",
+      "posted_at": "2026-10-23T18:43:27+00:00",
+      "error": null,
+      "retry_after": null
     },
     "instagram": {
       "status": "queued",
