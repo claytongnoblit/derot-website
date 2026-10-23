@@ -14,9 +14,14 @@
   "threads_topic": "Building in Public",
   "platforms": {
     "threads": {
-      "status": "queued",
+      "status": "posted",
       "scheduled_at": "2026-10-23T21:00:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "id": "17908546467332240",
+      "permalink": "https://www.threads.com/@derotorg/post/De2pdIBgS71",
+      "posted_at": "2026-10-23T22:37:56+00:00",
+      "error": null,
+      "retry_after": null
     }
   },
   "built_at": "2026-10-22T13:45:37+00:00"
