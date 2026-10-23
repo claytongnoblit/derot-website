@@ -123,8 +123,9 @@
       "content_type": "tool",
       "angle": "Clean, ad-free 4-4-4-4 timer with haptic-style visual cues and a 1-minute default.",
       "seasonality": [],
-      "status": "tool",
-      "notes": "SERP is thin: browser extensions, small tool sites."
+      "status": "covered",
+      "notes": "SERP is thin: browser extensions, small tool sites.",
+      "covered_by": "how-long-to-do-box-breathing"
     },
     {
       "keyword": "box breathing app",
@@ -507,7 +508,7 @@
       "angle": "A true 60-second guided breath, the same length as a DeRot reset.",
       "seasonality": [],
       "status": "covered",
-      "covered_by": "4-6-breathing-how-to"
+      "covered_by": "how-long-to-do-box-breathing"
     },
     {
       "keyword": "breathing pacer",
@@ -3252,9 +3253,11 @@
       "content_type": "faq",
       "angle": "Even one minute of box breathing mid-scroll can take the edge off, and longer sessions are optional; links to the box breathing timer.",
       "seasonality": [],
-      "status": "queued",
+      "status": "published",
       "source": "expansion",
-      "added": "2026-10-18"
+      "added": "2026-10-18",
+      "post": "how-long-to-do-box-breathing",
+      "published": "2026-10-23"
     },
     {
       "keyword": "4 5 6 breathing technique",

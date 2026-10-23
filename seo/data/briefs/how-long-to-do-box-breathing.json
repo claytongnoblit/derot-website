@@ -1,0 +1,241 @@
+{
+  "title_options": [
+    "How Long Should You Do Box Breathing For? Answers by Situation",
+    "How Long Should You Do Box Breathing? 1 Minute, 5 Minutes, or More",
+    "Box Breathing: How Long, How Many Rounds, and When to Stop"
+  ],
+  "search_intent": "Informational, quick answer. The searcher knows or roughly knows the 4-4-4-4 pattern and wants a number: how many minutes or rounds, whether 1 minute is enough, how often, and when to stop. Give a one-line answer up front, then break it down by situation, converted into rounds and seconds.",
+  "serp_summary": "Top results are how-to explainers (Cleveland Clinic, Healthline, WebMD, Medical News Today, Calm, Ro), university and hospital handouts (U-M, UMN Extension, RWJBarnabas), Gear Patrol's republished \"five-minute Navy SEAL trick\", a Huberman AI summary page (about 2 minutes for beginners), Legendary Strength, and forum threads. The duration answer is usually a single buried line: \"three to four rounds\", \"a few minutes\", \"5 minutes or as long as necessary\". None of them convert rounds into seconds, tie the length to the situation, explain when you can stop, separate the immediate effect from what regular practice does, report the Stanford trial's limits, cite the 2026 one-minute study, or give real safety guidance.",
+  "gaps": [
+    "Answer by situation: mid-scroll reset (4 rounds, about 64 seconds), fuller reset (5 minutes, about 18-19 rounds), regular practice (1-2 times a day).",
+    "Convert rounds to seconds: one 4-4-4-4 round is 16 seconds.",
+    "Cite Riedl et al. 2026: one minute of box breathing reduced state anxiety in real anxious moments (pilot study).",
+    "Report Balban 2023 honestly: box breathing did not beat mindfulness, there was no HRV or resting heart rate change, and counts were personalized and could be shortened.",
+    "Give experience-based cues for when to stop, labeled as experience and not research.",
+    "Give permission to shorten: 3-3-3-3 or 2-2-2-2, or skip the hold after the exhale.",
+    "Safety: dizziness, who should check with a clinician first, no breath holds in water or while driving, and slower reactions right afterward.",
+    "Show how to set the free box breathing timer for 1 or 5 minutes.",
+    "Brief limitation: the Fincham 2023 meta-analysis appears in the notes only under a PMC URL that is not in the verified list. It is excluded, so the 'more minutes is not clearly better' meta-analysis claim cannot be cited unless the URL is re-verified (the verified ncbi.nlm.nih.gov/pmc/articles/PMC9828383/ variant exists but was not in the notes).",
+    "The Riedl PDF and the U-M handout could not be read in full. Quote only the abstract and summary-level findings."
+  ],
+  "outline": [
+    {
+      "h2": "How long should you do box breathing for? The quick answer",
+      "points": [
+        "Direct answer (40-60 words): for a quick reset, 4 rounds of 4-4-4-4 (about 1 minute). For a fuller reset, about 5 minutes. For practice, once or twice a day.",
+        "One round = 16 seconds. 4 rounds is about 64 seconds. 5 minutes is about 18-19 rounds.",
+        "Quick definition of box breathing: inhale 4, hold 4, exhale 4, hold 4.",
+        "Link to the box breathing timer."
+      ]
+    },
+    {
+      "h2": "How many rounds of box breathing should you do?",
+      "points": [
+        "Table: situation | rounds | time | what it is for (mid-scroll, fuller reset, daily practice, wind-down).",
+        "Cleveland Clinic and RWJBarnabas say 3-4 rounds. The U-M handout says at least 5 boxes (summary-level).",
+        "Why the sources disagree: they describe different situations."
+      ]
+    },
+    {
+      "h2": "Is 1 minute of box breathing enough?",
+      "points": [
+        "Riedl 2026: one minute of box breathing during real anxious moments reduced state anxiety more than a passive control, measured 5 minutes later.",
+        "Be clear it is a preregistered pilot with 47 students.",
+        "Reaction times were slower afterward, so take a short pause before something that needs quick reactions."
+      ]
+    },
+    {
+      "h2": "Box breathing mid-scroll: a 60-second script",
+      "points": [
+        "The moment: 20 minutes into a feed, jaw clenched, feeling wired.",
+        "Numbered steps: put the phone down, exhale fully, then 4 rounds, counting rounds on your fingers.",
+        "Permission to stop at four rounds.",
+        "One light DeRot mention: it pauses your scroll to bring you back down (pre-launch).",
+        "Link to the timer set to 1 minute."
+      ]
+    },
+    {
+      "h2": "What does a 5-minute session do? What the Stanford study found",
+      "points": [
+        "Balban 2023: 5 minutes a day for 28 days, 108 people randomized, 21 in the box breathing arm.",
+        "Positive mood rose in the box group, but only cyclic sighing significantly beat mindfulness. Anxiety fell similarly in all groups.",
+        "Positive-mood gains grew with the number of days practiced.",
+        "No significant change in HRV or resting heart rate. Slow breathing in general is associated with HRV increases (Laborde 2022), but this has not been shown for box breathing specifically.",
+        "Counter Gear Patrol's 'instant' framing."
+      ]
+    },
+    {
+      "h2": "How do you know when you can stop?",
+      "points": [
+        "Experience cues: your breath slows on its own, your jaw and shoulders let go, and the urge to keep counting fades.",
+        "Labeled as practical experience, not research.",
+        "More minutes is not automatically better."
+      ]
+    },
+    {
+      "h2": "What if 4-second holds feel like too much?",
+      "points": [
+        "Shorten to 3-3-3-3 or 2-2-2-2, or skip the hold after the exhale.",
+        "Balban told participants to shorten if straining. Cleveland Clinic says breathe gently, without straining.",
+        "You can lengthen the counts over time if you want to, but you do not have to.",
+        "Alternative: the calm 4-6 breathing tool, with no holds."
+      ]
+    },
+    {
+      "h2": "How often should you do box breathing?",
+      "points": [
+        "Cleveland Clinic: one or two times a day, regardless of how you feel.",
+        "Balban participants averaged 5.76 min a day on 19.6 of 28 days.",
+        "Bedtime: describe it gently, with no insomnia claims."
+      ]
+    },
+    {
+      "h2": "When to stop: dizziness and other safety notes",
+      "points": [
+        "Stop if you feel dizzy or lightheaded, breathe normally, and sit down.",
+        "Talk to a clinician first if you have a heart condition, are pregnant, have seizures, glaucoma, a lung condition, or panic triggered by focusing on the breath (framed as advice, not a cited claim).",
+        "No breath holds in water or while driving.",
+        "Not a treatment. For persistent anxiety, see a professional. In a crisis, call 988 (US)."
+      ]
+    }
+  ],
+  "questions": [
+    "Is 1 minute of box breathing enough?",
+    "How many rounds of box breathing should I do?",
+    "How fast does box breathing work?",
+    "How often should you do box breathing?",
+    "Can I do 3-3-3-3 or skip the holds?",
+    "Can you do box breathing for too long, and why do I feel dizzy?",
+    "Should I lengthen the count over time?",
+    "Does box breathing raise HRV?",
+    "Is box breathing better than cyclic sighing or 4-7-8?",
+    "Is box breathing good before sleep?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.)",
+      "publisher": "Cell Reports Medicine / Stanford",
+      "year": "2023",
+      "key_findings": "Remote RCT, 5 min a day for 28 days, 108 people randomized (21 to box breathing). Box counts personalized at 3-10 s, with instructions to shorten if straining. Positive mood rose in the box group, but only cyclic sighing significantly beat mindfulness. Anxiety fell similarly in all groups. Gains grew with days practiced. No HRV or resting heart rate change. Exploratory study with small arms."
+    },
+    {
+      "id": "S2",
+      "url": "https://edoc.ku.de/id/eprint/36573/1/Simply%20breathing%20anxiety%20away%20A%20pilot%20just-in-time%20ecological%20momentary%20intervention%20study%20of%20one-minute%20cyclic%20sighing%20versus%20box%20breathing%20as%20tool.pdf",
+      "title": "Simply breathing anxiety away: one-minute cyclic sighing versus box breathing (Riedl et al.)",
+      "publisher": "Anxiety, Stress, & Coping (KU Eichstätt-Ingolstadt repository)",
+      "year": "2026",
+      "key_findings": "Preregistered pilot, 47 students. One minute of box breathing or cyclic sighing during real anxious moments reduced state anxiety more than a passive control, measured 5 min later. Both were linked to slower reaction times afterward. Findings are from the abstract only."
+    },
+    {
+      "id": "S3",
+      "url": "https://eprints.bournemouth.ac.uk/38169/",
+      "title": "Effects of voluntary slow breathing on heart rate and heart rate variability (Laborde et al.)",
+      "publisher": "Neuroscience & Biobehavioral Reviews (Bournemouth repository)",
+      "year": "2022",
+      "key_findings": "223 studies. Vagally mediated HRV increased during, immediately after, and after multi-session slow breathing. Few adverse effects. Covers slow breathing in general, not box breathing specifically."
+    },
+    {
+      "id": "S4",
+      "url": "https://health.clevelandclinic.org/box-breathing-benefits",
+      "title": "Box breathing benefits",
+      "publisher": "Cleveland Clinic",
+      "year": "2021",
+      "key_findings": "Repeat for three to four rounds. Practice one or two times a day. Breathe gently without straining. Counts can lengthen with practice."
+    },
+    {
+      "id": "S5",
+      "url": "https://mari.umich.edu/wp-content/uploads/MARI-FY26-Box_Breathing_Handout.pdf",
+      "title": "Box Breathing handout",
+      "publisher": "University of Michigan (MARI)",
+      "year": "2025",
+      "key_findings": "Per search summary: several minutes or at least 5 boxes. You can start with a count of 2 or 3. Unverified wording."
+    },
+    {
+      "id": "S6",
+      "url": "https://extension.umn.edu/community/community-development/economy-and-development/vital-connections/two-for-you-video-series/box-breathing",
+      "title": "Box breathing (Two for You series)",
+      "publisher": "University of Minnesota Extension",
+      "year": "n.d.",
+      "key_findings": "Per search summary: recommends four rounds."
+    },
+    {
+      "id": "S7",
+      "url": "https://www.rwjbh.org/documents/institute-for-prevention/How-to-Practice-Box-Breathing.pdf",
+      "title": "How to Practice Box Breathing",
+      "publisher": "RWJBarnabas Health",
+      "year": "n.d.",
+      "key_findings": "Per search summary: four rounds total."
+    },
+    {
+      "id": "S8",
+      "url": "https://gearpatrol.com/2020/02/18/box-breathing-navy-seals/",
+      "title": "Navy SEALs Use This Five-Minute Breathing Trick to Kill Stress Instantly",
+      "publisher": "Gear Patrol",
+      "year": "2020",
+      "key_findings": "Says 5 minutes or as long as necessary. An example of overclaiming, not evidence."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "One 4-4-4-4 round takes 16 seconds, so 4 rounds is about 64 seconds and 5 minutes is about 18-19 rounds (arithmetic).",
+      "source_id": "S4"
+    },
+    {
+      "fact": "Cleveland Clinic advises three to four rounds, practiced one or two times a day.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "UMN Extension and RWJBarnabas recommend four rounds.",
+      "source_id": "S6"
+    },
+    {
+      "fact": "In a 2026 preregistered pilot of 47 students, one minute of box breathing during real anxious moments reduced state anxiety more than a passive control, measured 5 minutes later.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "In the same pilot, both breathing exercises were linked to slower reaction times afterward.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "Balban 2023 randomized 108 people to 5 minutes a day for 28 days. 21 were assigned to box breathing.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Only cyclic sighing significantly beat mindfulness on positive mood. State anxiety fell similarly across groups.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Positive-mood gains grew with the number of days practiced. Breathwork participants averaged 5.76 min a day on 19.6 of 28 days.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Balban found no significant change in HRV or resting heart rate.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Box counts were personalized from 3-4 s up to 8-10 s, and participants were told to shorten them if straining.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Across 223 studies, slow breathing in general increased vagally mediated HRV during and after sessions.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "The U-M handout suggests at least 5 boxes and allows starting at a count of 2 or 3 (summary-level).",
+      "source_id": "S5"
+    }
+  ],
+  "safety_notes": [
+    "Stop if you feel dizzy or lightheaded, breathe normally, and sit down. Shorten the counts or skip the hold after the exhale.",
+    "Talk to a clinician first if you are pregnant or have a heart or lung condition, seizures, glaucoma, a history of fainting, or panic triggered by breath focus. Balban excluded several of these groups.",
+    "No breath holds in or near water or while driving.",
+    "Reactions may be slower right after a session (Riedl 2026). Pause before tasks that need quick reactions.",
+    "Do not claim box breathing raises HRV or treats anxiety, panic, or insomnia. For persistent distress, see a professional. In a crisis, call 988 (US) or local emergency services.",
+    "Keep it slow and gentle. Do not speed it up or force the breath."
+  ],
+  "word_count_target": 1500,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: \"how long should you do box breathing for\"\n\n## SERP ANALYSIS\n\n**What ranks.** The top results are a mix of brand and wellness posts and a few thin pages:\n- A Huberman Lab \"AI\" Q&A page (ai.hubermanlab.com). It is a third-party summary that suggests about 2 minutes for beginners.\n- Gear Patrol's \"Navy SEALs Use This Five-Minute Breathing Trick\" article, republished in 2017, 2018 and 2020. It says 5 minutes, \"or as long as necessary.\"\n- Legendary Strength. It covers lengthening the counts over time and says the hold after the exhale is usually the hardest part.\n- A University of Michigan PDF handout. Per the search summary, it says to do \"several minutes (or make at least 5 boxes)\" and to drop to 2 or 3 counts if 4 is hard.\n- Forum threads (Mojo community \"Box breathing – when?\").\n- For the core how-to query: Cleveland Clinic, Healthline, WebMD, Medical News Today, Calm blog and Ro.\n\n**Format.** Most pages are how-to explainers with numbered steps and a list of benefits. The duration answer is one line buried in the steps:\n- Cleveland Clinic says \"Repeat for three to four rounds\" and recommends practicing \"one or two times a day, regardless of how you're feeling\" (Melissa Young, MD, published Aug 2021, no update date).\n- University extension and hospital handouts (UMN Extension, RWJBarnabas) say four rounds.\n- Third-party posts say 4 to 5 cycles, or \"3 to 5 cycles… less than 2 minutes.\"\n- Insight Timer has a 10-minute 8-8-8-8 guided track.\n\n**What they do well.** Clear 4-step instructions, the Navy SEAL hook, and a simple round count.\n\n**What they miss or get wrong:**\n1. **They give one vague number** (\"a few minutes,\" \"5 minutes,\" \"3-4 rounds\") with no link to the situation the reader is in.\n2. **They never convert rounds to seconds.** One 4-4-4-4 round takes 16 seconds, so 4 rounds is about 64 seconds and 5 minutes is about 18-19 rounds.\n3. **They don't say when you can stop.**\n4. **They mix up the immediate effect with what regular practice does.** Gear Patrol's headline promises to \"kill stress instantly.\"\n5. **They don't mention the 2023 Stanford trial details.** In that trial, box breathing did not beat mindfulness. The trial also showed no change in heart rate variability (HRV), and it personalized the box counts.\n6. **Little or no safety guidance.** The Cleveland Clinic page doesn't mention dizziness at all.\n7. **No one cites the 2026 one-minute box breathing study**, which is our strongest evidence for the short dose.\n\n## GAPS AND ANGLE\n\n- **Answer by situation, in rounds and seconds:**\n  - Mid-scroll reset: about 4 rounds of 4-4-4-4, or about 1 minute. This matches Cleveland Clinic's \"three to four rounds.\"\n  - Fuller reset: 5 minutes, about 18-19 rounds. This is the dose used in Balban 2023.\n  - Practice: 1-2 times a day (Cleveland Clinic) or most days. In the Stanford trial, gains in positive mood grew with the number of days people practiced.\n- **New evidence for one minute:** Riedl et al. (2026, *Anxiety, Stress & Coping*) is a preregistered pilot with 47 university students. A single one-minute box breathing or cyclic sighing exercise, done in real anxious moments, reduced state anxiety more than a passive control when measured 5 minutes later.\n  - It's early pilot evidence, so we should say so.\n  - Both exercises slowed reaction times afterward. That gives us an honest point: a short settle before you go back to your day.\n- **Being honest about the 5-minute evidence (Balban 2023):**\n  - Every arm improved after sessions, including mindfulness.\n  - Box breathing (n=21 randomized) was not significantly better than mindfulness. Cyclic sighing did best.\n  - There was no change in HRV or resting heart rate.\n  - The researchers set each person's box counts at 3-4 s up to 8-10 s, and told participants to shorten the counts if straining. That gives readers permission to go shorter.\n- **The broader research is modest:** the Fincham meta-analysis found a small-to-medium effect on stress. Total practice time ranged from 80 to 5,625 minutes across trials and was not correlated with effect size. More minutes is not clearly better.\n- **When you can stop:** the breath slows by itself, the jaw and shoulders let go, and the urge to keep counting fades. This is practical guidance, not a research claim, so label it as experience.\n- **Shorter counts:** 3-3-3-3 or 2-2-2-2, or skip the hold after the exhale. Balban's protocol and the U-M handout both support shortening.\n- **The DeRot moment:** wired after 20 minutes in a feed. Give a 60-second script and permission to stop at four rounds. Link to the box breathing timer for each length. If the holds feel bad, the calm 4-6 tool is an option.\n- **Secondary keywords:** add an H2 or section on \"box breathing timer\" (how to set it for 1 or 5 minutes) and a \"1-minute guided breathing exercise\" script.\n\n## QUESTIONS (PAA, forums)\n\n- How long should you do box breathing for? Is 1 minute enough?\n- How many rounds of box breathing should I do?\n- How long does box breathing take to work, and how fast will I feel it?\n- How often should you do box breathing (daily, twice a day)?\n- Is 4 seconds too long, and can I do 3-3-3-3 or skip the holds?\n- Can you do box breathing too long? Why do I feel dizzy or lightheaded?\n- Is box breathing better than cyclic sighing or 4-7-8?\n- Should I lengthen the count over time (5, 6, 8 seconds)?\n- Is box breathing good before sleep? (Answer gently. Don't make insomnia claims.)\n- Does box breathing raise HRV? (The evidence is mixed. Balban found no HRV change.)\n\n## SOURCES\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9873947 | Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.) | Cell Reports Medicine / Stanford | 2023 | Remote RCT: 5 min daily for 28 days. 108 randomized: mindfulness 24, cyclic sighing 30, box breathing 21, cyclic hyperventilation with retention 33. Physiology analyzed: box breathing n=19. Box counts personalized from a CO2 test (3-4 s, 5-6 s or 8-10 s per side); told to breathe through the nose and shorten counts if straining. Daily positive affect change: box +1.84 ± 3.24 (p=0.026), cyclic sighing +1.89, mindfulness +1.22 (p=0.06). Only cyclic sighing significantly beat mindfulness. State anxiety fell similarly in all groups (box −3.75 ± 2.83, mindfulness −3.95). All groups improved acutely before vs after sessions. Positive-affect gains grew with days practiced. Average 5.76 min/day and 19.6 of 28 days for breathwork. No significant change in HRV, resting HR or sleep. No formal adverse events; 74% found it very or somewhat easy. Excluded heart disease, glaucoma, seizures, pregnancy. Exploratory, retrospectively registered (NCT05304000), small arms, Huberman a WHOOP advisor.\n\nhttps://hubermanlab.stanford.edu/publications/brief-structured-respiration-practices-enhance-mood-and-reduce-physiological-arousal?.com | Same paper, publication page | Huberman Lab, Stanford | 2023 | Alternate link for Balban 2023. Use the PMC link instead.\n\nhttps://edoc.ku.de/id/eprint/36573/1/Simply%20breathing%20anxiety%20away%20A%20pilot%20just-in-time%20ecological%20momentary%20intervention%20study%20of%20one-minute%20cyclic%20sighing%20versus%20box%20breathing%20as%20tool.pdf | Simply breathing anxiety away: a pilot just-in-time ecological momentary intervention study of one-minute cyclic sighing versus box breathing (Riedl et al.) | Anxiety, Stress, & Coping (KU Eichstätt-Ingolstadt repository) | 2026 | Preregistered pilot, 47 university students, real-life acute anxiety moments. Randomly assigned to one-minute box breathing, one-minute cyclic sighing or passive control. Measured again 5 min later. Both breathing exercises reduced state anxiety more than control. Fewer inhibition errors after box breathing, stronger in high trait anxiety. Both exercises were linked to slower reaction times (lower attention efficiency). Pilot only. Exact counts and effect sizes were not readable (PDF text compressed); taken from the repository abstract. DOI 10.1080/10615806.2026.2659809.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/ | Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials (Fincham et al.) | Scientific Reports | 2023 | Searched to Feb 2022; 1,325 records screened. Stress: k=12 RCTs, 785 adults, g = −0.35 (95% CI −0.55 to −0.14), I² = 42%. Anxiety g = −0.32, depression g = −0.40. Slow-paced breathwork (k=10) g = −0.35, significant; fast-paced (k=2) not significant. Total practice ranged 80 to 5,625 min. Total duration, number of sessions and frequency were not correlated with effect size (e.g. sessions τB = −0.28, p = 0.107). No adverse events attributed to breathwork in the trials that reported them. \"High safety profile\" for slow-paced techniques; caution with fast-paced breathing. Risk of bias moderate (3 high, 9 some concerns). Authors warn against \"miscalibration between hype and evidence.\"\n\nhttps://eprints.bournemouth.ac.uk/38169/ | Effects of voluntary slow breathing on heart rate and heart rate variability: a systematic review and meta-analysis (Laborde et al.) | Neuroscience & Biobehavioral Reviews 138:104711 (Bournemouth repository) | 2022 | 223 studies from 1,842 abstracts: 172 during a session, 16 immediately after one session, 49 after multi-session programs. Vagally mediated HRV went up at all three time points. Few adverse effects expected. Effect sizes not in the abstract, so don't quote numbers.\n\nhttps://health.clevelandclinic.org/box-breathing-benefits | Box breathing benefits | Cleveland Clinic | 2021 | Steps: exhale fully, then in-4, hold-4, out-4, hold-4. \"Repeat for three to four rounds.\" Practice \"one or two times a day, regardless of how you're feeling.\" \"Stay at your comfort level… breathing very gently and not straining.\" Counts can lengthen with practice. Quotes Melissa Young, MD. No dizziness or safety guidance on the page.\n\nhttps://mari.umich.edu/wp-content/uploads/MARI-FY26-Box_Breathing_Handout.pdf | Box Breathing handout | University of Michigan (MARI) | 2025-26 | Per the search summary: \"several minutes (or make at least 5 boxes)\"; can start with a shorter count of 2 or 3. The PDF text couldn't be read directly. Use cautiously, or for practical guidance only.\n\nhttps://extension.umn.edu/community/community-development/economy-and-development/vital-connections/two-for-you-video-series/box-breathing | Box breathing (Two for You series) | University of Minnesota Extension | n.d. | Per the search summary: recommends four rounds.\n\nhttps://www.rwjbh.org/documents/institute-for-prevention/How-to-Practice-Box-Breathing.pdf | How to Practice Box Breathing | RWJBarnabas Health Institute for Prevention | n.d. | Per the search summary: the four-count pattern, \"repeat steps 2-5 three more times\" (four rounds total).\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC12373369/ | Effectiveness of Box Breathing Exercises in Reducing Stress among Women Postmastectomy | J Pharmacy & Bioallied Sciences | 2025 | 140 women (70/70). Groups were assigned by hospital, not truly randomized, and session length is unclear. By posttest III, no one in the box breathing group still had high stress, vs 90% of controls (χ² = 115.21). Weak design. Mention only as an example of low-quality evidence, if at all.\n\nhttps://gearpatrol.com/2020/02/18/box-breathing-navy-seals/ | Navy SEALs Use This Five-Minute Breathing Trick to Kill Stress Instantly | Gear Patrol | 2020 | A SERP competitor: 5 minutes, or \"as long as necessary.\" Use it as an example of the overclaim we correct, not as evidence.\n\n## SAFETY\n\n- **Dizziness.** Stop if you feel dizzy or lightheaded, breathe normally, and sit down. The breath holds and over-deep breathing are the usual causes. Shorten to 2-3 counts or skip the hold after the exhale (Balban protocol \"shorten if straining\"; U-M handout). Breathe gently, without straining (Cleveland Clinic).\n- **Who should check with a clinician first.** The Balban trial excluded people with heart disease, glaucoma, seizures or pregnancy, which suggests caution for those groups. Wellness sources also name asthma and COPD, and a history of panic set off by focusing on the breath. We don't have an authoritative source for that list, so frame it as \"talk to your clinician first if…\" rather than a cited claim.\n- **No holds in or near water.** Don't do breath holds while driving either.\n- **Fast or forceful breathing.** Fincham calls slow-paced breathwork's safety profile high, but says fast-paced breathing should not be given \"blindly\" to vulnerable people. Box breathing is slow, but don't speed it up.\n- **Expect slower reactions right after.** In Riedl 2026, reaction times were slower just after one minute of box breathing. Wait a moment before anything that needs quick reactions.\n- **No treatment claims.** Breathing is not a treatment for anxiety disorders or panic. The evidence is small-to-medium and short-term, often from pilots or self-report. For persistent anxiety or distress, see a professional. In a crisis, call 988 (US) or local emergency services.\n- **HRV.** Don't claim box breathing raises HRV. Balban found no HRV change. Laborde supports slow breathing in general, not box breathing specifically.\n\n## Gaps and things to verify\n\n- I couldn't open the Riedl 2026 PDF or the U-M handout, so their exact counts, effect sizes and wording are unconfirmed. The Riedl findings come from the repository abstract and the U-M details from a search summary. Check both before quoting specifics.\n- I didn't find any Reddit threads, so the questions list rests on search results, forum titles and competitor pages.\n- I don't have the site inventory, so the writer needs to use it for exact internal URLs (box breathing timer, calm 4-6 tool).\n\nSources:\n- [Balban et al. 2023, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947)\n- [Huberman Lab publication page](https://hubermanlab.stanford.edu/publications/brief-structured-respiration-practices-enhance-mood-and-reduce-physiological-arousal?.com)\n- [Riedl et al. 2026 (KU repository PDF)](https://edoc.ku.de/id/eprint/36573/1/Simply%20breathing%20anxiety%20away%20A%20pilot%20just-in-time%20ecological%20momentary%20intervention%20study%20of%20one-minute%20cyclic%20sighing%20versus%20box%20breathing%20as%20tool.pdf)\n- [Fincham et al. 2023, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/)\n- [Laborde et al. 2022 (Bournemouth eprints)](https://eprints.bournemouth.ac.uk/38169/)\n- [Cleveland Clinic: box breathing benefits](https://health.clevelandclinic.org/box-breathing-benefits)\n- [University of Michigan box breathing handout](https://mari.umich.edu/wp-content/uploads/MARI-FY26-Box_Breathing_Handout.pdf)\n- [UMN Extension: box breathing](https://extension.umn.edu/community/community-development/economy-and-development/vital-connections/two-for-you-video-series/box-breathing)\n- [RWJBarnabas: How to Practice Box Breathing](https://www.rwjbh.org/documents/institute-for-prevention/How-to-Practice-Box-Breathing.pdf)\n- [Avudaiselvi & Prabha 2025, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12373369/)\n- [Gear Patrol: Navy SEALs box breathing](https://gearpatrol.com/2020/02/18/box-breathing-navy-seals/)\n- [Huberman AI summary page](https://ai.hubermanlab.com/s/YW63DiAd)\n- [Legendary Strength: Box Breathing](https://legendarystrength.com/box-breathing/)\n- [Mojo community thread](https://community.mojo.so/t/box-breathing-when/7390)\n- [Insight Timer 10-minute box breath](https://insighttimer.com/patdivilly/guided-meditations/box-breath-8-8-8-8-10-minutes)"
+}
