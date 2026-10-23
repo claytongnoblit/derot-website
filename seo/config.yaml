@@ -37,6 +37,7 @@ comparison_track:
   # Planner score bonus by format. Roundups are the most-cited format on "best X" prompts.
   content_type_bonus: { list: 3.0, comparison: 0.0 }
 
+llm:
   # subscription = headless Claude Code on your Claude Pro/Max plan
   #                (GitHub secret CLAUDE_CODE_OAUTH_TOKEN, made once with `claude setup-token`)
   # api          = Anthropic API key, billed per use (GitHub secret ANTHROPIC_API_KEY)
