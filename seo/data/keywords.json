@@ -955,8 +955,10 @@
         3,
         11
       ],
-      "status": "queued",
-      "notes": "Lifestyle and news outlets rank."
+      "status": "published",
+      "notes": "Lifestyle and news outlets rank.",
+      "post": "how-to-stop-doomscrolling",
+      "published": "2026-10-26"
     },
     {
       "keyword": "doomscrolling meaning",
@@ -968,8 +970,9 @@
       "content_type": "glossary",
       "angle": "Definition plus why the body treats feeds like a threat scan.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Dictionaries dominate."
+      "status": "covered",
+      "notes": "Dictionaries dominate.",
+      "covered_by": "how-to-stop-doomscrolling"
     },
     {
       "keyword": "doomscrolling anxiety",
@@ -1320,8 +1323,9 @@
       "content_type": "how-to",
       "angle": "Mindful scrolling in practice: intention, body check, breath.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Small blogs, Substacks rank."
+      "status": "covered",
+      "notes": "Small blogs, Substacks rank.",
+      "covered_by": "how-to-stop-doomscrolling"
     },
     {
       "keyword": "how to use your phone mindfully",
@@ -1548,7 +1552,8 @@
       "content_type": "how-to",
       "angle": "Micro-breaks inside the feed instead of deleting the app.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "how-to-stop-doomscrolling"
     },
     {
       "keyword": "phone anxiety",

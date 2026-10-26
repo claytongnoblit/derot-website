@@ -1,0 +1,262 @@
+{
+  "title_options": [
+    "How to stop doomscrolling: interrupt the feed, don't ban it",
+    "How to stop doomscrolling (without deleting your apps)",
+    "How to stop doomscrolling: a 30-second reset for the mid-scroll moment"
+  ],
+  "search_intent": "A quick, practical how-to. The searcher has noticed that bad-news or negative scrolling leaves them feeling worse and wants steps they can actually use, often without quitting social media. Secondary intent: a short definition and why it's so hard to stop.",
+  "serp_summary": "Checked 2026-10-26 (US). The top results are listicles of 6 to 10 tips: Calm's blog (no citations, vague \"deep breaths\"), Yale New Haven Health (barriers and limits), PositivePsychology.com, TechCrunch, KQED, local TV, Substacks, and app-vendor blogs (leavemealone, habitdoom, astropad, shiftyourphone) that push grayscale, blockers, deleting apps and fixed news windows. Nearly all of the advice is about minutes and restriction. None treats the felt state as the cue, none gives a timed reset you can do mid-scroll, few cite primary research, and none is honest that the doomscrolling evidence is correlational and the friction evidence is industry-linked. Several use addiction framing.",
+  "gaps": [
+    "Define doomscrolling as a state (continuing after the feed has made you feel worse), not a duration",
+    "Body cues as the signal to pause: jaw, shoulders, shallow breath, rereading the same bad news",
+    "A timed mid-scroll reset: 4-in, 6-out for about 30 seconds, or one to three physiological sighs",
+    "Evidence for why feeds are sticky (Robertson 2023 negativity and clicks; the uncertainty 'vicious cycle')",
+    "Pause-then-choose backed by the one sec PNAS finding that the dismiss option mattered most, with the conflict of interest disclosed",
+    "Honest evidence box: correlational doomscrolling studies, a short-term break RCT, industry-linked friction research",
+    "Ready-to-use 60-second scripts and a common-mistakes section",
+    "Targeted breaks without quitting (Lambert 2022, not over-extrapolated)",
+    "Flag: no primary source for 4-6 / six breaths per minute or HRV/vagus claims. Don't put numbers on those; link the internal 4-6 guide and tool"
+  ],
+  "outline": [
+    {
+      "h2": "How do you stop doomscrolling? The quick answer",
+      "points": [
+        "40-60 word answer first: notice the wired feeling, pause mid-scroll, take about 30 seconds of longer exhales (4 in, 6 out) or one to three physiological sighs, then decide on purpose whether to keep going",
+        "Interrupt, don't forbid: bans and deletions tend not to last, and a short pause at the right moment is something you'll actually do",
+        "Primary keyword in the first 100 words"
+      ]
+    },
+    {
+      "h2": "What is doomscrolling?",
+      "points": [
+        "Quotable definition: doomscrolling is continuing to scroll through negative or distressing content after it has started to make you feel worse",
+        "The line between it and ordinary scrolling is how you feel, not how many minutes",
+        "Researchers now measure it with a validated Doomscrolling Scale (Satici 2023; Italian validation 2025)"
+      ]
+    },
+    {
+      "h2": "Why is it so hard to stop doomscrolling?",
+      "points": [
+        "Negativity pulls clicks: about 2.3% more per negative headline word across roughly 105,000 randomized headline tests (Robertson 2023)",
+        "Uncertainty loop: checking more to feel less distressed, which the study authors call a 'vicious cycle' (paraphrase; 1News coverage)",
+        "Infinite scroll and autoplay take away natural stopping points (design point, no number)",
+        "The problem is the feed, not you"
+      ]
+    },
+    {
+      "h2": "Is doomscrolling bad for your mental health? What the evidence shows",
+      "points": [
+        "Associated with psychological distress and lower well-being (Satici 2023), cross-sectional",
+        "16.5% of 1,100 US adults showed severely problematic news consumption; 73.6% of that group reported mental ill-being vs 8% of others (McLaughlin 2022 coverage). Correlational. Don't use the 'addiction' label",
+        "Say 'associated with,' not 'causes'"
+      ]
+    },
+    {
+      "h2": "How to stop doomscrolling in the moment: a 4-step mid-scroll reset",
+      "points": [
+        "1. Notice the cues: tight jaw, raised shoulders, shallow breath, rereading the same bad news",
+        "2. Pause mid-scroll: put the thumb down and look up from the screen",
+        "3. Reset for about 30 seconds: inhale 4, exhale 6, gentle and unforced; or one to three physiological sighs (double inhale, long slow exhale). Link the calm 4-6 tool and the physiological sigh tool",
+        "4. Choose on purpose: continue, switch to something else, or close the app. The one sec study found a real option to dismiss was the most effective part, and the 10 s delay added nothing beyond it (coauthor created the app; field study had no control group)",
+        "Cyclic sighing improved positive affect more than mindfulness in a 108-person RCT (Balban 2023), with limits noted",
+        "Link the 4-6 breathing guide and the nervous system overload piece",
+        "One light mention: DeRot pauses your scroll so your shoulders drop and your head clears"
+      ]
+    },
+    {
+      "h2": "60-second scripts for common doomscrolling moments",
+      "points": [
+        "'Ten minutes into bad news, jaw tight': three slow 4-6 breaths, then a single question: do I need more of this right now?",
+        "'Refreshing for updates on a developing story': one to two sighs, then set a single later check-in",
+        "'In bed, can't put it down': a longer-exhale variant, phone face down; link the night-time doomscrolling article",
+        "Real counts and timings for each"
+      ]
+    },
+    {
+      "h2": "Common mistakes when trying to stop doomscrolling",
+      "points": [
+        "All-or-nothing rules that collapse after a bad day",
+        "Deleting apps that are reinstalled within a week",
+        "'Just one more' straight after the reset",
+        "Doing breath holds or fast breathing while already wired; keep it to longer exhales",
+        "Treating it as a willpower or character failing"
+      ]
+    },
+    {
+      "h2": "How to take a break from social media without quitting",
+      "points": [
+        "A one-week stop from four platforms improved well-being, depression and anxiety scores in a 154-person RCT (Lambert 2022); the anxiety effect was linked to fewer TikTok minutes",
+        "Suggests targeted breaks (one platform, certain hours) are worth trying, but the study tested a full week off, so don't over-extrapolate",
+        "Practical options: a news-free evening, muting one source, unfollowing outrage accounts"
+      ]
+    },
+    {
+      "h2": "When to talk to someone",
+      "points": [
+        "If news-checking constantly feeds worry or disrupts sleep, work or relationships, or distress persists, talk to a doctor or mental health professional",
+        "In crisis: local emergency services or 988 in the US"
+      ]
+    }
+  ],
+  "questions": [
+    "What does doomscrolling mean?",
+    "Why is it so hard to stop doomscrolling?",
+    "Is doomscrolling bad for your mental health?",
+    "What's the difference between doomscrolling and regular scrolling?",
+    "How can I stop doomscrolling without deleting social media?",
+    "Does taking a week off social media actually help?",
+    "Do app blockers or screen-time limits work for doomscrolling?",
+    "Why do I doomscroll at night?",
+    "What is mindful scrolling?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/9873947/",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.)",
+      "publisher": "Cell Reports Medicine (via PubMed Central)",
+      "year": "2023",
+      "key_findings": "Remote RCT, 108 randomized; 5 min/day for 28 days. All groups improved positive affect and reduced state anxiety. Cyclic sighing (inhale, short top-up inhale, long slow exhale) improved positive affect more than mindfulness (1.89 vs 1.22, p<0.05) and lowered respiratory rate more. Exploratory, retrospectively registered, practice not verified, no follow-up, no significant HRV change. Excluded heart disease, seizures, pregnancy, psychosis."
+    },
+    {
+      "id": "S2",
+      "url": "https://hubermanlab.stanford.edu/publications/brief-structured-respiration-practices-enhance-mood-and-reduce-physiological-arousal?.com",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Stanford (Huberman Lab publication page)",
+      "year": "2023",
+      "key_findings": "University-hosted listing of the same study as S1. Cite S1 first."
+    },
+    {
+      "id": "S3",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409",
+      "title": "Directing smartphone use through the self-nudge app one sec (Grüning, Riedel, Lorenz-Spreen)",
+      "publisher": "PNAS (via PubMed Central)",
+      "year": "2023",
+      "key_findings": "Field study, 280 iOS users over 6 weeks: 36% of opening attempts dismissed after the pop-up; attempts fell 37% (166 to 105/week); actual openings fell 57%. Controlled experiment, n=500 across 5 conditions: the option to dismiss was the most effective component, a 10 s delay added nothing beyond it, and a generic message alone was not effective. No control group in the field study, self-selection, attrition, self-report. A coauthor created one sec."
+    },
+    {
+      "id": "S4",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10202797/",
+      "title": "Negativity drives online news consumption (Robertson et al.)",
+      "publisher": "Nature Human Behaviour (via PubMed Central)",
+      "year": "2023",
+      "key_findings": "About 105,000 randomized Upworthy headline variations, about 5.7 million clicks, over 370 million impressions. Each additional negative word raised click-through by about 2.3%; positive words lowered clicks; sadness words had the strongest effect."
+    },
+    {
+      "id": "S5",
+      "url": "https://www.niemanlab.org/2023/03/negative-words-in-news-headlines-generate-more-clicks-but-sad-words-are-more-effective-than-angry-or-scary-ones/",
+      "title": "Negative words in news headlines generate more clicks, but sad words are more effective than angry or scary ones",
+      "publisher": "Nieman Lab",
+      "year": "2023",
+      "key_findings": "Plain-language coverage of S4."
+    },
+    {
+      "id": "S6",
+      "url": "https://ideas.repec.org/a/spr/ariqol/v18y2023i2d10.1007_s11482-022-10110-7.html",
+      "title": "Doomscrolling Scale: its association with personality traits, psychological distress, social media use, and wellbeing (Satici et al.)",
+      "publisher": "Applied Research in Quality of Life (Springer; RePEc listing)",
+      "year": "2023",
+      "key_findings": "Developed 15-item and 4-item Doomscrolling Scales (N=378). In Study III (N=460), doomscrolling was linked to lower life satisfaction, mental well-being and harmony in life, with the link running through psychological distress. Cross-sectional, self-report."
+    },
+    {
+      "id": "S7",
+      "url": "https://link.springer.com/article/10.1007/s12144-025-07976-9",
+      "title": "Italian validation of the Doomscrolling Scale",
+      "publisher": "Current Psychology (Springer)",
+      "year": "2025",
+      "key_findings": "300 Italian adults; validated both scale versions; notes that studies associate doomscrolling with lower quality of life, poorer well-being and problematic technology use. Correlational."
+    },
+    {
+      "id": "S8",
+      "url": "https://www.1news.co.nz/2022/08/24/news-addiction-linked-to-poor-mental-physical-health-study",
+      "title": "News addiction linked to poor mental, physical health: study",
+      "publisher": "1News (reporting McLaughlin, Gotlieb & Mills, Health Communication)",
+      "year": "2022",
+      "key_findings": "Survey of 1,100 US adults: 16.5% showed severely problematic news consumption; 73.6% of them reported mental ill-being vs 8% of others; 61% physical ill-being vs 6.1%. The lead author describes a vicious cycle of checking more to relieve distress. Cross-sectional."
+    },
+    {
+      "id": "S9",
+      "url": "https://www.scimex.org/newsfeed/doomscrolling-linked-to-poor-mental-and-physical-health",
+      "title": "Doomscrolling linked to poor mental and physical health",
+      "publisher": "Scimex",
+      "year": "2022",
+      "key_findings": "Press listing for the same study as S8: 16.5% severe, 27.3% moderate, 27.5% minimal, 28.7% not affected."
+    },
+    {
+      "id": "S10",
+      "url": "https://researchportal.bath.ac.uk/en/publications/taking-a-one-week-break-from-social-media-improves-well-being-dep/",
+      "title": "Taking a One-Week Break from Social Media Improves Well-Being, Depression, and Anxiety: A Randomized Controlled Trial (Lambert et al.)",
+      "publisher": "Cyberpsychology, Behavior, and Social Networking (University of Bath portal)",
+      "year": "2022",
+      "key_findings": "RCT, n=154, mean age 29.6; one week off Facebook, Instagram, Twitter and TikTok. Well-being +4.9, depression -2.2, anxiety -1.7 (adjusted). Effects partly explained by fewer minutes; the anxiety effect by fewer TikTok minutes. Non-clinical sample, 1-week follow-up."
+    },
+    {
+      "id": "S11",
+      "url": "https://www.calm.com/blog/how-to-stop-doomscrolling",
+      "title": "How to stop doomscrolling: 10 ways to break the habit",
+      "publisher": "Calm",
+      "year": "n.d.",
+      "key_findings": "Top competitor, SERP reference only, not evidence. Defines doomscrolling as continuously consuming mostly negative media; cites no research."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "Each additional negative word in a headline increased click-through by about 2.3%, across about 105,000 randomized headline variations and roughly 5.7 million clicks.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "Sadness words had the strongest effect on clicks; positive words decreased clicks.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "In a 460-person study, doomscrolling was associated with lower life satisfaction and mental well-being, with the link running through psychological distress (cross-sectional).",
+      "source_id": "S6"
+    },
+    {
+      "fact": "A validated Doomscrolling Scale exists in 15-item and 4-item versions.",
+      "source_id": "S6"
+    },
+    {
+      "fact": "In a survey of 1,100 US adults, 16.5% showed severely problematic news consumption; 73.6% of them reported mental ill-being vs 8% of other participants.",
+      "source_id": "S8"
+    },
+    {
+      "fact": "Breakdown of the same survey: 16.5% severe, 27.3% moderate, 27.5% minimal, 28.7% not affected.",
+      "source_id": "S9"
+    },
+    {
+      "fact": "In the one sec field study (280 users, 6 weeks), 36% of attempts to open a target app were dismissed after the pop-up, and actual openings fell 57%.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "In the controlled experiment (n=500), the option to dismiss was the most effective component; a 10-second delay added nothing beyond it, and a generic message alone was not effective. A coauthor created the app.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "In a 108-person remote RCT, 5 minutes a day of cyclic sighing for 28 days improved positive affect more than mindfulness meditation (1.89 vs 1.22) and lowered respiratory rate more.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "The breathing study found no significant HRV change and excluded people with heart disease, seizures, pregnancy or psychosis.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "A one-week break from Facebook, Instagram, Twitter and TikTok improved well-being (+4.9), depression (-2.2) and anxiety (-1.7) scores vs usual use in a 154-person RCT; the anxiety effect was explained by fewer TikTok minutes.",
+      "source_id": "S10"
+    }
+  ],
+  "safety_notes": [
+    "Stop and breathe normally if you feel dizzy, lightheaded, tingly or short of breath; keep the 4-6 reset gentle and unforced, and don't over-breathe.",
+    "One to three physiological sighs is enough mid-scroll; repeated sighing can cause lightheadedness.",
+    "Don't make breath holds (4-7-8, box) or fast breathing the mid-scroll default. They aren't for everyone: pregnancy, heart or lung conditions, a history of fainting or panic.",
+    "Breathing can help you feel calmer and may reduce stress; it does not treat anxiety, depression or insomnia.",
+    "Doomscrolling research is correlational: say 'associated with,' never 'causes.' Report the McLaughlin findings without the 'addiction' label.",
+    "Present a one-week full break as one option, not a requirement; the RCT had only a 1-week follow-up in a non-clinical sample.",
+    "Disclose the one sec conflict of interest and the lack of a control group in the field study.",
+    "For persistent worry, sleep disruption or distress, talk to a doctor or mental health professional; in crisis, contact local emergency services or 988 in the US.",
+    "No source for 4-6 / six breaths per minute or HRV/vagus numbers: give no numeric claims there, and link the internal guide instead."
+  ],
+  "word_count_target": 2000,
+  "dropped_sources": [],
+  "research_notes": "I've done all 10 searches and pulled out the key study numbers. Here are the research notes.\n\n# Research notes: how to stop doomscrolling\n\n## SERP ANALYSIS\n\n**What ranks (US, standard search, checked 2026-10-26):**\n- [Calm blog: \"How to stop doomscrolling: 10 ways to break the habit\"](https://www.calm.com/blog/how-to-stop-doomscrolling) (also served at blog.calm.com). It's a listicle with H2s for \"What is doomscrolling?\", \"Why is doomscrolling so addictive?\", \"effects on mental health\", 10 tips, an FAQ and a sales close. It cites **no research**. The breathing advice is only \"a few deep breaths,\" with no counts. Its strengths are \"name it when it's happening,\" a grounding phrase and \"notice what you're really seeking.\" It does have an FAQ entry on \"How can I stop doomscrolling without deleting social media?\"\n- [YNHHS (Yale New Haven Health)](https://www.ynhhs.org/articles/how-to-stop-doomscrolling): the only health-system page in the top results. It blocked fetching (403). The search snippet shows a therapist quote along the lines of \"the more barriers or limits you can put between yourself and the thing… the better\" (airplane mode, timers, screen-time apps).\n- [PositivePsychology.com](https://positivepsychology.com/how-to-stop-doomscrolling/), [TechCrunch (2025)](https://techcrunch.com/2025/03/09/how-to-stop-doomscrolling), [KQED \"mindfully\"](https://www.kqed.org/arts/13886630/how-to-stop-doomscrolling-and-start-using-the-internet-mindfully), a local TV piece ([WCCB](https://www.wccbcharlotte.com/?p=4297817)), a Substack and a university student blog ([Uni Siegen](https://blogs.uni-siegen.de/fit-in-siegen/?p=1409)).\n- Vendor and app blogs that turn up for \"tips that work\": [leavemealone.com](https://leavemealone.com/blog/how-to-stop-doomscrolling/amp/), [habitdoom.com](https://habitdoom.com/blog/how-to-stop-doomscrolling), [astropad.com](https://astropad.com/blog/how-to-stop-doomscrolling-6-tips/), [shiftyourphone.com](https://www.shiftyourphone.com/blog/how-to-stop-doomscrolling/). They push friction: grayscale, apps off the home screen, notifications off, app blockers (Forest, Freedom, Opal), fixed news windows and \"replace the scroll with a specific activity.\"\n\n**Format:** numbered listicles of 6 to 10 tips plus a short definition. People searching want a quick, practical how-to.\n\n**Common advice across the results:** time limits and fixed news windows, deleting or blocking apps, unfollowing, the phone out of the bedroom, replacement activities, \"notice and name it,\" and a closing \"see a professional.\"\n\n**What they get wrong or miss:**\n- The advice is almost all about minutes and restriction (limits, blockers, deleting). None of them treats the felt state (jaw, shoulders, shallow breath) as the cue.\n- None gives a timed reset you can do **mid-scroll**. Breathing is vague (\"deep breaths\") or uses box breathing with no reasoning.\n- Few or no primary citations. Calm cites none. Several quote the 16.5% stat without linking the study.\n- None is honest about the evidence: the doomscrolling research is correlational, and the friction research is industry-linked.\n- Several frame it as addiction or compulsion, which our reader bristles at.\n\n## GAPS AND ANGLE\n\n1. **Define doomscrolling as a state, not a duration.** A quotable line: \"Doomscrolling is continuing to scroll through negative or distressing content after it has started to make you feel worse.\" This fits the published scale research, which links it to psychological distress ([Satici et al. 2023](https://ideas.repec.org/a/spr/ariqol/v18y2023i2d10.1007_s11482-022-10110-7.html)).\n2. **Why it's sticky, with evidence instead of claims:**\n   - **Negativity bias:** this is backed by [Robertson et al. 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10202797/). Each extra negative word in a headline raised clicks by about 2.3%.\n   - **Uncertainty:** the \"check more to feel less distressed\" loop is described in the [McLaughlin study coverage](https://www.1news.co.nz/2022/08/24/news-addiction-linked-to-poor-mental-physical-health-study) as a \"vicious cycle.\" Paraphrase this; it isn't a verbatim quote from the paper.\n   - **Infinite scroll and autoplay:** this is a design point. No primary study was found, so mention it without a number.\n3. **The mid-scroll pause has real (but limited) support.** The one sec PNAS paper found that a pop-up with a real option to **dismiss** was the most effective part of the intervention. The forced delay added nothing beyond the dismiss option, and a generic message alone did nothing. This backs our \"pause, then choose on purpose\" step. Disclose the conflict of interest (a coauthor created the app) and the lack of a control group in the field study.\n4. **Longer-exhale reset:** Balban 2023 supports exhale-focused cyclic sighing for mood and lower breathing rate, compared with mindfulness. No primary source specifically for a 4-in, 6-out (about six breaths per minute) pattern came up in my searches. The writer should not cite numbers for 4-6 beyond what's in this brief. Link the internal 4-6 guide and the calm 4-6 tool instead, or flag this so the next pass can add a slow-breathing source.\n5. **Breaks without quitting:** Lambert 2022 shows that even a one-week break improved well-being, depression and anxiety scores. Partly this came from cutting TikTok and Twitter minutes specifically. That suggests targeted breaks (one platform, certain hours) can work without quitting everything. Be careful: it was a full one-week stop from four platforms, not micro-breaks, so don't extrapolate.\n6. **Ways to differentiate from the top results:**\n   - 60-second scripts (\"I'm 10 minutes into bad news and my jaw is tight\")\n   - mistakes section: all-or-nothing rules, deleting apps that come back within a week, \"just one more\" after the reset, doing breath holds while already wired\n   - an honest \"what the evidence shows\" box\n   - a bedtime variant linking to the night-time doomscrolling article\n\n**Internal links planned:** the 4-6 breathing guide, the nervous system overload piece, the night-time doomscrolling article, /tools/ calm 4-6 breathing, /tools/ physiological sigh.\n\n## QUESTIONS (People Also Ask style)\n\n- What does doomscrolling mean? / What is the meaning of doomscrolling?\n- Why is it so hard to stop doomscrolling? (Calm FAQ)\n- Is doomscrolling bad for your mental health?\n- What's the difference between doomscrolling and regular scrolling? (Calm FAQ)\n- How can I stop doomscrolling without deleting social media? (Calm FAQ)\n- How do I take a break from social media without quitting?\n- Does taking a week off social media actually help?\n- Do app blockers or screen-time limits work for doomscrolling?\n- Why do I doomscroll at night / before bed?\n- What is mindful scrolling?\n- Who is most likely to doomscroll? (Calm FAQ)\n- Forum angle: \"I put limits on but just tap ignore.\" The r/nosurf and r/digitalminimalism communities came up indirectly. No Reddit threads came back directly, so don't quote Reddit.\n\n## SOURCES\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/9873947/ | Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.) | Cell Reports Medicine (via PubMed Central) | 2023 | Remote RCT. 108 randomized: 30 cyclic sighing, 21 box breathing, 33 cyclic hyperventilation with retention, 24 mindfulness meditation. 5 min/day for 28 days. All groups improved positive affect and reduced state anxiety. Cyclic sighing gave a greater mood improvement than mindfulness (positive affect change 1.89 vs 1.22, p<0.05) and a bigger drop in respiratory rate. Cyclic sighing = inhale, a second shorter top-up inhale, then a long slow exhale. Limitations: exploratory and registered retrospectively, remote with no verification of practice, 4 weeks with no follow-up, small arms, no significant HRV change. Exclusions included heart disease, seizures, pregnancy and psychosis. A coauthor is Andrew Huberman.\n\nhttps://hubermanlab.stanford.edu/publications/brief-structured-respiration-practices-enhance-mood-and-reduce-physiological-arousal?.com | Brief structured respiration practices enhance mood and reduce physiological arousal | Stanford (Huberman Lab publication page) | 2023 | Alternate listing of the same study. Useful only as a university-hosted reference; cite the PMC version first.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9974409 | Directing smartphone use through the self-nudge app one sec (Grüning, Riedel, Lorenz-Spreen) | PNAS (via PubMed Central) | 2023 | Field study: 280 iOS users over 6 weeks (719 recruited). 36% of attempts to open a target app were dismissed after the pop-up (43% in week 1, settling at 32 to 34%). Opening attempts fell 37% (166 to 105 per user per week). Actual openings fell 57%. Self-reported use dropped about 77 min/day (self-report). Controlled experiment, n=500 across 5 conditions: the **option to dismiss** was the most effective component; friction (a 10 s delay) added nothing beyond it; a generic deliberation message alone was not effective. Limitations: no control group in the field study, self-selection, attrition, 6 weeks only, self-report. Conflict of interest: coauthor Frederik Riedel created one sec.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC10202797/ | Negativity drives online news consumption (Robertson et al.) | Nature Human Behaviour (via PubMed Central) | 2023 | Analysis of about 105,000 headline variations from Upworthy A/B tests (randomized), about 5.7 million clicks, over 370 million impressions. Negative words increased click-through (about 2.3% per additional negative word). Positive words decreased clicks. Sadness words had the strongest effect among the emotions.\n\nhttps://www.niemanlab.org/2023/03/negative-words-in-news-headlines-generate-more-clicks-but-sad-words-are-more-effective-than-angry-or-scary-ones/ | Negative words in news headlines generate more clicks, but sad words are more effective than angry or scary ones | Nieman Lab (Harvard) | 2023 | Plain-language coverage of Robertson et al. Optional secondary link.\n\nhttps://ideas.repec.org/a/spr/ariqol/v18y2023i2d10.1007_s11482-022-10110-7.html | Doomscrolling Scale: its association with personality traits, psychological distress, social media use, and wellbeing (Satici et al.) | Applied Research in Quality of Life (Springer; RePEc listing) | 2023 | Developed 15-item and 4-item Doomscrolling Scales (Study I N=378). Study III (N=460): doomscrolling was linked to lower life satisfaction, mental well-being and harmony in life, and the link ran through psychological distress. Cross-sectional and self-report, so it shows association, not causation.\n\nhttps://link.springer.com/article/10.1007/s12144-025-07976-9 | Italian validation of the Doomscrolling Scale | Current Psychology (Springer) | 2025 | 300 Italian adults. Validated both versions of the scale. Notes that several studies associate doomscrolling with lower quality of life, poorer mental well-being and problematic technology use. Correlational.\n\nhttps://www.1news.co.nz/2022/08/24/news-addiction-linked-to-poor-mental-physical-health-study | News addiction linked to poor mental, physical health: study | 1News (reporting McLaughlin, Gotlieb & Mills, Health Communication) | 2022 | Survey of 1,100 US adults (August 2021). 16.5% showed \"severely problematic\" news consumption (absorbed in the news, mind preoccupied, hard to stop). Of that group, 73.6% reported mental ill-being \"quite a bit/very much\" vs 8% of others, and 61% physical ill-being vs 6.1%. Lead author describes a \"vicious cycle\" of checking more to relieve distress. Cross-sectional. Note: these are news-coverage figures; link the claim here (or scimex below) because the journal URL didn't come up in search. Avoid the \"addiction\" wording in our copy.\n\nhttps://www.scimex.org/newsfeed/doomscrolling-linked-to-poor-mental-and-physical-health | Doomscrolling linked to poor mental and physical health | Scimex (Science Media Exchange) | 2022 | Press-release listing for the same Health Communication study (blocked fetching, 403). Breakdown from search: 16.5% severe, 27.3% moderate, 27.5% minimal, 28.7% not affected.\n\nhttps://researchportal.bath.ac.uk/en/publications/taking-a-one-week-break-from-social-media-improves-well-being-dep/ | Taking a One-Week Break from Social Media Improves Well-Being, Depression, and Anxiety: A Randomized Controlled Trial (Lambert et al.) | Cyberpsychology, Behavior, and Social Networking (University of Bath portal) | 2022 | RCT, n=154, mean age 29.6. One-week stop from Facebook, Instagram, Twitter and TikTok vs usual use. Adjusted mean differences: well-being +4.9 (95% CI 3.0 to 6.8), depression -2.2 (-3.3 to -1.1), anxiety -1.7 (-2.8 to -0.6). Effects partly explained by reduced minutes; anxiety effect explained by reduced TikTok minutes. Non-clinical sample, 1-week follow-up; authors call for longer-term and clinical research.\n\nhttps://www.calm.com/blog/how-to-stop-doomscrolling | How to stop doomscrolling: 10 ways to break the habit | Calm | n.d. | Top-ranking competitor (SERP reference only, don't cite as evidence). Defines doomscrolling as \"continuously consuming media, mostly with a negative spin.\" No research citations.\n\n## SAFETY\n\n- **Breathing resets:** stop and breathe normally if you feel dizzy, lightheaded, tingly or short of breath. Keep the 4-in, 6-out reset gentle and unforced. Don't over-breathe. One to three physiological sighs is plenty mid-scroll; repeated sighing or deep breathing can cause lightheadedness.\n- **Breath holds and fast breathing:** don't recommend breath holds (4-7-8, box) or cyclic hyperventilation as the mid-scroll default. In Balban 2023, people with heart disease, seizure history, pregnancy, psychosis and some other conditions were excluded. These styles aren't for everyone, including people with heart or lung conditions, a history of fainting or panic, or who are pregnant. The longer-exhale reset needs no holds.\n- **Claims:** breathing can help you feel calmer and may reduce stress. It doesn't treat anxiety, depression or insomnia. Doomscrolling research is correlational: say \"associated with,\" not \"causes.\"\n- **When to get help:** if news-checking is constantly feeding worry, disrupting sleep, work or relationships, or you feel persistent distress, talk to a doctor or mental health professional. If someone may be in crisis, point to local emergency services or 988 (US Suicide & Crisis Lifeline).\n- **Framing:** McLaughlin's coverage uses \"news addiction.\" Report the finding without adopting the label. Avoid presenting a one-week full break as necessary; present it as one option alongside targeted, platform-specific breaks.\n\n**Gap for the writer:** none of my searches turned up a primary source for a 4-in, 6-out (about six breaths per minute) slow-breathing pattern or for HRV and vagus-nerve effects. Don't put numbers on those claims. Use the internal 4-6 guide and the calm 4-6 tool for the technique, or have a later research pass add a slow-breathing review.\n\nSources:\n- [Calm blog](https://www.calm.com/blog/how-to-stop-doomscrolling) · [blog.calm.com](https://blog.calm.com/blog/how-to-stop-doomscrolling) · [YNHHS](https://www.ynhhs.org/articles/how-to-stop-doomscrolling) · [PositivePsychology.com](https://positivepsychology.com/how-to-stop-doomscrolling/) · [TechCrunch](https://techcrunch.com/2025/03/09/how-to-stop-doomscrolling) · [KQED](https://www.kqed.org/arts/13886630/how-to-stop-doomscrolling-and-start-using-the-internet-mindfully) · [WCCB](https://www.wccbcharlotte.com/?p=4297817) · [Uni Siegen](https://blogs.uni-siegen.de/fit-in-siegen/?p=1409) · [Take Back Your Time Substack](https://takebackyourtime.substack.com/p/how-to-stop-doomscrolling)\n- [leavemealone.com](https://leavemealone.com/blog/how-to-stop-doomscrolling/amp/) · [habitdoom.com](https://habitdoom.com/blog/how-to-stop-doomscrolling) · [astropad.com](https://astropad.com/blog/how-to-stop-doomscrolling-6-tips/) · [shiftyourphone.com](https://www.shiftyourphone.com/blog/how-to-stop-doomscrolling/) · [Emily Writes](https://emilywrites.substack.com/p/how-to-stop-doomscrolling-when-the)\n- [Balban et al. 2023, PMC](https://pmc.ncbi.nlm.nih.gov/articles/9873947/) · [Stanford Huberman Lab listing](https://hubermanlab.stanford.edu/publications/brief-structured-respiration-practices-enhance-mood-and-reduce-physiological-arousal?.com)\n- [Grüning et al. 2023, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409) · [one sec Max Planck study page](https://one-sec.app/max-planck-study)\n- [Robertson et al. 2023, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10202797/) · [Nieman Lab](https://www.niemanlab.org/2023/03/negative-words-in-news-headlines-generate-more-clicks-but-sad-words-are-more-effective-than-angry-or-scary-ones/)\n- [Satici et al. 2023, RePEc](https://ideas.repec.org/a/spr/ariqol/v18y2023i2d10.1007_s11482-022-10110-7.html) · [Italian validation, Springer](https://link.springer.com/article/10.1007/s12144-025-07976-9)\n- [1News on McLaughlin et al.](https://www.1news.co.nz/2022/08/24/news-addiction-linked-to-poor-mental-physical-health-study) · [Scimex](https://www.scimex.org/newsfeed/doomscrolling-linked-to-poor-mental-and-physical-health)\n- [Lambert et al. 2022, University of Bath](https://researchportal.bath.ac.uk/en/publications/taking-a-one-week-break-from-social-media-improves-well-being-dep/)"
+}

@@ -1,5 +1,194 @@
 # DeRot blog: full text
 
+# How to Stop Doomscrolling Without Quitting Your Phone
+
+URL: https://derot.org/blog/how-to-stop-doomscrolling/
+Updated: 2026-10-26
+
+Key takeaways:
+- Doomscrolling is continuing to scroll through negative or distressing content after it has started to make you feel worse. The signal is how you feel, not how long you've been scrolling.
+- Feeds pull you toward bad news: in a study of about 105,000 headline variations tested in randomized experiments, each extra negative word raised click-through by about 2.3%.
+- The most useful moment to act is mid-scroll. Notice a tight jaw or shallow breath, pause, breathe in for 4 and out for 6 for about 30 seconds, then choose on purpose.
+- Most research linking doomscrolling to lower well-being is correlational, and the main study of a pause app was coauthored by the app's creator. The evidence is promising but not settled.
+- You don't have to quit. In a 154-person trial, a one-week break from four platforms improved well-being, and targeted breaks are a gentler option worth trying.
+
+To stop doomscrolling, interrupt it instead of trying to forbid it. When you notice the wired feeling (tight jaw, raised shoulders, shallow breath), take your thumb off the screen and breathe slowly for about 30 seconds with a longer exhale (in for 4, out for 6). One to three physiological sighs also work. Then decide on purpose whether to keep scrolling.
+
+That's the whole method. The rest of this page covers why it tends to work better than the usual advice and what the research does and doesn't show. It also gives you scripts for the next time you come up from the news with your shoulders up by your ears.
+
+Most guides on how to stop doomscrolling tell you to set limits, delete apps and rely on willpower. Those can help some people. But they aim at minutes, and the real problem is a state: the point where the feed has wound you up and you keep going anyway. A ban asks you to never reach that point. A short reset meets you once you're already there, which is when you actually need help.
+
+## What is doomscrolling? The meaning in one sentence
+
+Doomscrolling is continuing to scroll through negative or distressing content after it has started to make you feel worse. What defines it isn't the content alone or the time spent. It's the gap between how you feel and what you keep doing.
+
+So the line between doomscrolling and ordinary scrolling is how you feel, not how many minutes have passed. Twenty minutes of friends' holiday photos and cooking videos usually isn't doomscrolling. Four minutes refreshing a disaster thread while your jaw tightens is.
+
+Researchers now measure it, so it's more than a buzzword. Psychologists have developed a [validated Doomscrolling Scale in 15-item and 4-item versions](https://ideas.repec.org/a/spr/ariqol/v18y2023i2d10.1007_s11482-022-10110-7.html), and a [2025 study of 300 Italian adults validated both versions](https://link.springer.com/article/10.1007/s12144-025-07976-9) in another language and culture.
+
+## Why is it so hard to stop doomscrolling?
+
+Three things make it hard. Feeds are full of content that grabs a nervous system on alert. Uncertainty makes you keep checking for the update that will finally settle things. And infinite feeds have no natural place to stop. None of this is a character flaw.
+
+### Negative content gets more clicks
+
+A large study of news headlines analyzed [about 105,000 headline variations tested in randomized experiments and roughly 5.7 million clicks. For an average-length headline, each additional negative word raised click-through by about 2.3%](https://pmc.ncbi.nlm.nih.gov/articles/PMC10202797/). Positive words lowered clicks, and [sad words were more effective than angry or scary ones](https://www.niemanlab.org/2023/03/negative-words-in-news-headlines-generate-more-clicks-but-sad-words-are-more-effective-than-angry-or-scary-ones/). The study looked at news headlines, not your social feed specifically, but the pattern is clear: whatever gets clicked tends to get made and shown again.
+
+### Uncertainty keeps you checking
+
+When a story is still unfolding, checking feels like it should help. Often it doesn't. Researchers who study problematic news consumption describe a [vicious cycle: people check more to relieve their distress, and the checking feeds the distress](https://www.1news.co.nz/2022/08/24/news-addiction-linked-to-poor-mental-physical-health-study). Each refresh promises resolution, and most deliver another fragment.
+
+### The feed has no bottom
+
+A newspaper ends. A broadcast ends. Infinite scroll and autoplay remove those built-in stopping points, so the decision to stop has to come from you, usually when you're least settled enough to make it. (To be fair to the feed, it has never once run out of things to worry about.)
+
+So the problem is the feed, not you. That's also why "just use more willpower" tends to fail. It asks the most wound-up version of you to make the calmest decision of the day.
+
+## Is doomscrolling bad for your mental health? What the evidence shows
+
+Doomscrolling is associated with higher distress and lower well-being. But the research so far is mostly correlational, so it can't show that doomscrolling causes those outcomes.
+
+- In a [study of 460 people, doomscrolling was linked to lower life satisfaction and mental well-being, and psychological distress explained the link](https://ideas.repec.org/a/spr/ariqol/v18y2023i2d10.1007_s11482-022-10110-7.html). The data came from a single point in time and was self-reported.
+- In a [survey of 1,100 US adults, 16.5% showed severely problematic news consumption, and 73.6% of that group reported mental ill-being, compared with 8% of the other participants](https://www.1news.co.nz/2022/08/24/news-addiction-linked-to-poor-mental-physical-health-study). Another [27.3% were moderately affected, 27.5% minimally, and 28.7% not at all](https://www.scimex.org/newsfeed/doomscrolling-linked-to-poor-mental-and-physical-health).
+- The Italian validation study notes that [research associates doomscrolling with lower quality of life and poorer well-being](https://link.springer.com/article/10.1007/s12144-025-07976-9).
+
+The honest reading is that these studies show a connection, not a direction. Stressful news may wear people down, and people who are already struggling may check more. Probably both are true. You don't need a causal study to notice that you feel worse after twenty minutes of bad news, though. That feeling is reason enough to do something about it.
+
+## How to stop doomscrolling in the moment: a 4-step mid-scroll reset
+
+The most useful time to act is mid-scroll, after the feed has wound you up. Not hours later, and not in a resolution you make on Sunday. These four steps take under a minute.
+
+### 1. Notice the cues
+
+Your body usually knows before you do. Common signs:
+
+- A tight or clenched jaw
+- Shoulders creeping up toward your ears
+- Shallow, high breathing, or realizing you've been holding your breath
+- Rereading the same bad news, or refreshing a page you just refreshed
+- A low hum of dread that wasn't there when you picked up the phone
+
+You don't need all of them. Any one of them is your cue.
+
+### 2. Pause mid-scroll
+
+Take your thumb off the screen and look up. Rest your eyes on something farther away, like a window, a wall or across the room. You're not closing the app or making a rule. You're just making a gap.
+
+### 3. Reset for about 30 seconds
+
+Pick one of these:
+
+- **Longer-exhale breathing (4-6):** breathe in through your nose for 4 counts, then out slowly through your nose or soft lips for 6 counts. Three breaths take about 30 seconds. Keep it gentle and unforced, as if you're letting the air go rather than pushing it out. Our [step-by-step guide to 4-6 breathing](/blog/4-6-breathing-how-to/) covers the details, and the [free calm 4-6 breathing timer](/tools/calm-breathing-4-6/) paces it for you.
+- **Physiological sigh:** take a full breath in through your nose, add a short second sip of air on top, then let it out in a long, slow exhale through your mouth. One to three sighs is plenty mid-scroll. The [physiological sigh timer](/tools/physiological-sigh/) walks you through it.
+
+You may notice your shoulders drop by the second or third exhale. If your phone often leaves you feeling wired, our piece on [nervous system overload from your phone](/blog/nervous-system-overload-from-phone/) explains what's happening in your body and how to come down.
+
+**A quick safety note:** stop and breathe normally if you feel dizzy, lightheaded, tingly or short of breath. Don't over-breathe, and don't keep sighing back to back, which can make you lightheaded. Breathing can help you feel calmer, but it isn't a treatment for anxiety or any other condition.
+
+### 4. Choose on purpose
+
+Now ask yourself one question: do I want more of this right now? Then pick one of three options:
+
+1. Keep going, knowing that you chose to.
+2. Switch to something that doesn't wind you up.
+3. Close the app.
+
+Any of the three is fine. What matters is that it's a choice and not momentum.
+
+### What the evidence says about pausing and breathing
+
+Two lines of research back this sequence, and both have real limits.
+
+**On pausing:** researchers studied the app one sec, which shows a pop-up before a chosen app opens. In the [field study, published in PNAS](https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409), they followed 280 iOS users for six weeks. Users dismissed 36% of their attempts to open a target app after the pop-up, and actual openings fell 57%. A [separate controlled experiment with 500 people](https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409) found that the most effective ingredient was simply having a real option to dismiss. A 10-second delay added nothing beyond that, and a generic message on its own didn't work. The caveats matter: the field study had no control group, users chose to take part, and one of the coauthors created the app. Still, the findings fit the idea that a pause plus a real choice does more than a timer or a warning.
+
+**On breathing:** a [remote randomized trial with 108 participants](https://pmc.ncbi.nlm.nih.gov/articles/9873947/) found that five minutes a day of cyclic sighing for 28 days improved positive mood more than mindfulness meditation did (1.89 vs 1.22) and lowered breathing rate more. All groups improved, though. The study was exploratory, practice was self-reported and couldn't be closely verified, and it found no significant change in heart rate variability. It also excluded people with heart disease, seizures, pregnancy or psychosis. And it tested a daily five-minute practice, not a 30-second reset. So treat it as encouraging, not as proof of what a single mid-scroll sigh does.
+
+That mid-scroll moment is the one we built DeRot for. It pauses your apps while you reset with a few calming breaths, so the wired feeling can fade before you decide what to do next. DeRot is coming soon to iOS. Until then, the free timers above guide the same breathing.
+
+## 60-second scripts for common doomscrolling moments
+
+Save these, or just remember the one that fits you best.
+
+### "Ten minutes into bad news, jaw tight"
+
+- **0 to 5 seconds:** thumb off the screen, eyes up.
+- **5 to 35 seconds:** three breaths, in for 4 and out for 6. Let your jaw unclench on each exhale.
+- **35 to 50 seconds:** ask yourself, "Do I need more of this right now?"
+- **50 to 60 seconds:** act on the answer. Close the app, switch to something else, or keep going on purpose.
+
+### "Refreshing for updates on a developing story"
+
+- **0 to 20 seconds:** one or two physiological sighs.
+- **20 to 40 seconds:** pick one later time to check in (say, 6 p.m.) and one source you trust.
+- **40 to 60 seconds:** close the tab. Most developing stories make more sense after a few hours than after a few refreshes.
+
+### "In bed, can't put it down"
+
+- **0 to 10 seconds:** turn the phone face down on the bed or nightstand.
+- **10 to 60 seconds:** five slow breaths, in for 4 and out for 6. If that feels easy, let the exhale stretch a little longer, without forcing it.
+- **After:** leave the phone face down. If this happens most nights, our guide to [doomscrolling at night](/blog/doomscrolling-at-night/) explains why late scrolling feels so wired and how to come down before sleep.
+
+## What is mindful scrolling?
+
+Mindful scrolling means using social apps while staying aware of how they're making you feel, and acting on what you notice. It doesn't mean scrolling less on principle. It means catching the shift from "this is interesting" to "this is making me tense" and treating that shift as your cue to pause. The four-step reset above is mindful scrolling with a concrete way out.
+
+## Common mistakes when trying to stop doomscrolling
+
+- **All-or-nothing rules.** "No news after 7 p.m., ever" sounds great until a big story breaks or you have a bad day, and then the whole rule collapses. A reset you can do every time beats a rule you keep for nine days.
+- **Deleting apps you'll reinstall within a week.** Deleting makes sense for an app you genuinely don't want. But if you need an app for friends, work or your community, it usually comes back, and you're back where you started.
+- **Saying "just one more" right after the reset.** The reset works by giving you a choice. If the choice keeps being "one more," make step 4 physical: set the phone down for one more breath before you decide.
+- **Using breath holds or fast breathing when you're already wired.** Techniques like 4-7-8, box breathing or rapid breathing have their place, but they aren't for everyone. That includes people who are pregnant, have heart or lung conditions, or have a history of fainting or panic. Mid-scroll, stick to gentle longer exhales.
+- **Treating it as a failure of willpower.** You're up against feeds designed to hold your attention. Blaming yourself just stacks a second layer of stress on top of the first.
+
+## How to take a break from social media without quitting
+
+You don't have to quit to get some of the benefits of a break. Targeted breaks, from one platform or at certain hours, are a reasonable middle ground. The strongest evidence so far, though, comes from a full week off.
+
+In a [randomized trial of 154 adults](https://researchportal.bath.ac.uk/en/publications/taking-a-one-week-break-from-social-media-improves-well-being-dep/), a one-week break from Facebook, Instagram, Twitter and TikTok improved well-being, depression and anxiety scores compared with usual use. Well-being rose 4.9 points, depression fell 2.2 and anxiety fell 1.7. Less time on the apps partly explained the improvements, and the drop in anxiety was linked specifically to less time on TikTok. That hints that the platform that winds you up most may matter more than your total time. But it wasn't a clinical sample, the follow-up lasted one week, and the study tested a full break. It doesn't prove that smaller breaks work the same way.
+
+Practical options that don't involve deleting anything:
+
+- **A news-free evening** once or twice a week.
+- **Mute one source** that reliably leaves you feeling worse, instead of overhauling your whole feed.
+- **Unfollow outrage accounts**, even ones you agree with.
+- **Keep one daily news window**, using one or two sources you trust.
+- **Pause one platform** for a week, starting with whichever app leaves you most wired.
+
+## When to talk to someone
+
+Talk to a doctor or mental health professional if checking the news keeps feeding your worry, if it's getting in the way of your sleep, work or relationships, or if the distress stays even when the phone is away. Breathing and pauses can help you feel calmer in the moment, but they don't replace real support.
+
+If you're in crisis or thinking about harming yourself, contact your local emergency services. In the US, you can call or text 988.
+
+## FAQ
+**What's the difference between doomscrolling and regular scrolling?**
+The difference is how you feel, not how long you scroll. Regular scrolling can be relaxing or useful, and you can put the phone down easily. Doomscrolling is continuing to scroll through negative or distressing content after it has already started making you feel worse: jaw tight, breath shallow, rereading the same bad news. Twenty pleasant minutes may be fine, while five tense minutes on a disaster thread is a good cue to pause.
+
+**Do app blockers or screen-time limits work for doomscrolling?**
+They help some people, especially those who want a firm boundary. A study of the friction app one sec found that a pop-up with a real option to dismiss cut app openings, and that a simple delay added little beyond that choice. One of the coauthors created the app, though. Limits target minutes, but doomscrolling is about how you feel. That's why many people do better pairing any limit with a short breathing reset at the moment the feed winds them up.
+
+**Why do I doomscroll at night?**
+At night you're tired, fewer things interrupt you, and the phone is often the last thing between you and a quiet room, so nothing gives you a natural place to stop. Stressful news can also leave you feeling wired right when you want to wind down. Turning the phone face down and taking a few slow breaths with a longer exhale can help you come back down before you try to sleep.
+
+**What is mindful scrolling?**
+Mindful scrolling is using social apps while paying attention to how they make you feel, and acting on what you notice. It doesn't mean scrolling less on principle. It means noticing when the feed shifts from interesting to tense, then pausing, taking a few slow breaths and choosing whether to keep going. Many people find this easier to stick with than strict limits, because it works with the apps they actually want to keep.
+
+**Does taking a week off social media actually help?**
+It can. In a 2022 randomized trial of 154 adults, a one-week break from Facebook, Instagram, Twitter and TikTok improved well-being, depression and anxiety scores compared with normal use. The drop in anxiety was linked to less time on TikTok. It was a short study that wasn't tested in clinical populations, so a full week off is one option, not a requirement. Taking a break from just the platform that winds you up most is a gentler place to start.
+
+## Sources
+- Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.): https://pmc.ncbi.nlm.nih.gov/articles/9873947/
+- Directing smartphone use through the self-nudge app one sec (Grüning, Riedel, Lorenz-Spreen): https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409
+- Negativity drives online news consumption (Robertson et al.): https://pmc.ncbi.nlm.nih.gov/articles/PMC10202797/
+- Negative words in news headlines generate more clicks, but sad words are more effective than angry or scary ones: https://www.niemanlab.org/2023/03/negative-words-in-news-headlines-generate-more-clicks-but-sad-words-are-more-effective-than-angry-or-scary-ones/
+- Doomscrolling Scale: its association with personality traits, psychological distress, social media use, and wellbeing (Satici et al.): https://ideas.repec.org/a/spr/ariqol/v18y2023i2d10.1007_s11482-022-10110-7.html
+- Italian validation of the Doomscrolling Scale: https://link.springer.com/article/10.1007/s12144-025-07976-9
+- News addiction linked to poor mental, physical health: study: https://www.1news.co.nz/2022/08/24/news-addiction-linked-to-poor-mental-physical-health-study
+- Doomscrolling linked to poor mental and physical health: https://www.scimex.org/newsfeed/doomscrolling-linked-to-poor-mental-and-physical-health
+- Taking a One-Week Break from Social Media Improves Well-Being, Depression, and Anxiety: A Randomized Controlled Trial (Lambert et al.): https://researchportal.bath.ac.uk/en/publications/taking-a-one-week-break-from-social-media-improves-well-being-dep/
+
+---
+
 # How Long Should You Do Box Breathing For? From 1 Minute to 5
 
 URL: https://derot.org/blog/how-long-to-do-box-breathing/
