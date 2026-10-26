@@ -43,14 +43,24 @@
   },
   "platforms": {
     "facebook": {
-      "status": "queued",
+      "status": "posted",
       "scheduled_at": "2026-10-26T20:36:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "id": "1073236222529004_122125402341186943",
+      "permalink": "https://www.facebook.com/122123860221186943/posts/122125402341186943",
+      "posted_at": "2026-10-26T20:45:19+00:00",
+      "error": null,
+      "retry_after": null
     },
     "threads": {
-      "status": "queued",
+      "status": "posted",
       "scheduled_at": "2026-10-26T20:36:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "id": "18118327141791087",
+      "permalink": "https://www.threads.com/@derotorg/post/De-K-lfAaza",
+      "posted_at": "2026-10-26T20:45:45+00:00",
+      "error": null,
+      "retry_after": null
     },
     "instagram": {
       "status": "queued",
