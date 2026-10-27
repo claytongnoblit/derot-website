@@ -1,5 +1,224 @@
 # DeRot blog: full text
 
+# Screen Time Apps That Aren't Blockers: Gentle Options, Compared
+
+URL: https://derot.org/blog/screen-time-app-not-blocker/
+Updated: 2026-10-27
+
+Key takeaways:
+- The gentlest iPhone options are one sec, ScreenZen, Inscreen, Jomo and Apple's Screen Time used as a soft reminder, though most also have optional strict modes.
+- A delay app adds a pause before an app opens and always lets you continue. A blocker stops access for a set time or on a schedule.
+- In a small 42-person Android study, 62% of people kept gentle interventions switched on, compared with 36% for a timed lockout.
+- Google's Pause Point is Android-only. On iPhone, one sec and ScreenZen offer the closest thing: a short pause with a breath in it when an app opens.
+- Most pauses step in when you open an app. For the wired feeling 20 minutes into a scroll, a minute of slow 4-6 breathing may help you feel calmer.
+
+The best screen time apps that aren't blockers are one sec (a short delay and breath before an app opens), ScreenZen (free, highly configurable delays and check-ins), Inscreen (CBT-style awareness alerts), Jomo (schedules with mindful breaks) and Apple's built-in Screen Time used as a soft reminder. Most also include optional strict modes, so set them up gently.
+
+Set up gently, each pick below is a screen time app that isn't a blocker: it nudges you, delays you or shows you your habits rather than shutting you out. Disclosure: DeRot makes an app in this category. We do not rank our own app, and no app paid to be included. Our app stays out of the table and the list, and it gets one short, labeled section near the end.
+
+## Gentle screen time apps compared at a glance
+
+All prices are in US dollars as shown on each app's US App Store listing, checked October 27, 2026. We include Opal only to show what a strict app looks like. It is not one of our picks.
+
+| App | Best for | How it steps in | What the pause asks of you | Free option | Price (as listed, USD, checked Oct 27, 2026) | Platforms |
+|---|---|---|---|---|---|---|
+| one sec | A breath before opening | Delay when an app opens; can step in again after a set time | Watch a breathing animation (via Shortcuts), then choose | Free for 1 app | Pro $6.99/month, $19.99/year or $99.99 lifetime | iOS 15+, macOS 14+ |
+| ScreenZen | Free, highly configurable friction | Delay when an app opens that can grow with each open, plus scrolling check-ins | Breathe during the wait; "Is this important?" | Fully free | Free; optional tips of $5, $10, $20 or $40 | iOS 16.4+, macOS 13+, visionOS |
+| Inscreen | Reflection over waiting | Scheduled awareness alerts | Ask yourself whether you're on your phone on purpose | Financial-aid free year; free tier not stated | $1.99/month, $14.99/year or $29.99 lifetime | iPhone only, iOS 17.6+ |
+| Jomo | Schedules with an escape hatch | Scheduled blocks, caps on opens, mindful breaks | Take a planned break inside your own rules | Not stated | $5.99/month, $29.99/year, $99.99 one-time (also lists $84.99 lifetime) | iOS 16+, macOS 13+ |
+| Apple Screen Time | No cost, no new app | Time allowances by category, schedules | A limit screen you can dismiss by default | Built in | Free | iPhone, iPad |
+| Opal (strict contrast) | Hard lockouts | Deep Focus sessions that can't be cancelled; gentler Breaks | Breaks: write an intention and set a timer | Not stated | Weekly $4.99 or $9.99, monthly $19.99, yearly $99.99; Pro $49.99 (billing period not stated) | iPhone only, iOS 18+ |
+
+## Delay app vs app blocker: what's the difference?
+
+A delay app (also called a friction app) adds a short pause before a distracting app opens, and you can always continue after it. An app blocker stops access for a set time or on a schedule, and it is designed so that getting in is hard.
+
+Most "mindful" apps sit somewhere between the two. They start out gentle and offer strict options if you want them. ScreenZen offers [optional strict blocks and lock settings](https://apps.apple.com/us/app/screenzen-screen-time-control/id1541027222), and its App Store subtitle even calls it an "App blocker." Jomo has a [Strict Mode that locks your rules for a few days by default](https://apps.apple.com/us/app/jomo-screen-time-blocker/id1609960918). Inscreen offers [optional focus blocks and strict limits](https://apps.apple.com/us/app/screen-time-control-inscreen/id6737131495).
+
+So in practice, "not a blocker" usually means "not a blocker unless you turn that part on." That matters, because the settings you start with tend to be the ones you keep.
+
+Why choose gentle at all? The best independent evidence we found is small but useful. University of Michigan researchers tested an Android tool called InteractOut with [42 people over five weeks. Gentle friction was about 16% more effective than a timed lockout, and 62% of people kept the gentle interventions switched on, compared with 36% for the lockout](https://www.futurity.org/?p=3224202). It was one small Android study, and it measured phone use rather than how anyone felt, so read it as a hint rather than a verdict.
+
+The hint fits a familiar pattern: a nudge you keep does more than a wall you switch off on day five.
+
+## How we compared
+
+We compared each app on five things:
+
+1. **When and how it steps in:** when you open the app, on a schedule, through limits, or partway through a session.
+2. **How strict it can get,** and whether strict mode is optional or the default.
+3. **What the pause asks of you:** a breath, a reflection, an intention, or just a wait. This is our "after-feel" criterion. A pause that helps you settle is different from one that only makes you wait, which can leave you more irritated than before. We judge this from listed features only, not from any claims about results.
+4. **Price as listed,** in US dollars with the billing period.
+5. **Platforms** and minimum iOS version.
+
+Every app fact comes from that app's US App Store listing, checked October 27, 2026. We didn't give star ratings or scores, and we didn't run our own usage trials. Prices and features change, so check the listing before you subscribe.
+
+## Screen time apps that aren't blockers, sorted by how they step in
+
+### Friction at launch: one sec
+
+**Best for:** people who want one deliberate breath between the urge to open an app and the feed itself.
+
+**How it works:** one sec's listing says it [delays access to distracting apps instead of blocking them completely](https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441). When you open a chosen app, it can show a breathing animation (it runs through Apple's Shortcuts, which the app now sets up for you), and then you can continue or back out. It can also step in again after you've been in the app for a set time.
+
+**What stands out:** it has more published research behind it than any other app here. In a [six-week field experiment with 280 people, one sec cut actual app openings by 57%, and about 36% of attempts to open an app ended with the person closing it](https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409). Being offered a way to back out seemed to do most of the work. The delay helped but added little on top, and a message asking people to think it over did not help. Two caveats: the authors include one sec's developer, and these figures come from the paper's abstract.
+
+**Drawbacks:** people get used to friction. A [longer study of 1,039 one sec users over about 13.4 weeks](https://mcml.ai/publications/hgr+24/) found that the frictions did reduce attempts to open apps, but users took breaks from them and quickly went back to heavy use. The free version also covers only one app.
+
+**Price:** free for one app. Pro is [$6.99/month, $19.99/year or $99.99 lifetime](https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441), and Family plans are listed too. iOS 15+ and macOS 14+.
+
+### Friction plus check-ins: ScreenZen
+
+**Best for:** anyone who wants a free, highly configurable delay with no subscription.
+
+**How it works:** ScreenZen adds a [delay before an app opens that can get longer with each open, and you can breathe during the wait](https://apps.apple.com/us/app/screenzen-screen-time-control/id1541027222). It can also interrupt your scrolling with check-ins and show "Is this important?" style messages.
+
+**What stands out:** the price. It's free, and the only in-app purchases are optional tips. The growing delay is a smart touch: your third open of the hour asks a little more of you than your first.
+
+**Drawbacks:** it isn't purely gentle. The listing includes [optional strict blocks and lock settings, and the subtitle calls it an "App blocker"](https://apps.apple.com/us/app/screenzen-screen-time-control/id1541027222). With that many settings, it's easy to end up with something stricter than you meant to set up.
+
+**Price:** free, with optional tips of [$5, $10, $20 or $40](https://apps.apple.com/us/app/screenzen-screen-time-control/id1541027222). iOS 16.4+, macOS 13+ and visionOS.
+
+### Awareness prompts: Inscreen
+
+**Best for:** people who'd rather be asked a good question than be made to wait.
+
+**How it works:** Inscreen says it [draws on cognitive behavioral therapy (CBT) instead of blocking access](https://apps.apple.com/us/app/screen-time-control-inscreen/id6737131495). It sends scheduled alerts that ask whether you're using your phone on purpose.
+
+**What stands out:** because the alerts are scheduled, they can reach you partway through a session, not only when you open an app. The question is about intent, not minutes. The listing also offers a financial-aid option for a free year.
+
+**Drawbacks:** it's iPhone only and needs iOS 17.6+. A question is easy to swipe away when you're deep in a feed. It also offers [optional focus blocks and strict limits](https://apps.apple.com/us/app/screen-time-control-inscreen/id6737131495) if you want firmer rules. "Draws on CBT" describes how the app is designed. It isn't therapy, and we didn't find published research on the app itself.
+
+**Price:** the Individual plan is [$1.99/month, $14.99/year or $29.99 lifetime](https://apps.apple.com/us/app/screen-time-control-inscreen/id6737131495), and Family plans are listed separately. The listing doesn't state a free tier.
+
+### Soft limits and breaks: Jomo
+
+**Best for:** people who like routines and want scheduled boundaries with a built-in way out.
+
+**How it works:** Jomo is built around schedules. You set [blocks for certain times, with "mindful breaks" to step out of them, plus Locks that cap how many times you can open an app](https://apps.apple.com/us/app/jomo-screen-time-blocker/id1609960918).
+
+**What stands out:** mindful breaks give you a planned exit, so a schedule feels less like a wall. It suits someone who wants structure, like no Instagram during work hours, without being shut out completely.
+
+**Drawbacks:** it leans stricter than the other gentle picks. [Strict Mode locks your rules for a few days by default](https://apps.apple.com/us/app/jomo-screen-time-blocker/id1609960918), so read that setting carefully. The listing also contradicts itself on price.
+
+**Price:** the listing shows [$5.99/month, $29.99/year and $99.99 one-time, and separately lists an $84.99 lifetime option](https://apps.apple.com/us/app/jomo-screen-time-blocker/id1609960918). We can't tell which lifetime price is current, so check in the app before you pay. iOS 16+ and macOS 13+.
+
+### Built in: Apple Screen Time used gently
+
+**Best for:** zero cost and no new app.
+
+**How it works:** Screen Time lets you [set time allowances by app category and a daily budget, and schedule downtime for weekday and weekend routines](https://support.apple.com/en-lamr/108806). Apple has renamed features over the years, so the menu names on your iOS version may differ.
+
+**What stands out:** it's already on your phone. According to one third-party guide, [you can ignore limits by default once you reach them, and Downtime warns you five minutes before it starts](https://www.itechguides.com/use-screen-time-to-cut-app-use-on-iphone-ios-27/). As a wall, that's a weakness. As a soft reminder, it's a decent nudge: a screen telling you that you've spent 30 minutes in an app is useful information, and you can act on it or not.
+
+**Drawbacks:** the limit screen asks nothing of your body or your attention, so you can dismiss it on autopilot. It has roughly the persuasive power of a cookie banner.
+
+**Price:** free, built into iPhone and iPad.
+
+To use it gently, set limits a little above your typical use rather than far below it, skip the Screen Time passcode, and treat the limit screen as a check-in rather than a verdict.
+
+### Strict contrast: Opal
+
+**Best for:** people who actually want a hard lockout.
+
+**How it works:** Opal's Deep Focus sessions are strict by design. The listing says Deep Focus [won't let you cancel or bypass at all](https://apps.apple.com/us/app/opal-screen-time-control/id1497465230). Its gentler feature, Breaks, asks you to write an intention and set a timer before you get in.
+
+**What stands out:** if you only use Breaks, it works as a reasonable tool for setting intentions. We include it so you can see where the line between gentle and strict sits.
+
+**Drawbacks:** the strict features are the core of the product. iPhone only, iOS 18+.
+
+**Price:** the listing shows [weekly plans at $4.99 and $9.99, $19.99 monthly, $99.99 yearly, and a Pro option at $49.99 with no billing period stated](https://apps.apple.com/us/app/opal-screen-time-control/id1497465230).
+
+## Is there an iPhone version of Google's Pause Point?
+
+No, not from Apple. Pause Point is an Android Digital Wellbeing feature that Google [announced at Google I/O on May 12, 2026](https://www.androidauthority.com/pause-point-for-android-3664886/), and the coverage we found says nothing about an iPhone version.
+
+When you open an app you've marked as distracting, Pause Point adds a 10-second pause that asks why you're there. From the pause, you can breathe, look at your photos, set a timer, or switch to another app. To turn the feature off, you have to restart your phone, so switching it off becomes a decision rather than a reflex.
+
+The closest iPhone options are third-party apps:
+
+- **one sec** shows a breathing animation when you open an app, set up through Shortcuts.
+- **ScreenZen** adds a delay with breathing during the wait, and the delay grows if you keep reopening the app.
+
+Neither one copies Pause Point exactly. Both give you the same core move: a short pause with a breath in it, which you can always get past.
+
+## Which should you pick?
+
+- If you want a breath before opening an app, pick **one sec**.
+- If you want something free and highly configurable, pick **ScreenZen**.
+- If you want reflection prompts more than pauses, pick **Inscreen**.
+- If you want schedules with a way out, pick **Jomo**, and leave Strict Mode off.
+- If you want zero cost and no new app, set **gentle Screen Time limits** a little above your usual use.
+- If you want a hard lockout you can't get around, pick a blocker like **Opal's Deep Focus**. Gentle apps aren't built for that, and that's fine.
+
+Whichever you pick, start with the gentlest setting. You can always tighten it later, and the research above suggests that a setting you keep switched on beats one you abandon. For more ways to cut back without giving up your phone, see [how to stop doomscrolling without quitting your phone](/blog/how-to-stop-doomscrolling/).
+
+## What about the moment you're already mid-scroll?
+
+Most of the pauses above step in when you open an app, before the feed has done anything to you. ScreenZen's scrolling check-ins and Inscreen's alerts can arrive mid-session, but they ask about time or intent. None of these apps is built around how you feel 20 minutes in, when your jaw is tight and you feel vaguely wired.
+
+That feeling is real, even though the research is still catching up. In University of Michigan experience-sampling research, which texted people five times a day for two weeks, [passive Facebook scrolling was linked to envy, and that envy predicted drops in how good people felt](https://prod.lsa.umich.edu/psych/news-events/all-news/faculty-news/the-age-of-envy--how-to-be-happy-when-everyone-else-s-life-looks0.html). The evidence is modest, mostly about Facebook and based on self-report, but it matches what many people notice: the feed can leave you feeling worse. The problem is the feed, not you. We go deeper on this in [nervous system overload from your phone](/blog/nervous-system-overload-from-phone/).
+
+Slow breathing is one of the simplest ways to come back down. A [systematic review of 15 studies found that breathing slower than 10 breaths per minute was associated with higher heart rate variability, more relaxation and less arousal](https://ricerca.unich.it/handle/11564/773399), although the evidence base is small. In a [108-person randomized trial, five minutes a day of cyclic sighing (a breathing pattern with long exhales) improved positive mood more than mindfulness meditation over 28 days](https://pmc.ncbi.nlm.nih.gov/articles/9873947/). But anxiety dropped in every group, with no difference between them, and about 10% of participants reported a negative experience. So the results are promising, not settled.
+
+### A 60-second mid-scroll script
+
+1. Notice the signs: a tight jaw, raised shoulders, a thumb moving faster than you're reading.
+2. Put the phone face down.
+3. Breathe in gently through your nose for a count of 4.
+4. Breathe out slowly for a count of 6.
+5. Repeat 5 to 6 times. That takes about a minute, at roughly six breaths per minute.
+6. Then decide whether to keep scrolling or close the app. Either is fine. The point is that you chose.
+
+If you'd like something to pace you, use our free [calm 4-6 breathing timer](/tools/calm-breathing-4-6/) or the [physiological sigh guide](/tools/physiological-sigh/). For the full technique, see [4-6 breathing in 60 seconds](/blog/4-6-breathing-how-to/).
+
+A quick safety note: stop if you feel dizzy, lightheaded or tingly, and go back to breathing normally. The 4-6 pattern has no breath hold. Patterns that do (box breathing, 4-7-8) and fast breathing aren't for everyone. Take care if you're pregnant, have a heart or lung condition, or have a history of fainting or panic, and shorten the counts rather than strain. Breathing can help you feel calmer, but it isn't a treatment. If anxiety, sleep problems or distress keep coming back, talk to a professional. If you're in crisis, call 988 in the US or your local emergency number.
+
+## Where DeRot fits (our app)
+
+This is the gap we built our app for. DeRot pauses your apps while you reset with a few calming breaths. It meets you mid-scroll, after the feed has wound you up, instead of standing in front of the app as a gate.
+
+The goal is the comedown: your shoulders drop, your head clears and the wired feeling fades. Spending less time in the feed often follows, but that's a side effect, not the main point. Each reset takes 30 seconds. Calm breathing (in 4, out 6) is the default, Box and 4-7-8 are also included, and Pro unlocks custom patterns. You can always get past the pause by breathing through it.
+
+It isn't for everyone. If you want a hard lockout you can't get around, pick a blocker. Our app is coming soon to iOS and isn't available to download yet. Join the launch newsletter to hear when it is. For a wider look at calming tools, see our comparison of [apps for nervous system regulation](/blog/best-apps-nervous-system-regulation/).
+
+## FAQ
+**Is there a screen time app that doesn't block apps completely?**
+Yes. one sec delays apps instead of blocking them, ScreenZen adds delays you can always get past, Inscreen sends awareness prompts, and Jomo pairs schedules with mindful breaks. You can also dismiss Apple's Screen Time limits by default. Most of these apps include optional strict modes, so whether an app works as a blocker depends on the settings you choose. Start with the gentlest setup and tighten it only if you need to.
+
+**Is ScreenZen really free?**
+Yes. ScreenZen's App Store listing shows it as free, and its only in-app purchases are optional tips of $5, $10, $20 or $40 (USD, checked October 27, 2026). The free app includes the delays, breathing during the wait and the scrolling check-ins. It also offers optional strict blocks and lock settings, so if you want it to stay gentle, leave those off when you set it up.
+
+**Does one sec actually work, or do people just get used to it?**
+Both happen. A six-week study of 280 people found that one sec cut app openings by 57%, though the study's authors include the app's developer. A longer study of 1,039 users found that people took breaks from the friction and quickly went back to heavy use. Friction seems to work best while it's switched on, so gentle settings you're willing to keep may matter more than strict ones you'll end up disabling.
+
+**Why do I keep ignoring Screen Time limits, and is there a gentler option?**
+By default, Screen Time's limit screen is easy to dismiss, and it only asks you for a tap, so dismissing it quickly becomes automatic. A gentler option that still gets through asks for something small: a breath (one sec, ScreenZen), a question about your intent (Inscreen), or a written intention (Opal's Breaks). Setting limits slightly above your usual use also helps the screen feel like information rather than a scolding.
+
+**Can an app help me feel less wired after scrolling, rather than just scroll less?**
+Most screen time apps measure success in opens and minutes, and the published studies of friction apps measured phone use, not mood. Research links slow breathing to more relaxation and lower arousal, so a pause built around a minute of longer exhales may help you feel calmer. You don't need an app for that: put the phone face down and breathe in for 4 counts and out for 6, five or six times.
+
+**Do breathing exercises in screen time apps do anything?**
+In apps like one sec and ScreenZen, the breathing works mainly as a delay: a few seconds that interrupt the automatic urge to open the app. We found no studies of their breathing animations specifically. A small body of research links breathing slower than 10 breaths per minute to more relaxation, but those studies tested longer practice than a single breath when an app opens. Treat the in-app breath as a speed bump, and add a minute of slow breathing when you want to actually calm down.
+
+## Sources
+- one sec: screen time + focus: https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441
+- ScreenZen- Screen Time Control: https://apps.apple.com/us/app/screenzen-screen-time-control/id1541027222
+- Screen Time Control: Inscreen: https://apps.apple.com/us/app/screen-time-control-inscreen/id6737131495
+- Jomo - Screen Time Blocker: https://apps.apple.com/us/app/jomo-screen-time-blocker/id1609960918
+- Opal: Screen Time Control: https://apps.apple.com/us/app/opal-screen-time-control/id1497465230
+- Android is getting a new way to combat your doomscrolling habit: https://www.androidauthority.com/pause-point-for-android-3664886/
+- Directing smartphone use through the self-nudge app one sec: https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409
+- A Longitudinal In-the-Wild Investigation of Design Frictions to Prevent Smartphone Overuse: https://mcml.ai/publications/hgr+24/
+- InteractOut study coverage (University of Michigan): https://www.futurity.org/?p=3224202
+- Brief structured respiration practices enhance mood and reduce physiological arousal: https://pmc.ncbi.nlm.nih.gov/articles/9873947/
+- How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing: https://ricerca.unich.it/handle/11564/773399
+- The Age of Envy: https://prod.lsa.umich.edu/psych/news-events/all-news/faculty-news/the-age-of-envy--how-to-be-happy-when-everyone-else-s-life-looks0.html
+- Use Screen Time on your iPhone and iPad: https://support.apple.com/en-lamr/108806
+- Use Screen Time to cut app use on iPhone (iOS 27): https://www.itechguides.com/use-screen-time-to-cut-app-use-on-iphone-ios-27/
+
+---
+
 # How to Stop Doomscrolling Without Quitting Your Phone
 
 URL: https://derot.org/blog/how-to-stop-doomscrolling/

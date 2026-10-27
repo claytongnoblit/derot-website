@@ -1,0 +1,320 @@
+{
+  "title_options": [
+    "Screen time apps that aren't blockers: gentle iPhone options, compared",
+    "Gentle screen time apps for iPhone: pauses, prompts and soft limits compared",
+    "Screen time app that isn't a blocker? iPhone options sorted by how they step in",
+    "Not a blocker: iPhone screen time apps that nudge, delay or reflect"
+  ],
+  "search_intent": "Commercial investigation. The searcher is an iPhone user who wants something that helps them use apps more intentionally without being locked out. They have probably tried Apple Screen Time (\"Ignore Limit\") or a strict blocker and turned it off. They want a short list of gentle options, how each one works, what it costs, and which fits them. Some also want to know whether Google's Pause Point exists on iPhone.",
+  "serp_summary": "Most results are brand-run 'best screen time apps' roundups. Canopy ranks its own app #1 with a soft disclosure and no testing method, and Screen Time Index discloses its own app (Lummi) without explaining its order. Competitor blogs (habitdoom) push their own approach, and the rest is AlternativeTo pages and App Store listings. The strongest result is Screen Time Index's 12-app table with friction/wall/replacement types and a 1-5 strictness score. The gaps: no result compares how an app leaves you feeling, 'mindful' apps get mixed up with blockers even though most of them have strict modes, research is missing or cited through the vendor without the conflict of interest, nobody covers the mid-scroll moment, and Pause Point coverage is Android-only with no iPhone answer.",
+  "gaps": [
+    "A 'how it intervenes' lens: at launch (friction), periodic awareness prompts, soft limits/breaks, built-in tools, mid-scroll regulation",
+    "A state-over-minutes 'after-feel' criterion (calming breath, reflection, or just a wall), based only on listed features",
+    "Accurate labeling: 'gentle by default, with strict options' for ScreenZen, Jomo, Inscreen; Opal only gentle via Breaks",
+    "Honest friction evidence with conflicts of interest and rebound effects noted",
+    "Independent evidence that gentle friction is kept on more often than lockouts (InteractOut, small Android study)",
+    "A direct answer on whether iPhone has a Pause Point equivalent",
+    "The mid-scroll moment: every listed pause steps in at launch, not after the feed has wound you up",
+    "Clear neutral disclosure; DeRot unranked and kept out of the table"
+  ],
+  "outline": [
+    {
+      "h2": "Quick answer: which screen time apps aren't blockers?",
+      "points": [
+        "40-60 word answer: one sec (delay with a breath at launch), ScreenZen (free delays and check-ins), Inscreen (CBT-style awareness alerts), Jomo (schedules with mindful breaks), and Apple Screen Time used gently. Most have optional strict modes.",
+        "Disclosure in the first 100 words: DeRot makes an app in this category. We do not rank our own app, and no app paid to be included.",
+        "Summary table, DeRot-free: App | Best for | How it steps in | After-feel (what the pause asks of you) | Free option | Price (as listed, USD, checked Oct 27, 2026) | Platforms",
+        "Opal as a labeled strict contrast row, or a footnote line"
+      ]
+    },
+    {
+      "h2": "Delay app vs app blocker: what's the difference?",
+      "points": [
+        "Definition: a delay or friction app adds a pause before an app opens and you can always continue; a blocker stops access for a set time or by schedule",
+        "Most 'mindful' apps sit on a spectrum: gentle by default, strict options available (ScreenZen lock settings, Jomo Strict Mode, Inscreen strict limits)",
+        "Why gentle tends to stick: InteractOut found 62% kept gentle interventions on vs 36% for a lockout, about 16% more effective (42 Android users, 5 weeks)",
+        "One-line take: a wall you switch off does less than a nudge you keep"
+      ]
+    },
+    {
+      "h2": "How we compared",
+      "points": [
+        "Criteria: when and how it steps in; how strict it can get (and whether strict is optional); what the pause asks of you (breath, reflection, intention, or just a wait), which is our after-feel criterion; price as listed; platforms",
+        "Facts from each app's US App Store listing, checked October 27, 2026; no ratings, no invented testing",
+        "We judge after-feel from listed features only, not outcome claims"
+      ]
+    },
+    {
+      "h2": "The gentle screen time apps, sorted by how they step in",
+      "points": [
+        "### Friction at launch: one sec (Best for, How it works, What stands out, Drawbacks, Price)",
+        "one sec: delays instead of blocking, breathing animation via Shortcuts, re-intervention after a set time; free for 1 app; Pro $6.99/mo, $19.99/yr, $99.99 lifetime",
+        "Evidence: 57% fewer openings over 6 weeks (280 people); authors include one sec's founder; 1,039-user follow-up shows rebound after breaks",
+        "### Friction plus check-ins: ScreenZen: free with tip-only purchases ($5-$40); growing delay, breathing during the wait, 'Interrupt your scrolling', 'Is this important?'; also has strict blocks and lock settings and calls itself an 'App blocker'",
+        "### Awareness prompts: Inscreen: CBT-based scheduled alerts asking if you're on purpose; optional focus blocks and strict limits; iPhone only, iOS 17.6+; $1.99/mo, $14.99/yr, $29.99 lifetime; financial-aid free year",
+        "### Soft limits and breaks: Jomo: schedules, 'mindful breaks', Locks capping opens, Strict Mode locks rules for a few days by default; $5.99/mo, $29.99/yr, $99.99 one-time (listing also shows $84.99 lifetime, so it contradicts itself)",
+        "### Built-in: Apple Screen Time used gently: app/category limits and schedules; limits can be ignored by default (third-party guide); use as a soft reminder, not a wall",
+        "### Strict contrast: Opal: Deep Focus can't be cancelled; only Breaks (intention plus timer) is gentle; iOS 18+, iPhone only"
+      ]
+    },
+    {
+      "h2": "Is there an iPhone version of Google's Pause Point?",
+      "points": [
+        "Direct answer: not from Apple. Pause Point is an Android Digital Wellbeing feature announced May 12, 2026",
+        "What it does: 10-second pause asking why you're there, with options to breathe, see photos, set a timer, or switch apps; you have to restart the phone to turn it off",
+        "Closest iPhone matches: one sec (breathing animation at launch via Shortcuts) and ScreenZen (delay plus breathing)",
+        "Note: coverage found says nothing about an iPhone version"
+      ]
+    },
+    {
+      "h2": "Which should you pick?",
+      "points": [
+        "If you want a breath before opening, pick one sec",
+        "If you want free and highly configurable, pick ScreenZen",
+        "If you want reflection prompts more than pauses, pick Inscreen",
+        "If you want schedules with an escape hatch, pick Jomo",
+        "If you want zero cost and no new app, set gentle Screen Time limits",
+        "If you want a hard lockout you can't bypass, pick a blocker like Opal's Deep Focus; a gentle app isn't for you"
+      ]
+    },
+    {
+      "h2": "What about the moment you're already mid-scroll?",
+      "points": [
+        "Every pause above steps in at launch; friction doesn't change how you feel 20 minutes in, jaw clenched and wired",
+        "Scrolling can leave people feeling worse: Kross's experience-sampling work linked passive scrolling to envy and drops in how good people feel (modest, mostly Facebook, self-report)",
+        "Slow breathing (<10 breaths/min) is associated with more relaxation and less arousal (small evidence base); 5 min/day cyclic sighing improved positive affect in a 108-person RCT, with caveats",
+        "60-second script: put the phone face down, inhale 4, exhale 6, repeat 5-6 times, then decide whether to keep going; link to calm 4-6 and physiological sigh tools",
+        "Safety: stop if dizzy, skip breath holds if pregnant, heart/lung conditions, fainting or panic history"
+      ]
+    },
+    {
+      "h2": "Where DeRot fits (our app)",
+      "points": [
+        "Labeled, short: DeRot pauses your apps while you reset with a few calming breaths, meeting you mid-scroll after the feed has wound you up, not as a gate before opening",
+        "Lead with feeling: shoulders drop, the wired feeling fades; less screen time is a side effect",
+        "Always escapable by breathing; never 'locks'",
+        "Not for you if you want a hard lockout; pick a blocker",
+        "Pre-launch: coming soon to iOS; point to the launch newsletter"
+      ]
+    }
+  ],
+  "questions": [
+    "Is there a screen time app that doesn't block apps completely?",
+    "Is there an iPhone version of Google's Pause Point?",
+    "Does one sec actually work, or do people just get used to it?",
+    "Why do I keep tapping 'Ignore Limit' in Screen Time, and is there a gentler option?",
+    "Is ScreenZen really free?",
+    "What is the difference between a delay app and an app blocker?",
+    "Can an app help me feel less wired after scrolling, rather than just scroll less?",
+    "Do breathing exercises in screen time apps do anything?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441",
+      "title": "one sec: screen time + focus",
+      "publisher": "Apple App Store (riedel.wtf apps S.L.)",
+      "year": "2026",
+      "key_findings": "Delays access instead of blocking; breathing animation via Shortcuts; re-intervention; free for 1 app; Pro $6.99/mo, $19.99/yr, $99.99 lifetime; Family $9.99/mo, $29.99/yr, $149 lifetime; iOS 15+, macOS 14+. Checked 2026-10-27."
+    },
+    {
+      "id": "S2",
+      "url": "https://apps.apple.com/us/app/screenzen-screen-time-control/id1541027222",
+      "title": "ScreenZen- Screen Time Control",
+      "publisher": "Apple App Store (ScreenZen LLC)",
+      "year": "2026",
+      "key_findings": "Free; tips $5-$40; growing delay, breathing during wait, interrupted scrolling, 'Is this important?' messages; optional strict blocks, lock settings; subtitle 'App blocker'; iOS 16.4+, macOS 13+, visionOS. Checked 2026-10-27."
+    },
+    {
+      "id": "S3",
+      "url": "https://apps.apple.com/us/app/screen-time-control-inscreen/id6737131495",
+      "title": "Screen Time Control: Inscreen",
+      "publisher": "Apple App Store",
+      "year": "2026",
+      "key_findings": "CBT-based alerts rather than blocking; optional focus blocks and strict limits; $1.99/mo, $14.99/yr, $29.99 lifetime; Family $3.99/mo, $29.99/yr, $59.99 lifetime; iPhone, iOS 17.6+; financial-aid free year. Checked 2026-10-27."
+    },
+    {
+      "id": "S4",
+      "url": "https://apps.apple.com/us/app/jomo-screen-time-blocker/id1609960918",
+      "title": "Jomo - Screen Time Blocker",
+      "publisher": "Apple App Store",
+      "year": "2026",
+      "key_findings": "Scheduled blocks with mindful breaks; Locks cap opens; Strict Mode locks rules for a few days by default; $5.99/mo, $29.99/yr, $99.99 one-time (also lists $84.99 lifetime); iOS 16+, macOS 13+. Checked 2026-10-27."
+    },
+    {
+      "id": "S5",
+      "url": "https://apps.apple.com/us/app/opal-screen-time-control/id1497465230",
+      "title": "Opal: Screen Time Control",
+      "publisher": "Apple App Store (Opal OS)",
+      "year": "2026",
+      "key_findings": "Deep Focus cannot be cancelled or bypassed; Breaks: intention plus timer; weekly $4.99/$9.99, monthly $19.99, yearly $99.99, Pro $49.99 (no billing period given); iPhone, iOS 18+. Checked 2026-10-27."
+    },
+    {
+      "id": "S6",
+      "url": "https://www.androidauthority.com/pause-point-for-android-3664886/",
+      "title": "Android is getting a new way to combat your doomscrolling habit",
+      "publisher": "Android Authority",
+      "year": "2026",
+      "key_findings": "Pause Point announced at Google I/O May 12, 2026; 10-second pause asking why; breathe, photos, timer, or switch apps; restart required to turn it off; no mention of iPhone."
+    },
+    {
+      "id": "S7",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409",
+      "title": "Directing smartphone use through the self-nudge app one sec",
+      "publisher": "PNAS (via PMC)",
+      "year": "2023",
+      "key_findings": "280 participants, 6 weeks; 36% of attempts closed; attempts down 37%, openings down 57%; dismiss option and delay worked, deliberation message did not. Authors tied to one sec. Figures from abstract only."
+    },
+    {
+      "id": "S8",
+      "url": "https://mcml.ai/publications/hgr+24/",
+      "title": "A Longitudinal In-the-Wild Investigation of Design Frictions to Prevent Smartphone Overuse",
+      "publisher": "CHI 2024 / MCML",
+      "year": "2024",
+      "key_findings": "1,039 one sec users over about 13.4 weeks plus 249 surveys; frictions reduced opening attempts; users took breaks from friction and quickly rebounded."
+    },
+    {
+      "id": "S9",
+      "url": "https://www.futurity.org/?p=3224202",
+      "title": "InteractOut study coverage (University of Michigan)",
+      "publisher": "Futurity",
+      "year": "2024",
+      "key_findings": "42 Android users, 5 weeks; gentle friction about 16% more effective than timed lockout; 62% kept gentle interventions on vs 36% for lockout."
+    },
+    {
+      "id": "S10",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/9873947/",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Cell Reports Medicine (Balban et al.)",
+      "year": "2023",
+      "key_findings": "108-person remote RCT, 5 min/day for 28 days; cyclic sighing improved positive affect more than mindfulness; state anxiety fell in all groups with no difference between them; no HRV change; exploratory; about 10% reported negative experiences."
+    },
+    {
+      "id": "S11",
+      "url": "https://ricerca.unich.it/handle/11564/773399",
+      "title": "How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing",
+      "publisher": "Frontiers in Human Neuroscience (Zaccaro et al.)",
+      "year": "2018",
+      "key_findings": "15 studies of healthy adults breathing under 10 breaths/min; higher HRV/RSA; more relaxation and less anxiety and arousal; small evidence base."
+    },
+    {
+      "id": "S12",
+      "url": "https://prod.lsa.umich.edu/psych/news-events/all-news/faculty-news/the-age-of-envy--how-to-be-happy-when-everyone-else-s-life-looks0.html",
+      "title": "The Age of Envy",
+      "publisher": "University of Michigan Psychology",
+      "year": "2019",
+      "key_findings": "Experience sampling (texted 5x/day for 2 weeks): passive Facebook scrolling linked to envy, which predicted drops in how good people felt. No sample size given."
+    },
+    {
+      "id": "S13",
+      "url": "https://support.apple.com/en-lamr/108806",
+      "title": "Use Screen Time on your iPhone and iPad",
+      "publisher": "Apple Support",
+      "year": "current",
+      "key_findings": "Time allowances by app category plus a daily budget; schedules for weekday/weekend routines. Feature names have changed, so describe it generally."
+    },
+    {
+      "id": "S14",
+      "url": "https://www.itechguides.com/use-screen-time-to-cut-app-use-on-iphone-ios-27/",
+      "title": "Use Screen Time to cut app use on iPhone (iOS 27)",
+      "publisher": "iTechGuides",
+      "year": "2026",
+      "key_findings": "Screen Time limits can be ignored by default after they're reached; Downtime reminds you 5 minutes before it starts. Secondary source."
+    },
+    {
+      "id": "S15",
+      "url": "https://screentimeindex.com/posts/screen-time-app-comparison",
+      "title": "Screen Time Apps Compared",
+      "publisher": "Screen Time Index",
+      "year": "2026",
+      "key_findings": "SERP benchmark: 12 apps, friction/wall/replacement types, 1-5 strictness; discloses its own app; no after-feel criterion."
+    },
+    {
+      "id": "S16",
+      "url": "https://canopy.us/blog/best-screen-time-apps/",
+      "title": "8 Best Screen Time Apps",
+      "publisher": "Canopy",
+      "year": "2026",
+      "key_findings": "SERP benchmark: ranks own app #1 with soft disclosure; no testing method described."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "one sec's App Store listing says it delays access to distracting apps instead of blocking them completely, and it can show a breathing animation via Shortcuts when an app opens.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "one sec is free for one app; Pro is $6.99/month, $19.99/year or $99.99 lifetime (USD, App Store, checked Oct 27, 2026).",
+      "source_id": "S1"
+    },
+    {
+      "fact": "ScreenZen is free; its only in-app purchases are optional tips of $5, $10, $20 or $40 (USD, checked Oct 27, 2026).",
+      "source_id": "S2"
+    },
+    {
+      "fact": "ScreenZen offers a delay that can lengthen with each open, breathing during the wait, interrupted scrolling check-ins, and also optional strict blocks and lock settings.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "Inscreen says it draws on CBT rather than blocking access, using scheduled alerts that ask whether you're using your phone on purpose; it is iPhone-only, iOS 17.6+.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "Inscreen Individual costs $1.99/month, $14.99/year or $29.99 lifetime (USD, checked Oct 27, 2026).",
+      "source_id": "S3"
+    },
+    {
+      "fact": "Jomo's Strict Mode locks your rules for a few days by default; prices listed are $5.99/month, $29.99/year and $99.99 one-time, with a conflicting $84.99 lifetime also shown.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "Opal's Deep Focus 'won't let you cancel or bypass at all'; its Breaks feature asks you to write an intention and set a timer.",
+      "source_id": "S5"
+    },
+    {
+      "fact": "Google announced Pause Point for Android on May 12, 2026: a 10-second pause asking why you're opening a distracting app, which takes a phone restart to turn off.",
+      "source_id": "S6"
+    },
+    {
+      "fact": "In a 280-person, 6-week field experiment, one sec cut actual app openings by 57%; authors include one sec's developer.",
+      "source_id": "S7"
+    },
+    {
+      "fact": "A study of 1,039 one sec users over about 13.4 weeks found users took breaks from the frictions and quickly rebounded to overuse.",
+      "source_id": "S8"
+    },
+    {
+      "fact": "In a 42-person Android study, 62% kept gentle interventions on vs 36% for a timed lockout, and gentle friction was about 16% more effective.",
+      "source_id": "S9"
+    },
+    {
+      "fact": "A 108-person RCT found 5 minutes a day of cyclic sighing improved positive affect more than mindfulness meditation over 28 days; anxiety fell in all groups.",
+      "source_id": "S10"
+    },
+    {
+      "fact": "A systematic review of 15 studies found breathing under 10 breaths per minute was associated with higher HRV and more relaxation and less arousal.",
+      "source_id": "S11"
+    },
+    {
+      "fact": "University of Michigan research linked passive Facebook scrolling to envy, which predicted drops in how good people felt.",
+      "source_id": "S12"
+    },
+    {
+      "fact": "Apple Screen Time limits can be ignored by default once reached, according to a third-party guide.",
+      "source_id": "S14"
+    }
+  ],
+  "safety_notes": [
+    "Stop any breathing pause if you feel dizzy, lightheaded or tingly, and return to natural breathing.",
+    "Breath holds (box, 4-7-8) and fast cycles are not for everyone: be careful with pregnancy, heart or lung conditions, or a history of fainting or panic. Shorten counts rather than strain.",
+    "Never claim breathing or any app treats anxiety, insomnia or ADHD; use 'may help you feel calmer' or 'is associated with'.",
+    "Note the one sec research conflict of interest and the rebound finding; note that InteractOut was small and Android-only; the outcomes measured were opens and screen time, not wellbeing.",
+    "Frame scrolling-and-mood evidence as modest and mostly Facebook and self-report: the feed 'can leave people feeling worse'.",
+    "Suggest a professional for persistent anxiety, sleep problems or distress; 988 in the US or local emergency services for crisis.",
+    "Describe competitors exactly as their listings do, including strict modes; prices in USD with billing period and the Oct 27, 2026 check date; flag Jomo's contradictory lifetime price.",
+    "Do not include Clearspace (unverified). Do not cite the Springer meta-analysis (not fetched)."
+  ],
+  "word_count_target": 2300,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: \"screen time app that isn't a blocker\"\n\nChecked October 27, 2026. I used all 10 searches. Four pages would not load: the PNAS one sec paper on PMC (it showed a captcha), the article text of Apple's Screen Time guide, the Springer meta-analysis (it redirected to a login), and the habi.app roundup (403). Where that matters, the entries below say so.\n\n## SERP ANALYSIS\n\n**What ranks and in what format.** The results are mostly brand-run \"best screen time apps\" roundups, App Store listings, and pages that list alternatives.\n\n- **Canopy** (\"8 Best Screen Time Apps… [Tested By Us]\", updated Aug 3, 2026) ranks its own app #1. The disclosure is soft: \"We put ourselves on this list.\" Its order is Canopy, Opal, Forest, ScreenZen, RescueTime, StayFocusd, Minimalist Phone, Jomo. The criteria are monitoring across devices, blocking, scheduling and platform coverage. It says the apps were \"tested\" but describes no method.\n- **Screen Time Index** (July 2, 2026) compares 12 apps on mechanic, platform, free tier, price, strictness (1–5) and best for. It discloses that Lummi is its own app, and it does not explain the order. It splits apps into \"friction, wall, replacement\" types, which comes closest to our \"how it intervenes\" lens. It does not analyse how the apps leave you feeling.\n- **habitdoom.com** (\"One Sec Alternative for iPhone\", \"Opal vs ScreenZen, Jomo and One Sec\") is a competitor's blog that ranks its own approach.\n- **habi.app** (\"7 Best Screen Time Apps in 2026\") and **mindfulsuite** / **breakfreefromtheinternet** are list formats. Their ties to listed apps were not verified (habi.app returned 403).\n- **AlternativeTo** pages and App Store listings fill the rest. Indie listings (Inscreen, Monkeyless, Blockd, MeBeforeApps) use the words \"mindful\" or \"pause\" but still block.\n\n**What they do well:** price tables and strictness scales.\n\n**What they miss or get wrong:**\n1. No one compares how an app leaves you feeling. Strictness and price are the only axes.\n2. They mix pauses with blockers. \"Mindful\" apps often have strict modes too: ScreenZen lets you lock settings, Jomo locks your rules for a few days by default, Inscreen offers optional strict daily limits.\n3. Ranking your own app #1 is common, and disclosure is weak.\n4. Nobody covers the mid-session moment. Every pause app steps in at launch, before you scroll.\n5. Research is either missing or cited only through the vendor (one sec's 57% figure), with no mention that the authors work for one sec.\n6. Pause Point coverage is all Android news. None of it answers whether iPhone has an equivalent.\n\n## GAPS AND ANGLE\n\n- **Intervention lens.** Group the apps by when they step in:\n  - At launch, with friction: one sec, ScreenZen delays.\n  - Periodic awareness prompts: Inscreen alerts, ScreenZen \"Is this important?\" messages.\n  - Soft limits or breaks: Jomo mindful breaks, Opal Breaks with an intention and timer, ScreenZen interrupted scrolling.\n  - Built-in tools: Apple Screen Time limits, which can be ignored by default (per a third-party guide).\n  - Mid-scroll regulation: the gap that DeRot fills.\n- **State-over-minutes criterion.** Add an \"after-feel\" column: does the app prompt a calming breath, a reflection, or just a wall? Base it only on the listed features, not on claims about outcomes.\n- **Evidence for gentle over strict.** The InteractOut study (CHI 2024) found that 62% of participants kept the gentle interventions on, against 36% for a hard lockout. It also found the gentle version about 16% more effective. This backs up the reader's \"blockers get switched off\" complaint, but note the study ran on Android with 42 people.\n- **Honest friction evidence.** one sec cut app openings by 57% over 6 weeks in a 280-person trial. The authors include one sec staff. A 1,039-user follow-up found that people take breaks from the friction and rebound quickly. That rebound is a useful nuance: friction at launch does nothing for how you feel once you are already in the feed.\n- **Pause Point.** It is Android-only (Google I/O, May 12, 2026). It gives a 10-second pause with breathing, photos, a timer or other apps to open instead, and you have to restart the phone to turn it off. None of the coverage we found mentions iPhone. The closest iPhone matches are one sec (breathing animation before the app opens, triggered by Shortcuts) and ScreenZen (delay plus breathing).\n- **Which apps to include (all verified on the App Store):** one sec, ScreenZen, Inscreen, Jomo, Opal (as the strict option for contrast, or exclude it), plus Apple Screen Time. Clearspace: no official page or listing was found, so leave it out or mark it unverified.\n- **Facts to watch:**\n  - Jomo's listing has a \"Locks\" feature and Strict Mode. ScreenZen has blocking, \"Lock settings\", and calls itself an \"App blocker\".\n  - Describe each app accurately as \"gentle by default, with strict options.\" Don't call any of them \"non-blocking\" unless that is true.\n  - For Opal, only the Breaks feature (write an intention, set a timer) is gentle. Deep Focus \"won't let you cancel or bypass at all.\"\n\n## QUESTIONS (people also ask, from forums and listings)\n\n1. Is there a screen time app that doesn't block apps completely?\n2. Is there an iPhone version of Google's Pause Point?\n3. Does one sec actually work, or do people just get used to it?\n4. Why do I keep tapping \"Ignore Limit\" in Screen Time, and is there a gentler option?\n5. Is ScreenZen really free? (Yes: in-app purchases are optional tips only.)\n6. What is the difference between a delay app and an app blocker?\n7. Can an app help me feel less wired after scrolling, rather than just scroll less?\n8. Do breathing exercises in screen time apps do anything?\n\n## SOURCES\n\nApp facts are from the US App Store, checked 2026-10-27.\n\n- https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441 | one sec: screen time + focus | App Store (riedel.wtf apps S.L.) | checked 2026-10-27 | \"one sec DELAYS access to distracting apps instead of blocking apps completely.\" Triggers a breathing animation through Shortcuts automation when an app opens. Re-Intervention example: after 5 minutes you are sent back to do another intervention. Free for 1 app, free Safari extension. Pro prices: $6.99/month, $19.99/year, $99.99 lifetime; Family $9.99/month, $29.99/year, $149.00 lifetime (USD). iOS 15+, iPadOS 15+, macOS 14+. Can log mindful minutes to Apple Health.\n- https://apps.apple.com/us/app/screenzen-screen-time-control/id1541027222 | ScreenZen- Screen Time Control | App Store (ScreenZen LLC) | checked 2026-10-27 | Free. In-app purchases are tips only: $5, $10, $20, $40 (USD). Features: a delay before opening that can lengthen with each open; \"Interrupt your scrolling\" with short check-ins; \"Breathing and other activities\" during the wait; per-app daily goals; optional strict blocks; lock settings with an accountability partner; \"Is this important?\" messages; streaks. Version 4.0.0 adds Scroll zone (Halo) and Minimal app versions. iOS 16.4+, iPadOS, macOS 13+, visionOS. Its listing subtitle calls it an \"App blocker\".\n- https://apps.apple.com/us/app/screen-time-control-inscreen/id6737131495 | Screen Time Control: Inscreen | App Store | checked 2026-10-27 | \"Unlike other screen time apps that completely block access, Inscreen draws on Cognitive Behavioural Therapy (CBT)\". Scheduled alerts ask whether you are using the phone on purpose. Optional focus sessions block apps; optional strict daily limits. Free plan with a skippable paywall. Individual: $1.99/month, $14.99/year, $29.99 lifetime; Family: $3.99/month, $29.99/year, $59.99 lifetime (USD). iPhone only, iOS 17.6+. Offers a financial-aid free year.\n- https://apps.apple.com/us/app/jomo-screen-time-blocker/id1609960918 | Jomo - Screen Time Blocker | App Store | checked 2026-10-27 | Blocks apps, sites and categories on a schedule. \"You can always take mindful breaks if you need to.\" Locks cap daily opens, with an optional exercise to unlock. Strict Mode locks your rules \"for a few days\" by default. Prices: $5.99/month; $29.99/year (shown as $2.49/month) with a 3-day trial; $99.99 one-time. The in-app purchase list also shows $84.99 lifetime, so the listing contradicts itself; flag this. iOS 16+, iPadOS, macOS 13+, visionOS.\n- https://apps.apple.com/us/app/opal-screen-time-control/id1497465230 | Opal: Screen Time Control | App Store (Opal OS) | checked 2026-10-27 | Scheduled blocking, App Limits, Focus Difficulty levels. \"Deep Focus won't let you cancel or bypass at all.\" Breaks: \"Choose the app you want to use, write your intention, and set a timer.\" Prices: weekly $4.99 or $9.99, monthly $19.99, yearly $99.99, Pro $49.99 (no period given) (USD). iPhone only, iOS 18+. Use it as the strict-blocker contrast.\n- https://www.androidauthority.com/pause-point-for-android-3664886/ | Android is getting a new way to combat your doomscrolling habit | Android Authority | 2026 | Pause Point was announced at Google I/O on May 12, 2026, as an Android Digital Wellbeing feature. You label apps as distracting, and opening one shows a 10-second pause that asks why you are there. During the pause you can breathe, see photos, set a timer, or switch to another app. You must restart the phone to turn it off. The article says nothing about iPhone.\n- https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409 | Directing smartphone use through the self-nudge app one sec | PNAS (Grüning, Riedel, Lorenz-Spreen) | 2023 | The page was blocked by a captcha; these figures come from the abstract text in search snippets. Field experiment, 280 participants, 6 weeks. In 36% of attempts, people closed the target app after one sec stepped in. Attempts fell 37% from week 1 to week 6, and actual openings fell 57%. Participants reported more satisfaction. The dismiss option had the biggest effect; the time delay also helped; the deliberation message was not effective. Conflict of interest: Riedel built one sec, and one sec's research page lists Grüning as its lead scientist.\n- https://mcml.ai/publications/hgr+24/ | A Longitudinal In-the-Wild Investigation of Design Frictions to Prevent Smartphone Overuse | CHI 2024 (Haliburton, Grüning, Riedel, Schmidt, Terzimehić) | 2024 | 1,039 one sec users over an average of 13.4 weeks, plus surveys from 249. The frictions reduced attempts to open apps and made use more deliberate. Users took periodic breaks from the interventions and quickly rebounded to overuse when they came back.\n- https://www.futurity.org/?p=3224202 | (University of Michigan InteractOut study) | Futurity, reporting a CHI 2024 paper (DOI 10.1145/3613904.3642317) | 2024 | 42 Android users over 5 weeks. Gentle friction (delayed taps, slower scrolling) was about 16% more effective than a hard \"Timed Lockout\" at cutting screen time and app opens. 62% kept the gentle interventions on for the day, against 36% for the lockout.\n- https://pmc.ncbi.nlm.nih.gov/articles/9873947/ | Brief structured respiration practices enhance mood and reduce physiological arousal | Cell Reports Medicine (Balban et al.) | 2023 | Remote RCT, 108 people randomized, 5 minutes a day for 28 days. Breathwork raised positive affect more than mindfulness. Cyclic sighing (two inhales, then a long exhale) was the only single technique significantly better than mindfulness (p<0.05), and it also lowered respiratory rate more. Positive affect for cyclic sighing changed by +1.89 ± 3.76 per day. State anxiety fell in every group, with no difference between groups. No significant change in heart rate variability or resting heart rate. Limitations: exploratory, registered retrospectively, 4 weeks only. About 10% of participants reported negative experiences. Huberman, the senior author, advises WHOOP.\n- https://ricerca.unich.it/handle/11564/773399 | How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing | Frontiers in Human Neuroscience (Zaccaro et al.) | 2018 | Screened 2,461 abstracts and included 15 studies of healthy adults breathing under 10 breaths per minute. Slow breathing raised heart rate variability and respiratory sinus arrhythmia. People reported more relaxation, comfort and alertness, and less anxiety, anger and arousal. Small evidence base.\n- https://link.springer.com/article/10.1007/s12671-023-02294-2 | Slow-paced breathing meta-analysis | Mindfulness (Shao, Man & Lee) | 2024 | Not fetched (login redirect). Per the search summary: 31 studies, with immediate reductions in systolic blood pressure and changes in time-domain HRV. Use it only with that hedge, or drop it.\n- https://prod.lsa.umich.edu/psych/news-events/all-news/faculty-news/the-age-of-envy--how-to-be-happy-when-everyone-else-s-life-looks0.html | The Age of Envy | University of Michigan Psychology (Kross) | 2019 | Participants were texted five times a day for two weeks about passive Facebook use and mood. Kross is quoted: \"The more you're on there scrolling away, the more that elicits feelings of envy, which in turn predicts drops in how good you feel.\" The page gives no sample size.\n- https://support.apple.com/en-lamr/108806 | Use Screen Time on your iPhone and iPad | Apple Support | current | The text that loaded covers only Time Allowances (limits by app category plus a daily budget) and Screen Time Schedules (weekday and weekend routines, pausing the device). Apple has renamed some features in recent iOS versions, so describe Screen Time in general terms.\n- https://www.itechguides.com/use-screen-time-to-cut-app-use-on-iphone-ios-27/ | Use Screen Time to cut app use on iPhone (iOS 27) | iTechGuides | Oct 12, 2026 | Third-party, use with care. It says \"Screen Time limits can be ignored after they are reached by default,\" and that Downtime gives a reminder 5 minutes before it starts. Treat this as secondary support only.\n- https://screentimeindex.com/posts/screen-time-app-comparison | Screen Time Apps Compared | Screen Time Index | July 2, 2026 | SERP example: 12 apps with friction, wall and replacement types and a 1–5 strictness score. It discloses Lummi as its own app. No criterion for how an app leaves you feeling.\n- https://canopy.us/blog/best-screen-time-apps/ | 8 Best Screen Time Apps | Canopy | updated Aug 3, 2026 | SERP example: ranks its own app #1 with a soft disclosure; no testing method described.\n\n## SAFETY\n\n- Breathing in pause apps: stop if you feel dizzy, lightheaded or tingly. Go back to easy, natural breathing.\n- Breath holds (box breathing, 4-7-8) and fast or deep cycles are not for everyone. Be cautious with pregnancy, heart or lung conditions, or a history of fainting or panic. Balban et al. excluded people with heart disease, glaucoma, seizures and pregnancy, and about 10% of participants reported negative experiences. Shorten the counts if you have to strain.\n- Do not say breathing or any app treats anxiety, insomnia or ADHD. Use \"may help you feel calmer\" or \"is associated with.\" The evidence covers short-term mood and arousal in healthy adults, with small samples.\n- Overclaiming about the friction research:\n  - The one sec results come from researchers tied to one sec, and users rebound after breaks.\n  - The InteractOut study was small and ran on Android.\n  - Results are about app opens and screen time, not wellbeing.\n- The scrolling-and-mood evidence is modest, often self-reported, and mostly about Facebook. Frame it as \"can leave people feeling worse,\" and don't sound alarmed.\n- If someone has persistent anxiety, sleep problems or distress, suggest a professional. If they may be in crisis, point to local emergency services or 988 in the US.\n- Competitor accuracy: several \"gentle\" apps also have strict, rule-locking modes. Describe them exactly as their listings do. Prices carry USD, billing period and the date checked, 2026-10-27."
+}

@@ -2219,7 +2219,9 @@
       "content_type": "list",
       "angle": "List of gentle screen time apps that nudge rather than lock.",
       "seasonality": [],
-      "status": "queued"
+      "status": "published",
+      "post": "screen-time-app-not-blocker",
+      "published": "2026-10-27"
     },
     {
       "keyword": "app blocker vs breathing app",
@@ -2255,8 +2257,9 @@
       "content_type": "comparison",
       "angle": "Pause Point is Android-only; how iPhone users can get a breath pause today.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Android 17 Pause Point coverage; one sec targets this term."
+      "status": "covered",
+      "notes": "Android 17 Pause Point coverage; one sec targets this term.",
+      "covered_by": "screen-time-app-not-blocker"
     },
     {
       "keyword": "app that makes you breathe before opening instagram",
@@ -2280,8 +2283,9 @@
       "content_type": "list",
       "angle": "Roundup of mindful scrolling tools incl. browser extensions and DeRot.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Chrome extension 'Mindful Scroll' competes."
+      "status": "covered",
+      "notes": "Chrome extension 'Mindful Scroll' competes.",
+      "covered_by": "screen-time-app-not-blocker"
     },
     {
       "keyword": "best app to stop doomscrolling",
