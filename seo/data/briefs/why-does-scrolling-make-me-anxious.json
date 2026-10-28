@@ -1,0 +1,275 @@
+{
+  "title_options": [
+    "Why does scrolling make me anxious? What the feed does to your body",
+    "Why scrolling makes you anxious (and a 60-second reset to use mid-scroll)",
+    "Scroll anxiety, explained from the body up: jaw, shoulders, breath"
+  ],
+  "search_intent": "Informational with a practical follow-through. The searcher feels wired, tense or uneasy after scrolling, often when nothing bad happened, and wants to know why. They also want something they can do right now. Most are not looking for an addiction diagnosis or a quit plan.",
+  "serp_summary": "The results are thin and scattered, and nobody clearly owns the query. They're a mix of Substack essays (jonasellison, aisc, rightfootforward, theanxiousmorning), clinic and therapy blogs (pthealth, ReachLink, choosingtherapy), news listicles (Gulf News, Yahoo) and wellness brands on related queries (Calm, Charlie Health, Denova, jomo). Most follow the same pattern: 5-7 reasons (negativity bias, comparison, FOMO, a 'dopamine' loop, sleep), then tips about limits or what to do before opening the app. Almost none cite primary research with numbers, and they overclaim about dopamine. None describe the physical sensations or posture and breathing. None separate the content from the minutes, or passive from active use. None are honest that the evidence is correlational. None offer a reset to use mid-scroll with exact counts.",
+  "gaps": [
+    "Body first: name the felt state (tight jaw, raised shoulders, short high breaths, sometimes a racing heart, vague dread) and its plausible contributors.",
+    "Content and how you use it, not just minutes: Buchanan 2021 (doom vs kindness scrolling) and Verduyn 2015/2021 (passive vs active use).",
+    "Honest evidence box: mostly correlational, effects small and short-term (d about 0.4), possibly two-way. In Hunt 2018, anxiety fell in both groups.",
+    "Mid-scroll reset with exact scripts: 5 breaths of inhale 4, exhale 6 (about 50 seconds), or 1-3 physiological sighs. Describe what it should feel like and the common mistakes.",
+    "Posture and breathing: small studies of slumped smartphone use and lung function, presented with caveats.",
+    "Heart racing while scrolling: describe it as a common feeling of being keyed up. No measured data exists, so give no numbers.",
+    "Unpredictable rewards, unresolved loops and context switching should be framed as plausible explanations, not proven causes."
+  ],
+  "outline": [
+    {
+      "h2": "Why does scrolling make me anxious? The quick answer",
+      "points": [
+        "Answer in 40-60 words: the feed mixes threat-flavored content, comparison, rapid switching and endless loops, which can keep your body braced. Hunched posture and shallow breathing add to it. The research shows associations and short-term mood dips, not proof that scrolling causes anxiety.",
+        "State over quantity: what you see and how you scroll matters more than minutes alone.",
+        "Preview the reset to use mid-scroll."
+      ]
+    },
+    {
+      "h2": "What scroll anxiety feels like in your body",
+      "points": [
+        "Tight jaw, raised shoulders, short high breaths, a racing heart or tight chest, a wired-but-tired feeling.",
+        "Coming up after 20 minutes feeling worse even though nothing happened.",
+        "Racing heart: describe it as a common sensation of being keyed up. No study measures it during ordinary scrolling, so give no numbers."
+      ]
+    },
+    {
+      "h2": "Why the feed winds you up: six likely contributors",
+      "points": [
+        "### Threat-heavy news: Buchanan 2021, 2-4 minutes of COVID news lowered positive affect (d about 0.4).",
+        "### Upward comparison during passive scrolling: Verduyn 2015/2021, with envy as the pathway.",
+        "### Rapid switching between unrelated content: Becker 2013 association only.",
+        "### Unpredictable 'maybe the next post' rewards keep you braced (plausible, no number).",
+        "### Stories that never resolve (plausible).",
+        "### Slumped posture and shallow breathing: small studies (PMC4905897, Jung 2016).",
+        "Link to the nervous system overload article."
+      ]
+    },
+    {
+      "h2": "Is it the time you spend or what you're looking at?",
+      "points": [
+        "Kindness scrolling did not lower mood in Buchanan 2021, while doom scrolling did.",
+        "Passive use is linked to declining well-being over time; active use was not (Verduyn 2021).",
+        "Hunt 2018: limiting to about 30 minutes a day reduced depression and loneliness. Anxiety fell in both groups, and nobody was asked to quit.",
+        "Link to the doomscrolling how-to."
+      ]
+    },
+    {
+      "h2": "What the research does and doesn't show",
+      "points": [
+        "Mostly correlational (Becker 2013, Shabahang 2024, Sharma 2022 via WEF).",
+        "Experimental effects are short-term and modest.",
+        "Possibly reciprocal: anxious people may scroll more (Verduyn 2021).",
+        "Samples are mostly students and young adults."
+      ]
+    },
+    {
+      "h2": "A 60-second reset to use mid-scroll",
+      "points": [
+        "Why mid-scroll: that's the moment you notice the wired feeling. Say this is not a gate before opening the app.",
+        "Numbered script A: 5 breaths, inhale 4 through the nose, exhale 6 slowly, about 6 breaths a minute (under the 10/min slow-breathing threshold, Zaccaro 2018), about 50 seconds.",
+        "Numbered script B: 1-3 physiological sighs (two inhales through the nose, one long exhale through the mouth). Balban 2023 tested 5 minutes a day, so using it in the moment goes beyond what was studied.",
+        "What it should feel like: shoulders drop, jaw unclenches, the exhale lengthens.",
+        "Common mistakes: oversized breaths, lifting the shoulders, rushing the exhale.",
+        "Sit up and let the shoulders drop first.",
+        "Link to the 4-6 breathing guide, the calm 4-6 tool and the physiological sigh tool. One light DeRot mention: pauses your scroll to bring you back down."
+      ]
+    },
+    {
+      "h2": "Why scrolling at night can feel worse",
+      "points": [
+        "Short section: bedtime scrolling, unresolved content and a body that's trying to wind down.",
+        "Link to the night article. Avoid unsupported numbers."
+      ]
+    },
+    {
+      "h2": "When it's more than the feed",
+      "points": [
+        "Signs: anxiety that lasts after you put the phone down, shows up most days, disrupts sleep or work, or comes with panic attacks.",
+        "Talk to a GP or mental health professional; CBT is commonly recommended.",
+        "Crisis: call or text 988 in the US, or contact local emergency services.",
+        "Breathing can help you feel calmer; it doesn't treat anxiety disorders."
+      ]
+    }
+  ],
+  "questions": [
+    "Why do I feel anxious after scrolling even when nothing bad happened?",
+    "Why does my heart race or my chest feel tight when I scroll?",
+    "Does doomscrolling cause anxiety, or do anxious people doomscroll more?",
+    "Why can't I stop scrolling even though it makes me feel bad?",
+    "Is it the amount of time or what I'm looking at?",
+    "Does scrolling at night make anxiety worse?",
+    "What can I do right now when scrolling makes me anxious?",
+    "Does looking down at my phone affect my breathing?",
+    "Should I quit social media to stop feeling anxious?",
+    "When should I see someone about anxiety?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8513826/",
+      "title": "Brief exposure to social media during the COVID-19 pandemic: Doom-scrolling has negative emotional consequences, but kindness-scrolling does not",
+      "publisher": "PLOS ONE (PMC)",
+      "year": "2021",
+      "key_findings": "Study 1 (N=299, about 2 min of Twitter): COVID news lowered positive affect (d=0.42). Study 2 (N=603, about 4 min of YouTube): positive affect fell (d=0.40) and optimism fell (d=0.28). Negative affect did not rise significantly. Kindness stories did not lower mood. Effects short-term only."
+    },
+    {
+      "id": "S2",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7801842",
+      "title": "The impact of social network sites on mental health: distinguishing active from passive use",
+      "publisher": "World Psychiatry",
+      "year": "2021",
+      "key_findings": "Passive use is linked to declining well-being over time, and active use is not. Upward comparison and envy drive the harm. The overall link is negative but small and possibly reciprocal."
+    },
+    {
+      "id": "S3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25706656/",
+      "title": "Passive Facebook usage undermines affective well-being: Experimental and longitudinal evidence",
+      "publisher": "Journal of Experimental Psychology: General",
+      "year": "2015",
+      "key_findings": "Lab experiment plus field study. Passive use lowered affective well-being over time through envy; active use did not."
+    },
+    {
+      "id": "S4",
+      "url": "https://news.umich.edu/passive-facebook-use-undermines-how-a-person-feels",
+      "title": "Passive Facebook use undermines how a person feels",
+      "publisher": "University of Michigan News",
+      "year": "2015",
+      "key_findings": "Field study texted about 80 undergraduates 5 times a day for 6 days."
+    },
+    {
+      "id": "S5",
+      "url": "https://www.sciencedaily.com/releases/2018/11/181108164316.htm",
+      "title": "No More FOMO: Limiting social media decreases loneliness and depression",
+      "publisher": "ScienceDaily / University of Pennsylvania",
+      "year": "2018",
+      "key_findings": "N=143 over 3 weeks, limited to about 30 min/day (10 min per platform). Depression and loneliness fell in the limited group. Anxiety and FOMO fell in both groups. Participants were not asked to quit."
+    },
+    {
+      "id": "S6",
+      "url": "https://news.flinders.edu.au/blog/2024/07/18/can-doomscrolling-trigger-an-existential-crisis/",
+      "title": "Can doomscrolling trigger an existential crisis?",
+      "publisher": "Flinders University",
+      "year": "2024",
+      "key_findings": "800 students (Iran and US). Doomscrolling tendency was associated with existential anxiety. Correlational."
+    },
+    {
+      "id": "S7",
+      "url": "https://bps.org.uk/research-digest/creeping-influence-doomscrolling",
+      "title": "The creeping influence of doomscrolling",
+      "publisher": "BPS Research Digest",
+      "year": "2024",
+      "key_findings": "Summary of the Shabahang et al. doomscrolling and existential anxiety findings."
+    },
+    {
+      "id": "S8",
+      "url": "https://www.weforum.org/stories/2022/01/doomscrolling-behavior-social-media/",
+      "title": "Doomscrolling: how can we manage the growing addiction to negative news?",
+      "publisher": "World Economic Forum",
+      "year": "2022",
+      "key_findings": "Secondary coverage of Sharma et al. Doomscrolling was more common in men and younger people and linked to FOMO. The direction of cause with anxiety is unclear."
+    },
+    {
+      "id": "S9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23126438/",
+      "title": "Media multitasking is associated with symptoms of depression and social anxiety",
+      "publisher": "Cyberpsychology, Behavior, and Social Networking",
+      "year": "2013",
+      "key_findings": "N=318. Media multitasking was associated with depression and social anxiety symptoms after controlling for total media use and personality. Correlational."
+    },
+    {
+      "id": "S10",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4905897/",
+      "title": "Effect of sitting posture on respiratory function while using a smartphone",
+      "publisher": "Journal of Physical Therapy Science",
+      "year": "2016",
+      "key_findings": "46 analyzed. One hour of seated smartphone gaming reduced FVC (3.2 to 3.0 L) and FEV1 (3.0 to 2.7 L) compared with controls. Small study, single session."
+    },
+    {
+      "id": "S11",
+      "url": "https://www.jstage.jst.go.jp/article/jpts/28/1/28_jpts-2015-817/_article",
+      "title": "Smartphone use duration, posture and respiratory function (Jung et al.)",
+      "publisher": "Journal of Physical Therapy Science",
+      "year": "2016",
+      "key_findings": "Craniovertebral angle, scapular index and peak expiratory flow differed by duration of smartphone use. Small, cross-sectional."
+    },
+    {
+      "id": "S12",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/9873947/",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Cell Reports Medicine",
+      "year": "2023",
+      "key_findings": "RCT, N=108, 5 min/day for 28 days. Cyclic sighing gave the largest rise in positive affect and a greater drop in respiratory rate than mindfulness. State anxiety fell in all groups equally. No change in HRV or resting heart rate. Exploratory."
+    },
+    {
+      "id": "S13",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6137615/",
+      "title": "How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing",
+      "publisher": "Frontiers in Human Neuroscience",
+      "year": "2018",
+      "key_findings": "Slow breathing is defined as under 10 breaths/min. 15 studies included. Slow breathing was linked to higher HRV, alpha EEG and better emotional control. The evidence base is small."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "In a Twitter experiment (N=299), about 2 minutes of COVID news lowered positive affect (d=0.42); kindness stories did not lower mood.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "In a YouTube experiment (N=603), about 4 minutes of COVID news lowered positive affect (d=0.40) and optimism (d=0.28); negative affect did not rise significantly.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Passive social media use is linked to declining well-being over time, while active use is not; the overall link is negative but small and possibly reciprocal.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "Passive Facebook use lowered affective well-being over time through increased envy.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "The 2015 field study texted about 80 undergraduates 5 times a day for 6 days.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "Limiting social media to about 30 minutes a day for 3 weeks (N=143) reduced depression and loneliness; anxiety and FOMO fell in both groups.",
+      "source_id": "S5"
+    },
+    {
+      "fact": "Among 800 students in Iran and the US, doomscrolling tendency was associated with higher existential anxiety (correlational).",
+      "source_id": "S6"
+    },
+    {
+      "fact": "The direction of cause between doomscrolling and anxiety is unclear.",
+      "source_id": "S8"
+    },
+    {
+      "fact": "In 318 adults, higher media multitasking was associated with depression and social anxiety symptoms, independent of total media use.",
+      "source_id": "S9"
+    },
+    {
+      "fact": "One hour of slumped seated smartphone use reduced FVC from 3.2 to 3.0 L and FEV1 from 3.0 to 2.7 L in a small randomized study.",
+      "source_id": "S10"
+    },
+    {
+      "fact": "Daily 5-minute cyclic sighing for 28 days produced the largest rise in positive affect among the techniques tested; state anxiety fell equally in all groups.",
+      "source_id": "S12"
+    },
+    {
+      "fact": "Slow breathing is defined as under 10 breaths per minute and is associated with higher HRV and better emotional control in healthy adults; the evidence base is small.",
+      "source_id": "S13"
+    }
+  ],
+  "safety_notes": [
+    "Keep breaths gentle, not oversized. Stop and breathe normally if you feel dizzy, lightheaded or tingly.",
+    "Physiological sighs: 1-3 in a row, not dozens. Don't use breath holds or fast breathing as the reset.",
+    "People with heart or lung conditions, pregnancy, a history of fainting, or panic that gets worse when they focus on breathing should go gently or check with a clinician (Balban 2023 excluded similar groups).",
+    "Breathing can help you feel calmer; never say it treats anxiety disorders. Don't claim sighs beat other methods for anxiety.",
+    "Present scrolling-anxiety evidence as mostly correlational, modest and possibly two-way.",
+    "If the anxiety lasts after you put the phone down, shows up most days, disrupts sleep or work, or comes with panic attacks: see a GP or mental health professional. If someone may be in crisis: call or text 988 in the US, or contact local emergency services (plain text unless the site inventory has a link).",
+    "Don't overstate the posture and lung research (small, short-term). Treat sitting up as a comfort suggestion.",
+    "Give no heart-rate numbers for scrolling; none were measured."
+  ],
+  "word_count_target": 2300,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: \"why does scrolling make me anxious\" (pillar)\n\n## SERP ANALYSIS\n\n**What ranks.** The top results for the primary keyword are thin and scattered. Nobody clearly owns the query.\n- **Personal essays on Substack:** [Anxious-scrolling through it all](https://jonasellison.substack.com/p/anxious-scrolling-through-it-all), [scrolling ux and avoidance](https://aisc.substack.com/p/scrolling-ux-and-avoidance), [ground control to major tom](https://rightfootforward.substack.com/p/ground-control-to-major-tom), [The Anxious Morning](https://theanxiousmorning.substack.com/p/128-look-up).\n- **Clinic and therapy blogs:** [pthealth.ca on doomscrolling](https://www.pthealth.ca/blog/doomsrolling-effects-mental-physical-health/), [ReachLink: why you keep doomscrolling](https://www.reachlink.com/advice/anxiety/why-you-keep-doomscrolling-even-when-it-hurts/), [choosingtherapy.com](https://www.choosingtherapy.com/?p=1556).\n- **News listicles:** [Gulf News \"5 unhealthy habits\"](https://gulfnews.com/amp/story/friday%2Fwellbeing%2Fis-your-phone-usage-a-sign-of-anxiety-5-unhealthy-habits-and-how-to-break-free-from-the-cycle-1.500042857), [Yahoo \"7 phone habits\"](https://sg.news.yahoo.com/7-phone-habits-could-secretly-104511293.html).\n- **Wellness brands on related queries:** [Calm blog: 5 signs of social media anxiety](https://www.calm.com/blog/social-media-anxiety), [Charlie Health](https://www.charliehealth.com/post/social-media-anxiety), [Denova](https://www.denova.com/is-social-media-making-you-feel-anxious/), [CK Birla Hospitals](https://ckbirlahospitals.com/cmri/blog/how-social-media-affects-mental-health), [jomo.so](https://jomo.so/blog/social-media-make-me-anxious).\n\n**Common format.** Most pages give 5 to 7 reasons and then a list of tips. The reasons are usually negativity bias, social comparison, FOMO, a \"dopamine\" reward loop, sleep disruption and a false sense of control. The tips are usually timers, muting accounts, no phone before bed or in the first hour after waking, set check-in times, and seeing a therapist or trying CBT.\n\n**What they do well.** The ReachLink and Substack pieces describe the felt loop well: you keep going because stopping feels risky, and the safety never comes. One Substack applies Lisa Feldman Barrett's work to argue that an anxious body reads the feed as more threatening. That body-first idea is worth building on, but we have no primary source for it, so it can't be a cited claim.\n\n**What they miss or get wrong:**\n- Almost none cite primary research, and the ones that do don't give numbers. They overclaim about \"dopamine,\" and some read like \"addiction\" content.\n- None describe the physical sensations in detail (jaw, shoulders, breath, heart), and none explain posture or breathing.\n- None separate the content (doom vs. kindness) from the time spent, even though there is experimental evidence for this (Buchanan 2021).\n- None separate passive from active use.\n- None are honest about the evidence being mostly correlational, small, and possibly two-way.\n- The tips are all about limits or doing something before you open the app. None give a technique to use mid-scroll with exact counts.\n- Several treat the reader as having a dependency problem, which is off-brand for us.\n\n## GAPS AND ANGLE\n\n1. **Body first.** Name the felt state (tight jaw, raised shoulders, short high breaths, sometimes a fast heartbeat, a vague dread) and explain plausible contributors:\n   - content heavy on threat\n   - upward comparison while scrolling passively\n   - rapid switching between unrelated content\n   - unpredictable \"maybe the next post\" rewards that keep you braced\n   - stories that never resolve\n   - slumped posture that can limit breathing\n2. **\"It's the content and the way you use it, not just the minutes.\"**\n   - Buchanan 2021: 2 to 4 minutes of COVID news lowered positive affect, but kindness stories did not.\n   - Verduyn 2015 and 2021: the harm comes from passive use, not active use.\n   - This supports DeRot's \"state over quantity\" view directly.\n3. **Honest evidence box.** Mostly correlational (Becker 2013, Shabahang 2024, Sharma 2022). The experimental effects are short-term and modest (d ≈ 0.4). Verduyn 2021 calls the link \"small and possibly reciprocal\": anxious people may scroll more, as well as scrolling making people anxious. In Hunt 2018, anxiety fell in *both* groups, so cutting back was not clearly the reason anxiety dropped.\n4. **A mid-scroll reset with exact scripts.**\n   - Five long-exhale breaths (inhale 4, exhale 6, about 6 breaths a minute, which is under the 10/min threshold Zaccaro uses for \"slow breathing\"). About 50 seconds.\n   - Or one to three physiological sighs (double inhale through the nose, long exhale through the mouth).\n   - Describe how it should feel: shoulders drop, jaw unclenches, the exhale lengthens. List common mistakes: forcing big breaths, lifting the shoulders, rushing the exhale.\n   - Be honest that Balban 2023 tested 5 minutes a day for 28 days, so using 1 to 3 sighs in the moment goes beyond what was studied.\n5. **\"Heart racing while scrolling\" (secondary keyword).** We found no study measuring heart rate during ordinary scrolling. Present a fast heartbeat as a common description of feeling keyed up, not as a measured effect. Don't invent numbers.\n6. **Claims without a primary source.** \"Unpredictable rewards,\" \"loops that never resolve\" and \"context switching causes anxiety\" have no causal source. Frame them as plausible explanations, without numbers. Becker 2013 can be cited only as an *association* between media multitasking and anxiety symptoms.\n7. **Internal links.** Planned targets are the doomscrolling how-to, the night/bedtime scrolling article, the nervous system overload article, the 4-6 breathing guide, and the calm 4-6 tool at /tools/ (plus the physiological sigh tool). We don't have the site inventory, so the writer must match exact URLs from it. Possible extra link: the box breathing timer.\n\n## QUESTIONS (PAA, forums, likely follow-ups)\n\n- Why do I feel anxious after scrolling social media even when nothing bad happened?\n- Why does my heart race or my chest feel tight when I scroll?\n- Is doomscrolling a sign of anxiety, or does it cause anxiety?\n- Why can't I stop scrolling even though it makes me feel bad?\n- Is it the amount of time or what I'm looking at?\n- Does scrolling at night make anxiety worse? (link to the night article)\n- What can I do right now when scrolling makes me anxious?\n- Does posture or looking down at my phone affect my breathing?\n- Should I quit social media to stop feeling anxious? (Hunt 2018 didn't ask people to quit, and cutting back to about 30 minutes a day helped)\n- When is it more than the feed? When should I see someone?\n\n(No Reddit threads came up in the results. These questions come from the blogs that rank and from common wording of the query.)\n\n## SOURCES\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC8513826/ | Brief exposure to social media during the COVID-19 pandemic: Doom-scrolling has negative emotional consequences, but kindness-scrolling does not (Buchanan, Aknin, Lotun, Sandstrom) | PLOS ONE (PMC) | 2021 | Two experiments with a no-information control. Study 1 (Twitter, at least 2 min live feed, N=299): COVID news lowered positive affect (d=0.42, p=.01); optimism showed no significant change. Study 2 (YouTube, about 4 min, N=603): positive affect fell (d=0.40, p<.001) and optimism fell (d=0.28, p=.01). Negative affect did not rise significantly in either study. Kindness stories did not lower mood. Samples were mostly young, white and female, and the effects were short-term only.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC7801842 | The impact of social network sites on mental health: distinguishing active from passive use (Verduyn, Gugushvili, Kross) | World Psychiatry | 2021 | Passive use (scrolling feeds, viewing profiles) is linked to declining well-being over time, and active use was not. Upward social comparison and envy drive the harm. The overall link is \"negative, albeit small and possibly reciprocal,\" and outcomes depend on how the platform is used. No effect sizes given.\n\nhttps://pubmed.ncbi.nlm.nih.gov/25706656/ | Passive Facebook usage undermines affective well-being: Experimental and longitudinal evidence (Verduyn et al.) | Journal of Experimental Psychology: General | 2015 | A lab experiment plus a field study. Passive use lowered affective well-being over time through increased envy, and active use did not. The field study texted about 80 undergraduates 5 times a day for 6 days (sample details from the [UM news summary](https://news.umich.edu/passive-facebook-use-undermines-how-a-person-feels)).\n\nhttps://www.sciencedaily.com/releases/2018/11/181108164316.htm | No More FOMO: Limiting social media decreases loneliness and depression (Hunt et al.), press release | ScienceDaily / University of Pennsylvania; Journal of Social and Clinical Psychology 37(10) | 2018 | N=143 undergraduates over 3 weeks. One group was limited to about 10 minutes per platform per day (about 30 minutes total) and the other used social media as usual. Depression and loneliness fell significantly in the limited group. Anxiety and FOMO fell in both groups, possibly from simply monitoring use. Participants were not asked to quit.\n\nhttps://news.flinders.edu.au/blog/2024/07/18/can-doomscrolling-trigger-an-existential-crisis/ | Can doomscrolling trigger an existential crisis? (Shabahang et al.) | Flinders University; Computers in Human Behavior Reports | 2024 | 800 students (620 Iran, 180 US). Doomscrolling tendency predicted higher existential anxiety in both countries, with a moderate association. Correlational. Also see the [BPS Research Digest summary](https://bps.org.uk/research-digest/creeping-influence-doomscrolling).\n\nhttps://www.weforum.org/stories/2022/01/doomscrolling-behavior-social-media/ | Doomscrolling: how can we manage the growing addiction to negative news? | World Economic Forum (summarizing Sharma et al., Technology, Mind, and Behavior) | 2022 | Reports the development of a doomscrolling scale. Doomscrolling was more common in men and younger people and linked to FOMO, and the direction of cause between doomscrolling and anxiety is unclear. This is secondary coverage, so cite it lightly. Avoid the \"addiction\" framing in our copy.\n\nhttps://pubmed.ncbi.nlm.nih.gov/23126438/ | Media multitasking is associated with symptoms of depression and social anxiety (Becker, Alzahabi, Hopwood) | Cyberpsychology, Behavior, and Social Networking 16(2):132-135 | 2013 | N=318. Higher media multitasking was associated with depression and social anxiety symptoms, even after controlling for total media use, neuroticism and extraversion. Correlational, and the authors say the direction is unknown. Use it only as indirect support for \"switching between streams.\"\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC4905897/ | Effect of sitting posture on respiratory function while using a smartphone | J Phys Ther Sci 28(5):1496-1498 | 2016 | Randomized, 50 recruited and 46 analyzed. One hour of seated smartphone gaming significantly reduced FVC (3.2 to 3.0 L) and FEV1 (3.0 to 2.7 L) compared with controls. The proposed reason is that a slumped posture limits how far the diaphragm can drop. Small sample, baseline differences between groups, single session.\n\nhttps://www.jstage.jst.go.jp/article/jpts/28/1/28_jpts-2015-817/_article | Jung et al., smartphone use duration, posture and respiratory function | J Phys Ther Sci | 2016 | Craniovertebral angle, scapular index and peak expiratory flow differed by how long people used their smartphones. The authors say prolonged use may affect posture and breathing. Small, cross-sectional study.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/9873947/ | Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.) | Cell Reports Medicine | 2023 | Remote RCT, N=108 randomized (30 cyclic sighing, 21 box breathing, 33 cyclic hyperventilation, 24 mindfulness), 5 minutes a day for 28 days. Cyclic sighing (two inhales, then a long full exhale) gave the largest rise in positive affect and a greater drop in respiratory rate than mindfulness (p<0.05). State anxiety fell in all groups with no difference between them. No changes in HRV or resting heart rate. Exploratory, retrospectively registered, self-reported mood.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC6137615/ | How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing (Zaccaro et al.) | Frontiers in Human Neuroscience | 2018 | Slow breathing is defined as under 10 breaths per minute. Of 2,461 abstracts screened, 15 studies were included. Slow breathing was linked to higher HRV and respiratory sinus arrhythmia, increased alpha EEG, and better emotional control and well-being in healthy adults. The evidence base is small and the mechanisms are still debated.\n\n## SAFETY\n\n- **Breathing.** Keep breaths gentle and not oversized. Stop and breathe normally if you feel dizzy, lightheaded or tingly. Physiological sighs: 1 to 3 in a row, not dozens. Don't present breath holds or fast breathing as the reset. In Balban 2023, people with heart disease, seizure history, pregnancy, psychosis or other significant conditions were excluded. Anyone with heart or lung conditions, pregnancy, a history of fainting, or panic that gets worse when they focus on their breathing should go gently or talk to a clinician first.\n- **No treatment claims.** Breathing \"can help you feel calmer.\" It does not treat anxiety disorders.\n- **Evidence honesty.** In Balban, anxiety fell equally in all groups including mindfulness, so don't claim sighs beat other methods for anxiety. The scrolling and anxiety evidence is mostly correlational and possibly two-way.\n- **When it's more than the feed.** If the anxiety lasts after you put the phone down, shows up most days, disrupts sleep or work, or comes with panic attacks, talk to a GP or mental health professional. CBT is commonly recommended. If someone may be in crisis, call or text 988 in the US (Suicide & Crisis Lifeline) or contact local emergency services. We have no 988 URL from the search results, so the writer should state it as plain text or use a link from the site inventory if one exists.\n- **Physical comfort.** Sitting up and dropping the shoulders is a reasonable comfort suggestion. Don't overstate the posture and lung-function research, which is small, short-term and inconsistent."
+}

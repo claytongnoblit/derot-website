@@ -921,8 +921,10 @@
       "content_type": "pillar",
       "angle": "The body-first explanation of scroll anxiety, and a breath you can take mid-feed.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Weak SERP: news sites, Substack, small clinics."
+      "status": "published",
+      "notes": "Weak SERP: news sites, Substack, small clinics.",
+      "post": "why-does-scrolling-make-me-anxious",
+      "published": "2026-10-28"
     },
     {
       "keyword": "doomscrolling",
@@ -984,7 +986,8 @@
       "content_type": "explainer",
       "angle": "Why doomscrolling raises anxiety and what calms it fast.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "why-does-scrolling-make-me-anxious"
     },
     {
       "keyword": "doomscrolling at night",
@@ -1052,7 +1055,8 @@
       "content_type": "faq",
       "angle": "Validate the feeling, explain the comparison and stress loop, offer a reset.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "why-does-scrolling-make-me-anxious"
     },
     {
       "keyword": "feel anxious after social media",
@@ -1065,7 +1069,7 @@
       "angle": "What happens in your body after a scroll session and how to settle it.",
       "seasonality": [],
       "status": "covered",
-      "covered_by": "doomscrolling-at-night"
+      "covered_by": "why-does-scrolling-make-me-anxious"
     },
     {
       "keyword": "social media anxiety",
@@ -1286,7 +1290,7 @@
       "angle": "What a racing heart on your feed means and a 60-second slow-down.",
       "seasonality": [],
       "status": "covered",
-      "covered_by": "doomscrolling-at-night"
+      "covered_by": "why-does-scrolling-make-me-anxious"
     },
     {
       "keyword": "tiktok anxiety",

@@ -1,5 +1,213 @@
 # DeRot blog: full text
 
+# Why Does Scrolling Make Me Anxious? What Your Body Is Reacting To
+
+URL: https://derot.org/blog/why-does-scrolling-make-me-anxious/
+Updated: 2026-10-28
+
+Key takeaways:
+- Scrolling can make you anxious because the feed stacks threat-heavy news, social comparison, rapid switching and unresolved stories, often while you sit hunched with short, shallow breaths.
+- In 2021 experiments, just 2 to 4 minutes of COVID-19 news lowered positive mood (an effect size of about 0.4), while stories about kindness did not.
+- What you see and how you scroll (passive watching versus active use) appear to matter at least as much as total minutes.
+- Most research linking scrolling and anxiety is correlational, the effects are modest, and the link may run both ways: anxious people may also scroll more.
+- A mid-scroll reset of five slow breaths (inhale 4, exhale 6, about 50 seconds) or one to three physiological sighs can help you feel calmer.
+
+Scrolling can make you anxious because the feed mixes threat-flavored news, social comparison, rapid switching and stories that never resolve, and that mix can keep your body braced. A hunched posture and shallow breathing can add to it. Research shows associations and short-term mood dips, not proof that scrolling causes anxiety, and what you see matters more than minutes alone.
+
+That last point is the one we keep coming back to at DeRot. The problem usually isn't you, and it isn't only the number on your screen time report. It's the state the feed leaves you in. Below we cover what that state feels like, the likeliest reasons it happens, what the evidence does and doesn't support, and a reset you can use in the middle of the feed, right when you notice it, in under a minute.
+
+## What scroll anxiety feels like in your body
+
+Scroll anxiety usually shows up in the body before it shows up as a thought: a tight jaw, shoulders creeping toward your ears, short breaths high in the chest, and a buzzy, wired-but-tired feeling. Many people only notice it when they finally look up.
+
+The classic version goes like this. You pick up your phone to check one message. Twenty minutes later you surface, and something has shifted. Nothing bad actually happened to you. You read a few headlines, watched some clips, saw a friend's holiday photos. Yet your teeth are pressed together, your neck aches, and there's a low hum of dread you can't quite place.
+
+Sensations people commonly describe:
+
+- A clenched jaw, or the tongue pressed hard against the roof of the mouth
+- Shoulders raised and rounded forward
+- Quick, shallow breathing up in the chest, sometimes with small unnoticed breath holds
+- A tight chest, or a heart that feels like it's going faster than it should
+- Restlessness: wanting to keep scrolling and wanting to stop, at the same time
+- Feeling tired and switched on at once
+
+The confusing part is that scrolling is often what people reach for to relax. So when they come out of it feeling worse, they assume something is wrong with them. More often, the body is doing something reasonable: reacting to a steady stream of small alarms, comparisons and unfinished stories as if they mattered, because some of them might.
+
+### Why does my heart race while scrolling?
+
+A racing heart while scrolling is a common way of feeling keyed up, as if your body is getting ready for something that never arrives. We're not aware of any study that has measured heart rate during ordinary everyday scrolling, so we won't put numbers on it. What we can say is that a braced body and fast, shallow breathing tend to travel together, and the sense of a pounding heart often comes along with them. If it happens often, comes with chest pain, or shows up away from your phone too, get it checked by a doctor.
+
+## Why does scrolling make me anxious? Six likely contributors
+
+Scrolling can make you anxious because several things stack up at once: threat-heavy content, comparison, constant switching, rewards you can't predict, stories with no ending, and a cramped posture. Some of these have experimental support. Others are plausible explanations that haven't been tested directly in scrolling. We'll say which is which.
+
+### 1. Threat-flavored news lowers your mood fast
+
+Brief exposure to negative news measurably dents mood. In a 2021 set of experiments, [about two minutes of COVID-19 news on Twitter lowered positive affect in a study of 299 people](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8513826/), with an effect size of d = 0.42. In a second study of 603 people, about four minutes of COVID news on YouTube lowered positive affect (d = 0.40) and optimism (d = 0.28).
+
+Two details matter. First, those are small-to-moderate effects from very short doses, likely shorter than many scroll sessions. Second, negative affect did not rise significantly. What dropped was the good stuff. That fits how a lot of people describe the comedown: less outright panic, more flat, braced and vaguely uneasy.
+
+### 2. Upward comparison during passive scrolling
+
+Watching other people's highlights without interacting is linked to feeling worse, and envy seems to be the route. A 2015 paper combining a lab experiment and a field study found that [passive Facebook use lowered affective well-being over time, through increased envy](https://pubmed.ncbi.nlm.nih.gov/25706656/), while active use did not. In the field part, researchers [texted about 80 undergraduates five times a day for six days](https://news.umich.edu/passive-facebook-use-undermines-how-a-person-feels) to track how they felt as they used the site.
+
+A 2021 review in World Psychiatry concluded that [damaging social comparisons drive much of the harm in passive use](https://pmc.ncbi.nlm.nih.gov/articles/PMC7801842). Envy isn't the same as anxiety, but it's a close relative: the sense of falling behind, which the body tends to treat as something to keep an eye on.
+
+### 3. Rapid switching between unrelated content
+
+The feed asks you to change emotional gears every few seconds: a war headline, a puppy, an ad, a friend's engagement, a cooking hack, a stranger's argument. In a study of 318 adults, [higher media multitasking was associated with more symptoms of depression and social anxiety](https://pubmed.ncbi.nlm.nih.gov/23126438/), even after accounting for total media use and personality.
+
+That's an association only. It doesn't show that switching causes anxiety. But it's one of the few findings that points at how you consume rather than how much, and it matches the scattered feeling many people have after a long session.
+
+### 4. "Maybe the next post" keeps you braced
+
+Feeds deliver something genuinely interesting at unpredictable intervals. A plausible explanation for the wired feeling is that not knowing when the good post will appear keeps you in a mild state of anticipation: thumb ready, attention pitched forward. You'll often see this described online as a "dopamine loop," which overstates what is actually known about brain chemistry during scrolling. The simpler version is enough. Uncertainty tends to keep people alert, and alert is not the same as relaxed.
+
+### 5. Stories that never resolve
+
+Very little in a feed ends. You see the start of a crisis, a heated thread, a teaser for a video, then the next thing. Another plausible contributor is this pile-up of open loops: half-finished stories your mind keeps holding after your thumb has moved on. There isn't direct research on this in scrolling, so treat it as a reasonable idea rather than a finding. It does explain why the dread can feel vague. It isn't about one thing. It's about twenty unfinished things.
+
+### 6. Slumped posture and shallow breathing
+
+How you hold your body while you scroll may play a part. In a small randomized study, [one hour of seated smartphone use (participants were playing a game) reduced forced vital capacity from 3.2 to 3.0 liters and forced expiratory volume in one second from 3.0 to 2.7 liters](https://pmc.ncbi.nlm.nih.gov/articles/PMC4905897/) compared with controls. Another small, cross-sectional study found that [head and shoulder posture and peak expiratory flow differed by how long people used their smartphones](https://www.jstage.jst.go.jp/article/jpts/28/1/28_jpts-2015-817/_article).
+
+These are small, short-term studies (in the first, the two groups weren't evenly matched at the start), and lung function isn't the same thing as anxiety. Still, they line up with what many people feel: curled over the phone, chest compressed, breath sitting high and short. A body breathing like that can feel more on edge. If you want the bigger picture of how all of this builds up, our guide to [nervous system overload from your phone](/blog/nervous-system-overload-from-phone/) goes deeper.
+
+## Is it the time you spend or what you're looking at?
+
+What you see and how you scroll appear to matter at least as much as total minutes. The same experiments that showed doom-scrolling dents mood found that kindness-scrolling did not, and other research separates passive watching from active use.
+
+Back to those 2021 experiments: participants who watched [stories about acts of kindness did not show the drop in mood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8513826/) seen in those who watched COVID news. Same platforms, similar time, different content, different result.
+
+The 2021 review draws a similar line around how you use social media: [passive use is linked to declining well-being over time, while active use is not](https://pmc.ncbi.nlm.nih.gov/articles/PMC7801842). In plain terms, silently watching other people's lives seems to land differently from talking with them.
+
+Time still matters somewhat. In a 2018 University of Pennsylvania experiment, [143 students who limited social media to about 30 minutes a day (10 minutes per platform) for three weeks reported less depression and loneliness](https://www.sciencedaily.com/releases/2018/11/181108164316.htm) than a control group. Nobody was asked to quit: the limit was 10 minutes per platform. Note that the clearest results were for depression and loneliness, not anxiety.
+
+That detail is worth sitting with. Cutting back, rather than cutting out, was enough to make a difference for these students, so quitting isn't the only lever. It's also a reminder that one small study of students can't settle the question for everyone.
+
+This is why we think in terms of state over quantity. Twenty minutes of messages with friends and good-news stories can leave you fine. Five minutes of grim headlines can leave you wound up. If you want practical ways to change the mix without giving up your phone, see [how to stop doomscrolling without quitting your phone](/blog/how-to-stop-doomscrolling/).
+
+## What the research does and doesn't show
+
+The honest summary: links between scrolling and anxiety are real but mostly correlational, the experimental effects are modest and short-term, and the relationship may run in both directions.
+
+Here's what that means in practice:
+
+- **Mostly correlational.** [Among 800 students in Iran and the US, a stronger tendency to doomscroll was associated with higher existential anxiety](https://news.flinders.edu.au/blog/2024/07/18/can-doomscrolling-trigger-an-existential-crisis/), a finding also summarized by the [BPS Research Digest](https://bps.org.uk/research-digest/creeping-influence-doomscrolling). The media multitasking study above is correlational too. Studies like these can't tell us what causes what.
+- **Direction unclear.** Coverage of other doomscrolling research notes that [the direction of cause between doomscrolling and anxiety is unclear](https://www.weforum.org/stories/2022/01/doomscrolling-behavior-social-media/). Anxious people may reach for the feed more, looking for reassurance, information or distraction.
+- **Possibly two-way.** The 2021 review describes the overall link between social media use and well-being as [negative but small, and possibly reciprocal](https://pmc.ncbi.nlm.nih.gov/articles/PMC7801842).
+- **Short-term, modest effects.** The doom-scrolling experiments measured mood right after a few minutes of exposure. Effect sizes around 0.4 are meaningful but not dramatic, and those studies didn't follow people over weeks.
+- **Narrow samples.** Much of this work uses students and young adults, so it may not map neatly onto everyone.
+
+None of this means your experience isn't real. It means the feeling you notice after a scroll is a reasonable thing to pay attention to, and probably a better guide than headlines claiming the feed is rewiring your brain. You don't need a diagnosis to decide you'd like to come out of the app feeling better than you went in.
+
+## A 60-second reset to use mid-scroll
+
+The most useful moment to calm down is the one where you notice you're wound up, which is usually mid-scroll, not before you open the app. Five slow breaths with a longer exhale, or one to three physiological sighs, take under a minute and can help you feel calmer.
+
+Why mid-scroll? Because that's when the jaw is tight and the breath is high. A rule you set before opening an app doesn't meet you there, and you can't regulate a feeling you haven't had yet. You don't have to close the app or make any big decisions. Just pause.
+
+Start with a five-second setup: put the phone down on your lap or the table, sit back or straighten up a little, let your shoulders drop, and unclench your jaw.
+
+### Script A: five long-exhale breaths (about 50 seconds)
+
+1. Breathe in gently through your nose for a count of 4.
+2. Breathe out slowly through your nose or softly pursed lips for a count of 6.
+3. Keep the exhale smooth and unhurried, like fogging a window from a distance.
+4. Repeat for five breaths. That's about 50 seconds.
+5. Check where your shoulders and jaw are now, then go back to the app or put the phone away.
+
+Each breath takes 10 seconds, so this works out to about six breaths a minute. That sits inside what a 2018 systematic review defined as slow breathing, [under 10 breaths per minute](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6137615/), which across 15 studies was associated with higher heart rate variability and better emotional control in healthy adults. The review is clear that the evidence base is small, so think of this as a promising, low-risk practice rather than a proven fix.
+
+For a fuller walkthrough, see our [4-6 breathing guide](/blog/4-6-breathing-how-to/), or follow the free [calm breathing 4-6 timer](/tools/calm-breathing-4-6/) so you don't have to count.
+
+### Script B: one to three physiological sighs (about 15 to 30 seconds)
+
+1. Breathe in through your nose until you feel comfortably full.
+2. Without breathing out, take a second, shorter sip of air through your nose to top up.
+3. Breathe out slowly through your mouth, all the way, letting it take longer than both inhales together.
+4. Take one or two ordinary breaths.
+5. Repeat once or twice more if it helps. Stop at three.
+
+The research here is a 2023 randomized trial of 108 people, in which [five minutes a day of cyclic sighing for 28 days produced the largest rise in positive mood](https://pmc.ncbi.nlm.nih.gov/articles/9873947/) among the techniques tested. State anxiety fell about equally in every group, including mindfulness meditation, and the authors described the work as exploratory. Using one to three sighs in the moment goes beyond what was studied, so treat it as a sensible adaptation rather than a tested protocol. The free [physiological sigh timer](/tools/physiological-sigh/) paces it for you.
+
+### What it should feel like
+
+Done gently, you'll usually feel your shoulders slide down, your jaw loosen and the exhale start to lengthen on its own. Some people notice a small yawn or a softening across the chest. You're not aiming for bliss. You're aiming for one notch down from wired.
+
+### Common mistakes
+
+- **Oversized breaths.** Big gulps can make you lightheaded. Aim for comfortable, not maximal.
+- **Lifting the shoulders to breathe in.** Let the belly and lower ribs move instead.
+- **Rushing the exhale.** The slow out-breath is the point of the exercise. If 6 counts feels like a strain, try inhale 3, exhale 5.
+- **Doing one breath and judging it.** One breath rarely changes much. Five usually does more.
+
+If you'd rather not have to remember any of this in the moment, that's the reason we built DeRot: it pauses your scroll to bring you back down with a few calming breaths, then lets you carry on. It's coming soon to iOS.
+
+### Safety notes
+
+- Keep breaths gentle. If you feel dizzy, lightheaded or tingly, stop and breathe normally.
+- Physiological sighs are one to three in a row, not dozens. Don't use breath holds or fast breathing as your reset.
+- If you're pregnant, have a heart or lung condition, have a history of fainting, or find that focusing on your breath makes panic worse, go gently or check with a clinician first. The 2023 sighing trial excluded similar groups.
+
+## Why scrolling at night can feel worse
+
+Scrolling at night can feel worse because your body is trying to wind down while the feed keeps handing it things to react to. Unresolved stories and late headlines have nowhere to go when you're lying in the dark.
+
+During the day, other things dilute the feed: conversations, errands, work, movement. At night there's less of that. A heated thread or a worrying headline can be the last thing you take in before trying to sleep, and the open loops from earlier have a quiet room to echo in. Lying curled up with the phone close to your face may not help your breathing either.
+
+The same reset works here. Try five breaths of 4-6 with the phone face down on your chest before you decide whether to keep going. For more on why the nighttime version feels so wired, read [doomscrolling at night and a way back down](/blog/doomscrolling-at-night/).
+
+## When it's more than the feed
+
+If the anxious feeling sticks around after you put the phone down, it may be about more than scrolling, and it's worth talking to someone.
+
+Consider reaching out to a GP or a mental health professional if:
+
+- The anxiety lasts long after you've stopped scrolling
+- It shows up most days
+- It's disrupting your sleep, work or relationships
+- It comes with panic attacks, or a racing heart and tight chest that happen away from your phone
+
+A professional can talk you through options, which commonly include talking therapies such as cognitive behavioral therapy (CBT). You don't have to wait until things feel serious to ask.
+
+If you or someone you know may be in crisis, call or text 988 in the US, or contact your local emergency services.
+
+Breathing exercises can help you feel calmer in the moment. They don't treat anxiety disorders, and they aren't a substitute for care. Think of the mid-scroll reset as a way to come down from the feed, not a way to carry something bigger on your own.
+
+## FAQ
+**Is it normal to feel anxious after social media?**
+Yes, it's a common experience. In experiments, just a few minutes of negative news lowered people's positive mood, so feeling flat, uneasy or wired after a scroll is an understandable response to the content, not a personal failing. It tends to fade once you step away. If it lingers after you put the phone down, shows up most days or affects sleep or work, it's worth talking to a GP or mental health professional.
+
+**Why can't I stop scrolling even though it makes me feel bad?**
+Feeds have no natural stopping point and deliver interesting posts at unpredictable moments, so there's always a reason to see one more. When you're already wound up, stopping takes a decision your tense body isn't in the mood to make. A short breathing pause can help because it creates a break without asking you to quit, and once you've come down a little, deciding what to do next usually feels easier.
+
+**Does looking down at my phone affect my breathing?**
+Small studies suggest it might. In one small randomized study, an hour of seated smartphone use slightly reduced lung function measures compared with controls, and another linked longer phone use to differences in posture and breathing flow. These studies are small and short-term, so treat them as a reason to sit up and drop your shoulders now and then, not as a cause for worry.
+
+**Should I quit social media to stop feeling anxious?**
+Not necessarily. In a 2018 experiment, students who limited social media to about 30 minutes a day for three weeks reported less depression and loneliness, and nobody was asked to quit: cutting back was enough. Changing what you look at, scrolling less passively and resetting when you notice tension are reasonable first steps before anything drastic.
+
+**What can I do right now when scrolling makes me anxious?**
+Put the phone down, let your shoulders drop and unclench your jaw. Then take five slow breaths: in through your nose for 4, out slowly for 6. That's about 50 seconds. Or try one to three physiological sighs: two inhales through the nose, then one long exhale through the mouth. Keep it gentle, and stop and breathe normally if you feel dizzy or lightheaded.
+
+## Sources
+- Brief exposure to social media during the COVID-19 pandemic: Doom-scrolling has negative emotional consequences, but kindness-scrolling does not: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8513826/
+- The impact of social network sites on mental health: distinguishing active from passive use: https://pmc.ncbi.nlm.nih.gov/articles/PMC7801842
+- Passive Facebook usage undermines affective well-being: Experimental and longitudinal evidence: https://pubmed.ncbi.nlm.nih.gov/25706656/
+- Passive Facebook use undermines how a person feels: https://news.umich.edu/passive-facebook-use-undermines-how-a-person-feels
+- No More FOMO: Limiting social media decreases loneliness and depression: https://www.sciencedaily.com/releases/2018/11/181108164316.htm
+- Can doomscrolling trigger an existential crisis?: https://news.flinders.edu.au/blog/2024/07/18/can-doomscrolling-trigger-an-existential-crisis/
+- The creeping influence of doomscrolling: https://bps.org.uk/research-digest/creeping-influence-doomscrolling
+- Doomscrolling: how can we manage the growing addiction to negative news?: https://www.weforum.org/stories/2022/01/doomscrolling-behavior-social-media/
+- Media multitasking is associated with symptoms of depression and social anxiety: https://pubmed.ncbi.nlm.nih.gov/23126438/
+- Effect of sitting posture on respiratory function while using a smartphone: https://pmc.ncbi.nlm.nih.gov/articles/PMC4905897/
+- Smartphone use duration, posture and respiratory function (Jung et al.): https://www.jstage.jst.go.jp/article/jpts/28/1/28_jpts-2015-817/_article
+- Brief structured respiration practices enhance mood and reduce physiological arousal: https://pmc.ncbi.nlm.nih.gov/articles/9873947/
+- How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6137615/
+
+---
+
 # Screen Time Apps That Aren't Blockers: Gentle Options, Compared
 
 URL: https://derot.org/blog/screen-time-app-not-blocker/
