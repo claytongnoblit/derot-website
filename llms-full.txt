@@ -1,5 +1,161 @@
 # DeRot blog: full text
 
+# How Long to Do a Physiological Sigh: 1 to 3 Sighs or 5 Minutes
+
+URL: https://derot.org/blog/how-long-to-do-physiological-sigh/
+Updated: 2026-10-30
+
+Key takeaways:
+- For a quick reset, do one to three physiological sighs. That takes about 10 to 30 seconds.
+- For a daily practice, do about five minutes of cyclic sighing. It is the only dose that has been tested, in a 2023 Stanford trial of 108 people over 28 days.
+- The trial did not test single sighs. Support for them comes from expert observation and from research on the sighs your body does on its own.
+- You can stop once your exhale lengthens by itself and your jaw and shoulders drop. Stop sooner if you feel tingly or lightheaded.
+- In the trial, cyclic sighing lifted mood more than mindfulness did, but anxiety fell about equally in both groups, and sleep, HRV and resting heart rate did not change.
+
+For a quick reset, do one to three physiological sighs: two inhales through the nose, then a long, slow exhale through the mouth. That takes about 10 to 30 seconds. For a daily practice, do about five minutes of cyclic sighing. The five-minute daily practice is the only dose that has actually been tested in a clinical trial.
+
+That split is the whole answer to how long to do a physiological sigh, and most pages blur it. Below we cover what the research tested, what one sigh feels like compared with five minutes, how to tell you've done enough, and a script for the moment a feed has left you wired.
+
+## How long should you do a physiological sigh? The short answer
+
+Do one to three sighs when you need a reset right now, and about five minutes of cyclic sighing as a daily practice. These are two doses for two different jobs. The first gets you through a moment, and the second is regular practice.
+
+A **physiological sigh** is a breath in which you inhale through the nose, take a short second inhale to top up, then let out a long, unhurried exhale, ideally through the mouth. **Cyclic sighing** is the same breath repeated over and over, usually for about five minutes.
+
+Only the five-minute version has trial data behind it. In a [2023 randomized study in Cell Reports Medicine](https://pmc.ncbi.nlm.nih.gov/articles/9873947/), people practiced cyclic sighing for five minutes a day over 28 days. The study did not test single sighs or three-sigh resets. The case for those rests on expert observation and on what we know about the sighs your body does on its own. That reasoning is plausible, but the evidence is weaker.
+
+| Dose | Time | Best for | Evidence behind it |
+|---|---|---|---|
+| One sigh | About 10 seconds | A quick unclench | Not tested directly; spontaneous sighs are linked to relief |
+| Two or three sighs | About 20 to 30 seconds | A mid-scroll reset | Not tested directly; widely recommended |
+| Three sighs plus easy breathing | About 1 minute | A short guided break | Not tested directly |
+| Cyclic sighing | About 5 minutes a day | A daily practice | Tested for 28 days in one trial |
+
+## What the Stanford study actually tested (and what it didn't)
+
+The Stanford trial compared five minutes a day of cyclic sighing with box breathing, a fast-breathing technique and mindfulness meditation, over 28 days. Cyclic sighing was the only technique that significantly beat mindfulness on mood. The trial did not test single sighs, and several measures did not change.
+
+The [study randomized 108 people](https://pmc.ncbi.nlm.nih.gov/articles/9873947/): 30 to cyclic sighing, 21 to box breathing, 33 to cyclic hyperventilation with breath retention, and 24 to mindfulness. Stanford's [magazine coverage](https://stanmed.stanford.edu/cyclic-sighing-stress-relief/) says 111 volunteers, but the paper reports 108. Breathwork sessions averaged 5.76 minutes, and people practiced on about 19.6 of the 28 days. So "about five minutes, most days" is a fair summary of what was really tested.
+
+What it found:
+
+- **Mood improved more with sighing.** Cyclic sighing produced a [bigger gain in daily positive mood than mindfulness](https://pmc.ncbi.nlm.nih.gov/articles/9873947/), and the gain grew with the number of days people practiced. Greater Good's summary puts the [average positive-mood gain at 1.91 for the three breathwork groups combined versus 1.22 for mindfulness](https://greatergood.berkeley.edu/article/item/a_five_minute_breathing_exercise_for_anxiety_and_mood). For cyclic sighing alone, the [gain was 1.89](https://pmc.ncbi.nlm.nih.gov/articles/9873947/).
+- **Anxiety fell in every group, by about the same amount.** State anxiety dropped by 3.85 points with sighing and 3.95 with mindfulness, with [no significant difference between groups](https://pmc.ncbi.nlm.nih.gov/articles/9873947/).
+- **Some things didn't change.** [Heart rate variability (HRV), resting heart rate and sleep showed no significant change](https://pmc.ncbi.nlm.nih.gov/articles/9873947/). The one physiological shift: cyclic sighing lowered resting breathing rate compared with mindfulness.
+
+The limits matter. The sighing group had 30 people, practicing at home and rating their own mood for four weeks. People with moderate to severe psychiatric conditions were [excluded](https://greatergood.berkeley.edu/article/item/a_five_minute_breathing_exercise_for_anxiety_and_mood). In the wider research, a [meta-analysis of breathwork trials](https://sussex.figshare.com/articles/journal_contribution/Effect_of_breathwork_on_stress_and_mental_health_a_meta-analysis_of_randomised-controlled_trials/23494097/1) found a small-to-moderate effect on stress, and most of the studies it included had a moderate risk of bias. The results look promising, but the question isn't settled.
+
+## How many physiological sighs at once? One vs. three vs. five minutes
+
+For a quick reset, two or three sighs suit most people. One is a good start. Five minutes is a regular practice rather than a quick fix.
+
+### One sigh (about 10 seconds)
+
+One sigh usually brings a small release: your chest lets go and your jaw softens a little. It's also a breath your body already knows. People [sigh spontaneously about every five minutes](https://www.ucsf.edu/news/2017/08/408006/searching-brain-cells-control-our-breathing), and in one lab study, [spontaneous sighs were followed by lower muscle tension](https://research.vu.nl/en/publications/take-a-deep-breath-the-relief-effect-of-spontaneous-and-instructe/). A deliberate sigh tries to borrow that reflex, though the same research found that a sigh people were told to take did not bring the same relief (more on that below). That is one reason to keep deliberate sighs gentle and few.
+
+### Three sighs (about 30 seconds)
+
+Three is where most people notice a change. The first exhale often feels a bit held. By the second or third, it lengthens by itself. Greater Good notes that [after one or two deep sighs you may already feel calmer](https://greatergood.berkeley.edu/article/item/a_five_minute_breathing_exercise_for_anxiety_and_mood). A third sigh gives you some extra room without tipping into over-breathing.
+
+### Five minutes of cyclic sighing
+
+Five minutes is the dose that was studied, and Stanford's David Spiegel [recommends repeating the sigh for about five minutes](https://stanmed.stanford.edu/cyclic-sighing-stress-relief/). It feels less like a reset and more like gradually settling down. For many people, breathing has slowed noticeably by minute three. Our free [physiological sigh timer](/tools/physiological-sigh/) paces the full five minutes so you don't have to count.
+
+### How long each sigh takes
+
+A rough rhythm: inhale through the nose for 2 to 3 seconds, top up for about 1 second, then exhale for 6 to 8 seconds. A common cue is to [make the exhale about twice as long as the inhale](https://www.mentalyc.com/worksheets-and-cheatsheets/physiological-sigh). These are practical cues, not research findings. If your natural rhythm is a bit faster or slower, that's fine.
+
+## How to do a physiological sigh, step by step
+
+Sit or stand still. Take a full inhale and a small top-up through the nose, then breathe out slowly through the mouth. Keep it unhurried.
+
+1. Sit or stand still with your shoulders loose. If the phone is in your hand, set it down.
+2. Breathe in slowly through your nose until your lungs feel comfortably full, about 2 to 3 seconds.
+3. Take a short second sip of air through your nose, about 1 second. Keep it small, not a gasp.
+4. Breathe out slowly through your mouth, as if fogging a window, for about 6 to 8 seconds, until you feel comfortably empty.
+5. For a quick reset, take one normal breath before the next sigh. For cyclic sighing, flow into the next sigh at an easy pace.
+
+If breathing out through your mouth feels odd, you can sigh through your nose only. The Stanford protocol [allowed nose-only sighing](https://pmc.ncbi.nlm.nih.gov/articles/9873947/), though it described in through the nose and out through the mouth as ideal.
+
+### A 1-minute guided breathing exercise
+
+The one-minute version is three physiological sighs (about 30 seconds), then about 30 seconds of easy breathing through your nose. During that second half, don't control your breath. Just notice it. That quiet stretch is often when the calm actually sets in.
+
+## How to tell you've done enough
+
+You've done enough when your exhale lengthens without effort, your jaw unclenches, your shoulders drop and you stop reaching for air. That might take one sigh or three. You don't need to finish a set.
+
+Stop right away if you feel tingly or lightheaded. These are [common signs of over-breathing](https://www.columbiadoctors.org/health-library/symptom/hyperventilation/), and they mean you've gone past the useful point.
+
+More is not automatically better. In a [lab study of instructed and spontaneous sighs](https://research.vu.nl/en/publications/take-a-deep-breath-the-relief-effect-of-spontaneous-and-instructe/), a sigh people were told to take appeared to slow their recovery from mental stress, while spontaneous sighs were followed by relief. A related study of 42 adults found that [breathing became more structured after a sigh](https://research.vu.nl/en/publications/respiratory-variability-preceding-and-following-sighs-a-resetter-/), which supports the idea that a sigh works as a "resetter." Our take is that the reset works best when it's gentle and brief, closer to what your body does naturally than to a forced exercise.
+
+## Using a physiological sigh mid-scroll
+
+A few sighs fit best in the middle of a scroll, when the feed has already wound you up and the phone is in your hand. Here's a 30-second script:
+
+1. Put the phone face-down. You don't need to put it away.
+2. Do two or three slow sighs.
+3. Check your jaw and shoulders, and let them drop if they haven't already.
+4. Breathe easily for about 30 seconds.
+5. Then decide whether to pick the phone back up.
+
+The goal isn't to cut your minutes. It's to change how the feed leaves you feeling. You pick up the phone to check one thing and surface twenty minutes later with a clenched jaw, feeling wired. (The feed will be exactly where you left it. It always is.) For why that happens, see our guide to [nervous system overload from your phone](/blog/nervous-system-overload-from-phone/).
+
+DeRot, our iOS app that is coming soon, is built for this moment. When a feed has wound you up, it pauses your apps while you reset with a few calming breaths, so your shoulders drop and your head clears before you decide what's next.
+
+## Common mistakes that make sighing feel worse
+
+- **Forcing the second inhale.** The top-up should be a small sip. If your chest strains, you've overfilled.
+- **Rushing or pushing the exhale.** Let the air fall out slowly. Blowing hard turns a release into effort.
+- **Stacking fast sighs back to back.** Several quick, big breaths in a row can turn into over-breathing, which can cause [lightheadedness and tingling](https://www.columbiadoctors.org/health-library/symptom/hyperventilation/).
+- **Sighing all day.** If you sigh on purpose every few minutes, it stops feeling like a reset and starts feeling like a chore. Save it for the moments that need it, plus a daily practice if you want one.
+
+## Safety: when to stop or skip it
+
+Stop if you feel dizzy, lightheaded or tingly in your hands, feet or around your mouth, and rest until your breathing feels normal. These are [recognized symptoms of hyperventilation](https://www.columbiadoctors.org/health-library/symptom/hyperventilation/), and therapist handouts on the technique give the [same advice to stop and rest](https://www.mentalyc.com/worksheets-and-cheatsheets/physiological-sigh) if you get dizzy.
+
+- Do it sitting or standing still, and never while driving.
+- If you're pregnant, have a heart or lung condition, have a history of fainting, or find that focusing on your breath triggers panic, go gently or check with a clinician first.
+- It isn't a treatment. The Stanford trial excluded people with moderate to severe psychiatric conditions, and a small share of participants [reported negative experiences](https://pmc.ncbi.nlm.nih.gov/articles/9873947/) with the exercises.
+
+For persistent anxiety, panic or sleep trouble, talk to a professional. For chest pain, fainting or severe breathlessness, call 911 or your local emergency number. If you're in crisis in the US, call or text 988.
+
+## Related dosage guides
+
+If you're comparing breathing techniques by dose, our guide to [how long to do box breathing](/blog/how-long-to-do-box-breathing/) covers 1 to 5 minutes of the 4-4-4-4 pattern. Our [4-6 breathing guide](/blog/4-6-breathing-how-to/) teaches a slow rhythm with a longer exhale that takes 60 seconds. For five minutes of cyclic sighing, the free [physiological sigh timer](/tools/physiological-sigh/) keeps the pace for you.
+
+## FAQ
+**Is one physiological sigh enough to calm down?**
+Sometimes. One sigh often brings a small release, like an unclenched jaw or a slower next breath, and Greater Good notes you may feel calmer after one or two. If you still feel wired, do one or two more. Single sighs have not been tested in a trial, so think of one sigh as a quick nudge rather than a sure thing.
+
+**Is cyclic sighing the same as the physiological sigh?**
+Cyclic sighing is the physiological sigh repeated continuously, usually for about five minutes. Each cycle is the same breath: a full inhale through the nose, a short top-up inhale, then a long, slow exhale. A physiological sigh on its own is a single breath, or a handful of them, used for a quick reset rather than as a daily practice.
+
+**Why do I feel dizzy or tingly after physiological sighs?**
+Dizziness and tingling in the hands, feet or around the mouth are signs of over-breathing. They usually come from doing big sighs too fast or too many in a row. Stop, breathe normally through your nose and rest until it passes. Next time, slow the exhale, keep the top-up inhale small and take a normal breath between sighs.
+
+**How long should the exhale be in a physiological sigh?**
+Aim for an exhale about twice as long as the inhale. For most people, that means about 6 to 8 seconds after a 2 to 3 second inhale and a 1 second top-up. These are practical cues, not research findings. What matters most is that the exhale is slow and unforced: let the air fall out instead of pushing it.
+
+**Can cyclic sighing help me fall asleep?**
+It may help you wind down, but there's little evidence for sleep. In the 2023 Stanford trial, five minutes of cyclic sighing a day did not significantly change sleep measures. A few gentle sighs in bed can still feel settling. If sleep trouble lasts for weeks, talk to a doctor or sleep specialist instead of relying on a breathing technique.
+
+**Is cyclic sighing better than box breathing or meditation?**
+In the Stanford trial, cyclic sighing raised daily positive mood more than mindfulness meditation did, but anxiety dropped about equally across groups. Box breathing was tested too, but cyclic sighing was the only technique that significantly beat mindfulness on mood. With 21 to 33 people per group, it's one small study, not a final verdict. The best technique is the one that feels comfortable and that you'll actually do. Some people like the steady count of box breathing, and others like the release of a sigh.
+
+## Sources
+- Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.): https://pmc.ncbi.nlm.nih.gov/articles/9873947/
+- Breathing anxiety away: https://stanmed.stanford.edu/cyclic-sighing-stress-relief/
+- A Five-Minute Breathing Exercise for Anxiety and Mood: https://greatergood.berkeley.edu/article/item/a_five_minute_breathing_exercise_for_anxiety_and_mood
+- Respiratory variability preceding and following sighs: a resetter hypothesis: https://research.vu.nl/en/publications/respiratory-variability-preceding-and-following-sighs-a-resetter-/
+- Take a deep breath: the relief effect of spontaneous and instructed sighs: https://research.vu.nl/en/publications/take-a-deep-breath-the-relief-effect-of-spontaneous-and-instructe/
+- Searching for the brain cells that control our breathing: https://www.ucsf.edu/news/2017/08/408006/searching-brain-cells-control-our-breathing
+- Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials: https://sussex.figshare.com/articles/journal_contribution/Effect_of_breathwork_on_stress_and_mental_health_a_meta-analysis_of_randomised-controlled_trials/23494097/1
+- Hyperventilation: https://www.columbiadoctors.org/health-library/symptom/hyperventilation/
+- Physiological sigh worksheet: https://www.mentalyc.com/worksheets-and-cheatsheets/physiological-sigh
+
+---
+
 # Why Does Scrolling Make Me Anxious? What Your Body Is Reacting To
 
 URL: https://derot.org/blog/why-does-scrolling-make-me-anxious/

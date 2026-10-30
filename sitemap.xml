@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://derot.org/</loc></url>
-  <url><loc>https://derot.org/blog/</loc><lastmod>2026-10-28</lastmod></url>
+  <url><loc>https://derot.org/blog/</loc><lastmod>2026-10-30</lastmod></url>
   <url><loc>https://derot.org/about/</loc></url>
   <url><loc>https://derot.org/support.html</loc></url>
   <url><loc>https://derot.org/privacy.html</loc></url>
@@ -11,11 +11,12 @@
   <url><loc>https://derot.org/tools/custom-breathing-timer/</loc></url>
   <url><loc>https://derot.org/tools/</loc></url>
   <url><loc>https://derot.org/tools/physiological-sigh/</loc></url>
+  <url><loc>https://derot.org/blog/topics/breathing-techniques/</loc><lastmod>2026-10-30</lastmod></url>
   <url><loc>https://derot.org/blog/topics/doomscrolling-scrolling-stress/</loc><lastmod>2026-10-28</lastmod></url>
   <url><loc>https://derot.org/blog/topics/comparisons-and-alternatives/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://derot.org/blog/topics/breathing-techniques/</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://derot.org/blog/topics/nervous-system-regulation/</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://derot.org/blog/topics/sleep-and-winding-down/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://derot.org/blog/how-long-to-do-physiological-sigh/</loc><lastmod>2026-10-30</lastmod></url>
   <url><loc>https://derot.org/blog/why-does-scrolling-make-me-anxious/</loc><lastmod>2026-10-28</lastmod></url>
   <url><loc>https://derot.org/blog/screen-time-app-not-blocker/</loc><lastmod>2026-10-27</lastmod></url>
   <url><loc>https://derot.org/blog/how-to-stop-doomscrolling/</loc><lastmod>2026-10-26</lastmod></url>

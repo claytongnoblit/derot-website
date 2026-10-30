@@ -331,7 +331,8 @@
       "content_type": "tool",
       "angle": "Dedicated cyclic sighing pacer; almost no competition.",
       "seasonality": [],
-      "status": "tool"
+      "status": "covered",
+      "covered_by": "how-long-to-do-physiological-sigh"
     },
     {
       "keyword": "physiological sigh vs box breathing",
@@ -508,7 +509,7 @@
       "angle": "A true 60-second guided breath, the same length as a DeRot reset.",
       "seasonality": [],
       "status": "covered",
-      "covered_by": "how-long-to-do-box-breathing"
+      "covered_by": "how-long-to-do-physiological-sigh"
     },
     {
       "keyword": "breathing pacer",
@@ -3200,9 +3201,11 @@
       "content_type": "faq",
       "angle": "Exact counts: one to three sighs in the moment, or five minutes of cyclic sighing, and how to fit that into a mid-scroll pause.",
       "seasonality": [],
-      "status": "queued",
+      "status": "published",
       "source": "expansion",
-      "added": "2026-10-18"
+      "added": "2026-10-18",
+      "post": "how-long-to-do-physiological-sigh",
+      "published": "2026-10-30"
     },
     {
       "keyword": "resonance breathing timer",

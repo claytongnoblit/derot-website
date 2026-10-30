@@ -1,0 +1,287 @@
+{
+  "title_options": [
+    "How long to do a physiological sigh: 3 breaths or 5 minutes?",
+    "How Long Should You Do the Physiological Sigh? The Dosage Answer",
+    "Physiological sigh: how many, how long, and when to stop"
+  ],
+  "search_intent": "Informational, dosage-focused. The searcher already knows roughly what a physiological sigh is and wants a number: how many sighs, how many seconds or minutes, and how often. Answer in two tiers right away (1 to 3 sighs for a quick reset, about 5 minutes a day as the studied practice), then give practical guidance on when to stop and common mistakes.",
+  "serp_summary": "The results are mostly brand and wellness blogs (Oura, RingConn), Huberman Lab AI answer pages (\"1 to 3 sighs\"), Substack posts (\"three cycles in under 30 seconds\"), therapist worksheets (Mentalyc, Duke) and university news (Stanford Medicine, Greater Good, Scope). The usual format is a 3-step how-to followed by a science section, with duration treated as an afterthought. The top pages also mix up the two doses. Oura's title says \"30-second\" but its body pushes five minutes, and snippets give contradictory per-sigh timings. No top page states that Balban et al. 2023 tested only the 5-minute daily protocol and not single sighs. None includes safety notes or the study's limitations, none gives a feel-based rule for when to stop, and none offers a script for a real moment.",
+  "gaps": [
+    "Split the two doses clearly: 1 to 3 sighs (about 10 to 30 seconds) in the moment, versus about 5 minutes a day, which is the only dose that was studied.",
+    "Say plainly that single sighs were not tested in the Stanford trial. Support for them comes from expert observation and the physiology of spontaneous sighs.",
+    "Give a feel-based stopping rule: the exhale lengthens without effort, the jaw unclenches, the shoulders drop. Stop sooner if you feel tingly or lightheaded.",
+    "Cover the Vlemincx 2010 finding that an instructed sigh can slow recovery from stress. Use it to argue for sighs that are gentle and few.",
+    "Describe what one sigh, three sighs and five minutes each feel like.",
+    "Give a mid-scroll script (phone face-down, two or three sighs, body check).",
+    "State the study's limitations honestly: small groups, mostly undergraduates, 28 days, registered retrospectively, no change in HRV, sleep or resting heart rate, and an anxiety drop no better than mindfulness.",
+    "Add safety notes that competitors omit.",
+    "Cover the secondary keyword 'guided breathing exercise 1 minute' with a 1-minute version.",
+    "Internal link URLs for the box breathing duration post and the 4-6 breathing post were not in the notes. The writer must pull them from the site inventory. Link the physiological sigh timer under /tools/."
+  ],
+  "outline": [
+    {
+      "h2": "How long should you do a physiological sigh? The short answer",
+      "points": [
+        "Answer first: 1 to 3 sighs (double inhale through the nose, long slow exhale through the mouth) for a quick reset, which takes about 10 to 30 seconds. About 5 minutes of cyclic sighing for a daily practice.",
+        "The research tested the 5-minute daily dose for 28 days, not single sighs (S1).",
+        "Quotable definition: a physiological sigh is two inhales through the nose (a full breath, then a short top-up) followed by a long, unhurried exhale."
+      ]
+    },
+    {
+      "h2": "What the Stanford study actually tested (and what it didn't)",
+      "points": [
+        "Of the 108 people randomized, 30 did cyclic sighing. The protocol was 5 minutes a day for 28 days (S1).",
+        "In practice, sessions averaged about 5.8 minutes, and people practiced on about 20 of 28 days (S1).",
+        "Cyclic sighing raised positive affect more than mindfulness did, and the gain grew with more days of practice. Respiratory rate also fell (S1, S3).",
+        "Anxiety fell in every group with no difference between groups. HRV, resting heart rate and sleep did not change (S1).",
+        "Limitations: exploratory, remote, self-reported, mostly undergraduates. Use 108, not the 111 given in the press piece (S2).",
+        "Wider context: a meta-analysis found a small-to-moderate effect of breathwork on stress, with moderate risk of bias across studies (S7)."
+      ]
+    },
+    {
+      "h2": "How many physiological sighs at once? One vs. three vs. five minutes",
+      "points": [
+        "One sigh (about 10 seconds): a small release, often felt as an unclench. Greater Good notes that after one or two you may already feel calmer (S3).",
+        "Three sighs (about 30 seconds): enough for most in-the-moment resets.",
+        "Five minutes: a practice rather than a rescue. This is the studied dose. Point to the free physiological sigh timer at /tools/.",
+        "Approximate timing for each sigh: inhale about 2 to 3 seconds, top-up about 1 second, exhale about 6 to 8 seconds (roughly twice the inhale, S11). Present these as practical cues, not study findings.",
+        "Context: people sigh spontaneously about every five minutes (S6)."
+      ]
+    },
+    {
+      "h2": "How to do it: step by step",
+      "points": [
+        "Numbered steps: sit still, slow inhale through the nose, small second inhale, slow exhale through the mouth, then let the next breath be normal.",
+        "Nose-only breathing is fine. The study allowed it (S1).",
+        "A 1-minute version: three sighs, then about 30 seconds of easy breathing."
+      ]
+    },
+    {
+      "h2": "How to tell you've done enough",
+      "points": [
+        "Signs you can stop: the exhale lengthens without effort, the jaw unclenches, the shoulders drop, you stop pulling for air.",
+        "Stop as soon as you feel tingly or lightheaded (S10).",
+        "More is not better: an instructed sigh in a lab study appeared to slow recovery from mental stress (S5). Spontaneous sighs act like a 'resetter' (S4)."
+      ]
+    },
+    {
+      "h2": "Using a physiological sigh mid-scroll",
+      "points": [
+        "Script: put the phone face-down, do two or three slow sighs, check your jaw and shoulders, then take 30 seconds of easy breathing before deciding whether to pick the phone back up.",
+        "The problem is the feeling the feed leaves you with, not the minutes spent on it.",
+        "One light DeRot mention: it is built for this mid-scroll pause, pausing your apps while you reset with a few calming breaths."
+      ]
+    },
+    {
+      "h2": "Common mistakes that make sighing feel worse",
+      "points": [
+        "Forcing the second inhale until your chest strains.",
+        "Rushing or pushing the exhale.",
+        "Stacking fast sighs back to back, which drifts into over-breathing (S10).",
+        "Sighing all day until it stops feeling like a reset."
+      ]
+    },
+    {
+      "h2": "Safety: when to stop or skip it",
+      "points": [
+        "Stop if you feel dizzy, lightheaded or tingly in the hands, feet or around the mouth, then rest (S10, S11).",
+        "Go gently, or check with a clinician first, if you are pregnant, have a heart or lung condition, have a history of fainting, or find that focusing on your breath triggers panic.",
+        "Do it seated. Never while driving.",
+        "It is not a treatment. The trial excluded people with moderate to severe psychiatric conditions (S3), and about 10% of participants reported a negative experience (S1).",
+        "For persistent anxiety or sleep trouble, see a professional. For chest pain or fainting, call 911 or local emergency services. In a crisis in the US, call 988."
+      ]
+    },
+    {
+      "h2": "Related dosage guides",
+      "points": [
+        "Link the box breathing duration post and the 4-6 breathing post (from the site inventory) as sibling dosage guides.",
+        "Link the physiological sigh timer at /tools/."
+      ]
+    }
+  ],
+  "questions": [
+    "How many physiological sighs should I do at once?",
+    "Is one physiological sigh enough to calm down?",
+    "Is cyclic sighing the same as the physiological sigh?",
+    "Is it bad to do physiological sighs all day?",
+    "Why do I feel dizzy or tingly after physiological sighs?",
+    "Can I do the physiological sigh only through my nose?",
+    "How long should the exhale be?",
+    "Can cyclic sighing help me fall asleep?",
+    "Is a 1-minute breathing exercise enough?",
+    "Is cyclic sighing better than box breathing or meditation?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/9873947/",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.)",
+      "publisher": "Cell Reports Medicine / PubMed Central",
+      "year": "2023",
+      "key_findings": "Remote RCT with 108 participants, 30 of them in cyclic sighing. Protocol: 5 min/day for 28 days. Actual practice averaged 5.76 min per session on 19.61 of 28 days. Cyclic sighing outperformed mindfulness on positive affect, and the benefit grew with days practiced. Anxiety fell in all groups with no difference between them. No change in HRV, resting heart rate or sleep. Nose-only breathing was allowed. Single sighs were not tested. About 10% of participants reported negative experiences."
+    },
+    {
+      "id": "S2",
+      "url": "https://stanmed.stanford.edu/cyclic-sighing-stress-relief/",
+      "title": "Breathing anxiety away",
+      "publisher": "Stanford Medicine magazine",
+      "year": "2023",
+      "key_findings": "Spiegel recommends repeating the sigh for about five minutes. Cyclic sighers had the greatest daily improvement, and it grew over time. The article says 111 volunteers; use the paper's 108 instead."
+    },
+    {
+      "id": "S3",
+      "url": "https://greatergood.berkeley.edu/article/item/a_five_minute_breathing_exercise_for_anxiety_and_mood",
+      "title": "A Five-Minute Breathing Exercise for Anxiety and Mood",
+      "publisher": "Greater Good Science Center, UC Berkeley",
+      "year": "2023",
+      "key_findings": "Says that after one or two sighs you may already feel calmer, and that about five minutes gives the full effect. Positive affect gain was 1.91 for breathwork vs 1.22 for mindfulness. Heart rate was unchanged. People with moderate to severe psychiatric conditions were excluded."
+    },
+    {
+      "id": "S4",
+      "url": "https://research.vu.nl/en/publications/respiratory-variability-preceding-and-following-sighs-a-resetter-/",
+      "title": "Respiratory variability preceding and following sighs: a resetter hypothesis",
+      "publisher": "Biological Psychology (VU Amsterdam)",
+      "year": "2010",
+      "key_findings": "Lab study of 42 adults. Breathing variability shifted from random before a sigh to structured after it, which supports the idea of the sigh as a 'resetter.'"
+    },
+    {
+      "id": "S5",
+      "url": "https://research.vu.nl/en/publications/take-a-deep-breath-the-relief-effect-of-spontaneous-and-instructe/",
+      "title": "Take a deep breath: the relief effect of spontaneous and instructed sighs",
+      "publisher": "Physiology & Behavior (VU Amsterdam)",
+      "year": "2010",
+      "key_findings": "Spontaneous sighs were followed by lower muscle tension. An instructed sigh appeared to inhibit recovery from mental stress."
+    },
+    {
+      "id": "S6",
+      "url": "https://www.ucsf.edu/news/2017/08/408006/searching-brain-cells-control-our-breathing",
+      "title": "Searching for the brain cells that control our breathing",
+      "publisher": "UCSF News",
+      "year": "2017",
+      "key_findings": "Humans sigh spontaneously about every five minutes. Sighs help re-inflate the alveoli. Taken from the search summary only."
+    },
+    {
+      "id": "S7",
+      "url": "https://sussex.figshare.com/articles/journal_contribution/Effect_of_breathwork_on_stress_and_mental_health_a_meta-analysis_of_randomised-controlled_trials/23494097/1",
+      "title": "Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials",
+      "publisher": "Scientific Reports (University of Sussex repository)",
+      "year": "2023",
+      "key_findings": "Breathwork vs control on stress: g = -0.35 across 12 RCTs and 785 adults. Most studies had moderate risk of bias. Figures come from search summaries and need verifying before quoting."
+    },
+    {
+      "id": "S8",
+      "url": "https://www.psypost.org/breathwork-shows-promise-in-reducing-stress-anxiety-and-depression-according-to-new-meta-analysis",
+      "title": "Breathwork shows promise in reducing stress, anxiety and depression according to new meta-analysis",
+      "publisher": "PsyPost",
+      "year": "2023",
+      "key_findings": "Secondary coverage of S7 with cautious framing. Use only as a backup to S7."
+    },
+    {
+      "id": "S9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29209423/",
+      "title": "The physiological effects of slow breathing in the healthy human",
+      "publisher": "Breathe / PubMed",
+      "year": "2017",
+      "key_findings": "Review of slow breathing's effects on HRV, the baroreflex and sympathovagal balance. HRV peaks around 6 breaths per minute. The authors say more research is needed."
+    },
+    {
+      "id": "S10",
+      "url": "https://www.columbiadoctors.org/health-library/symptom/hyperventilation/",
+      "title": "Hyperventilation",
+      "publisher": "ColumbiaDoctors",
+      "year": "n.d.",
+      "key_findings": "Defines hyperventilation as breathing deeper and faster than normal. Symptoms include lightheadedness and tingling in the hands, feet or around the mouth. Call 911 for fainting or chest pain."
+    },
+    {
+      "id": "S11",
+      "url": "https://www.mentalyc.com/worksheets-and-cheatsheets/physiological-sigh",
+      "title": "Physiological sigh worksheet",
+      "publisher": "Mentalyc",
+      "year": "n.d.",
+      "key_findings": "Practical cue: exhale about twice as long as the inhale. Suggests starting with 5 minutes a day. The 'Dizzy? Stop and rest' line comes from the handout's search snippet."
+    },
+    {
+      "id": "S12",
+      "url": "https://ouraring.com/blog/what-is-the-physiological-sigh-how-to-do-it/",
+      "title": "The Physiological Sigh: A 30-Second Breathing Exercise to Lower Stress",
+      "publisher": "Oura",
+      "year": "2024",
+      "key_findings": "Top-ranking competitor. Its 30-second title conflicts with its 5-minute advice, and it has no safety section. Use for SERP context only."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "The Stanford trial randomized 108 people: 30 to cyclic sighing, 21 to box breathing, 33 to cyclic hyperventilation with retention, and 24 to mindfulness. Each group practiced 5 minutes a day for 28 days.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Breathwork sessions averaged 5.76 minutes, and participants completed about 19.6 of the 28 days.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Single sighs were not tested. The trial studied only repeated cyclic sighing over about 5 minutes.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Cyclic sighing produced a greater gain in daily positive affect than mindfulness, and the benefit grew with more days practiced.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "State anxiety fell in every group (sighing -3.85, mindfulness -3.95) with no significant difference between groups. HRV, resting heart rate and sleep did not change significantly.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Participants were allowed to do the sigh through the nose only, although nose-in, mouth-out was described as ideal.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "About 10% of participants reported negative experiences with the exercises.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Greater Good reports that after one or two deep sighs you may already feel calmer, with about five minutes recommended for the full effect.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "The trial excluded people with moderate to severe psychiatric conditions.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "In a lab study, an instructed sigh appeared to inhibit recovery from mental stress, while spontaneous sighs were followed by lower muscle tension.",
+      "source_id": "S5"
+    },
+    {
+      "fact": "In 42 healthy adults, breathing variability became more structured after a sigh, which supports the idea of the sigh as a 'resetter.'",
+      "source_id": "S4"
+    },
+    {
+      "fact": "Humans sigh spontaneously about every five minutes.",
+      "source_id": "S6"
+    },
+    {
+      "fact": "A meta-analysis of breathwork RCTs found a small-to-moderate effect on stress (g = -0.35, 12 RCTs, 785 adults), with moderate risk of bias across studies.",
+      "source_id": "S7"
+    },
+    {
+      "fact": "Symptoms of hyperventilation include lightheadedness and tingling in the hands, feet or around the mouth.",
+      "source_id": "S10"
+    },
+    {
+      "fact": "Worksheet cue: make the exhale about twice as long as the inhale.",
+      "source_id": "S11"
+    }
+  ],
+  "safety_notes": [
+    "Stop if you feel dizzy, lightheaded or tingly, and rest until your breathing is normal again (S10).",
+    "Don't force the second inhale or stack fast sighs back to back. Keep the sighs gentle and few (S5).",
+    "If you are pregnant, have a heart or lung condition, have a history of fainting, or find that breath focus triggers panic, go gently or check with a clinician first.",
+    "Do it seated or still. Never while driving.",
+    "Never say it treats anxiety or sleep problems. The trial found no change in sleep or HRV, and its anxiety drop was no better than mindfulness (S1).",
+    "Mention the roughly 10% negative-experience figure only in general terms.",
+    "For persistent anxiety, panic or sleep trouble, see a professional. For chest pain, fainting or severe breathlessness, call 911 or local emergency services. In a crisis in the US, call 988.",
+    "Present per-sigh timings as approximate cues, not research findings. Verify the S7 figures before quoting them."
+  ],
+  "word_count_target": 1500,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: how long to do a physiological sigh\n\n## SERP ANALYSIS\n\n**What ranks:**\n- **Brand and wellness blogs.** The two main ones are [Oura's \"The Physiological Sigh: A 30-Second Breathing Exercise\"](https://ouraring.com/blog/what-is-the-physiological-sigh-how-to-do-it/) (Feb 2024) and the RingConn guides. Both are technique explainers with a long section on benefits.\n- **Huberman Lab AI answer pages** ([exact protocol](https://ai.hubermanlab.com/s/2ER8Y1SF), [how to perform](https://ai.hubermanlab.com/s/i3BNhcHX)). These are chatbot pages that say \"1 to 3 sighs\" for in-the-moment use.\n- **Substack and newsletter posts**, such as [Beyond Productivity](https://beyondproductivity.substack.com/p/the-best-way-for-de-stressing-in), which says three cycles take \"less than 30 seconds.\"\n- **Therapist and clinical worksheets**, such as [Mentalyc](https://www.mentalyc.com/worksheets-and-cheatsheets/physiological-sigh) and the Duke clergy health handout.\n- **University science news**: Stanford Medicine magazine, Greater Good (Berkeley), and Stanford Scope.\n\n**Format that wins:** a short how-to with 3 steps, then a \"science\" section. Most pages get to one-sigh dosing quickly but treat duration as an afterthought.\n\n**What they cover well:**\n- The mechanics (two inhales through the nose, long exhale through the mouth)\n- Citing the 2023 Stanford study\n\n**What they miss or get wrong:**\n- **They mix up the two doses.** Oura's title says \"30-second,\" but its body and member tip push five minutes, and it never gives a clear count. Search snippets give a single sigh as both \"30 to 40 seconds\" and \"three in under 30 seconds,\" which contradict each other.\n- **They imply the study backs single sighs.** No top page says clearly that Balban et al. tested only the repeated 5-minute daily protocol. The paper itself confirms single sighs were not tested.\n- **No safety notes.** Oura has zero contraindications or lightheadedness warnings. Greater Good repeats the \"zero side effects\" line.\n- **No limitations.** None mention the small groups (30 people randomized to cyclic sighing), the mostly undergraduate sample, the 28-day length, retrospective registration, the null results on HRV, sleep, and resting heart rate, or that the anxiety drop was no better than meditation.\n- **Nothing on how to tell you've done enough,** or what one sigh vs. three vs. five minutes feels like.\n- **No real-moment script** (for example, after a feed has left you wired).\n- **No mention of the lab finding that an instructed sigh can backfire** (Vlemincx 2010). This is a strong gap to fill.\n\n## GAPS AND ANGLE\n\n1. **Answer the dosage question in two clear tiers.** In the moment: 1 to 3 sighs, roughly 10 to 30 seconds. As a practice: 5 minutes a day, which is the studied protocol. State plainly that the evidence base is the 5-minute daily dose. Single sighs come from expert observation (Greater Good quotes \"after one or two of these deep sighs, you may already feel calmer\") and the physiology of spontaneous sighs, not from a trial.\n2. **Present the timings as approximate and practical, not sourced.** A slow first inhale (about 2 to 3 s), a short top-up (about 1 s), and an unhurried exhale (about 6 to 8 s, roughly twice the inhale) make one sigh about 10 seconds, so three take about 30 seconds. Phrase this as \"about,\" not as a study finding. The Duke and Mentalyc handouts support \"exhale about twice as long as the inhale\" as a cue.\n3. **Offer a feel-based stopping rule.** Stop when the exhale comes out longer without effort, the jaw unclenches, the shoulders drop, or you notice you're not pulling in air anymore. Stop sooner if you feel tingly or lightheaded. Don't chase more sighs past that point. This is the information gain.\n4. **Add an honest nuance from Vlemincx 2010.** In a lab study, spontaneous sighs were followed by lower muscle tension, but an *instructed* sigh \"appeared to inhibit recovery from mental stress.\" Use this to argue for gentle, unforced sighs and a small number of them, not to undercut the technique.\n5. **Write the mid-scroll script.** Put the phone down, screen face-down. Do two or three slow sighs. Check the jaw and shoulders. Let the next breath be normal. Optionally do 30 seconds of easy breathing before deciding whether to pick the phone back up. This is the natural place for the one light DeRot mention: it's built for that mid-scroll pause, and the reset is a few calming breaths.\n6. **Cover the five-minute version.** Point to the free physiological sigh timer at /tools/. Note that in the study, people averaged about 5.8 minutes per session and about 20 of 28 days, so daily-ish is fine.\n7. **Link sibling dosage guides** (box breathing duration, 4-6 breathing) from the site inventory. Also handle the secondary keyword \"guided breathing exercise 1 minute\": three sighs plus 30 seconds of easy breathing is a natural 1-minute version.\n8. **Common mistakes:**\n   - Forcing the second inhale until the chest strains (it should be a small top-up)\n   - Rushing or pushing the exhale out\n   - Stacking fast sighs back to back, which drifts into over-breathing and lightheadedness\n   - Doing it constantly through the day, so it stops feeling like a reset\n\n## QUESTIONS\n\nNo Reddit threads came up in the searches. These questions come from patterns across the ranking pages, the Huberman AI Q&A titles, and the worksheets.\n- How many physiological sighs should I do at once?\n- How long does a physiological sigh take to work? Is one sigh enough?\n- Is cyclic sighing the same as the physiological sigh?\n- Is it bad to do physiological sighs too often, or all day?\n- Why do I feel dizzy or tingly after physiological sighs?\n- Do I have to exhale through my mouth, or can I do it all through the nose? (The paper allowed nose-only.)\n- How long should the exhale be? Twice the inhale?\n- Can I do cyclic sighing in bed to fall asleep? (The study found no sleep changes, so be careful here.)\n- Is a 1-minute breathing exercise enough to calm down?\n- Is cyclic sighing better than box breathing or meditation?\n\n## SOURCES\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/9873947/ | Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.) | Cell Reports Medicine / PubMed Central | 2023 | Remote RCT. 108 enrolled: 30 cyclic sighing, 21 box breathing, 33 cyclic hyperventilation with retention, 24 mindfulness. 5 min/day for 28 days. Actual practice 5.76 ± 5.32 min/session (breathwork); 19.61 ± 7.73 of 28 days completed. Instructions: slow inhale, second shorter inhale to fill lungs, slow full exhale; nose in and mouth out ideal, nose-only allowed. Single sighs not tested. Daily positive affect gain: cyclic sighing 1.89 ± 3.76 (p=0.025), breathwork combined 1.91, mindfulness 1.22. Mixed model: cyclic sighing > mindfulness on positive affect, and the benefit grew with days practiced. Respiratory rate fell more with breathwork (p<0.05). Respiratory-rate change correlated with positive affect (r = −0.24). State anxiety fell in all groups (sighing −3.85, mindfulness −3.95) with no significant between-group difference. No significant change in HRV, resting HR, or sleep. Limitations: exploratory, registered retrospectively, remote, self-report, 4 weeks, mostly undergraduates, small groups. 10% reported negative experiences in a debrief (details in Table S2, not read).\nhttps://stanmed.stanford.edu/cyclic-sighing-stress-relief/ | Breathing anxiety away | Stanford Medicine magazine | 2023 | Gives 111 volunteers (conflicts with the paper's 108; use the paper's number). 5 min/day for a month. Spiegel recommends \"repeating this for about five minutes.\" Breathing groups averaged 1.91 points above baseline on good feelings. Cyclic sighers had the greatest daily improvement, and it grew over time. The \"all day long\" subtitle is not supported in the body, so don't use it.\nhttps://greatergood.berkeley.edu/article/item/a_five_minute_breathing_exercise_for_anxiety_and_mood | A Five-Minute Breathing Exercise for Anxiety and Mood (Hadley Leggett) | Greater Good Science Center, UC Berkeley | Feb 24, 2023 | Says that after \"one or two of these deep sighs, you may already feel calmer.\" This is an expert observation, not a trial result. Spiegel: \"about five minutes\" for full effect. Positive affect 1.91 vs 1.22 for mindfulness (about one-third greater). Heart rate unchanged. People with moderate to severe psychiatric conditions were excluded. Avoid echoing its \"zero side effects\" line.\nhttps://research.vu.nl/en/publications/respiratory-variability-preceding-and-following-sighs-a-resetter-/ | Respiratory variability preceding and following sighs: a resetter hypothesis (Vlemincx et al.) | Biological Psychology (VU Amsterdam repository) | 2010 | 42 healthy adults breathing spontaneously for 20 min. Random breathing variability rose before a sigh, and structured variability rose after it. Supports sighs as a \"resetter\" of breathing. Small lab study of spontaneous sighs only.\nhttps://research.vu.nl/en/publications/take-a-deep-breath-the-relief-effect-of-spontaneous-and-instructe/ | Take a deep breath: the relief effect of spontaneous and instructed sighs (Vlemincx et al.) | Physiology & Behavior 101(1):67-73 | 2010 | Spontaneous sighs were followed by lower muscle tension (sEMG) and more structured breathing, which the authors read as relief. An instructed sigh gave a smaller drop in muscle tension and more random variability, and \"appeared to inhibit recovery from mental stress.\" Sample size not shown on the page. This is the nuance for \"don't force it, don't overdo it.\"\nhttps://www.ucsf.edu/news/2017/08/408006/searching-brain-cells-control-our-breathing | Searching for the brain cells that control our breathing | UCSF News | 2017 | Humans sigh spontaneously about every five minutes (mice about every two). Sighs help re-inflate small air sacs (alveoli). Covers Yackle and Feldman's work on preBötzinger sigh neurons. Taken from the search summary only, not fetched. Use only for the \"every five minutes\" context line.\nhttps://sussex.figshare.com/articles/journal_contribution/Effect_of_breathwork_on_stress_and_mental_health_a_meta-analysis_of_randomised-controlled_trials/23494097/1 | Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials (Fincham, Strauss, Montero-Marin, Cavanagh) | Scientific Reports 13:432 (University of Sussex repository) | 2023 | Preregistered (PROSPERO). Breathwork vs control on stress: g = −0.35 (95% CI −0.55 to −0.14), 12 RCTs, 785 adults. Similar effects for anxiety (k=20) and depression (k=18). Most studies had moderate risk of bias, and the authors urge caution. Numbers come from search summaries, not the full text, so verify before quoting exact figures.\nhttps://www.psypost.org/breathwork-shows-promise-in-reducing-stress-anxiety-and-depression-according-to-new-meta-analysis | Breathwork shows promise in reducing stress, anxiety and depression according to new meta-analysis | PsyPost | 2023 | Secondary coverage of Fincham et al. that backs up the cautious framing. Use only as a backup to the primary.\nhttps://pubmed.ncbi.nlm.nih.gov/29209423/ | The physiological effects of slow breathing in the healthy human (Russo, Santarelli, O'Rourke) | Breathe (Sheffield) / PubMed | 2017 | Review of slow breathing's effects on HRV, baroreflex, respiratory sinus arrhythmia, and sympathovagal balance. HRV typically peaks around 6 breaths/min (from a figure caption). The authors call the benefits \"claimed\" and say there is a \"dire need for further research.\" Use for the general physiology of a slow exhale.\nhttps://www.columbiadoctors.org/health-library/symptom/hyperventilation/ | Hyperventilation | ColumbiaDoctors (Columbia University Irving Medical Center) | n.d. | \"Hyperventilation is breathing that is deeper and more rapid than normal.\" Symptoms include lightheadedness, balance problems, and \"numbness or tingling in the hands, feet, or around the mouth.\" Call a doctor if episodes are frequent or severe. Call 911 for severe trouble breathing, fainting, or chest pain or pressure.\nhttps://www.mentalyc.com/worksheets-and-cheatsheets/physiological-sigh | Physiological sigh worksheet | Mentalyc | n.d. | Clinical-style handout. Exhale about twice as long as the inhale. Start with 5 minutes a day for a week and log stress before and after. \"Dizzy? Stop and rest until breathing is normal\" appears in the cyclic sighing handouts (Duke/Mentalyc search snippets). Practical, not authoritative.\nhttps://ouraring.com/blog/what-is-the-physiological-sigh-how-to-do-it/ | The Physiological Sigh: A 30-Second Breathing Exercise to Lower Stress | Oura | 2024 | Top-ranking competitor. Its \"30-second\" title conflicts with its 5-minute advice, and it has no safety section. For SERP context only, not for health claims.\n\n## SAFETY\n\n- **Stop if you feel dizzy, lightheaded, or tingly** in the hands, feet, or around the mouth. These are signs of over-breathing ([Columbia](https://www.columbiadoctors.org/health-library/symptom/hyperventilation/)). Rest and let breathing return to normal, as the cyclic sighing handouts advise.\n- **Don't force the second inhale or rush the sighs back to back.** Sighing fast and deep is the route to over-breathing. Keep the exhale slow and unpushed. One lab study found an *instructed* sigh could slow stress recovery ([Vlemincx 2010](https://research.vu.nl/en/publications/take-a-deep-breath-the-relief-effect-of-spontaneous-and-instructe/)), which is another reason to keep it gentle and few.\n- **Deep or forced breathing isn't for everyone.** People who are pregnant, have heart or lung conditions (asthma, COPD), have a history of fainting, or find breath focus triggers panic should go gently or check with a clinician first.\n- **Do it seated or still.** Don't do it while driving or standing somewhere a dizzy spell would be risky.\n- **Not a treatment.** The Stanford trial excluded people with moderate to severe psychiatric conditions ([Greater Good](https://greatergood.berkeley.edu/article/item/a_five_minute_breathing_exercise_for_anxiety_and_mood)). Its anxiety reduction was no better than meditation, and HRV and sleep didn't change. Use \"may help you feel calmer,\" never \"treats anxiety.\"\n- **Persistent anxiety, panic, or sleep trouble** should go to a professional. For fainting, chest pain, or severe breathlessness, call 911 or local emergency services. If someone is in crisis, point them to 988 in the US.\n- **About 10% of trial participants reported negative experiences** with the exercises ([Balban 2023](https://pmc.ncbi.nlm.nih.gov/articles/9873947/)). The details are in a supplementary table that wasn't reviewed, so mention it only in general terms.\n\n## Notes for the writer\n- **Participant count:** use the paper's 108 (30 in cyclic sighing), not the press release's 111.\n- **Fincham meta-analysis:** the numbers came from search summaries, not the full text, so verify them before quoting.\n- **UCSF \"every five minutes\" line:** taken from the search summary only. Use it as a single context line.\n- **Internal link URLs:** take the box breathing duration post and the 4-6 breathing post from the site inventory. I didn't see their exact URLs.\n\nSources:\n- [Huberman Lab AI: exact protocol](https://ai.hubermanlab.com/s/2ER8Y1SF)\n- [Huberman Lab AI: how to perform](https://ai.hubermanlab.com/s/i3BNhcHX)\n- [Beyond Productivity Substack](https://beyondproductivity.substack.com/p/the-best-way-for-de-stressing-in)\n- [Oura blog](https://ouraring.com/blog/what-is-the-physiological-sigh-how-to-do-it/)\n- [Balban et al. 2023, PMC](https://pmc.ncbi.nlm.nih.gov/articles/9873947/)\n- [Stanford Medicine magazine](https://stanmed.stanford.edu/cyclic-sighing-stress-relief/)\n- [Greater Good Science Center](https://greatergood.berkeley.edu/article/item/a_five_minute_breathing_exercise_for_anxiety_and_mood)\n- [Vlemincx 2010, resetter](https://research.vu.nl/en/publications/respiratory-variability-preceding-and-following-sighs-a-resetter-/)\n- [Vlemincx 2010, instructed sighs](https://research.vu.nl/en/publications/take-a-deep-breath-the-relief-effect-of-spontaneous-and-instructe/)\n- [UCSF News](https://www.ucsf.edu/news/2017/08/408006/searching-brain-cells-control-our-breathing)\n- [Fincham et al. 2023, Sussex repository](https://sussex.figshare.com/articles/journal_contribution/Effect_of_breathwork_on_stress_and_mental_health_a_meta-analysis_of_randomised-controlled_trials/23494097/1)\n- [PsyPost](https://www.psypost.org/breathwork-shows-promise-in-reducing-stress-anxiety-and-depression-according-to-new-meta-analysis)\n- [Russo et al. 2017, PubMed](https://pubmed.ncbi.nlm.nih.gov/29209423/)\n- [ColumbiaDoctors: Hyperventilation](https://www.columbiadoctors.org/health-library/symptom/hyperventilation/)\n- [Mentalyc worksheet](https://www.mentalyc.com/worksheets-and-cheatsheets/physiological-sigh)"
+}
