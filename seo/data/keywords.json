@@ -606,8 +606,9 @@
       "content_type": "how-to",
       "angle": "A 60-second protocol built on the physiological sigh and extended exhale.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Huberman snippets, wellness blogs rank."
+      "status": "covered",
+      "notes": "Huberman snippets, wellness blogs rank.",
+      "covered_by": "parasympathetic-breathing"
     },
     {
       "keyword": "how to regulate your nervous system",
@@ -719,7 +720,8 @@
       "content_type": "how-to",
       "angle": "Breath-led ways to switch on rest and digest, ranked by speed.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "parasympathetic-breathing"
     },
     {
       "keyword": "parasympathetic breathing",
@@ -731,7 +733,9 @@
       "content_type": "explainer",
       "angle": "Which breathing patterns lean you toward parasympathetic, and why exhales matter.",
       "seasonality": [],
-      "status": "queued"
+      "status": "published",
+      "post": "parasympathetic-breathing",
+      "published": "2026-11-02"
     },
     {
       "keyword": "sympathetic vs parasympathetic nervous system",
@@ -3159,9 +3163,10 @@
       "content_type": "list",
       "angle": "A short list of 60-second exercises, with exact counts, that bring a wound-up body back down, led by longer-exhale breathing.",
       "seasonality": [],
-      "status": "queued",
+      "status": "covered",
       "source": "expansion",
-      "added": "2026-10-18"
+      "added": "2026-10-18",
+      "covered_by": "parasympathetic-breathing"
     },
     {
       "keyword": "how to reset nervous system after stress",

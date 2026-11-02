@@ -1,0 +1,255 @@
+{
+  "title_options": [
+    "Parasympathetic breathing, explained plainly (and which patterns actually work)",
+    "Parasympathetic breathing: what tips you toward rest and digest",
+    "Parasympathetic breathing: rate, exhale, nose, belly, and a 30-second reset"
+  ],
+  "search_intent": "Informational explainer with how-to intent. Searchers want to know what parasympathetic breathing is, which breathing patterns calm the nervous system (and fastest), how to do them, and whether vagus nerve claims hold up. Format that ranks: long explainer with technique steps; beat it with an ingredient-based explanation, a ranked comparison table, honest evidence strength, safety, and a 30-second mid-scroll script.",
+  "serp_summary": "Top results are commercial wellness blogs (BetterUp, about 3,500-4,000 words; Othership) offering flat lists of about 10 techniques (belly, box, 4-7-8, alternate nostril, resonant, pursed-lip, Lion's Breath, humming, Ujjayi) with mostly unsourced benefit claims, almost no safety notes, and product promos. Shorter lifestyle explainers (Optimist Daily, Encompass Health, Substack, Maria Shriver, Cyprus Mail) stay general. A few PubMed/PMC abstracts and a Psychiatric Times review rank lower. None rank techniques by parasympathetic lean, separate the active ingredients, explain RSA/HRV, convey evidence strength, or address using breathing in a real wound-up moment.",
+  "gaps": [
+    "No ranking of techniques by how strongly they lean parasympathetic; competitors use flat lists of 10",
+    "No breakdown of which ingredient does the work: rate, exhale ratio, nose, belly",
+    "Conflate 'parasympathetic breathing' with 'deep breathing', though deep forceful breathing can be activating",
+    "Vagus nerve claims asserted, never explained; no RSA or explanation of what HRV can and cannot show",
+    "No sense of evidence strength (sample sizes, single sessions, mixed results, no mood change in Marchant 2025)",
+    "Safety almost absent despite breath holds and forceful techniques in their lists",
+    "Nothing about applying a technique mid-scroll; all 'practice 5-10 minutes twice daily'"
+  ],
+  "outline": [
+    {
+      "h2": "What is parasympathetic breathing? (quick answer)",
+      "points": [
+        "Answer-first 40-60 words: an informal name for slow, gentle breathing patterns, especially around six breaths per minute with longer exhales, associated with higher vagally mediated HRV and feeling calmer",
+        "Not a formal clinical term; not the same as 'deep breathing'",
+        "Parasympathetic 'rest and digest' vs sympathetic 'fight or flight' in one plain paragraph, leading with how it feels (wired, jaw clenched vs shoulders dropping)",
+        "Key number: slow breathing usually defined as under 10 breaths/min (Zaccaro 2018)"
+      ]
+    },
+    {
+      "h2": "How does breathing affect the parasympathetic nervous system?",
+      "points": [
+        "Respiratory sinus arrhythmia: heart speeds slightly on the inhale, slows on the exhale",
+        "Slow breathing enlarges that swing; HRV is a proxy for vagal influence on the heart, not a direct readout",
+        "Laborde 2022 meta-analysis: 223 studies, vmHRV up during, right after, and after multi-session practice",
+        "Mechanisms still debated (Zaccaro 2018); breathing shifts balance gradually, not a switch"
+      ]
+    },
+    {
+      "h2": "Which breath features tip you toward rest and digest?",
+      "points": [
+        "H3 Slower rate, around six breaths per minute (strongest evidence): Laborde 2022; Gerbarg and Brown suggest about 4.5-6 cycles/min",
+        "H3 Exhale longer than inhale (supportive, mixed): Van Diest 2014 n=30, longer exhale raised relaxation ratings; HF-HRV boost only at 6 bpm; say later work found mixed results (no citation)",
+        "H3 Breathing through the nose (early): Watso 2023 n=20, 5-minute crossover, lower diastolic BP and higher HF share of HRV; no change in heart rate or systolic BP",
+        "H3 A soft belly (plausible, least tested): no source tests it alone; frame as a habit that makes slow, gentle breathing easier",
+        "Gentle, not big: over-breathing works against you"
+      ]
+    },
+    {
+      "h2": "Parasympathetic breathing patterns compared: which leans calmest?",
+      "points": [
+        "Markdown table: Pattern | Timing | Parasympathetic lean (evidence) | Ease mid-scroll | Watch-outs",
+        "Calm 4-6: strongest HRV evidence (Marchant 2025), easy, keep it gentle (mild over-breathing reported)",
+        "Physiological/cyclic sigh: best mood evidence with daily practice (Balban 2023), no HRV change; very easy; 'fast' feel is experiential, not trial data",
+        "4-7-8: lowered heart rate and BP in one small non-randomized session (Vierra 2022); HRV mixed; 7-second hold hard and conspicuous",
+        "Box 4-4-4-4: raised HRV less than 6 bpm in Marchant; holds harder",
+        "Fast or forceful (cyclic hyperventilation, kapalabhati, Lion's Breath): leans sympathetic; not for calming down",
+        "Honest caveat: in Marchant no pattern changed mood or blood pressure in one session"
+      ]
+    },
+    {
+      "h2": "Can you really hack your vagus nerve with breathing?",
+      "points": [
+        "What evidence supports: slow breathing reliably raises HRV/RSA markers",
+        "What it does not show: a switched-on vagus nerve, device-like stimulation, cures",
+        "Balban 2023: mood improved with daily sighing while HRV and resting heart rate did not change significantly, so feeling and markers do not always move together",
+        "Sample sizes, single sessions, student samples, commercial ties: how to read the headlines"
+      ]
+    },
+    {
+      "h2": "Why fast or forceful breathing works the other way",
+      "points": [
+        "Gerbarg and Brown: rapid, forceful breathing is activating and increases sympathetic tone",
+        "Deep and forceful is not the same as slow and gentle",
+        "When activating breathing has a place, and why it is the wrong tool when a feed has wound you up"
+      ]
+    },
+    {
+      "h2": "How to do parasympathetic breathing: Calm 4-6 step by step",
+      "points": [
+        "Numbered steps: nose in for 4, soft belly, out through nose or pursed lips for 6, about six breaths per minute",
+        "Physiological sigh steps: slow inhale, short top-up inhale, slow full exhale",
+        "Common mistakes: breathing too big, forcing holds, clenching jaw/shoulders",
+        "Shorten phases if straining (Balban protocol); link /tools/ calm 4-6 breathing and physiological sigh"
+      ]
+    },
+    {
+      "h2": "A 30-second parasympathetic breathing reset for mid-scroll",
+      "points": [
+        "The moment: you opened the app for one thing and are now wired and jaw-clenched; the feed is the problem, not you",
+        "Script option A: three Calm 4-6 breaths (about 10 seconds each)",
+        "Script option B: one or two physiological sighs, then two 4-6 breaths",
+        "Body cues: unclench jaw, drop shoulders, soften belly, eyes off the screen",
+        "One light DeRot mention: DeRot pauses your apps while you reset with a few calming breaths (coming soon to iOS)"
+      ]
+    },
+    {
+      "h2": "Safety: lightheadedness, breath holds, and when to get help",
+      "points": [
+        "Stop if dizzy, tingly, or airy; return to normal breathing; slow should also be gentle",
+        "Holds and fast breathing are not for everyone: pregnancy, heart or lung conditions, history of fainting or panic",
+        "Severe symptomatic asthma: slow breathing may narrow airways; stop if tight",
+        "Rapid breath practices can lower lithium levels; never do forceful breathing driving or in water",
+        "Breathing can help you feel calmer; it does not treat anxiety, panic, insomnia, or blood pressure; talk to a professional; 988 in the US in a crisis"
+      ]
+    }
+  ],
+  "questions": [
+    "What breathing pattern activates the parasympathetic nervous system fastest?",
+    "Does a longer exhale really calm you down?",
+    "Is 4-7-8 or box breathing better for calming down?",
+    "Does nose breathing activate the parasympathetic nervous system?",
+    "How do I know my parasympathetic system is activated?",
+    "Why do I feel dizzy doing breathing exercises?",
+    "Is deep breathing the same as parasympathetic breathing?",
+    "How many breaths until the parasympathetic system kicks in?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://pure.solent.ac.uk/en/publications/effects-of-voluntary-slow-breathing-on-heart-rate-and-heart-rate-/",
+      "title": "Effects of voluntary slow breathing on heart rate and heart rate variability: a systematic review and meta-analysis",
+      "publisher": "Neuroscience & Biobehavioral Reviews (Laborde et al.)",
+      "year": "2022",
+      "key_findings": "223 studies included from 1,842 abstracts; vagally mediated HRV increased during, immediately after one session, and after multi-session slow breathing. Low-cost, few adverse effects expected. No effect sizes available; do not quote any."
+    },
+    {
+      "id": "S2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39864026/",
+      "title": "Comparing the Effects of Square, 4-7-8, and 6 Breaths-per-Minute Breathing Conditions on HRV, CO2 Levels, and Mood",
+      "publisher": "Applied Psychophysiology and Biofeedback (Marchant, Khazan, Cressman, Steffen)",
+      "year": "2025",
+      "key_findings": "n=84 college students. 6 bpm (4:6 and 5:5) raised HRV more than square or 4-7-8, small to medium effects. No condition meaningfully changed blood pressure or mood. 6 bpm unexpectedly caused mild over-breathing. 4:6 vs 5:5 difference not reported in abstract."
+    },
+    {
+      "id": "S3",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Cell Reports Medicine (Balban et al.)",
+      "year": "2023",
+      "key_findings": "Remote RCT n=108, about 5 min/day for 28 days. Only cyclic sighing differed significantly from mindfulness on daily positive affect; benefit grew with days of practice. Lower respiratory rate correlated with higher positive affect (r=-0.24). State anxiety fell in all groups equally. No significant HRV or resting heart rate change. Exploratory, retrospectively registered, mostly students, one author advised WHOOP. Shorten phases if straining."
+    },
+    {
+      "id": "S4",
+      "url": "https://research.vu.nl/en/publications/inhalationexhalation-ratio-modulates-the-effect-of-slow-breathing/",
+      "title": "Inhalation/Exhalation Ratio Modulates the Effect of Slow Breathing on Heart Rate Variability and Relaxation",
+      "publisher": "Applied Psychophysiology and Biofeedback (Van Diest et al.)",
+      "year": "2014",
+      "key_findings": "n=30, single session. 6 vs 12 bpm crossed with ratio 0.42 vs 2.33. Longer exhale raised self-reported relaxation, stress reduction, mindfulness, positive energy; slow rate alone only raised positive energy; longer exhale raised HF-HRV only at 6 bpm."
+    },
+    {
+      "id": "S5",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6137615/",
+      "title": "How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing",
+      "publisher": "Frontiers in Human Neuroscience (Zaccaro et al.)",
+      "year": "2018",
+      "key_findings": "Slow breathing defined as under 10 breaths/min; 15 studies in healthy adults. Increased HRV and RSA, EEG alpha up, theta down; more comfort and relaxation, less anxiety, anger, confusion. Mechanisms remain under debate; nasal-olfactory pathway is a hypothesis."
+    },
+    {
+      "id": "S6",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11178300/",
+      "title": "Acute nasal breathing lowers diastolic blood pressure and increases parasympathetic contributions to heart rate variability in young adults",
+      "publisher": "American Journal of Physiology: Regulatory, Integrative and Comparative Physiology (Watso et al.)",
+      "year": "2023",
+      "key_findings": "Randomized crossover n=20, 5 min nasal vs oral at rest. Diastolic BP 68 vs 72 mmHg; HF share of HRV 59% vs 52%; LF/HF 0.9 vs 1.2. No difference in systolic BP or heart rate; no benefit during exercise. Proof-of-concept, no power analysis, no CO2 measured."
+    },
+    {
+      "id": "S7",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9277512/",
+      "title": "Effects of sleep deprivation and 4-7-8 breathing control on HRV, blood pressure, blood glucose, and endothelial function in healthy young adults",
+      "publisher": "Physiological Reports (Vierra et al.)",
+      "year": "2022",
+      "key_findings": "Non-randomized n=43, single session of 3 sets of 6 cycles (about 3 bpm). Heart rate fell (control 71.4 to 66.0 bpm), systolic BP 109.0 to 104.9. SDNN fell 13% in both groups; RMSSD fell 8% in sleep-deprived group. HRV mixed; no control breathing condition."
+    },
+    {
+      "id": "S8",
+      "url": "https://www.psychiatrictimes.com/special-reports/neurobiology-and-neurophysiology-breath-practices-psychiatric-care",
+      "title": "Neurobiology and Neurophysiology of Breath Practices in Psychiatric Care",
+      "publisher": "Psychiatric Times (Gerbarg and Brown)",
+      "year": "2016",
+      "key_findings": "Slow, gentle breathing increases parasympathetic tone; rapid, forceful breathing is activating and increases sympathetic tone. About 4.5-6 cycles/min for most adults; prolonged exhale increases vagal influence. Adverse reactions rare; slow breathing may narrow airways in severe symptomatic asthma; rapid breathing can lower lithium levels. Evidence 'small but growing.' Authors have commercial breathwork ties."
+    },
+    {
+      "id": "S9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23814719/",
+      "title": "Assessment of the effects of pranayama/alternate nostril breathing on the parasympathetic nervous system in young adults",
+      "publisher": "Journal of Clinical and Diagnostic Research",
+      "year": "2013",
+      "key_findings": "Small study of healthy young men; parasympathetic tone 'enhanced appreciably.' Weak design; use only as an example of small early evidence, if at all."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "A 2022 meta-analysis of 223 studies found vagally mediated HRV increased during slow breathing, immediately after a single session, and after multi-session practice.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Slow breathing is commonly defined as fewer than 10 breaths per minute; a review of 15 studies linked it to higher HRV and RSA and more relaxation.",
+      "source_id": "S5"
+    },
+    {
+      "fact": "Mechanisms linking slow breathing to its psychological effects remain under debate.",
+      "source_id": "S5"
+    },
+    {
+      "fact": "In 84 college students, breathing at 6 breaths per minute raised HRV more than box or 4-7-8 breathing, with small to medium effects.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "In the same study, no breathing condition meaningfully changed mood or blood pressure, and 6 bpm breathing unexpectedly caused mild over-breathing.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "In a 30-person study, a longer exhale than inhale raised self-reported relaxation, and raised HF-HRV only when breathing at 6 breaths per minute.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "Five minutes of nasal vs mouth breathing at rest in 20 young adults: diastolic blood pressure 68 vs 72 mmHg and HF share of HRV 59% vs 52%; no difference in heart rate or systolic pressure.",
+      "source_id": "S6"
+    },
+    {
+      "fact": "A single 4-7-8 session in 43 young adults lowered heart rate (71.4 to 66.0 bpm in controls) and systolic BP, but SDNN fell 13% in both groups; study was non-randomized with no control breathing condition.",
+      "source_id": "S7"
+    },
+    {
+      "fact": "In a 108-person remote trial of about 5 minutes a day for 28 days, only cyclic sighing significantly beat mindfulness on daily positive affect, and its benefit grew with days of practice.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "In that trial, HRV and resting heart rate did not change significantly in any group, and state anxiety fell in all groups equally.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "Cyclic sigh technique: slow inhale, a second short top-up inhale, then a slow full exhale.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "Clinician review: slow, gentle breathing increases parasympathetic tone; rapid, forceful breathing is activating and increases sympathetic tone; about 4.5 to 6 cycles per minute suits most adults.",
+      "source_id": "S8"
+    },
+    {
+      "fact": "Slow breathing may narrow airways in severe symptomatic asthma, and rapid breath practices can lower lithium levels.",
+      "source_id": "S8"
+    }
+  ],
+  "safety_notes": [
+    "Stop if dizzy, tingly, or lightheaded and return to normal breathing; even 6 bpm caused mild over-breathing (S2), so keep breaths gentle, not big.",
+    "Breath holds (4-7-8, box) and fast breathing are not for everyone: pregnancy, heart or lung conditions, history of fainting or panic. Skip holds or shorten phases if straining (S3).",
+    "Fast or forceful techniques (cyclic hyperventilation, kapalabhati, Lion's Breath) are activating, not calming (S8); never do them while driving, in water, or where fainting is dangerous.",
+    "Severe symptomatic asthma: slow breathing may narrow airways; stop if breathing feels tight (S8). Rapid breathing can affect lithium levels (S8).",
+    "Do not claim breathing treats anxiety, panic, insomnia, or blood pressure. Recommend a professional for persistent anxiety, sleep problems, or distress; in crisis, local emergency services or call/text 988 (US).",
+    "No NHS/NIH/Mayo safety page was found; safety claims rely on S2, S3, S8. Do not cite Grossman and Taylor 2007, Meehan and Shaffer 2024, or the bioRxiv preprint."
+  ],
+  "word_count_target": 2300,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: parasympathetic breathing (explainer)\n\n## SERP ANALYSIS\n\n**What ranks.** Results for \"parasympathetic breathing\" and \"how to activate parasympathetic nervous system breathing exercises\" are mostly commercial wellness blogs. A few PubMed and PMC abstracts and a bioRxiv preprint show up lower down.\n\n- **BetterUp, \"Parasympathetic breathing exercises\"** (top result for both queries). It is long, about 3,500 to 4,000 words (it labels itself a 19-minute read). The H2s are: what is it, what is the PNS, the connection, sympathetic vs parasympathetic breathing, \"10 benefits,\" and \"10 exercises.\" The exercises are belly, box, 4-7-8, alternate nostril, breath focus, resonant, pursed-lip, Lion's Breath, humming bee, and Ujjayi. It links one NCBI study. Most claims have no source (cortisol, immunity, temperature, blood pressure from humming). It says almost nothing about safety: no note on breath holds, Lion's Breath's forceful exhale, or dizziness. It also lists bronchoconstriction as a \"benefit,\" and product promos are scattered through the text.\n- **Othership, \"Deep breathing & the parasympathetic nervous system.\"** Close to the same 10-technique list. It says breathing connects to the PNS \"through the vagus nerve\" but never explains how, and it mixes up \"autonomic\" with \"sympathetic.\" It calls 5 breaths/min the \"ideal\" rate without a source. The six-item resource list is mostly pop-science, and there are no real safety notes. It promotes the Othership app and a free trial.\n- **Optimist Daily, Encompass Health, Substack, Maria Shriver, Cyprus Mail (2026).** Short lifestyle explainers. Encompass Health is the only clinical-facing one, and it stays general (heart rate, blood pressure, digestion).\n- **Research in the SERP:** a small alternate-nostril PubMed study (23814719), PMC4457838, a Psychiatric Times review by Gerbarg and Brown, and an unreviewed 2026 bioRxiv preprint (we could only see its title, so don't use it).\n\n**What they do well.** Step-by-step instructions, broad coverage of techniques, and the basic idea that slow, longer-exhale breathing is calming.\n\n**What they miss or get wrong.**\n1. None of them ranks techniques by how strongly they lean parasympathetic. They are flat lists of 10, which is the confusion our reader describes.\n2. They don't say which *ingredient* does the work (rate, exhale ratio, nose, belly).\n3. They treat \"parasympathetic breathing\" as a formal term and as the same thing as \"deep breathing.\" Deep, forceful breathing can do the opposite.\n4. Vagus-nerve claims are asserted, not explained. Nobody explains RSA or what HRV can and can't tell you.\n5. They give no sense of evidence strength (sample sizes, single sessions, mixed results).\n6. Safety is close to absent, even though the lists include breath holds and forceful techniques.\n7. Nothing covers using a technique in a real moment of being wound up. It's all \"practice 5 to 10 minutes twice a day.\"\n\n## GAPS AND ANGLE\n\n**Information gain for DeRot:**\n\n- **Ingredients, not techniques.** Name what seems to tip the balance, ranked by evidence:\n  - **Slower rate, around 6 breaths/min (strongest).** A 2022 meta-analysis of 223 studies found vagally mediated HRV went up during, right after, and after multi-session slow breathing.\n  - **Exhale longer than inhale (supportive but mixed).** Van Diest 2014 (n=30): a low inhale/exhale ratio raised self-rated relaxation, and raised HF-HRV only at 6 bpm. A 2024 follow-up (Meehan and Shaffer) reportedly found no ratio effect on HRV. We could only see that in a search snippet, so describe it as \"later work found mixed results\" and don't cite it.\n  - **Nose breathing (early).** Watso 2023, n=20, 5-minute crossover.\n  - **Soft belly (plausible, least directly tested).** None of our sources tests it on its own. Present it as a supporting habit that makes slow breathing easier, not as a proven separate lever.\n- **The honest centerpiece, the ranking surprise.** Marchant 2025 (n=84) compared square (box), 4-7-8, and 6 bpm (4:6 and 5:5). 6 bpm raised HRV more than box or 4-7-8, but the effects were small to medium, and **no condition changed mood or blood pressure**. 6 bpm also caused *mild over-breathing*. That supports leading with Calm 4-6, honestly: it moves the physiology marker most, it isn't magic, and you keep it gentle so you don't over-breathe.\n- **The 4-7-8 nuance.** Popular write-ups say Vierra 2022 \"improved HRV.\" In the paper's own numbers, heart rate and blood pressure dropped, but SDNN fell 13% in both groups, and RMSSD fell 8% in the sleep-deprived group. The study wasn't randomized, had no control breathing condition, 43 people, a single session. The fair summary: \"4-7-8 lowered heart rate and blood pressure in one small, non-randomized session study. HRV results were mixed.\"\n- **The cyclic sigh nuance.** Balban 2023 (n=108): 5 min/day for 28 days. Cyclic sighing was the only arm that beat mindfulness on daily positive affect, and its benefit grew with more days of practice. But HRV and resting heart rate didn't change significantly in any group. The study was exploratory and registered after the fact, and the sample was mostly university students. Good evidence for mood, not proof of \"vagal activation.\"\n- **RSA and HRV vs \"vagus hack.\"** Your heart rate naturally speeds up a little on the inhale and slows on the exhale (respiratory sinus arrhythmia). Slow breathing makes that swing bigger, and HRV is a *proxy* for vagal influence on the heart. It is not a direct reading of a \"switched on\" vagus nerve. Grossman and Taylor (2007, Biological Psychology 74:263-285, PMID 17081672) say breathing rate and depth themselves confound RSA. We could not find a verified URL for it, so either leave it uncited or have the writer source it separately. The fair line: you can't consciously \"stimulate\" the vagus nerve like a device. Breathing shifts autonomic balance gradually, not like flipping a switch.\n- **Fast or forceful breathing works the other way.** Gerbarg and Brown: \"rapid, forceful breathing is activating and increases sympathetic tone.\" Balban's cyclic hyperventilation arm is an example of a deliberately activating pattern.\n- **Mid-scroll 30-second script.** About three Calm 4-6 breaths (10 s each), or one or two physiological sighs and then two 4-6 breaths. Nose in, soft belly, exhale through the nose or pursed lips, unclench the jaw, drop the shoulders. Point readers to /tools/ (calm 4-6, physiological sigh).\n- **Suggested comparison table rows.** Rank by \"parasympathetic lean (evidence)\" and \"ease mid-scroll\":\n  - Calm 4-6: strongest HRV evidence, easy.\n  - Physiological sigh: good mood evidence with daily practice, very easy, works fastest in 1-2 breaths. Note that the claim about speed is based on how it feels, not on trial data.\n  - 4-7-8: lowers heart rate in one small study, mixed HRV, the 7-second hold is hard and conspicuous.\n  - Box: in Marchant it moved HRV less than 6 bpm, and the holds are harder.\n  - Fast or forceful breathing (Wim Hof style, kapalabhati, Lion's Breath): leans sympathetic, not for calming down.\n\n## QUESTIONS (PAA, forum style)\n\n- What is parasympathetic breathing?\n- What breathing pattern activates the parasympathetic nervous system fastest?\n- Does a longer exhale really calm you down, and why?\n- Is 4-7-8 or box breathing better for calming down?\n- What is the 4-6 (or 4-7-8) ratio and does the exact count matter?\n- How many breaths or how long until the parasympathetic system kicks in?\n- Does nose breathing activate the parasympathetic nervous system?\n- Can you really \"hack\" or stimulate the vagus nerve with breathing?\n- How do I know my parasympathetic system is activated (signs, HRV)?\n- Why do I feel dizzy or lightheaded doing breathing exercises?\n- Is deep breathing the same as parasympathetic breathing?\n- How do you calm your nervous system fast? Are there nervous system reset exercises?\n\n## SOURCES\n\nhttps://pure.solent.ac.uk/en/publications/effects-of-voluntary-slow-breathing-on-heart-rate-and-heart-rate-/ | Effects of voluntary slow breathing on heart rate and heart rate variability: a systematic review and meta-analysis (Laborde et al.) | Neuroscience & Biobehavioral Reviews 138:104711 | 2022 | 1,842 abstracts screened, 223 studies included (172 during, 16 immediately after one session, 49 after multi-session interventions). Vagally mediated HRV increased at all three time points. Authors call slow breathing a low-cost, low-tech option for prevention and as an adjunct, with few adverse effects expected. The effect sizes weren't on this page, so don't quote any.\n\nhttps://pubmed.ncbi.nlm.nih.gov/39864026/ | Comparing the Effects of Square, 4-7-8, and 6 Breaths-per-Minute Breathing Conditions on HRV, CO2 Levels, and Mood (Marchant, Khazan, Cressman, Steffen) | Applied Psychophysiology and Biofeedback 50(2):261-276 | 2025 | n=84 college students (60% female). Conditions: square, 4-7-8, 6 bpm at 4:6, 6 bpm at 5:5. 6 bpm raised HRV more than square or 4-7-8, with small to medium effects. No condition meaningfully changed blood pressure or mood. \"Unexpectedly, breathing at 6 bpm led to mild over-breathing.\" The abstract doesn't say whether 4:6 differed from 5:5.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9873947 | Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.) | Cell Reports Medicine 4(1) | 2023 | Remote RCT, n=108 (30 cyclic sighing, 21 box, 33 cyclic hyperventilation with retention, 24 mindfulness). About 5 min/day for 28 days. Breathwork beat mindfulness on daily positive affect, and only cyclic sighing differed significantly from mindfulness on its own. Its benefit grew with more days of practice. Sighing reduced respiratory rate more than mindfulness (p<0.05). Lower breathing rate correlated with higher positive affect (r=-0.24). State anxiety fell in all groups with no difference between them. No significant change in HRV or resting heart rate. Exploratory, registered after the fact, self-reported adherence, mostly student sample, one author was an advisor to WHOOP. Sigh technique: slow inhale, a second short top-up inhale, then a slow full exhale. Box protocol: shorten phases if straining.\n\nhttps://research.vu.nl/en/publications/inhalationexhalation-ratio-modulates-the-effect-of-slow-breathing/ | Inhalation/Exhalation Ratio Modulates the Effect of Slow Breathing on Heart Rate Variability and Relaxation (Van Diest et al.) | Applied Psychophysiology and Biofeedback 39(3-4):171-180 | 2014 | n=30. Tested 6 vs 12 breaths/min crossed with inhale/exhale ratios of 0.42 vs 2.33. A low ratio (longer exhale) increased self-reported relaxation, stress reduction, mindfulness, and positive energy. A slower rate on its own only raised positive energy. A low ratio raised HF-HRV only at 6 bpm. Single session, small sample.\n\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC6137615/ | How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing (Zaccaro et al.) | Frontiers in Human Neuroscience | 2018 | Defined slow breathing as under 10 breaths/min. 2,461 abstracts screened, 15 studies included, healthy adults only. Slow breathing increased HRV and RSA, increased EEG alpha and decreased theta. Reported more comfort and relaxation and less anxiety, depression, anger, and confusion. Mechanisms \"remain under debate.\" The nasal-to-olfactory-bulb pathway is a hypothesis. (Alternate URLs from search: https://pubmed.ncbi.nlm.nih.gov/30245619/ and https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full)\n\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC11178300/ | Acute nasal breathing lowers diastolic blood pressure and increases parasympathetic contributions to heart rate variability in young adults (Watso et al.) | American Journal of Physiology: Regulatory, Integrative and Comparative Physiology 325(6):R797-R808 | 2023 | Randomized crossover, n=20 (median age 18), 5 min nasal vs 5 min oral at rest. Diastolic BP 68 vs 72 mmHg. HF share of HRV 59% vs 52% (d=0.50). LF/HF 0.9 vs 1.2 (d=0.49). No difference in systolic BP or heart rate, and no benefit during exercise. A proof-of-concept study with no power analysis and no CO2 measurement. The legend of Figure 3 contradicts the results text. (The URL redirects to pmc.ncbi.nlm.nih.gov/articles/PMC11178300/)\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9277512/ | Effects of sleep deprivation and 4-7-8 breathing control on HRV, blood pressure, blood glucose, and endothelial function in healthy young adults (Vierra et al.) | Physiological Reports | 2022 | Not randomized, n=43 (36 female), grouped by sleep duration. One session: 3 sets of 6 cycles of 4-7-8, about 3 breaths/min. Afterward heart rate fell (control 71.4→66.0 bpm), systolic BP fell (109.0→104.9, p<0.001), and LF/HF fell 27% in controls. But SDNN fell 13% in both groups and RMSSD fell 8% in the sleep-deprived group. HRV results were mixed. No control breathing condition.\n\nhttps://www.psychiatrictimes.com/special-reports/neurobiology-and-neurophysiology-breath-practices-psychiatric-care | Neurobiology and Neurophysiology of Breath Practices in Psychiatric Care (Gerbarg and Brown) | Psychiatric Times | 2016 (modified 2020) | Clinician review. \"Slow, gentle breathing is calming and increases parasympathetic tone. Rapid, forceful breathing is activating and increases sympathetic tone.\" Suggests about 4.5 to 6 cycles/min for most adults. A prolonged exhale increases vagal influence. \"Adverse reactions are rare.\" Slow breathing may narrow the airways in severe symptomatic asthma. Rapid breath practices can lower lithium levels. The evidence base is \"small but growing.\" The authors have commercial ties to breathwork workshops and books.\n\nhttps://pubmed.ncbi.nlm.nih.gov/23814719/ | Assessment of the effects of pranayama/alternate nostril breathing on the parasympathetic nervous system in young adults | Journal of Clinical and Diagnostic Research | 2013 | Small study of healthy young men, parasympathetic tone \"enhanced appreciably.\" Weak design. Use only as an example of the small, early evidence, if at all.\n\nhttps://www.betterup.com/blog/parasympathetic-breathing-exercises | Parasympathetic breathing exercises | BetterUp | undated | Competitor reference only, not for citing claims.\n\nhttps://www.othership.us/resources/deep-breathing-the-parasympathetic-nervous-system-the-connection | Deep breathing and the parasympathetic nervous system | Othership | undated | Competitor reference only, not for citing claims.\n\n**Don't use as sources:** the Grossman and Taylor 2007 RSA paper (no verified URL), the Meehan and Shaffer 2024 ratio study (search snippet only), and the bioRxiv 2026 preprint (not reviewed, contents not seen).\n\n## SAFETY\n\n- **Lightheadedness, tingling, over-breathing.** Even 6 bpm caused mild over-breathing in Marchant 2025, so slow should also mean *gentle and not too deep*. If you feel dizzy, tingly, or \"airy,\" stop and go back to normal breathing. Breathing in bigger than you need defeats the point.\n- **Breath holds** (4-7-8's 7-second hold, box breathing's holds). Balban's protocol tells people to shorten the phases if straining. Holds and fast breathing aren't for everyone: pregnancy, heart or lung conditions, a history of fainting, or panic. People with these should skip holds, keep it gentle, or ask a clinician.\n- **Fast or forceful techniques** (cyclic hyperventilation, Lion's Breath, kapalabhati) are activating, not calming (Gerbarg and Brown). Never do them while driving, standing in water, or anywhere fainting would be dangerous. Rapid breath practices can affect lithium levels (Gerbarg and Brown).\n- **Asthma.** Slow breathing may narrow the airways in severe symptomatic asthma (Gerbarg and Brown). Stop if breathing feels tight.\n- **Keep the scope honest.** Breathing can help you feel calmer and is linked to higher HRV. It does not treat anxiety disorders, panic, insomnia, or blood pressure. For anxiety, sleep problems, or distress that keeps going, talk to a professional. In a crisis, contact local emergency services or call or text 988 (US).\n- **No authoritative safety page.** None of our 10 searches turned up a government or major-clinic safety page (NHS, NIH, or Mayo). The safety notes above rely on the studies and the Psychiatric Times review. If the writer needs a health-body citation for safety, we have to source it separately."
+}
