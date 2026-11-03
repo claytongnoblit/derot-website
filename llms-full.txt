@@ -1,5 +1,218 @@
 # DeRot blog: full text
 
+# Best Free Breathing Apps, Compared: What's Actually Free
+
+URL: https://derot.org/blog/best-free-breathing-apps/
+Updated: 2026-11-03
+
+Key takeaways:
+- Apple's Mindfulness app (Breathe) is the only option here that is completely free with no in-app purchases, but you need an Apple Watch to run Breathe sessions.
+- The Breathing App keeps its core resonance breathing free forever, with no account and no ads, and free sessions up to 20 minutes.
+- iBreathe is free with ads and lets you build custom patterns, so you can make your own box or 4-7-8 routine.
+- Calm and Breathwrk are free downloads with paid in-app purchases, and neither listing spells out exactly what is free, so read the trial and renewal terms before you start one.
+- A 2023 Stanford trial used just 5 minutes a day of simple breathing, so a plain pacer or a free browser timer is enough for most people.
+
+If you judge the best free breathing apps by what you get without paying, the picture looks like this. Apple's Mindfulness app (Breathe) is truly free if you own an Apple Watch. The Breathing App has a usable free core with no account and no ads, and iBreathe is free with ads. Calm and Breathwrk are free downloads with paid in-app purchases, and neither listing spells out exactly what you get free.
+
+DeRot makes an app in this category. We do not rank our own app, it is not in the list or the table below, and no app paid to be included. If you would rather not install anything, our [free browser breathing timers](/tools/) cover box breathing, 4-7-8, slow 4-6 breathing and the physiological sigh.
+
+## Best free breathing apps compared: the summary table
+
+Every fact below comes from the app's own App Store listing or Apple Support, checked 3 November 2026. "Not stated" means the listing doesn't say.
+
+| App | Free tier | Paywalled | Techniques named | Account | Platforms | Price as listed (checked 3 Nov 2026) |
+|---|---|---|---|---|---|---|
+| [Apple Mindfulness (Breathe)](https://apps.apple.com/bh/app/mindfulness/id1560383515) | Everything: 1 to 5 minute sessions, 4 to 10 breaths per minute, haptics, reminders | Nothing (no in-app purchases) | One paced breathing rhythm, no holds | No separate sign-up | Breathe sessions on Apple Watch | Free |
+| [The Breathing App](https://apps.apple.com/us/app/the-breathing-app-calm-daily/id1285982210) | Resonance breathing (5 to 7 breaths per minute), 4-4 ratio, Kids, sessions up to 20 minutes | Calming, Focusing, Energizing and Grounding ratios, unlimited timers | Resonance, 4-4; box and 4-7-8 listed (free status not stated) | Not required | iPhone, iPad, Mac, Vision Pro; no Apple Watch app listed | $4.99/month, $44.99/year; Premium $3.99/month, $39.99/year |
+| [iBreathe](https://apps.apple.com/app/id1296605806) | Full app with ads, custom patterns | Ad removal; "Premium" (contents not stated) | Custom patterns (box and 4-7-8 not named) | Not stated | iPhone, iPad, Mac, Watch, Apple TV, Vision Pro | Remove Ads $2.99; Unlock Premium $3.99 |
+| [Calm](https://apps.apple.com/us/app/id571800810?l=en-us) | "Some of the programs and features are free forever" | Calm Premium | Breathing exercises (patterns not named) | Not stated | iPhone, iPad, Mac, Watch, Apple TV, Vision Pro | Premium $14.99 to $79.99 (billing periods not stated) |
+| [Breathwrk](https://apps.apple.com/us/app/id1481804500?l=en-us) | Not stated | In-app purchases (contents not stated) | 4-7-8 | Not stated | iPhone (listing also shows Mac and Vision compatibility) | $1.99 to $69.99; included with Peloton All Access, Guide and App+ memberships |
+
+## How we compared free breathing apps
+
+We sorted apps by what is usable without paying, not by how they describe themselves. "Free" on the App Store usually means free to download, which is a bit like a restaurant being free to walk into.
+
+We checked five things for every app:
+
+1. **Free tier versus paywall.** What you can actually use on day 8, after any trial ends, and what needs a purchase.
+2. **Techniques named.** Whether the listing names box breathing, 4-7-8, slow or resonance breathing (the gentle, longer-exhale kind), or sighing.
+3. **Account.** Whether you need to sign up before you can breathe.
+4. **Platforms.** iPhone, iPad, Mac, Apple Watch and others, as listed.
+5. **Price as listed.** Copied from the in-app purchase list, with currency, billing period where stated, and the check date.
+
+Facts come only from official App Store listings (US storefront, except Apple's Mindfulness listing, which we read on the Bahrain storefront) and [Apple's Apple Watch user guide](https://support.apple.com/HT206999), all checked 3 November 2026. We did not invent test periods, star ratings or scores. Apps we could not verify from official listings during this check (Prana Breath, Breethe, Sattva, Breathe+ and Medito) are left out rather than guessed at.
+
+The result falls into three tiers: truly free, a usable free core, and a free download with a subscription inside.
+
+## Truly free: Apple Watch Mindfulness (Breathe)
+
+If you own an Apple Watch, you already have a free breathing pacer: Breathe, inside the Mindfulness app. It has no in-app purchases and needs no setup beyond picking a breath rate.
+
+### Apple Mindfulness (Breathe)
+
+- **Best for:** Apple Watch owners who want a pacer with zero setup.
+- **How it works:** According to [Apple's Watch user guide](https://support.apple.com/HT206999), Breathe and Reflect live inside the Mindfulness app on the Watch. Sessions run 1 to 5 minutes, you set the breath rate in Settings, you choose how strong the haptic taps are (None, Minimal or Prominent), and your heart rate appears in the session summary and in the Health app.
+- **Free tier:** Everything. The [Mindfulness App Store listing](https://apps.apple.com/bh/app/mindfulness/id1560383515) shows it as free with no in-app purchases, with a breath rate from 4 to 10 breaths per minute and reminders.
+- **Paywalled:** Nothing.
+- **Techniques:** One even, paced in-and-out rhythm. No box, 4-7-8 or sigh patterns are described.
+- **Account and platforms:** No separate sign-up. Apple's guide describes Breathe sessions on Apple Watch; the listing also shows iPhone and Vision Pro compatibility, but we only describe Breathe as a Watch feature.
+- **What stands out:** You can follow the haptic taps without looking at a screen. If a screen is what wound you up, that matters. Set it to 6 breaths per minute and you get the same pace as our [calm 4-6 breathing timer](/tools/calm-breathing-4-6/).
+- **Drawbacks:** It needs an Apple Watch, offers one pattern only, and sessions top out at 5 minutes.
+- **Price:** Free.
+
+## Free core you can actually use: The Breathing App and iBreathe
+
+These two stay useful without paying. The Breathing App gives you slow resonance breathing with no account and no ads, and iBreathe gives you fully custom patterns if you can live with ads.
+
+### The Breathing App
+
+- **Best for:** People who want slow, no-fuss resonance breathing with no account and no ads.
+- **How it works:** You pick a breathing ratio and follow a visual pacer, with optional sounds. Playback keeps going in the background.
+- **Free tier:** The [App Store listing](https://apps.apple.com/us/app/the-breathing-app-calm-daily/id1285982210) calls its core features "Free forever": resonance ratios from 5 to 7 breaths per minute, a Kids mode, a 4-4 ratio, sessions up to 20 minutes, sounds and background playback.
+- **Paywalled:** Calming, Focusing, Energizing and Grounding ratios, unlimited timers and alternate-nostril breathing. There is a 7-day trial.
+- **Techniques:** Resonance breathing and 4-4 are free. Box and 4-7-8 are mentioned in the listing, but whether they are free is not stated.
+- **Account and platforms:** "No account required." iPhone, iPad, Mac and Vision Pro; no Apple Watch app is listed.
+- **What stands out:** It is the clearest example here of a free tier you can use for good, not just for a trial week. Sessions up to 20 minutes are generous.
+- **Drawbacks:** No Apple Watch app is listed, and the more structured ratios cost money.
+- **Price:** Listed as Monthly $4.99, Annual $44.99, Monthly Premium $3.99 and Annual Premium $39.99 (US App Store, checked 3 November 2026).
+
+### iBreathe
+
+- **Best for:** Building your own patterns, and using one app across the most Apple devices.
+- **How it works:** You choose or create a pattern with inhale, hold and exhale lengths, then follow the pacer. Patterns sync through iCloud.
+- **Free tier:** The [App Store listing](https://apps.apple.com/app/id1296605806) shows the app as free with ads, including custom patterns set in half-second steps.
+- **Paywalled:** Ad removal and an "Unlock Premium" purchase. What Premium adds, and whether it is a one-time purchase, is not stated.
+- **Techniques:** Box and 4-7-8 are not named, but you can build both as custom patterns (4-4-4-4, or 4-7-8).
+- **Account and platforms:** Account not stated. iPhone, iPad, Mac, Apple Watch, Apple TV and Vision Pro.
+- **What stands out:** The widest platform support in this list, and the most control over exact timings.
+- **Drawbacks:** Ads in the free version, which is an odd companion to a calming exercise. Premium contents aren't spelled out.
+- **Price:** Remove Ads $2.99, Unlock Premium $3.99, optional tips $0.49 to $9.99 (US App Store, checked 3 November 2026).
+
+## Free download, subscription inside: Calm and Breathwrk
+
+Calm and Breathwrk are free to download, but neither is a free breathing app in the everyday sense. Calm keeps some content free forever, and Breathwrk's listing does not say what is free at all.
+
+### Calm
+
+- **Best for:** People who also want sleep stories and meditation, not only a breathing pacer.
+- **How it works:** Calm is a broad sleep and meditation app. Its listing includes breathing exercises and a quick-start on Apple Watch.
+- **Free tier:** The [Calm App Store listing](https://apps.apple.com/us/app/id571800810?l=en-us) says "some of the programs and features are free forever." Which ones, exactly, is not detailed. No ads.
+- **Paywalled:** Calm Premium. The listing does not say how much of the library is free versus Premium.
+- **Techniques:** "Breathing exercises." Specific patterns such as box or 4-7-8 are not named.
+- **Account and platforms:** Account not stated. iPhone, iPad, Mac, Apple Watch, Apple TV and Vision Pro.
+- **What stands out:** Breadth. If you want breathing, sleep content and meditation in one place, this is the one built for that.
+- **Drawbacks:** If you only want a pacer, you would be paying for a whole library. The listing describes auto-renewing subscriptions.
+- **Price:** Calm Premium purchases listed from $14.99 to $79.99; billing periods not stated (US App Store, checked 3 November 2026).
+- **Free Calm app alternative for breathing only:** The Breathing App, or Breathe on Apple Watch.
+
+### Breathwrk
+
+- **Best for:** Peloton All Access, Guide and App+ members, who get it included.
+- **How it works:** A breathing exercise app published by Peloton Interactive.
+- **Free tier:** Not stated in the [Breathwrk App Store listing](https://apps.apple.com/us/app/id1481804500?l=en-us).
+- **Paywalled:** In-app purchases are listed; what each one covers is not stated.
+- **Techniques:** Names 4-7-8.
+- **Account and platforms:** Account not stated. iPhone (the listing also shows Mac and Vision compatibility).
+- **What stands out:** It is focused on breathing rather than general meditation, and it costs nothing extra if you have a Peloton All Access, Guide or App+ membership.
+- **Drawbacks:** The free tier is unclear, billing periods are mostly not stated, and the privacy label lists data "used to track you."
+- **Price:** In-app purchases from $1.99 to $69.99; included with Peloton All Access, Guide and App+ memberships (US App Store, checked 3 November 2026).
+- **Free Breathwrk alternative:** iBreathe custom patterns, or a [4-7-8 breathing timer](/tools/4-7-8-breathing-timer/) in your browser.
+
+### Before you tap "start free trial"
+
+Read the renewal terms on the purchase sheet. Note the date the trial converts and set a reminder a day before. On iPhone, you can see and cancel App Store subscriptions in Settings, under your name, then Subscriptions.
+
+## Do you need a breathing app at all?
+
+For most people, no. The research behind simple breathing used short, plain protocols you can follow with a timer or a count in your head.
+
+In a [2023 Stanford breathwork trial](https://hubermanlab.stanford.edu/publications/brief-structured-respiration-practices-enhance-mood-and-reduce-physiological-arousal?.com), [108 people practised 5 minutes a day for 28 days](https://pmc.ncbi.nlm.nih.gov/articles/9873947/), remotely, using cyclic sighing, box breathing, cyclic hyperventilation or mindfulness meditation. [Cyclic sighing was the only protocol that differed significantly from mindfulness in raising positive mood, and the effect grew with how consistently people practised](https://pmc.ncbi.nlm.nih.gov/articles/9873947/). [Breathing rate at rest dropped more with breathwork than with mindfulness, and state anxiety fell in every group](https://pmc.ncbi.nlm.nih.gov/articles/9873947/).
+
+A [2023 meta-analysis of 12 randomized trials and 785 adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/) found breathwork reduced self-reported stress (g = -0.35, a small to moderate effect). [Slow-paced breathing on its own, across 10 studies, showed the same size of effect](https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/). [Remote or self-guided practice also reduced stress, though the effect was smaller than for in-person sessions (the difference was not statistically significant)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/).
+
+So what does an app add? Mostly reminders, haptics, and not having to count. Those are real conveniences. They are not a different kind of breathing.
+
+### A 60-second version, no app needed
+
+This is the slow, longer-exhale pattern we use most. It works anywhere, including halfway through a feed that has left your jaw tight.
+
+1. Sit or stand still and let your shoulders drop.
+2. Breathe in gently through your nose for a count of 4.
+3. Breathe out slowly for a count of 6, through your nose or softly pursed lips.
+4. Repeat for 6 rounds. That is one minute at 6 breaths per minute.
+5. On the last exhale, notice your hands, jaw and shoulders. Let whatever is still clenched go.
+
+If you want a pacer, the [calm 4-6 breathing timer](/tools/calm-breathing-4-6/) runs this in your browser, and our guide to [4-6 breathing](/blog/4-6-breathing-how-to/) covers common mistakes. For the Stanford trial's standout technique, try the [physiological sigh timer](/tools/physiological-sigh/): two inhales through the nose, then a long, slow exhale. Box breathing fans can use the [box breathing timer](/tools/box-breathing-timer/), and anyone who wants their own counts can set them in the [custom breathing timer](/tools/custom-breathing-timer/).
+
+### What the evidence does not show
+
+The effects are real but modest. In the meta-analysis, [most included studies had a moderate risk of bias](https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/), so the numbers are a reasonable estimate, not a guarantee.
+
+The Stanford trial was exploratory. It [found no significant change in heart rate variability or resting heart rate, and follow-up lasted only 4 weeks](https://pmc.ncbi.nlm.nih.gov/articles/9873947/). Breathing exercises can help you feel calmer in the moment and may reduce everyday stress. They are not a treatment for anxiety, insomnia or any other condition, and no app here claims otherwise in a way we could verify.
+
+## Which free breathing app should you pick?
+
+Pick by how you want to breathe and which devices you own. Here is the short version.
+
+- **If you have an Apple Watch and want zero setup,** use Breathe in the Mindfulness app.
+- **If you want no account, no ads and slow resonance breathing,** pick The Breathing App.
+- **If you want an Apple Watch Breathe app alternative with box or 4-7-8 holds,** pick iBreathe and build the pattern yourself.
+- **If you want custom patterns across iPhone, iPad, Mac and Watch and don't mind ads,** pick iBreathe.
+- **If you have a Peloton All Access, Guide or App+ membership,** use Breathwrk, since it is included.
+- **If you want a free Calm app alternative just for breathing,** pick The Breathing App.
+- **If you want sleep stories and meditation as well,** try Calm's free content, and read the trial terms first.
+- **If you don't want to install anything,** use a [free browser breathing timer](/tools/).
+
+For apps that go beyond breathing into wider calm-down routines, see our comparison of the [best apps for nervous system regulation](/blog/best-apps-nervous-system-regulation/).
+
+## Where DeRot fits (our app)
+
+Every app above waits for you to remember to open it. Ours works differently: DeRot pauses your apps while you reset with a few calming breaths, meeting you mid-scroll, at the point where the feed has already wound you up. You take a 30-second reset, your shoulders come down, the wired feeling fades, and then you carry on if you want to.
+
+It is pre-launch, coming soon to iOS, so you can't download it yet. It is not for people who want a full meditation library, and it is not a hard lockout. If you want to be shut out of an app completely, a dedicated blocker will suit you better.
+
+## Is breath holding safe? A short safety note
+
+Slow breathing is gentle for most people, but breath holds and fast breathing are not for everyone. Start easy and stop if anything feels wrong.
+
+- **Stop if you feel dizzy or lightheaded** and go back to normal breathing. Practise sitting or lying down, and never while driving or in water.
+- **Holds and fast breathing need more care.** The Stanford trial [excluded people who were pregnant or had heart disease, glaucoma, a history of seizures and some other conditions](https://pmc.ncbi.nlm.nih.gov/articles/9873947/). If any of that applies to you, skip holds and fast breathing or check with a clinician first.
+- **Don't strain.** The trial's box breathing instructions told people to [shorten the counts if they were straining](https://pmc.ncbi.nlm.nih.gov/articles/9873947/). If 4-7-8 feels like too much, use slow 4-in, 6-out breathing with no holds at all.
+- **Some people have a rough time.** [10% of Stanford participants reported a negative experience](https://pmc.ncbi.nlm.nih.gov/articles/9873947/), and a fast-breathing study in the meta-analysis [reported side effects such as hot flushes, shortness of breath and sweating](https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/).
+- **Get support when it's more than a rough afternoon.** For anxiety, sleep problems or distress that keep coming back, talk to a doctor or mental health professional. If you are in crisis, call or text 988 in the US, or contact your local emergency services.
+
+## FAQ
+**Is there a breathing app that's completely free, with no subscription?**
+Yes. Apple's Mindfulness app, which includes Breathe, is free with no in-app purchases, though Breathe sessions run on Apple Watch. The Breathing App keeps its core resonance breathing free forever, with no account and no ads, and only charges for extra ratios. If you don't want to install anything, a browser-based breathing timer does the same job with no download.
+
+**Is the Apple Watch Breathe app still available, and where did it go?**
+Yes. Breathe now lives inside the Mindfulness app on Apple Watch, alongside Reflect. According to Apple's user guide, sessions run 1 to 5 minutes, you set your breath rate in Settings, you choose the haptic strength, and your heart rate shows in the session summary and in the Health app. It is free, with no in-app purchases.
+
+**Is Calm free, and what do you get without Premium?**
+Calm is free to download, and its App Store listing says some of the programs and features are free forever, without saying exactly which ones. It has no ads and includes breathing exercises; everything outside the free content needs Calm Premium, listed from $14.99 to $79.99 on the US App Store (checked 3 November 2026) with billing periods not stated.
+
+**Is Breathwrk free, and is it owned by Peloton?**
+Breathwrk is published by Peloton Interactive and is included with Peloton All Access, Guide and App+ memberships. It is a free download, but its App Store listing does not say what is free. In-app purchases range from $1.99 to $69.99 on the US App Store (checked 3 November 2026), with billing periods mostly not stated. The listing names 4-7-8 breathing.
+
+**What's the best free app for box breathing or 4-7-8?**
+iBreathe is the most flexible free option: it is free with ads and lets you build custom patterns in half-second steps, so you can set up 4-4-4-4 box breathing or 4-7-8 yourself. The Breathing App mentions both techniques, but its listing doesn't say whether they are free. Free browser timers for box and 4-7-8 need no install at all.
+
+**How many minutes a day of breathing exercise actually helps?**
+A 2023 Stanford trial had people practise for 5 minutes a day over 28 days and found improvements in mood, especially with cyclic sighing, which grew with consistency. Even a minute of slow 4-in, 6-out breathing can help you feel calmer in the moment. The effects are modest, so regular short sessions are a sensible goal.
+
+## Sources
+- Brief structured respiration practices enhance mood and reduce physiological arousal: https://pmc.ncbi.nlm.nih.gov/articles/9873947/
+- Brief structured respiration practices enhance mood and reduce physiological arousal: https://hubermanlab.stanford.edu/publications/brief-structured-respiration-practices-enhance-mood-and-reduce-physiological-arousal?.com
+- Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials: https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/
+- Apple Watch User Guide: Mindfulness: https://support.apple.com/HT206999
+- Mindfulness (App Store): https://apps.apple.com/bh/app/mindfulness/id1560383515
+- Breathwrk: Breathing Exercises (App Store): https://apps.apple.com/us/app/id1481804500?l=en-us
+- Calm: Sleep & Meditation (App Store): https://apps.apple.com/us/app/id571800810?l=en-us
+- The Breathing App: Calm Daily (App Store): https://apps.apple.com/us/app/the-breathing-app-calm-daily/id1285982210
+- iBreathe – Relax and Breathe (App Store): https://apps.apple.com/app/id1296605806
+
+---
+
 # Parasympathetic Breathing: Why Longer Exhales Bring You Back Down
 
 URL: https://derot.org/blog/parasympathetic-breathing/

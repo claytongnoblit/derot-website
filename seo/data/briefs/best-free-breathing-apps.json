@@ -1,0 +1,256 @@
+{
+  "title_options": [
+    "Best free breathing apps, sorted by what's actually free",
+    "Best free breathing apps for iPhone: what you get without paying",
+    "Free breathing apps compared: free tiers, paywalls, and the options you already have"
+  ],
+  "search_intent": "Commercial-investigational. The searcher wants a breathing app they can use without paying and needs to know which \"free\" apps are really usable for free, which techniques each offers, and whether they even need an app. A neutral, dated roundup with the same fields for every app fits best.",
+  "serp_summary": "Page one is mostly AppsHunter topic pages (machine-made lists with nothing on free tiers) and three brand roundups (Breethe, Othership, Art of Living). Each brand roundup ranks its own app first without clear disclosure. None dates its prices, and they use \"free\" loosely to mean a free download with a trial wall. They skip whether you need an account, which techniques each app offers, and built-in options like Apple Watch Mindfulness. None has an honest evidence section or a safety note on breath holds. Art of Living's prices contradict each other, and Othership mixes general meditation apps into its list. What they do well: short entries for each app and \"best for\" labels.",
+  "gaps": [
+    "Disclosure plus neutrality: we do not rank our own app (every competitor ranks itself #1)",
+    "Three tiers by what you actually get free: truly free, a usable free core, and free download behind a subscription wall",
+    "The same fields for every app: free tier, paywalled features, techniques (box, 4-7-8, slow exhale, sigh), account, platforms, price as listed with the 3 Nov 2026 check date",
+    "Built-in free option (Apple Watch Mindfulness/Breathe) that competitors ignore",
+    "A 'do you need an app at all?' section grounded in Balban 2023 and Fincham 2023, linking to the /tools/ browser timers",
+    "Honest limits of the evidence (small to moderate effects, moderate risk of bias, no HRV change in Balban, 4-week follow-up)",
+    "A safety note on breath holds and fast breathing, plus a warning about trial auto-renewal",
+    "The mid-scroll moment as the place to use a technique (DeRot section only, short)"
+  ],
+  "outline": [
+    {
+      "h2": "What are the best free breathing apps? (quick answer)",
+      "points": [
+        "40-60 word answer: Apple Mindfulness/Breathe is truly free if you have an Apple Watch; The Breathing App has a usable free core with no account and no ads; iBreathe is free with ads; Calm and Breathwrk are free downloads with most of the value behind a subscription",
+        "Disclosure sentence: DeRot makes an app in this category. We do not rank it, and no app paid to be included",
+        "Summary table (no DeRot): App | Free tier | Paywalled | Techniques named | Account | Platforms | Price as listed (checked 3 Nov 2026)",
+        "Link to the free browser timers at /tools/ as the no-install option"
+      ]
+    },
+    {
+      "h2": "How we compared free breathing apps",
+      "points": [
+        "Criteria: what is usable without paying; what is paywalled; techniques named in the listing; whether an account is required; platforms; price as listed",
+        "Facts come only from official App Store listings and Apple Support, US storefront, checked 3 November 2026",
+        "Where a listing doesn't say something, we write 'not stated'",
+        "Apps we couldn't verify from official listings (Prana Breath, Breethe, Sattva, Breathe+, Medito) are left out"
+      ]
+    },
+    {
+      "h2": "Truly free: Apple Watch Mindfulness (Breathe)",
+      "points": [
+        "Best for: Apple Watch owners who want a pacer with no setup",
+        "How it works: Breathe sessions of 1 to 5 minutes, breath rate set in Settings, haptics (None, Minimal or Prominent), heart rate shown after the session",
+        "What stands out: free with no IAPs, reminders, haptic guidance you can follow without looking",
+        "Drawbacks: Apple's support guide describes Breathe sessions on the Watch only, so don't claim iPhone-only Breathe sessions; only one paced pattern, with no box or 4-7-8 holds",
+        "Price: free"
+      ]
+    },
+    {
+      "h2": "Free core you can actually use: The Breathing App and iBreathe",
+      "points": [
+        "The Breathing App. Best for: no-account, no-ads resonance breathing. Free forever: resonance ratios (5 to 7 breaths/min), Kids, a 4-4 ratio, sessions up to 20 min, sounds, background playback. Premium: Calming, Focusing, Energizing and Grounding ratios, unlimited timers, alternate-nostril breathing, 7-day trial. Prices: $4.99/month, $44.99/year; Premium $3.99/month, $39.99/year. Box and 4-7-8 are listed but their free status is not stated. No Watch app",
+        "iBreathe. Best for: custom patterns and the widest platform support. Free with ads. Remove Ads $2.99, Unlock Premium $3.99 (contents and whether it is one-time not stated), tips $0.49 to $9.99. Custom patterns at 0.5 s resolution, iCloud sync. Platforms: iPhone, iPad, Mac, Watch, Apple TV, Vision Pro. Account not stated. Box and 4-7-8 not named, but you can build them as custom patterns"
+      ]
+    },
+    {
+      "h2": "Free download, subscription inside: Calm and Breathwrk",
+      "points": [
+        "Calm. Best for: people who also want sleep and meditation content. 'Some of the programs and features are free forever'; no ads; breathing exercises plus a Watch quick-start. Calm Premium IAPs listed from $14.99 to $79.99, billing periods not stated. Free alternative: The Breathing App or Apple Breathe",
+        "Breathwrk (Peloton Interactive). Best for: Peloton members, who get it included. The listing doesn't say what is free; IAPs range from $1.99 to $69.99, with billing periods mostly not stated. Names 4-7-8. Platforms: iPhone, Mac, Vision Pro. Privacy label lists data 'used to track you.' Free alternative: iBreathe custom patterns or the /tools/ timers",
+        "Check trial terms before tapping 'start trial'; Calm's listing describes auto-renewal"
+      ]
+    },
+    {
+      "h2": "Do you need a breathing app at all?",
+      "points": [
+        "The Stanford trial used 5 minutes a day of simple protocols; cyclic sighing gave the clearest mood benefit",
+        "In the Fincham meta-analysis, slow-paced breathing (10 studies) showed an effect, and remote or self-guided practice did about as well as in-person",
+        "So a plain pacer is enough for most people: link the /tools/ box, 4-7-8, calm 4-6, physiological sigh and custom timers",
+        "Honest limits: effects are small to moderate, most studies had moderate risk of bias, Balban found no HRV change, follow-up was only 4 weeks; this is not a treatment"
+      ]
+    },
+    {
+      "h2": "Which free breathing app should you pick?",
+      "points": [
+        "If you have an Apple Watch and want zero setup, use Mindfulness/Breathe",
+        "If you want no account, no ads and slow resonance breathing, pick The Breathing App",
+        "If you want custom box or 4-7-8 patterns across devices and don't mind ads, pick iBreathe",
+        "If you already pay for Peloton, use Breathwrk",
+        "If you want sleep stories and meditation too, try Calm's free content, and read the trial terms first",
+        "If you don't want to install anything, use a browser timer at /tools/"
+      ]
+    },
+    {
+      "h2": "Where DeRot fits (our app)",
+      "points": [
+        "DeRot is pre-launch (coming soon to iOS). Describe it as: DeRot pauses your apps while you reset with a few calming breaths",
+        "How it differs: it meets you mid-scroll, when the feed has already wound you up, so you don't have to remember to open a separate app",
+        "Lead with the felt experience: shoulders drop, the wired feeling fades",
+        "Not for: people who want a full meditation library or a hard lockout"
+      ]
+    },
+    {
+      "h2": "Is breath holding safe? A short safety note",
+      "points": [
+        "Stop if you feel dizzy or lightheaded and return to normal breathing; practise sitting or lying down, never while driving or in water (general guidance, no citation)",
+        "Breath holds and fast breathing are not for everyone: the Stanford trial excluded pregnancy, heart disease, glaucoma, seizure history and more",
+        "If the counts make you strain, shorten them, or skip holds and use slow 4-in/6-out breathing",
+        "Fast breathwork brought some side effects (hot flushes, shortness of breath, sweating); 10% of Balban participants reported a negative experience",
+        "For persistent anxiety, sleep problems or distress, see a professional; in crisis, call 988 (US) or local emergency services"
+      ]
+    }
+  ],
+  "questions": [
+    "Is there a breathing app that's completely free, with no subscription?",
+    "Is the Apple Watch Breathe app still available, and where did it go?",
+    "Is Calm free, and what do you get without Premium?",
+    "Is Breathwrk free, and is it owned by Peloton?",
+    "What's the best free app for box breathing or 4-7-8?",
+    "How many minutes a day of breathing exercise actually helps?",
+    "Are breathing apps safe, and is breath holding bad for you?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/9873947/",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Cell Reports Medicine via PMC",
+      "year": "2023",
+      "key_findings": "Remote RCT, 108 enrolled, 5 min/day for 28 days. Breathwork raised positive affect more than mindfulness, and cyclic sighing was clearest. Respiratory rate fell. State anxiety fell in all groups. No HRV or resting heart rate change. Exploratory, 4-week follow-up. Exclusions listed. 10% reported a negative experience. Box instruction: shorten counts if straining."
+    },
+    {
+      "id": "S2",
+      "url": "https://hubermanlab.stanford.edu/publications/brief-structured-respiration-practices-enhance-mood-and-reduce-physiological-arousal?.com",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Stanford (Huberman Lab)",
+      "year": "2023",
+      "key_findings": "Stanford publication page for the same trial; use it for the Stanford attribution."
+    },
+    {
+      "id": "S3",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/",
+      "title": "Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials",
+      "publisher": "Scientific Reports via PMC",
+      "year": "2023",
+      "key_findings": "Stress g=-0.35 across 12 RCTs and 785 adults. Anxiety g=-0.32, depression g=-0.40. Slow-paced breathing (10 studies) g=-0.35. Remote delivery comparable to in-person. Moderate risk of bias. Some side effects in a fast-breathing study."
+    },
+    {
+      "id": "S4",
+      "url": "https://support.apple.com/HT206999",
+      "title": "Apple Watch User Guide: Mindfulness",
+      "publisher": "Apple",
+      "year": "2026",
+      "key_findings": "Breathe and Reflect live in Mindfulness on Watch. Sessions of 1 to 5 minutes, breath rate in Settings, haptic options, heart rate shown in Summary and Health."
+    },
+    {
+      "id": "S5",
+      "url": "https://apps.apple.com/bh/app/mindfulness/id1560383515",
+      "title": "Mindfulness (App Store)",
+      "publisher": "Apple",
+      "year": "2026",
+      "key_findings": "Free, no IAPs. 4 to 10 breaths/min, sessions of 1 to 5 min, haptics, reminders. Compatibility lists iPhone, Vision Pro and Watch (Bahrain storefront)."
+    },
+    {
+      "id": "S6",
+      "url": "https://apps.apple.com/us/app/id1481804500?l=en-us",
+      "title": "Breathwrk: Breathing Exercises (App Store)",
+      "publisher": "Peloton Interactive, Inc.",
+      "year": "2026",
+      "key_findings": "Free download, IAPs $1.99 to $69.99 with billing periods mostly not stated. Included with Peloton memberships. Names 4-7-8. Platforms: iPhone, Mac, Vision Pro. Tracking data in the privacy label."
+    },
+    {
+      "id": "S7",
+      "url": "https://apps.apple.com/us/app/id571800810?l=en-us",
+      "title": "Calm: Sleep & Meditation (App Store)",
+      "publisher": "Calm.com, Inc.",
+      "year": "2026",
+      "key_findings": "Some programs free forever. Premium IAPs $14.99 to $79.99. No ads. Breathing exercises and a Watch quick-start. Platforms: iPhone, iPad, Mac, Watch, TV, Vision Pro."
+    },
+    {
+      "id": "S8",
+      "url": "https://apps.apple.com/us/app/the-breathing-app-calm-daily/id1285982210",
+      "title": "The Breathing App: Calm Daily (App Store)",
+      "publisher": "Breathing App, LLC",
+      "year": "2026",
+      "key_findings": "Core free forever (resonance 5 to 7 breaths/min, 4-4 ratio, sessions up to 20 min). No account, no ads. Premium ratios at $4.99/mo, $44.99/yr, $3.99/mo, $39.99/yr. 7-day trial. No Watch app."
+    },
+    {
+      "id": "S9",
+      "url": "https://apps.apple.com/app/id1296605806",
+      "title": "iBreathe – Relax and Breathe (App Store)",
+      "publisher": "Jade Lizard Software LLC",
+      "year": "2026",
+      "key_findings": "Free with ads. Remove Ads $2.99, Unlock Premium $3.99. Custom patterns at 0.5 s resolution, iCloud sync. iPhone, iPad, Mac, Watch, TV, Vision Pro."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "A remote randomized trial enrolled 108 people who practiced 5 minutes a day for 28 days.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Cyclic sighing was the only protocol that differed significantly from mindfulness in improving positive affect, and the effect grew with adherence.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "The trial found no significant change in HRV or resting heart rate; follow-up was 4 weeks.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "10% of participants reported a negative experience in the debrief; the box protocol told people to shorten counts if they were straining.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Across 12 RCTs and 785 adults, breathwork reduced stress (g = -0.35).",
+      "source_id": "S3"
+    },
+    {
+      "fact": "Slow-paced breathing across 10 studies showed g = -0.35, and remote or self-guided delivery did about as well as in-person.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "Most studies in the meta-analysis had moderate risk of bias.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "Apple Watch Breathe sessions run 1 to 5 minutes inside the Mindfulness app, with adjustable breath rate and haptics.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "Apple's Mindfulness app is free, offers 4 to 10 breaths per minute, and shows no in-app purchases.",
+      "source_id": "S5"
+    },
+    {
+      "fact": "The Breathing App's core features are 'Free forever,' with 'No account required' and 'No ads'; free sessions run up to 20 minutes.",
+      "source_id": "S8"
+    },
+    {
+      "fact": "The Breathing App lists Monthly $4.99, Annual $44.99, Monthly Premium $3.99 and Annual Premium $39.99 (checked 3 Nov 2026).",
+      "source_id": "S8"
+    },
+    {
+      "fact": "iBreathe is free with ads; Remove Ads is $2.99 and Unlock Premium is $3.99 (checked 3 Nov 2026).",
+      "source_id": "S9"
+    },
+    {
+      "fact": "Calm says 'some of the programs and features are free forever'; Calm Premium IAPs range from $14.99 to $79.99.",
+      "source_id": "S7"
+    },
+    {
+      "fact": "Breathwrk is published by Peloton Interactive, is included with Peloton memberships, and lists IAPs from $1.99 to $69.99.",
+      "source_id": "S6"
+    }
+  ],
+  "safety_notes": [
+    "Stop if dizzy or lightheaded and return to normal breathing; practise seated or lying down, never while driving or in water (general guidance, uncited)",
+    "Breath holds and fast breathing are not for everyone: pregnancy, heart disease, glaucoma, seizure history and some psychiatric conditions were excluded in S1. Skip holds or check with a clinician",
+    "If counts cause strain, shorten them or use slow 4-in/6-out breathing without holds",
+    "Fast breathwork brought some side effects (S3); keep claims proportional to small-to-moderate effects; never say it treats anxiety or insomnia",
+    "Point readers with persistent distress to a professional; for crisis, 988 (US) or local emergency services",
+    "Check trial auto-renew terms before starting a trial",
+    "Do not claim iPhone-only Apple Breathe sessions. Add one authoritative clinic or government safety source before publishing if available"
+  ],
+  "word_count_target": 2200,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: \"best free breathing apps\"\n\n**Facts checked:** 3 November 2026, US App Store unless noted. Prices are in USD as the listings show them.\n\n## SERP ANALYSIS\n\n**What ranks:**\n- **App-directory pages.** About ten AppsHunter \"topic\" pages show up (free breathing app, free box breathing, free deep breathing, and so on). They are machine-made lists with almost nothing on what the free tier includes.\n- **Roundups published by brands.** All three main ones rank their own app first, and none of them clearly discloses that.\n  - **Breethe**, \"Which free breathing app is best?\" (Oct 2025). Compares Breethe, Breathwrk, iBreathe and The Breathing App, in that order. Breethe is named in the title and gets the most space. Its CTA says \"Start Your Free Trial\" even though it calls Breethe free \"as long as you want,\" and it never reconciles the two. It gives no dollar prices, no safety caveats and no testing method. The ratings it quotes are unverified.\n  - **Othership**, \"best deep breathing apps\" (Mar 2026). Lists 25 apps with Othership at #1. There is no disclosure, no ranking criteria and no date on the prices. It says almost nothing about safety even though Othership itself sells breath-retention practice. It mixes broad meditation apps (Calm, Headspace, Smiling Mind) into a breathing list.\n  - **Art of Living**, \"15 Best Breathwork Apps (Tested & Ranked)\" (updated Sep 2025). Its own app, Sattva, is #1 and is called \"Our flagship app\" and \"the superior choice.\" It shows no testing method despite the title. Its numbers contradict each other (Breathwrk is $5.75/mo in the text and $69/yr in the table). It promotes breath-hold challenges with no contraindications and has no medical disclaimer.\n- **Low-quality or scraped pages** also appear, for example a mirrored \"mega-zone\" page on a subdomain.\n\n**What they do well:** short entries for each app, \"best for\" labels, and a mention of the free tier.\n\n**What they get wrong or leave out:**\n- Self-ranking without disclosure.\n- No date on prices.\n- \"Free\" used loosely to mean a free download with a trial wall.\n- Nothing on whether you need an account.\n- No mapping of which techniques each app offers (box, 4-7-8, slow exhale, sigh).\n- Built-in options are ignored: none of the main roundups treats Apple Watch Mindfulness/Breathe as a free option.\n- No evidence section that is honest about limits, and no safety note on breath holds.\n\n## GAPS AND ANGLE\n\n1. **Sort by what you actually get free, using three tiers:**\n   - **Truly free:** Apple Mindfulness/Breathe.\n   - **Free core that is genuinely usable:** The Breathing App (the listing says \"Free forever\" for its core features, \"No account required,\" \"No ads\"), and iBreathe (free with ads, one-time IAPs).\n   - **Free download behind a subscription wall:** Calm (\"some of the programs and features are free forever\") and Breathwrk (the listing does not say what is free).\n2. **Use the same fields for every app,** with facts taken only from the listings: free tier, what is paywalled, techniques, account, platforms, price as listed with the check date.\n3. **\"Do you need an app at all?\"** Balban 2023 used just 5 minutes a day of simple protocols, and in the Fincham meta-analysis slow-paced breathing (10 studies) did as well as anything else. A plain pacer is enough, so the article can point to the /tools/ browser timers (box, 4-7-8, calm 4-6, physiological sigh, custom). Use the exact URLs from the site inventory.\n4. **Be honest about the evidence.** Effects are small to moderate, the trials carry moderate risk of bias, and in Balban there was no HRV change and only 4 weeks of follow-up. Top results don't do this.\n5. **Disclosure and neutrality.** This is a differentiator, because every brand roundup on page one ranks itself.\n6. **\"Where DeRot fits (our app).\"** DeRot is pre-launch. It meets you mid-scroll, so you don't have to remember to open a separate app. It is not for people who want a full meditation library or a hard lockout.\n7. **Drop Prana Breath.** Its iOS listing (id6478402874) returned 404 on the US, TH and JP storefronts, so I couldn't verify anything from an official source. Mention it only if the writer can verify it. The same goes for Breethe, Sattva, Breathe+ and Medito: I did not open their official listings, so leave them out or verify them first.\n8. **Secondary keywords** map to three subsections: Apple Watch Breathe alternatives, a free Calm alternative, and a free Breathwrk alternative.\n\n## QUESTIONS (People Also Ask style)\n\nI found no Reddit threads. These come from SERP patterns and Product Hunt developer notes, which describe people looking for a simple app \"that didn't want a subscription or an account.\"\n\n- Is there a breathing app that's completely free, with no subscription?\n- Is the Apple Watch Breathe app still available? Where did it go? (It is now inside the Mindfulness app.)\n- Can I use Apple's Breathe on iPhone without a Watch? (Unclear; see the Apple Mindfulness source note.)\n- Is Calm free? What do you get without Premium?\n- Is Breathwrk free? Is it owned by Peloton?\n- What's the best free app for box breathing or 4-7-8?\n- Do I need an app to do breathing exercises?\n- How many minutes a day of breathing exercise actually helps?\n- Are breathing apps safe? Is breath holding bad for you?\n\n## SOURCES\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/9873947/ | Brief structured respiration practices enhance mood and reduce physiological arousal | Cell Reports Medicine (Yilmaz Balban, Spiegel, Huberman et al.), via PMC | 2023 |\n- **Design:** remote RCT, 108 enrolled. 24 did mindfulness and 84 did breathwork (30 cyclic sighing, 21 box, 33 cyclic hyperventilation with retention). 5 min/day for 28 days. Average days completed: 19.61 (breathwork) and 17.71 (mindfulness).\n- **Positive affect:** breathwork overall +1.91 (p<0.0001) vs mindfulness +1.22 (p=0.06). In the mixed model, only cyclic sighing differed significantly from mindfulness, and the effect grew with adherence.\n- **Respiratory rate:** breathwork reduced it more than mindfulness (p<0.05). Of the individual groups, only sighing differed significantly. The change correlated with positive affect (r = −0.24).\n- **Anxiety:** state anxiety fell in all groups, with no differences between groups. Trait anxiety did not change.\n- **Null results:** no significant change in HRV or resting heart rate, and no sleep changes.\n- **Limitations:** exploratory, registered retrospectively, adherence self-reported, 4-week follow-up, comparisons among the breathwork groups underpowered.\n- **Conflict of interest:** Huberman advises WHOOP, the wearable used in the study.\n- **Exclusions:** heart disease, glaucoma, seizure history, pregnancy, psychosis, suicidality, bipolar disorder, substance use disorders.\n- **Adverse experiences:** none reported as adverse events, but 10% reported a negative experience in the debrief.\n- **Box breathing instruction:** shorten the counts if straining.\n\nhttps://hubermanlab.stanford.edu/publications/brief-structured-respiration-practices-enhance-mood-and-reduce-physiological-arousal?.com | Brief structured respiration practices… | Stanford (Huberman Lab) | 2023 |\n- University publication page for the same trial. It can serve as the \"Stanford\" attribution link.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/ | Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials | Scientific Reports (Fincham et al.), via PMC | 2023 |\n- **Stress:** 12 RCTs, 785 adults, g = −0.35 (95% CI −0.55 to −0.14), p=0.0009.\n- **Anxiety:** 20 RCTs, g = −0.32 (−0.48 to −0.16).\n- **Depression:** 18 RCTs, g = −0.40 (−0.58 to −0.22).\n- **Slow vs fast breathing:** slow-paced (10 studies) g = −0.35 (−0.61 to −0.10). Fast-paced (2 studies) g = −0.31, CI crossed zero. Two fast studies were too few for a meaningful comparison.\n- **Delivery:** remote and self-guided delivery worked about as well as in-person.\n- **Limitations:** most studies had moderate risk of bias, there were no physiological outcomes, and follow-up could not be analysed. The authors warn against hype.\n- **Safety:** no adverse events were attributed to breathwork. In one fast-paced study, some participants reported hot flushes, shortness of breath or sweating. The authors call for more safety research on fast breathwork.\n\nhttps://support.apple.com/HT206999 | Apple Watch User Guide: Mindfulness | Apple | 2026 (links to the watchOS 27 guide) |\n- Breathe and Reflect live in the Mindfulness app on Apple Watch.\n- Duration: \"You can choose a time between 1 and 5 minutes.\"\n- Breath rate is set in Settings > Mindfulness > Breath Rate.\n- Haptics can be set to None, Minimal or Prominent.\n- Heart rate shows on the Summary screen after a session and is viewable in Health.\n\nhttps://apps.apple.com/bh/app/mindfulness/id1560383515 | Mindfulness (App Store) | Apple | checked 2026-11-03 |\n- Free, with no IAPs shown.\n- Breath rate 4 to 10 breaths/min, sessions 1 to 5 min, haptic guidance, reminders.\n- Compatibility lists iPhone (iOS 15+), Vision Pro and Apple Watch (watchOS 8+).\n- *Caution for the writer:* the support guide describes Breathe sessions on Watch only. Don't claim iPhone-only Breathe sessions.\n- This is the Bahrain storefront; Apple apps are free everywhere.\n\nhttps://apps.apple.com/us/app/id1481804500?l=en-us | Breathwrk: Breathing Exercises (App Store) | Peloton Interactive, Inc. | checked 2026-11-03 |\n- Free download with IAPs. The listed items range from $1.99 to $69.99, e.g. \"Breathwrk Pro\" at $38.99, $49.00 and $69.99, and \"Breathwrk Premium 900 Monthly\" at $9.00. Billing periods are not stated for most items.\n- The description does not say what is free vs Pro. A user review says many timers are paywalled; the developer reply mentions free scholarships.\n- Free with Peloton All Access, Guide and App+ memberships.\n- Techniques: 4-7-8 is named. Box and sigh are not named.\n- Platforms: iPhone (iOS 26+), Mac (M1+, \"Not verified for macOS\"), Vision Pro. iPad and Watch are not listed.\n- Privacy label lists data \"used to track you.\"\n- Account: not stated, except that Peloton members log in.\n\nhttps://apps.apple.com/us/app/id571800810?l=en-us | Calm: Sleep & Meditation (App Store) | Calm.com, Inc. | checked 2026-11-03 |\n- Free with IAPs. \"Calm Premium\" items range from $14.99 to $79.99 (including $69.99 and $79.99). Billing periods are not stated in the IAP list.\n- \"Some of the programs and features are free forever.\" A free trial is mentioned \"if offered.\" No ads.\n- Includes \"breathing exercises and breathwork\" and an Apple Watch app for quick-start breathing.\n- Platforms: iPhone and iPad (18+), Mac (M1), Watch (watchOS 11+), Apple TV, Vision Pro.\n- Version 7.4, dated Oct 26.\n\nhttps://apps.apple.com/us/app/the-breathing-app-calm-daily/id1285982210 | The Breathing App: Calm Daily (App Store) | Breathing App, LLC | checked 2026-11-03 |\n- Core features \"Free forever\": Kids and Resonance Frequency ratios (resonance is 5 to 7 breaths/min), sessions up to 20 min, sounds, background playback, and a free 4-4 ratio. \"No account required.\" \"No ads.\"\n- Premium: Calming, Focusing, Energizing and Grounding ratios, unlimited timers, alternate-nostril breathing. 7-day trial.\n- Prices: Monthly $4.99, Annual $44.99, Monthly Premium $3.99, Annual Premium $39.99.\n- Box and 4-7-8 are listed among the ratios, but whether they are free is not stated, and the \"Calming\" ratios are Premium.\n- Platforms: iPhone and iPad (iOS 15+), Mac (M1), Vision Pro. Apple Watch is not listed.\n- Concept credited to Eddie Stern.\n\nhttps://apps.apple.com/app/id1296605806 | iBreathe – Relax and Breathe (App Store) | Jade Lizard Software LLC | checked 2026-11-03 |\n- Free with ads. IAPs: Remove Ads $2.99, Unlock Premium $3.99 (what it includes is not stated, and whether it is one-time is not stated), plus tips from $0.49 to $9.99.\n- Predefined exercises for sleep, stress and anxiety, and fully custom patterns (0.5 s resolution). The developer text doesn't name 4-7-8 or box.\n- iCloud sync. Account: not stated.\n- Platforms: iPhone, iPad, Mac (M1), Apple Watch (watchOS 10+), Apple TV, Vision Pro.\n- Version 8.1, dated Jul 7.\n\nhttps://main.breethe.com/sleep-and-meditation-app-guide/compare-evaluate/which-free-breathing-app-is-best-a-side-by-side-look-at-breethe-breathwrk-ibreathe-and-the-breathing-app | Which free breathing app is best? | Breethe | 2025 |\n- SERP competitor. Brand-published with no explicit disclosure, no prices, no safety notes. (Use for SERP analysis only; do not cite in the article.)\n\nhttps://www.othership.us/resources/best-deep-breathing-apps | Best deep breathing apps | Othership | 2026 |\n- SERP competitor. Ranks itself #1 out of 25 with no disclosure, no criteria and undated prices. (SERP analysis only.)\n\nhttps://www.artofliving.org/us-en/blog/breathwork/beginners-guide/breathwork-apps | 15 Best Breathwork Apps (Tested & Ranked) | Art of Living | 2025 |\n- SERP competitor. Ranks its own Sattva app #1, prices contradict each other, no testing shown, no contraindications. (SERP analysis only.)\n\n**Authority gap:** I found only two primary research sources (Balban 2023 and Fincham 2023) plus Apple's official support page. No university or clinic page on slow-exhale breathing or HRV, and no government safety guidance, came up in my 10 searches. Before publishing, add one authoritative clinic or government page on breathing exercises or safety. Without it, keep the physiology claims to what these two papers support.\n\n## SAFETY\n\n- **Breath holds and fast breathing.** Balban's trial excluded people with heart disease, glaucoma, seizure history, pregnancy, psychosis, bipolar disorder, suicidality and substance use disorders. Readers in those groups should skip breath holds and hyperventilation styles (box holds, 4-7-8 holds, \"breath-hold challenges\") or check with a clinician first. Present this as general caution, not a clinical rule.\n- **Strain.** Balban's box protocol tells people to shorten the counts if they have to strain. Recommend the same: shorter holds or no holds (slow 4-in/6-out instead).\n- **Stop if dizzy or lightheaded**, then return to normal breathing. Practice sitting or lying down, never while driving or in water. (I found this only in non-authoritative sources, so state it as general DeRot guidance without a citation.)\n- **Fast breathwork side effects.** In Fincham's review, some people doing fast breathwork reported hot flushes, shortness of breath or sweating, and the authors call for more safety data. In Balban, 10% reported a negative experience.\n- **No overclaiming.** Effects are small to moderate, the studies carry moderate risk of bias, and Balban found no HRV change. Don't say breathing \"treats\" anxiety or insomnia. Apps are not a substitute for care: point readers with persistent anxiety, sleep problems or distress to a professional, and anyone in crisis to 988 (US) or local emergency services.\n- **App caveats for readers.** Several apps auto-renew after a trial (the Calm listing describes auto-renew). Tell readers to check trial terms before tapping \"start trial.\""
+}
