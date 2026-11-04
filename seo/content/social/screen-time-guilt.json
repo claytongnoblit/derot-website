@@ -1,0 +1,106 @@
+{
+  "slug": "screen-time-guilt",
+  "title": "Screen Time Guilt: Why It Makes the Scroll Worse (and What Helps)",
+  "url": "https://derot.org/blog/screen-time-guilt/",
+  "created_at": "2026-11-04T20:41:03+00:00",
+  "approved": true,
+  "qa_errors": [],
+  "qa_fixes": [],
+  "copy": {
+    "cover_headline": "Your screen time guilt isn't about the number",
+    "points": [
+      {
+        "headline": "The number isn't what hurts",
+        "body": "Underneath the guilt is the post-scroll comedown: a clenched jaw, raised shoulders, shallow breathing, a wired head. Your report can't tell a call from a doomscroll."
+      },
+      {
+        "headline": "Guilt piles on, it doesn't help",
+        "body": "In research on parents, guilt about screen time predicted stress a month later. The actual amount of screen time had little to no link to either."
+      },
+      {
+        "headline": "Ask: how do I feel when I put it down?",
+        "body": "Check your jaw, shoulders, breath and head. Put it down feeling fine? The minutes probably weren't the problem. Put it down wound up? That's the signal worth acting on."
+      },
+      {
+        "headline": "A 30-second reset, mid-scroll",
+        "body": "Name the wired feeling, no verdict. In through your nose for 4. Out slowly for 6, shoulders drop. Repeat 3 to 5 breaths. Then choose: scroll on or put it down. Either is fine."
+      },
+      {
+        "headline": "Going easy on yourself isn't giving up",
+        "body": "Self-compassion after a setback is linked to more motivation to improve. The reset isn't a fine for scrolling. It's a way to come down first, then choose."
+      }
+    ],
+    "instagram_caption": "You meant to check one thing. Twenty minutes later your jaw is tight and your inner critic is already writing the review.\n\nTwo things are happening at once. The feed has wound you up, and now you're judging yourself for being wound up. The first is a body state. The second is a story about what that state says about you.\n\nFor what it's worth, large studies find that links between technology use and wellbeing are small at most. They're correlational, though, and a specific feed can still leave you feeling worse. So take the tense feeling seriously and go easy on the verdict.\n\nWeekly limits tend to miss the moment. They arrive days after the comedown, when all that's left is the grade. In a study of friction apps, a message asking people to reflect didn't work on its own. A short pause with an easy way out worked best.\n\nThat's the idea behind DeRot, coming soon to iOS: it pauses your apps while you reset with a few calming breaths, so the wired feeling can fade before you decide what's next.\n\nKeep the breaths easy, not big gulps. If you feel dizzy or lightheaded, stop and breathe normally.\n\nFull guide: link in bio.",
+    "instagram_hashtags": [
+      "breathwork",
+      "nervoussystemregulation",
+      "selfcompassion",
+      "digitalwellbeing",
+      "slowbreathing"
+    ],
+    "threads_text": "Screen time guilt is usually about a number. What most of us actually feel is the comedown: tight jaw, shoulders up, shallow breath.\n\nIn research on parents, guilt about screen time predicted stress a month later. The hours barely mattered.\n\nA better question: how do I feel when I put it down? A few 4-in, 6-out breaths mid-scroll help you answer it calmly.\n{url}",
+    "facebook_message": "That stab of guilt when your weekly screen time report comes in high? It's usually about a number. What you actually feel after a long scroll is the comedown: a tight jaw, raised shoulders, shallow breathing.\n\nGuilt doesn't ease that. In research on parents, guilt about screen time predicted stress a month later, while the hours themselves had little to no link to either.\n\nTry a gentler question: how do I feel when I put it down? When you notice the wired feeling mid-scroll, breathe in for 4 and out for 6, three to five times (about 30 to 50 seconds). Then decide whether to keep going. Either answer is fine.\n\nRead the full guide for the evidence and the step-by-step reset."
+  },
+  "platforms": {
+    "facebook": {
+      "status": "queued",
+      "scheduled_at": "2026-11-04T21:41:00+00:00",
+      "attempts": 0
+    },
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-11-04T21:41:00+00:00",
+      "attempts": 0
+    },
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-11-04T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "images": [
+    {
+      "path": "img/social/screen-time-guilt/slide-01.jpg",
+      "url": "https://derot.org/img/social/screen-time-guilt/slide-01.jpg",
+      "alt": "Your screen time guilt isn't about the number. Cover slide of a DeRot carousel."
+    },
+    {
+      "path": "img/social/screen-time-guilt/slide-02.jpg",
+      "url": "https://derot.org/img/social/screen-time-guilt/slide-02.jpg",
+      "alt": "The number isn't what hurts. Underneath the guilt is the post-scroll comedown: a clenched jaw, raised shoulders, shallow breathing, a wired head. Your report can't tell a call from a doomscroll."
+    },
+    {
+      "path": "img/social/screen-time-guilt/slide-03.jpg",
+      "url": "https://derot.org/img/social/screen-time-guilt/slide-03.jpg",
+      "alt": "Guilt piles on, it doesn't help. In research on parents, guilt about screen time predicted stress a month later. The actual amount of screen time had little to no link to either."
+    },
+    {
+      "path": "img/social/screen-time-guilt/slide-04.jpg",
+      "url": "https://derot.org/img/social/screen-time-guilt/slide-04.jpg",
+      "alt": "Ask: how do I feel when I put it down?. Check your jaw, shoulders, breath and head. Put it down feeling fine? The minutes probably weren't the problem. Put it down wound up? That's the signal worth acting on."
+    },
+    {
+      "path": "img/social/screen-time-guilt/slide-05.jpg",
+      "url": "https://derot.org/img/social/screen-time-guilt/slide-05.jpg",
+      "alt": "A 30-second reset, mid-scroll. Name the wired feeling, no verdict. In through your nose for 4. Out slowly for 6, shoulders drop. Repeat 3 to 5 breaths. Then choose: scroll on or put it down. Either is fine."
+    },
+    {
+      "path": "img/social/screen-time-guilt/slide-06.jpg",
+      "url": "https://derot.org/img/social/screen-time-guilt/slide-06.jpg",
+      "alt": "Going easy on yourself isn't giving up. Self-compassion after a setback is linked to more motivation to improve. The reset isn't a fine for scrolling. It's a way to come down first, then choose."
+    },
+    {
+      "path": "img/social/screen-time-guilt/slide-07.jpg",
+      "url": "https://derot.org/img/social/screen-time-guilt/slide-07.jpg",
+      "alt": "Read the full guide free at derot.org/blog, link in bio. Try it now, free: 60-second calm breathing at derot.org/tools."
+    }
+  ],
+  "reel": {
+    "path": "img/social/screen-time-guilt/reel.mp4",
+    "url": "https://derot.org/img/social/screen-time-guilt/reel.mp4",
+    "cover_path": "img/social/screen-time-guilt/reel-cover.jpg",
+    "cover_url": "https://derot.org/img/social/screen-time-guilt/reel-cover.jpg",
+    "duration": 20.9,
+    "hash": "76c420f0b0ba89af"
+  }
+}

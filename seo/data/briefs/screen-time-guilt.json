@@ -1,0 +1,272 @@
+{
+  "title_options": [
+    "Screen time guilt: why the number stings and what to check instead",
+    "Screen time guilt is about a number. The comedown is the real signal",
+    "How to stop feeling guilty about screen time (and notice how you feel instead)"
+  ],
+  "search_intent": "Informational. Adults who feel bad about their own weekly screen time report, or who come off a scroll feeling guilty and wired, want to know why it happens, whether the guilt is justified, and how to deal with it without a strict lockout. Most current results are written for parents, so the adult version of this query is poorly served.",
+  "serp_summary": "The results are mostly about parents. Technosapiens (a Substack for parents, could not be fetched) ranks first. After it come parenting essays (Scary Mommy, Mother.ly, Raising Arizona Kids, a 2017 Psychology Today post), a Lingokids press survey that counts as weak evidence, and Robin Nabi's piece from The Conversation (republished by Civil Beat and Discover). Nabi's piece is the strongest result: guilt predicted stress, while hours of use barely predicted guilt. Goals & Progress has a long post for parents that cites research and also sells its own products. UX Collective and Lifehacker AU come closest to adults' own use (Lifehacker argues that guilt rarely leads to change and that what you do matters more than hours). Their shared strengths: guilt can do more harm than the screen time itself, quality matters more than minutes, and self-compassion helps. None of them covers adults' own guilt in depth, links guilt to a nervous system that is already wound up, explains the loop where self-criticism leads to the next scroll, questions how accurate the minute count is, or gives a tool for the moment itself.",
+  "gaps": [
+    "Adults' guilt about their own scrolling, not parents' guilt about kids' screens",
+    "The guilt lands on a body the feed has already wound up (jaw, shoulders, shallow breathing)",
+    "How self-criticism plausibly makes the next scroll more likely (indirect evidence, framed honestly)",
+    "The screen time number is a rough measure: self-reports correlate only moderately with logs, and 'problematic use' measures match them even less",
+    "Population-level research doesn't back alarm, but it is correlational and doesn't mean the feed never leaves people feeling worse",
+    "A pause beats a scolding: information prompts alone were ineffective in the PNAS friction study",
+    "A 30-second, guilt-free reset to use mid-scroll, instead of weekly limits or values exercises",
+    "Swapping the question 'how many minutes?' for 'how do I feel when I put it down?'"
+  ],
+  "outline": [
+    {
+      "h2": "What is screen time guilt? (quick answer)",
+      "points": [
+        "40-60 word answer first: screen time guilt is the self-reproach that follows a usage number or a scroll that ran long. What people usually feel underneath it is the post-scroll comedown.",
+        "Use the familiar scene: you check one thing and look up 20 minutes later with a clenched jaw, wired and guilty at the same time (forum anecdotes, illustrative only)",
+        "Make clear this is about adults and their own use, as distinct from the parenting version most articles cover"
+      ]
+    },
+    {
+      "h2": "Where does screen time guilt come from?",
+      "points": [
+        "The number: weekly reports put a verdict on minutes",
+        "The 'addiction' framing that turns ordinary use into a moral failing",
+        "The gap between intent and outcome: tired people more often read their media time as procrastination (Reinecke 2014, N=471)"
+      ]
+    },
+    {
+      "h2": "Is the screen time number even accurate?",
+      "points": [
+        "Parry 2021 meta-analysis: self-reported use correlates only moderately with logged use and is rarely accurate",
+        "Problematic-use measures have an even weaker link to logs",
+        "Psychology Today summary: fewer than 10% of self-reports fell within 5% of logged use (attribute to the summary)",
+        "Point: minutes are a weak stand-in for how you actually feel"
+      ]
+    },
+    {
+      "h2": "Is screen time actually bad for adults?",
+      "points": [
+        "Orben & Przybylski 2019: at most 0.4% of the variation in adolescent wellbeing, smaller than sleep or breakfast",
+        "Vuorre & Przybylski 2023: about 2 million people aged 15-89 in 168 countries, links 'small at most', no causal claims",
+        "Honest nuance: the data is correlational and population-level. A particular feed can still leave you feeling worse.",
+        "What you do matters more than the total count (scrolling vs messaging vs reading)"
+      ]
+    },
+    {
+      "h2": "Why guilt makes the scroll loop worse",
+      "points": [
+        "Nabi: guilt predicted stress a month later, the reverse didn't hold, and hours had little link to either",
+        "Reinecke: guilt reduced the recovery and vitality people were looking for",
+        "Guilt stacks on top of an already wired body",
+        "Self-compassion raised motivation to improve (Breines & Chen 2012), and self-forgiveness reduced later procrastination (Wohl 2010). Present these as the closest evidence for the guilt-to-scroll loop, not as proof."
+      ]
+    },
+    {
+      "h2": "Why screen time limits and reminders often don't stick",
+      "points": [
+        "PNAS 2023: the deliberation message alone was not effective, while a pause with an easy way out worked best",
+        "A pause beats a scolding (don't name the app in the body)",
+        "Weekly limits arrive after the fact, when the comedown has already happened"
+      ]
+    },
+    {
+      "h2": "Measure state, not minutes: the better question",
+      "points": [
+        "Ask 'How do I feel when I put it down?'",
+        "Signals to notice: jaw, shoulders, breathing, a foggy or wired head",
+        "Less screen time becomes a side effect of feeling calmer, not the goal",
+        "Gently reframe 'dopamine detox' without endorsing it"
+      ]
+    },
+    {
+      "h2": "A guilt-free reset for the mid-scroll moment",
+      "points": [
+        "Step 1: notice the wired feeling without judging it",
+        "Step 2: breathe in for 4 and out for 6, 3 to 5 breaths (about 30 seconds)",
+        "Step 3: decide on purpose whether to keep scrolling, and either answer is fine",
+        "Evidence: slow breathing under 10 breaths/min is associated with higher HRV and relaxation (Zaccaro). Exhale-focused breathing improved mood more than mindfulness (Balban). Note that 4/6 was not the trial protocol.",
+        "Common mistakes: forcing big breaths, treating the reset as a penalty",
+        "Link to the calm 4-6 breathing tool; one light mention of DeRot meeting you mid-scroll",
+        "Safety note: stop if dizzy, and see a professional if distress persists"
+      ]
+    }
+  ],
+  "questions": [
+    "Why do I feel guilty after scrolling?",
+    "Is screen time actually bad for adults?",
+    "How much screen time is too much for an adult?",
+    "Is my screen time report accurate?",
+    "Why do I keep ignoring my screen time limits?",
+    "Does guilt help change a habit, or does it backfire?",
+    "Why do I feel wired after scrolling but keep going?",
+    "Is all screen time equal?",
+    "Should I do a dopamine detox?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://experts.illinois.edu/en/publications/a-systematic-review-and-meta-analysis-of-discrepancies-between-lo/",
+      "title": "A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use",
+      "publisher": "Nature Human Behaviour (Parry et al.)",
+      "year": "2021",
+      "key_findings": "Preregistered, 106 effect sizes. Self-reports correlate only moderately with logged use and rarely reflect it accurately. Problematic-use measures show an even weaker association. No exact r value was verified."
+    },
+    {
+      "id": "S2",
+      "url": "https://www.psychologytoday.com/us/blog/the-athletes-way/202105/have-hazards-and-harms-screen-time-been-overblown",
+      "title": "Have the hazards and harms of screen time been overblown?",
+      "publisher": "Psychology Today (blog)",
+      "year": "2021",
+      "key_findings": "Secondary summary of Parry: 47 studies, 106 comparisons, 52,007 people. Fewer than 10% of self-reports fell within 5% of logged use."
+    },
+    {
+      "id": "S3",
+      "url": "https://www.eurekalert.org/news-releases/511380",
+      "title": "Using media as a stress reducer after a tough day at work can lead to feelings of guilt and failure",
+      "publisher": "EurekAlert / Journal of Communication (Reinecke, Hartmann & Eden)",
+      "year": "2014",
+      "key_findings": "N=471. More tired people more often saw media use as procrastination, and that guilt reduced recovery and vitality. Correlational."
+    },
+    {
+      "id": "S4",
+      "url": "https://www.bps.org.uk/research-digest/heres-why-you-should-forgive-yourself-relaxing-front-tv",
+      "title": "Here's why you should forgive yourself for relaxing in front of the TV",
+      "publisher": "British Psychological Society Research Digest",
+      "year": "2014",
+      "key_findings": "Summary of Reinecke with caveats: not experimental, causation could run the other way, and the sample came from student classes and a gaming site."
+    },
+    {
+      "id": "S5",
+      "url": "https://www.civilbeat.org/2024/09/guilt-over-kids-screen-time-is-common-−-but-it-can-have-a-silver-lining/",
+      "title": "Guilt over kids' screen time is common, but it can have a silver lining",
+      "publisher": "Civil Beat (Robin Nabi via The Conversation)",
+      "year": "2024",
+      "key_findings": "2020 parent survey: 73% felt some guilt, 48% moderate to intense. Guilt predicted stress a month later, stress didn't predict guilt, and amount of screen time had little link to either."
+    },
+    {
+      "id": "S6",
+      "url": "https://www.ox.ac.uk/node/1434409",
+      "title": "Technology use explains at most 0.4% of adolescent wellbeing",
+      "publisher": "University of Oxford / Nature Human Behaviour (Orben & Przybylski)",
+      "year": "2019",
+      "key_findings": "More than 300,000 adolescents in 3 datasets. Technology use explained at most 0.4% of the variation in wellbeing, less than sleep or breakfast."
+    },
+    {
+      "id": "S7",
+      "url": "https://www.oii.ox.ac.uk/no-smoking-gun-mental-health-harm-from-internet-landmark-oxford-survey/",
+      "title": "No 'smoking gun' mental health harm from internet: landmark Oxford survey",
+      "publisher": "Oxford Internet Institute / Clinical Psychological Science (Vuorre & Przybylski)",
+      "year": "2023",
+      "key_findings": "About 2 million people aged 15-89 in 168 countries. Links were small at most, with no at-risk group. Couldn't address causal effects."
+    },
+    {
+      "id": "S8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22645164/",
+      "title": "Self-compassion increases self-improvement motivation",
+      "publisher": "Personality and Social Psychology Bulletin (Breines & Chen)",
+      "year": "2012",
+      "key_findings": "4 experiments. Self-compassion increased motivation to make amends and avoid repeating a mistake, and led to more studying after failure."
+    },
+    {
+      "id": "S9",
+      "url": "https://bps.org.uk/research-digest/cure-procrastination-forgive-yourself",
+      "title": "To cure procrastination, forgive yourself",
+      "publisher": "BPS Research Digest / Personality and Individual Differences (Wohl, Pychyl & Bennett)",
+      "year": "2010",
+      "key_findings": "Students who forgave themselves for procrastinating felt less negative afterward and procrastinated less before the next exams, through reduced negative affect."
+    },
+    {
+      "id": "S10",
+      "url": "https://synosys.github.io/publication/phillipp-2023-smartphone",
+      "title": "Directing smartphone use through the self-nudge app one sec",
+      "publisher": "PNAS (Grüning, Riedel & Lorenz-Spreen)",
+      "year": "2023",
+      "key_findings": "280 participants over 6 weeks: opening attempts fell 37%. In the follow-up (N=500), the option to dismiss had the strongest effect, a delay helped, and the deliberation message alone was not effective."
+    },
+    {
+      "id": "S11",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full",
+      "title": "How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing",
+      "publisher": "Frontiers in Human Neuroscience (Zaccaro et al.)",
+      "year": "2018",
+      "key_findings": "15 studies. Slow breathing under 10 breaths/min is associated with higher HRV, relaxation, and less anxiety and anger. The evidence base is small."
+    },
+    {
+      "id": "S12",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/9873947/",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Cell Reports Medicine (Balban et al.)",
+      "year": "2023",
+      "key_findings": "108 randomized, 5 min/day for 28 days. Exhale-focused cyclic sighing raised positive mood more than mindfulness. State anxiety fell in all groups. No HRV change. About 10% reported negative experiences."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "Self-reported digital media use correlates only moderately with logged use and is rarely an accurate reflection of it",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Self-reported problematic-use measures show an even weaker association with logged use",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Per a Psychology Today summary of Parry 2021 (47 studies, 52,007 people), fewer than 10% of self-reports were within 5% of logged use",
+      "source_id": "S2"
+    },
+    {
+      "fact": "In a survey of 471 people, more tired people more often saw TV or gaming as procrastination, and that guilt reduced recovery and vitality",
+      "source_id": "S3"
+    },
+    {
+      "fact": "The Reinecke study was not experimental, and the effect could run the other way (failed recovery causing guilt)",
+      "source_id": "S4"
+    },
+    {
+      "fact": "In a 2020 survey, 73% of parents felt some screen time guilt and 48% felt moderate to intense guilt",
+      "source_id": "S5"
+    },
+    {
+      "fact": "Guilt predicted stress a month later, stress didn't predict later guilt, and amount of screen time had little to no link to either",
+      "source_id": "S5"
+    },
+    {
+      "fact": "Technology use explained at most 0.4% of the variation in adolescent wellbeing across more than 300,000 people, less than sleep or eating breakfast",
+      "source_id": "S6"
+    },
+    {
+      "fact": "Across about 2 million people aged 15-89 in 168 countries, links between internet adoption and mental health were small at most, and the authors could not address causation",
+      "source_id": "S7"
+    },
+    {
+      "fact": "Across 4 experiments, self-compassion after a mistake increased motivation to improve and time spent studying after failure",
+      "source_id": "S8"
+    },
+    {
+      "fact": "Students who forgave themselves for procrastinating felt less negative and procrastinated less before the next exams",
+      "source_id": "S9"
+    },
+    {
+      "fact": "In a 6-week study of 280 people, a pause before opening apps cut opening attempts by 37%. In a follow-up, the deliberation message alone was not effective, while the option to dismiss had the strongest effect.",
+      "source_id": "S10"
+    },
+    {
+      "fact": "Slow breathing under 10 breaths per minute is associated with higher heart rate variability, relaxation and comfort, and less anxiety and anger (15 studies)",
+      "source_id": "S11"
+    },
+    {
+      "fact": "5 minutes a day of exhale-focused cyclic sighing for 28 days raised positive mood more than mindfulness meditation. HRV did not change, and about 10% of participants reported negative experiences.",
+      "source_id": "S12"
+    }
+  ],
+  "safety_notes": [
+    "The 4-in, 6-out reset is gentle with no breath holds. Stop and breathe normally if you feel dizzy or lightheaded, and don't force big breaths.",
+    "If box or 4-7-8 breathing is mentioned: breath holds and fast breathing aren't for everyone (pregnancy, heart or lung conditions, a history of fainting or panic).",
+    "Breathing can help you feel calmer. It does not treat anxiety, depression or compulsive use.",
+    "If guilt comes with persistent low mood, anxiety, sleep problems, or use that interferes with work or relationships, suggest talking to a professional. Anyone in crisis should contact local emergency services or a crisis line (988 in the US).",
+    "Keep the population-level findings in proportion: they are correlational and don't mean an individual feed can't leave someone feeling worse.",
+    "4-in, 6-out wasn't the protocol in the cited trials. Describe it as consistent with the slow-breathing and longer-exhale evidence.",
+    "Use forum anecdotes only to illustrate the feeling, never as data. Avoid 'addiction' language."
+  ],
+  "word_count_target": 1900,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: \"screen time guilt\" (explainer)\n\n## SERP ANALYSIS\n\n**Who ranks and in what format.** Most of the results for \"screen time guilt\" are about parents feeling guilty over their kids' screens. Very few pages cover adults feeling guilty about their own scrolling.\n\n- [Technosapiens (Substack), \"How to let go of screen time guilt\"](https://technosapiens.substack.com/p/how-to-let-go-of-screen-time-guilt) ranks first. It's a newsletter essay aimed at parents. I couldn't read it (HTTP 403).\n- Parenting media: [Scary Mommy](https://www.scarymommy.com/parenting/why-i-refuse-to-feel-guilty-about-screen-time), [Mother.ly](https://mother.ly/child/child-learn-play/limiting-screen-time-for-kids/), [Raising Arizona Kids](https://www.raisingarizonakids.com/2017/10/screen-time-one-more-reason-for-mom-guilt/) and an old [Psychology Today parent blog (2017)](https://www.psychologytoday.com/us/blog/mental-wealth/201701/is-guilt-affecting-how-you-manage-your-childs-screentime). These are personal essays.\n- A press release: [Lingokids \"Screen Guilt Paradox\"](https://lingokids.com/press/the-screen-guilt-paradox). It's a survey run by an app company (84% of parents feel guilty), so weak evidence.\n- A research-based piece: Robin Nabi's article from The Conversation, republished by [Civil Beat](https://www.civilbeat.org/2024/09/guilt-over-kids-screen-time-is-common-−-but-it-can-have-a-silver-lining/) and [Discover](https://www.discovermagazine.com/technology/guilt-over-kids-screen-time-is-common-but-it-can-have-a-silver-lining). This is the strongest page on the SERP. It cites her own data showing that guilt predicts stress and that the number of hours barely predicts guilt. Its introduction mentions adults using screens to manage their mood and then feeling guilty, but it never develops that point.\n- [Goals & Progress, \"Screen time guilt and balance\"](https://goalsandprogress.com/screen-time-guilt-balance/): a long post for parents from a productivity site. It cites Wolfers/Nabi/Walter 2025 (Media Psychology), Eirich 2022 (JAMA Psychiatry), Neff, and Przybylski & Weinstein's \"Goldilocks\" paper. It has a homemade \"framework\", a self-compassion section, action lists and an FAQ, and it sells the site's own products.\n- Pages closer to our topic: [UX Collective, \"The UX behind screen time guilt\"](https://uxdesign.cc/the-ux-behind-screen-time-guilt-f4d4dfaca1e8), about how screen time reports are designed (403, not read), and [Lifehacker AU, \"Why You Shouldn't Feel Guilty About Your Screen Time\"](https://lifehacker.com.au/?p=1204343) (couldn't fetch). From the search snippet: guilt rarely leads to change, and what you do on the phone matters more than hours (\"two hours on Reddit vs two hours reading an ebook\").\n\n**What they do well:** they argue that guilt can do more harm than the screen time, that quality and context matter more than minutes, and that self-compassion helps.\n\n**What they miss or get wrong:**\n1. Almost nobody writes about adults' guilt over their own use. Nabi's introduction and the Lifehacker snippet come closest.\n2. Nobody connects guilt to how the body feels. No page mentions that guilt lands on top of an already wound-up body (the jaw-clenched, wired feeling).\n3. None explains how self-criticism can make the next scroll more likely.\n4. None mentions that the minute count in screen time reports is a rough measure of what matters (Parry 2021 shows people misjudge their usage, and misjudge \"problematic\" use even more).\n5. None offers something to do in the moment. Advice is about weekly limits, values exercises or \"set boundaries.\"\n6. Evidence quality varies. Company surveys get cited as research, and the \"Goldilocks\" idea is presented as a firm rule.\n\n## GAPS AND ANGLE\n\n- **Make it about adults' own use.** The reader is a wellness-minded adult looking at their own weekly report, not a parent. That gap is our opening.\n- **Where the guilt comes from:**\n  1. **The number.** Weekly reports put a judgment on minutes. Self-reported time only correlates moderately with logged time, and self-reports of \"problematic\" use match the logs even less ([Parry et al. 2021](https://experts.illinois.edu/en/publications/a-systematic-review-and-meta-analysis-of-discrepancies-between-lo/)). Minutes are a weak stand-in for how you actually feel.\n  2. **\"Addiction\" framing.** Population-level research doesn't support alarm: technology use explained at most 0.4% of the variation in teen wellbeing ([Orben & Przybylski 2019](https://www.ox.ac.uk/node/1434409)), and there was \"no smoking gun\" across about 2 million people aged 15 to 89 ([Vuorre & Przybylski 2023](https://www.oii.ox.ac.uk/no-smoking-gun-mental-health-harm-from-internet-landmark-oxford-survey/)). Be honest that this data is correlational, that it covers whole populations and not individuals, and that it doesn't mean the feed never leaves you feeling worse.\n  3. **The gap between what you meant to do and what happened.** Tired people are more likely to see their media time as procrastination, and the guilt that follows reduces the recovery they were hoping for ([Reinecke et al. 2014, N=471](https://www.eurekalert.org/news-releases/511380)).\n- **Why guilt makes things worse.** Guilt predicted more stress a month later, but stress didn't predict later guilt, and hours on screens had little to do with either ([Nabi, parents, 2020 data](https://www.civilbeat.org/2024/09/guilt-over-kids-screen-time-is-common-−-but-it-can-have-a-silver-lining/)). Being kind to yourself after a slip raised motivation to improve ([Breines & Chen 2012](https://pubmed.ncbi.nlm.nih.gov/22645164/)). Students who forgave themselves for procrastinating felt less negative afterward and procrastinated less before the next exams ([Wohl et al. 2010](https://bps.org.uk/research-digest/cure-procrastination-forgive-yourself)). Present this as the closest available evidence on the \"guilt leads to another scroll\" loop, not as direct proof about scrolling.\n- **Why limits often don't stick.** Information prompts were weak in the one sec study. A pause plus an easy way out worked better: the deliberation message alone \"was not effective,\" while the option to dismiss had the strongest effect ([Grüning et al. 2023, PNAS, n=280 over 6 weeks](https://synosys.github.io/publication/phillipp-2023-smartphone)). The article can say \"a pause beats a scolding\" without naming that app in the body.\n- **Measure state, not minutes.** \"How do I feel when I put it down?\" Reinecke's guilt-reduces-recovery finding supports this framing.\n- **The reset, mid-scroll script:** notice the wired feeling (jaw, shoulders, shallow breathing). Breathe in for 4 and out for 6, for 3 to 5 breaths (about 30 seconds). Then decide on purpose whether to keep scrolling, with no verdict either way. Support: slow breathing (under 10 breaths per minute) is associated with higher heart rate variability and more relaxation ([Zaccaro 2018](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full)). Exhale-focused breathing raised positive mood more than mindfulness did ([Balban 2023](https://pmc.ncbi.nlm.nih.gov/articles/9873947/)). Note that 4-in/6-out wasn't the protocol in that trial.\n- **Our point of view:** the problem is the feed, not the reader. The comedown is the useful signal. Spending less time is a side effect, not the goal. Link to the calm 4-6 breathing tool under /tools/ (take the exact URL from the site inventory).\n\n## QUESTIONS\n\n- Why do I feel guilty after scrolling?\n- Is screen time actually bad for adults?\n- How much screen time is too much for an adult?\n- Why don't screen time limits work for me? / Why do I keep tapping \"ignore limit\"?\n- Is the screen time report accurate, and should I trust the number?\n- How do I stop feeling guilty about screen time (screen time without guilt)?\n- Is guilt helpful for changing a habit, or does it backfire?\n- Why do I feel wired or anxious after scrolling but keep going?\n- Is all screen time equal (scrolling vs reading vs messaging)?\n- Should I do a \"dopamine detox\"? (Handle by gently reframing it, never endorsing it.)\n\nReddit and forum posts describe a quick check turning into an hour and leaving people \"foggy and guilty at once,\" and feeling \"genuinely worse than before\" after 45 minutes on TikTok ([snapshot](https://reddit.sentinel-team.org/posts/1tvlbhq/snapshots/2026-06-04T08%3A00%3A03.161055Z), [r/Stopscrolling](https://reddit.birdcat.cafe/r/stopscrolling)). These are anecdotes for illustrating the feeling. Don't quote them as data.\n\n## SOURCES\n\nhttps://experts.illinois.edu/en/publications/a-systematic-review-and-meta-analysis-of-discrepancies-between-lo/ | A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use (Parry et al.) | Nature Human Behaviour 5(11):1535-1547 | 2021 | Preregistered; 106 effect sizes. Self-reported use \"correlates only moderately\" with logs, self-reports were \"rarely an accurate reflection\" of logged use, and problematic-use measures show \"an even weaker association\" with logs. I couldn't verify an exact r value (the PDF wouldn't parse), so don't cite one.\n\nhttps://www.psychologytoday.com/us/blog/the-athletes-way/202105/have-hazards-and-harms-screen-time-been-overblown | Have the hazards and harms of screen time been overblown? | Psychology Today (blog) | 2021 | Secondary summary of Parry: 47 studies, 106 comparisons, 52,007 people; \"less than 10%\" of self-reports were within 5% of logged use. Use only as the source for that figure and attribute it to the summary. Don't repeat the blog's \"95% of studies\" line.\n\nhttps://www.eurekalert.org/news-releases/511380 | Using media as a stress reducer after a tough day at work can lead to feelings of guilt and failure (Reinecke, Hartmann & Eden, \"The Guilty Couch Potato\") | EurekAlert / Journal of Communication | 2014 | Online survey, N=471. More tired people more often saw TV or gaming as procrastination, and \"these feelings of guilt diminished the positive effects of media use and reduced recovery and vitality.\" Correlational.\n\nhttps://www.bps.org.uk/research-digest/heres-why-you-should-forgive-yourself-relaxing-front-tv | Here's why you should forgive yourself for relaxing in front of the TV | British Psychological Society Research Digest | 2014 | Summary of Reinecke: about 500 people in Germany and Switzerland, about 2 hours of TV or gaming on average. Caveats: not experimental, the effect could run the other way (failed recovery leading to guilt), and the sample came from student classes and a gaming site.\n\nhttps://www.civilbeat.org/2024/09/guilt-over-kids-screen-time-is-common-−-but-it-can-have-a-silver-lining/ | Guilt over kids' screen time is common, but it can have a silver lining (Robin Nabi, UC Santa Barbara; via The Conversation) | Civil Beat | 2024 | 2020 parent survey (March to May): 73% felt some guilt, 48% moderate to intense. Guilt predicted stress a month later, stress didn't predict guilt, and amount of screen time had little to no link to guilt or stress. Introduction notes adults feel guilty about using screens to manage mood, which undercuts the relief. Parents, not adults' own use.\n\nhttps://www.ox.ac.uk/node/1434409 | Technology use explains at most 0.4% of adolescent wellbeing, new study finds (Orben & Przybylski) | University of Oxford / Nature Human Behaviour | 2019 | More than 300,000 adolescents and parents in 3 UK/US datasets. Specification-curve analysis found a negative association explaining at most 0.4% of wellbeing variation, smaller than sleep or eating breakfast. Adolescents only.\n\nhttps://www.oii.ox.ac.uk/no-smoking-gun-mental-health-harm-from-internet-landmark-oxford-survey/ | No 'smoking gun' mental health harm from internet: landmark Oxford survey (Vuorre & Przybylski) | Oxford Internet Institute / Clinical Psychological Science | 2023 | About 2 million people aged 15 to 89 in 168 countries, 2005 to 2022, plus mental health estimates for about 200 countries (2000 to 2019). Links with internet adoption were \"small at most,\" with no at-risk age or gender group. Country-level and descriptive: \"we couldn't address causal effects.\"\n\nhttps://pubmed.ncbi.nlm.nih.gov/22645164/ | Self-compassion increases self-improvement motivation (Breines & Chen) | Personality and Social Psychology Bulletin 38(9):1133-1143 | 2012 | 4 experiments. Compared with self-esteem and distraction conditions, self-compassion led to more motivation to make amends and avoid repeating a transgression, and more time studying after failing a test.\n\nhttps://bps.org.uk/research-digest/cure-procrastination-forgive-yourself | To cure procrastination, forgive yourself (Wohl, Pychyl & Bennett) | BPS Research Digest / Personality and Individual Differences 48(7):803-808 | 2010 | First-year students across two rounds of midterms (119 per most sources; the digest says 134). Forgiving yourself for procrastinating was linked to less negative feeling afterward and less procrastination before the next exams, working through reduced negative affect. Students and exams, not phones.\n\nhttps://synosys.github.io/publication/phillipp-2023-smartphone | Directing smartphone use through the self-nudge app one sec (Grüning, Riedel & Lorenz-Spreen) | PNAS 120(8) | 2023 | 280 participants over 6 weeks. Users dismissed the app about 36% of the time after the pop-up, opening attempts fell 37%, and actual openings were down 57% combined. In the follow-up experiment (N=500), the option to dismiss had the strongest effect, a time delay helped, and the deliberation message alone \"was not effective.\"\n\nhttps://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full | How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing (Zaccaro et al.) | Frontiers in Human Neuroscience | 2018 | 15 of 2,461 screened articles. Slow breathing (under 10 breaths per minute) is associated with higher heart rate variability and respiratory sinus arrhythmia, more relaxation and comfort, and less anxiety and anger. The evidence base is small and the mechanisms are debated.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/9873947/ | Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.) | Cell Reports Medicine | 2023 | 108 randomized (30 cyclic sighing, 21 box, 33 cyclic hyperventilation, 24 mindfulness), 5 minutes a day for 28 days. Exhale-focused cyclic sighing raised positive mood more than mindfulness (p<0.05) and lowered resting breathing rate. State anxiety fell in all groups with no difference between groups. No change in heart rate variability or resting heart rate. Mostly Stanford students, remote, not preregistered, about 10% reported negative experiences.\n\n## SAFETY\n\n- The reset is gentle (slow inhale and a longer exhale, no breath holds). Still say: stop and breathe normally if you feel dizzy or lightheaded. Don't force big breaths.\n- If you mention the other techniques: breath holds (box, 4-7-8) and fast breathing aren't for everyone, including people who are pregnant, have heart or lung conditions, or a history of fainting or panic. Balban excluded people with heart disease, seizures, pregnancy and some psychiatric conditions, and about 10% of its participants reported negative experiences.\n- Breathing can help you feel calmer. It doesn't treat anxiety, depression or compulsive use.\n- If guilt about phone use comes with persistent low mood, anxiety, sleep problems, or use that interferes with work or relationships, suggest talking to a professional. Anyone in crisis should contact local emergency services or a crisis line (988 in the US).\n- Keep the population-level findings in proportion. \"No smoking gun\" in country-level data doesn't mean an individual feed can't leave someone feeling worse. Keep \"the feed can leave people feeling worse\" and avoid both extremes.\n\n## Notes for the writer\n\n- I used all 10 searches. Several pages blocked fetching (Technosapiens, UX Collective, Lifehacker, the main Oxford news page, PubMed), so their summaries rely on search snippets or secondary pages.\n- I couldn't read the Parry 2021 PDF, so I have no exact correlation for it. Use the abstract's wording (\"only moderately,\" \"rarely accurate\"). The \"less than 10% within 5%\" figure only comes from the Psychology Today summary.\n- Most of the guilt research is about parents (Nabi) or TV and gaming (Reinecke). The best direct evidence for the \"guilt makes the next scroll more likely\" idea is indirect: self-forgiveness and procrastination (Wohl) and self-compassion (Breines). Frame that link as likely, not proven.\n- The 4-in/6-out breathing pattern wasn't the protocol in any of these trials. Support it with the general slow-breathing and longer-exhale evidence (Zaccaro, Balban)."
+}

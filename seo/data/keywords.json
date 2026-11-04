@@ -1319,8 +1319,9 @@
       "content_type": "pillar",
       "angle": "Pillar for the guilt-free approach: phones are fine, dysregulation is the problem.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Near-empty SERP; strong brand fit."
+      "status": "covered",
+      "notes": "Near-empty SERP; strong brand fit.",
+      "covered_by": "screen-time-guilt"
     },
     {
       "keyword": "mindful scrolling",
@@ -1422,8 +1423,10 @@
       "content_type": "explainer",
       "angle": "Where screen time guilt comes from and why it makes the scroll worse.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Research on post-scroll guilt supports angle."
+      "status": "published",
+      "notes": "Research on post-scroll guilt supports angle.",
+      "post": "screen-time-guilt",
+      "published": "2026-11-04"
     },
     {
       "keyword": "is screen time bad for adults",
@@ -1435,7 +1438,8 @@
       "content_type": "faq",
       "angle": "Nuanced answer: content and state matter more than hours.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "screen-time-guilt"
     },
     {
       "keyword": "digital detox",
@@ -1512,8 +1516,9 @@
       "content_type": "faq",
       "angle": "Why people tap Ignore Limit, and a calmer interruption.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Apple community and Reddit rank."
+      "status": "covered",
+      "notes": "Apple community and Reddit rank.",
+      "covered_by": "screen-time-guilt"
     },
     {
       "keyword": "how to stop checking your phone",
@@ -3700,6 +3705,12 @@
       "status": "queued",
       "source": "expansion",
       "added": "2026-11-01"
+    },
+    {
+      "keyword": "feel guilty after scrolling",
+      "status": "covered",
+      "source": "planner",
+      "covered_by": "screen-time-guilt"
     }
   ]
 }
