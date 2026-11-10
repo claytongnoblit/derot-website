@@ -1,5 +1,228 @@
 # DeRot blog: full text
 
+# Apps That Make You Breathe Before Opening Instagram, Compared
+
+URL: https://derot.org/blog/app-breathe-before-opening-instagram/
+Updated: 2026-11-10
+
+Key takeaways:
+- On iPhone, one sec and Clearspace show a breathing pause before Instagram opens, and ScreenZen adds a delay that can grow with each open, with breathing as one option while you wait.
+- Opal's App Store listing doesn't mention breathing. It's a blocker with adjustable strictness, including a Deep Focus mode that can't be bypassed.
+- Google's Pause Point is an Android feature, not an iPhone one. The closest iPhone options are third-party pause apps, Screen Time App Limits and a Shortcuts automation.
+- In the 2023 PNAS study of one sec, actual app openings fell 57% over six weeks, but the study didn't measure mood or stress during or after a session.
+- A pause at the open catches the reflex tap. For the wired feeling 20 minutes into a scroll, three rounds of 4-in, 6-out breathing (about 30 seconds) is a simple reset you can do anywhere.
+
+The apps that make you breathe before opening Instagram on iPhone are one sec and Clearspace, which show a breathing pause before the app opens. ScreenZen adds a delay that can grow with each open, with breathing as an option while you wait. Opal is a stricter blocker. Apple's Screen Time and Shortcuts are free but have no breathing pause.
+
+Disclosure: DeRot makes an app in this category. We don't rank our own app, and no app paid to be included. Every app fact below comes from that app's US App Store listing, checked November 10, 2026.
+
+## Apps that make you breathe before opening Instagram, at a glance
+
+| App | Best for | How the pause works | Breathing-based? | Free option | US price (as listed) | Minimum iOS |
+|---|---|---|---|---|---|---|
+| one sec | A breath at the open, with the choice to go in anyway | Deep-breath animation before the app opens, triggered by a Shortcuts automation | Yes | One app free | Pro $6.99/month, $19.99/year or $99.99 lifetime | iOS 15.0 |
+| ScreenZen | A free pause with lots of settings | Delay before opening that can increase each time | Breathing is one option while you wait | Free (optional tips) | Tips of $5, $10, $20 or $40 | iOS 16.4 |
+| Clearspace | A simple "breathe or opt out" prompt | Proceed after a deep breath or opt out | Yes | Free download (in-app purchases) | Premium from $6.99/month or $44.99/year | iOS 16.0 |
+| Opal | Firm, scheduled blocking | Waiting Room with Standard or Increasing resistance; Deep Focus can't be bypassed | Not mentioned in listing | Not stated | Yearly $99.99 (plus weekly, monthly and Pro tiers) | iOS 18.0, iPhone only |
+| Screen Time and Shortcuts | Paying nothing, installing nothing | App Limits on total time; an automation when an app is opened | No | Built into iOS | Free | Built into iOS |
+
+Prices are in US dollars as shown on the US App Store, checked November 2026. "Not stated" means the listing doesn't say.
+
+## How we compared these pause apps
+
+We judged each app on five criteria, using only what its own App Store listing says:
+
+1. **How it intervenes.** A delay, a breath, a message or a block.
+2. **Whether breathing is built in.** Some apps are built around a breath; others are blockers that happen to have a waiting screen.
+3. **How strict it is.** Can you go in anyway, and how much effort does that take?
+4. **Cost.** What's free, and what the paid tiers cost per billing period.
+5. **Platform.** Minimum iOS version and supported devices.
+
+To keep the comparison even, we used only each app's App Store listing and assumed nothing beyond it. We haven't run our own long-term tests, and we don't use star ratings or review counts. Listings change, so if a price matters to you, check the App Store before you buy.
+
+## The apps, one by one
+
+### one sec
+
+**Best for:** people who want a breathing animation before Instagram opens, with the choice to carry on in.
+
+**How it works:** According to [the one sec App Store listing](https://apps.apple.com/us/app/id1532875441), the app shows a deep-breath animation before a chosen app opens, set up through an iPhone Shortcuts automation. The listing says it "delays access to distracting apps instead of blocking apps completely." After the pause, you can carry on into Instagram or close it.
+
+**What stands out:** You get more than one kind of exercise, including box breathing and 4-7-8, and the listing also mentions options such as Follow the Dot, math and journaling. A feature called Re-Intervention sends you out of the app after a set time (the listing's example is 5 minutes) and puts you through another intervention before you can return. It's also the one app here with a peer-reviewed field study we could cite (more on that below).
+
+**Drawbacks:** The free version covers one app, so adding TikTok or YouTube alongside Instagram means paying. Setup goes through Shortcuts, which some people find fiddly. Box and 4-7-8 both include breath holds, which aren't comfortable for everyone.
+
+**Price:** One app free. Pro is $6.99/month, $19.99/year or $99.99 lifetime. Family is $9.99/month, $29.99/year or $149.00 lifetime (US App Store, checked November 2026). Requires iOS 15.0 or later, and the listing includes Mac.
+
+### ScreenZen
+
+**Best for:** people who want a free, highly adjustable pause that gets longer the more often they open Instagram.
+
+**How it works:** [ScreenZen's listing](https://apps.apple.com/us/app/-/id1541027222) describes a delay before the app opens that can increase each time you open it, along with "Is this important" style messages. While you wait, you can do breathing or other activities.
+
+**What stands out:** It's free, funded by optional tips. It also offers Interrupt scrolling, which the listing describes as short, limited sessions, a Practice mode, and strict blocking by time range, after a set number of opens, or through Screen Time.
+
+**Drawbacks:** There are a lot of settings, which is either a feature or a chore depending on your temperament. Breathing is one choice during the wait rather than the core of the app. The strict mode is firmer than some people want from a speed bump.
+
+**Price:** Free, with optional tips of $5, $10, $20 or $40 (US App Store, checked November 2026). Requires iOS 16.4 or later.
+
+### Clearspace
+
+**Best for:** people who want a single, simple prompt: breathe, then decide.
+
+**How it works:** [Clearspace's listing](https://apps.apple.com/us/app/clearspace-reduce-screen-time/id1572515807?l=fr-FR) says you can "proceed after a deep breath or opt out," and frames the pause as a reminder to breathe before making decisions.
+
+**What stands out:** The idea is plain, and the choice stays yours every time. If you don't want to tune delays or schedules, that simplicity is the point.
+
+**Drawbacks:** The listing doesn't state how long the pause lasts, and it doesn't spell out what's free versus what needs Premium, so check before you commit.
+
+**Price:** Free to download, with in-app purchases. Premium is listed from $6.99/month or $44.99/year, with other Premium price points ($49.99 and $59.99) shown without a billing period. Family is $79.99 (billing period not stated). US App Store, checked November 2026. Requires iOS 16.0 or later.
+
+### Opal
+
+**Best for:** people who want firmness: scheduled blocks and a mode that can't be bypassed.
+
+**How it works:** [Opal's listing](https://apps.apple.com/app/opal-screen-time-for-focus/id1497465230) describes scheduled blocking, a Focus Difficulty setting, a Waiting Room with Standard or Increasing resistance, and an unblock wait you set yourself. Deep Focus is a mode that can't be bypassed or cancelled. There's also an emergency pass.
+
+**What stands out:** You can set the strictness anywhere from a waiting room you can get through to a session you genuinely can't end early. If what you want is to be kept out of Instagram for a stretch, this is the most direct option here.
+
+**Drawbacks:** The listing doesn't mention breathing, so it isn't really a breathing pause app. It needs a recent iOS version and runs on iPhone only. There are many pricing tiers, which takes a minute to untangle.
+
+**Price:** Weekly $4.99 or $9.99, Monthly $19.99, Yearly $99.99, and a Pro option at $49.99 (billing period not stated). US App Store, checked November 2026. Requires iOS 18.0 or later.
+
+### Apple Screen Time and Shortcuts (free, built in)
+
+**Best for:** people who want to pay nothing and install nothing.
+
+**How it works:** Screen Time App Limits set a daily allowance for Instagram. When you reach it, you see a limit screen with an "Ignore Limit" option, unless you've turned on "Block at End of Limit" ([as Apple Community users describe](https://discussions.apple.com/thread/8552371)). Separately, the Shortcuts app can run a personal automation when a chosen app ["Is Opened"](https://www.howtogeek.com/676204/how-to-automatically-launch-shortcuts-when-you-open-an-app-on-iphone-or-ipad/), so you could, for example, start a Focus when Instagram launches.
+
+**What stands out:** It's already on your phone, and Shortcuts rewards tinkering.
+
+**Drawbacks:** Neither includes a built-in breathing pause. App Limits kick in on total time, not at each open. A Shortcuts automation runs an action, but turning it into something that feels like a calm pause takes work.
+
+**Price:** Free, part of iOS.
+
+If you'd like more options in this gentle middle ground, see our comparison of [screen time apps that aren't blockers](/blog/screen-time-app-not-blocker/).
+
+## Do pause-before-opening apps actually work? What the research shows
+
+The best evidence comes from a 2023 PNAS study of one sec, and it shows that a short pause at the open reduces how often people go into an app. In the [field study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409), 719 iOS users installed the app and 280 stayed for six weeks. In 36% of attempts to open a target app, the person dismissed it after the pause. From week 1 to week 6, opening attempts fell 37% and actual openings fell 57%.
+
+The researchers also ran an online experiment with 500 people to separate the parts of the intervention. [The option to dismiss had the strongest effect](https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409), the time delay helped on its own but added nothing once people could dismiss, and the message on screen did not help. Put simply, what helps is a moment of friction plus an easy way out. A stern note on the screen adds little.
+
+### What the study can't tell you
+
+- **Self-selection.** People who installed one sec already wanted to change their habits.
+- **No control group** in the field study, so some of the drop might have happened anyway.
+- **Dropout.** Fewer than half of the people who started finished six weeks, which may tilt results toward people it worked for.
+- **Conflict of interest.** One of the authors made the app.
+- **What it measured.** Opening attempts, openings, self-reported time and satisfaction. It did not measure momentary mood or stress during or after sessions.
+
+That last point matters for this roundup. The study supports friction at the open. It says little about how you feel once you're in the feed, or about the comedown afterward. It also shows fewer opens, not better mental health, so be cautious about any claim that a pause app makes you feel better overall.
+
+## A pause at the open vs. how you feel 20 minutes in
+
+A pause before opening catches the reflex tap: the thumb that lands on Instagram while the kettle boils. It does much less once you've decided to go in, which, with a pause you can dismiss, you often will. That's by design, and it's fine.
+
+The trouble many people describe isn't the opening. It's how they feel fifteen or twenty minutes later: jaw clenched, shoulders creeping up, a vaguely wired feeling that hangs around after the phone goes down. A breath at the door doesn't reach that moment.
+
+To be fair to the apps above, two of them do act mid-session. one sec's Re-Intervention sends you out after a set time, and ScreenZen's Interrupt scrolling keeps you to short, limited sessions. Going by their listings, though, both are about time, and their job is to end or cut short the session. They aren't designed to bring your body back down.
+
+If that wired feeling sounds familiar, the moment you notice it is the best time for a breath, not just the open. We go deeper on what's happening in your body in [nervous system overload from your phone](/blog/nervous-system-overload-from-phone/) and [why scrolling can make you anxious](/blog/why-does-scrolling-make-me-anxious/).
+
+## Is there Google Pause Point for iPhone?
+
+No. Pause Point is an Android feature, not an iPhone one. [TechCrunch reports](https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/) that it's part of Android 17. It adds a 10-second pause on apps you've labelled distracting, offers breathing among other options, and requires a restart to turn off.
+
+TechCrunch doesn't list which Android devices get it, so all we'll say is: Android, not iPhone. [one sec's own blog](https://one-sec.app/blog/pause-point-for-iphone/), which is promotional, also says it isn't available on iPhone or iPad.
+
+On iPhone, the closest equivalents are:
+
+- **A third-party pause app** such as one sec, ScreenZen or Clearspace, which put a breath or a delay in front of Instagram.
+- **Screen Time App Limits**, if a daily cap is enough (turn on "Block at End of Limit" if you want it firm).
+- **A Shortcuts "App is opened" automation**, if you'd rather build something yourself.
+
+We don't know whether Apple will add something similar, and we won't guess.
+
+## A 30-second Calm 4-6 breath for Instagram, before or mid-scroll
+
+Calm 4-6 breathing is a slow breathing pattern where you inhale for a count of 4 and exhale for a count of 6, which works out to about six breaths a minute. Three rounds take about 30 seconds, and you can do it without leaving the app or installing anything.
+
+1. Put the phone face down, or just keep your thumb still on the screen.
+2. Breathe in gently through your nose for a count of 4.
+3. Breathe out slowly, through your nose or softly parted lips, for a count of 6.
+4. Repeat for three breaths in total, about 30 seconds.
+5. On the last exhale, notice your jaw and shoulders. Let them drop if they want to.
+6. Then decide: keep scrolling or close the app. Either is fine.
+
+Use it at the open, when you catch yourself reaching for Instagram on autopilot. Or use it partway through, the moment you notice your jaw is tight or your breathing has gone shallow. If you'd like a pacer, our free [Calm 4-6 breathing timer](/tools/calm-breathing-4-6/) counts for you in the browser, and our [4-6 breathing guide](/blog/4-6-breathing-how-to/) covers the common mistakes.
+
+### What the evidence does and doesn't say
+
+Keep your expectations in proportion. In a [2023 Stanford randomized trial of 108 people](https://pmc.ncbi.nlm.nih.gov/articles/9873947/) who practiced 5 minutes a day for 28 days, exhale-focused cyclic sighing produced the largest daily gain in positive affect, and state anxiety fell in all groups. That was five minutes a day, not 30 seconds, and the findings are exploratory. A [2023 meta-analysis of 12 randomized trials with 785 adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/) found breathwork had a small-to-moderate effect on stress (g = -0.35), with moderate risk of bias, and the authors urge cautious interpretation.
+
+So slow breathing with a longer exhale may help you feel calmer. Thirty seconds of it won't treat anything. Think of it as a reset.
+
+### Safety notes
+
+- Breathe gently. Don't force big breaths.
+- Stop and go back to normal breathing if you feel dizzy, lightheaded, tingly or short of breath. In the Stanford study, [about 10% of participants reported negative experiences](https://pmc.ncbi.nlm.nih.gov/articles/9873947/), so stopping is always fine.
+- Box breathing and 4-7-8 (both offered in one sec) include breath holds. They aren't for everyone, including people who are pregnant, have heart or lung conditions, or have a history of fainting or panic.
+- If anxiety, sleep problems or distress keep coming back, talk to a professional. If you're in crisis, contact local emergency services, or call or text 988 in the US.
+
+## Which should you pick?
+
+- If you want a breathing animation at the open with the option to go in anyway, pick **one sec** (one app free).
+- If you want it free, with delays that grow each time and plenty of settings, pick **ScreenZen**.
+- If you want a simple "breathe or opt out" prompt, pick **Clearspace**.
+- If you want a firm block that's hard or impossible to bypass, pick **Opal**.
+- If you want to pay nothing and install nothing, use **Screen Time App Limits** or a **Shortcuts automation**, knowing neither includes a breath.
+- If you're on Android and want something built in, look at **Pause Point**.
+
+And if you came looking for a mindful scroll app because opening Instagram isn't really the problem, and the feeling afterward is, the next section is for you.
+
+## Where DeRot fits (our app)
+
+Our app takes a different approach from everything above: it meets you mid-scroll rather than at the open. It's for people who don't mind opening Instagram but don't like how they feel twenty minutes later. DeRot pauses your apps while you reset with a few calming breaths (Calm 4-6 by default), so your shoulders can drop and the wired feeling can fade before you carry on or put the phone down.
+
+It's coming soon to iOS and isn't available to download yet. The launch newsletter on this page is how to hear when it is.
+
+It's not for you if you want a hard block or a gate before the app opens. In that case, one of the apps above will suit you better.
+
+## FAQ
+**Is one sec free, and how many apps does the free version cover?**
+Yes, one sec has a free version, and it covers one app, according to its US App Store listing checked November 2026. To add more apps you need Pro, listed at $6.99 per month, $19.99 per year or $99.99 lifetime. A Family plan is listed at $9.99 per month, $29.99 per year or $149.00 lifetime. It requires iOS 15.0 or later.
+
+**Can I add a pause before Instagram for free with iPhone Shortcuts or Screen Time?**
+Partly. Screen Time App Limits can cap Instagram's daily time and show a limit screen, with an 'Ignore Limit' option unless 'Block at End of Limit' is on. Shortcuts can run a personal automation when Instagram 'Is Opened,' such as starting a Focus. Neither includes a built-in breathing pause, so for a breath at the open you'd need a third-party app or your own habit.
+
+**Does one sec actually work?**
+A 2023 PNAS study suggests it reduces app opens. Among 280 users who completed six weeks, actual openings fell 57% and opening attempts fell 37%, and 36% of attempts were dismissed after the pause. The study had no control group, users chose to install the app, and one author made it. It measured opens and satisfaction, not mood or stress during or after sessions.
+
+**Which is stricter: one sec, ScreenZen, Clearspace or Opal?**
+Based on their App Store listings, Opal is the strictest, with scheduled blocking, increasing resistance and a Deep Focus mode that can't be bypassed or cancelled. ScreenZen sits in the middle, with delays that grow each time and an optional strict mode. one sec says it delays access rather than blocking, and Clearspace lets you proceed after a deep breath or opt out.
+
+**Does a pause help once I'm already deep in the feed?**
+Not much. A pause at the open catches the reflex tap, but once you've chosen to go in it can't reach how you feel 15 or 20 minutes later. one sec's Re-Intervention and ScreenZen's Interrupt scrolling act mid-session, but they're time-based and nudge you out rather than calm you down. A short 4-in, 6-out breath when you notice the tension can help you feel calmer.
+
+**Are the breathing exercises in these apps safe for everyone?**
+Gentle slow breathing is generally comfortable, but stop and breathe normally if you feel dizzy, lightheaded or tingly. Box breathing and 4-7-8 include breath holds and aren't for everyone, including people who are pregnant, have heart or lung conditions, or have a history of fainting or panic. For persistent anxiety or distress, talk to a professional. In a crisis in the US, call or text 988.
+
+## Sources
+- Directing smartphone use through the self-nudge app one sec: https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409
+- Brief structured respiration practices enhance mood and reduce physiological arousal: https://pmc.ncbi.nlm.nih.gov/articles/9873947/
+- Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials: https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/
+- Android adds a feature to stop you from doomscrolling: https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/
+- Pause Point for iPhone? Here's the Alternative for iOS: one sec: https://one-sec.app/blog/pause-point-for-iphone/
+- one sec, US App Store: https://apps.apple.com/us/app/id1532875441
+- ScreenZen, US App Store: https://apps.apple.com/us/app/-/id1541027222
+- ClearSpace, US App Store: https://apps.apple.com/us/app/clearspace-reduce-screen-time/id1572515807?l=fr-FR
+- Opal, App Store (US storefront): https://apps.apple.com/app/opal-screen-time-for-focus/id1497465230
+- How to automatically launch shortcuts when you open an app on iPhone or iPad: https://www.howtogeek.com/676204/how-to-automatically-launch-shortcuts-when-you-open-an-app-on-iphone-or-ipad/
+- Screen Time shows 'Ignore Limit': https://discussions.apple.com/thread/8552371
+
+---
+
 # Screen Time Guilt: Why It Makes the Scroll Worse (and What Helps)
 
 URL: https://derot.org/blog/screen-time-guilt/

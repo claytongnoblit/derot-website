@@ -2274,7 +2274,7 @@
       "seasonality": [],
       "status": "covered",
       "notes": "Android 17 Pause Point coverage; one sec targets this term.",
-      "covered_by": "screen-time-app-not-blocker"
+      "covered_by": "app-breathe-before-opening-instagram"
     },
     {
       "keyword": "app that makes you breathe before opening instagram",
@@ -2286,7 +2286,9 @@
       "content_type": "list",
       "angle": "Compare breath-before-open apps with a breath-during-scroll approach.",
       "seasonality": [],
-      "status": "queued"
+      "status": "published",
+      "post": "app-breathe-before-opening-instagram",
+      "published": "2026-11-10"
     },
     {
       "keyword": "mindful scroll app",
@@ -2300,7 +2302,7 @@
       "seasonality": [],
       "status": "covered",
       "notes": "Chrome extension 'Mindful Scroll' competes.",
-      "covered_by": "screen-time-app-not-blocker"
+      "covered_by": "app-breathe-before-opening-instagram"
     },
     {
       "keyword": "best app to stop doomscrolling",
