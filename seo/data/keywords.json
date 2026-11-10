@@ -3708,6 +3708,7 @@
     },
     {
       "keyword": "feel guilty after scrolling",
+      "cluster": "mindful-phone-use",
       "status": "covered",
       "source": "planner",
       "covered_by": "screen-time-guilt"

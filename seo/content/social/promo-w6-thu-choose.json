@@ -1,0 +1,35 @@
+{
+  "kind": "promo",
+  "slug": "promo-w6-thu-choose",
+  "phase": "prelaunch",
+  "pillar": "product",
+  "title": "DeRot only steps in on the apps you pick, the ones that tend to leave you wired.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "DeRot only steps in on the apps you pick, the ones that tend to leave you wired.\n\nEverything else stays exactly as it is."
+  },
+  "images": [
+    {
+      "path": "img/social/promo-w6-thu-choose/slide-01.jpg",
+      "url": "https://derot.org/img/social/promo-w6-thu-choose/slide-01.jpg",
+      "alt": "Pick the apps that wind you up Social, games, news, or the one feed that always gets you."
+    }
+  ],
+  "threads_images": [
+    {
+      "path": "img/social/promo-w6-thu-choose/slide-01.jpg",
+      "url": "https://derot.org/img/social/promo-w6-thu-choose/slide-01.jpg",
+      "alt": "Pick the apps that wind you up Social, games, news, or the one feed that always gets you."
+    }
+  ],
+  "threads_topic": "Digital Wellbeing",
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-11-19T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-11-10T14:03:51+00:00"
+}

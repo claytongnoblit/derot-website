@@ -10,11 +10,16 @@ A reel is a list of beats, each a dict with a "beat" key:
            with no fade in, because the first second decides whether anyone stays.
            The breathing circle starts moving under the text from frame 0 (a still
            first frame loses people); circle: false keeps just the pulsing glow.
-  text     {headline, body?, secs?}  Text eases up into place over the glow.
+  text     {headline, body?, secs?}  Text eases up into place near the top; a smaller
+           circle keeps breathing below it, so the lower half is never dead space.
   breathe  {pattern: calm|box|478|sigh, rounds?, title?, note?}  A breathe-along
            circle. The note appears during the last round.
   phone    {screen, headline, body?, crop?, secs?}  An app screen rising into frame.
-  end      {closing: prelaunch|launch|article, tool?, secs?}  The closing card.
+  end      {closing: prelaunch|launch|article, tool?, line?, secs?}  The closing card.
+           `line` adds one sentence, e.g. "A new scroll break every Tuesday."
+
+Every reel has a look (LOOKS: where the glow sits and its colour), picked by its slug
+so a feed of reels doesn't read as the same video over and over.
 
 Instagram draws its own UI over roughly the bottom quarter (caption, audio,
 buttons down the right side) and the top 10%, so all text stays inside
@@ -38,7 +43,7 @@ W, H, FPS = 1080, 1920, 30
 X0, X1 = 96, 960            # text column; the right edge leaves room for Instagram's buttons
 Y0, Y1 = 250, 1480          # below the top bar, above the caption overlay
 XFADE = 0.2                 # seconds of crossfade between beats
-RENDER_VERSION = 2          # bump to force every cached reel to re-render
+RENDER_VERSION = 3          # bump to force every cached reel to re-render
 
 BASE, TEXT, TEXT_SOFT, TEXT_2 = simg.BASE, simg.TEXT, simg.TEXT_SOFT, simg.TEXT_2
 AMBER, LABEL = simg.AMBER, simg.LABEL
@@ -127,40 +132,64 @@ def check_beats(beats: list[dict], screens_dir: Path) -> list[str]:
 
 def beat_text(b: dict) -> list[tuple[str, str]]:
     """Every user-visible string in a beat, for the copy-rule checks."""
-    return [(k, b[k]) for k in ("text", "kicker", "sub", "headline", "body", "title", "note") if b.get(k)]
+    return [(k, b[k]) for k in ("text", "kicker", "sub", "headline", "body", "title", "note", "line") if b.get(k)]
 
 
-def spec_hash(beats: list[dict], audio: str = "", volume: float = 1.0) -> str:
-    raw = json.dumps({"v": RENDER_VERSION, "beats": beats, "audio": audio,
+def spec_hash(beats: list[dict], audio: str = "", volume: float = 1.0, look: str = "ember") -> str:
+    raw = json.dumps({"v": RENDER_VERSION, "beats": beats, "audio": audio, "look": look,
                       **({"vol": volume} if audio else {})}, sort_keys=True)
     return hashlib.sha1(raw.encode()).hexdigest()[:16]
+
+
+# ------------------------------------------------------------ looks
+# Where the glow sits (cx, cy as fractions of the frame; ry squashes it, dy shifts each
+# ring's centre by that fraction of its radius) and its four
+# colour rings, outermost first. All warm and dark so they stay inside the Amber brand.
+LOOKS = {
+    "ember": {"at": (0.5, 0.0), "ry": 0.85, "dy": -0.3,   # the original: glow rising from the top edge
+              "rings": [(58, 23, 10), (110, 44, 15), (180, 80, 28), (232, 118, 46)]},
+    "dusk":  {"at": (0.12, 0.08), "ry": 1.0,      # rose copper from the top-left corner
+              "rings": [(56, 20, 18), (104, 38, 32), (170, 66, 50), (222, 104, 76)]},
+    "gold":  {"at": (0.92, 0.04), "ry": 1.0,      # paler gold from the top-right corner
+              "rings": [(54, 34, 10), (104, 68, 18), (170, 116, 34), (224, 166, 62)]},
+    "low":   {"at": (0.5, 0.74), "ry": 0.9,       # embers glowing up from behind the circle
+              "rings": [(50, 20, 9), (96, 38, 14), (160, 70, 25), (214, 106, 42)]},
+}
+_LOOK = "ember"
+
+
+def pick_look(key: str) -> str:
+    """A stable look for a reel, by its slug, so re-renders keep the same one."""
+    names = sorted(LOOKS)
+    return names[int(hashlib.sha1(key.encode()).hexdigest(), 16) % len(names)] if key else "ember"
 
 
 # ------------------------------------------------------------ drawing helpers
 _BG: dict = {}
 
 
-def _glow() -> Image.Image:
-    """Ember glow rising from the top edge, drawn small and scaled up (blur is slow at full size)."""
-    if "glow" not in _BG:
+def _glow(look: str) -> Image.Image:
+    """The look's glow, drawn small and scaled up (blur is slow at full size)."""
+    if ("glow", look) not in _BG:
+        spec = LOOKS[look]
         s = 4
         w, h = W // s, H // s
         img = Image.new("RGB", (w, h), BASE)
         g = ImageDraw.Draw(img)
-        cx = w // 2
-        for r, col in [(900, (58, 23, 10)), (680, (110, 44, 15)), (470, (180, 80, 28)), (270, (232, 118, 46))]:
+        cx, cy = int(w * spec["at"][0]), int(h * spec["at"][1])
+        for r, col in zip((900, 680, 470, 270), spec["rings"]):
             r //= s
-            g.ellipse([cx - r, -int(r * 1.15), cx + r, int(r * 0.55)], fill=col)
+            ry, y = int(r * spec["ry"]), cy + int(r * spec.get("dy", 0.0))
+            g.ellipse([cx - r, y - ry, cx + r, y + ry], fill=col)
         img = img.filter(ImageFilter.GaussianBlur(150 // s)).resize((W, H), Image.BICUBIC)
-        _BG["glow"] = img
-        _BG["flat"] = Image.new("RGB", (W, H), BASE)
-    return _BG["glow"]
+        _BG[("glow", look)] = img
+    return _BG[("glow", look)]
 
 
 def _bg(strength: float) -> Image.Image:
-    key = round(strength, 2)
+    key = (_LOOK, round(strength, 2))
     if key not in _BG:
-        _BG[key] = Image.blend(Image.new("RGB", (W, H), BASE), _glow(), key)
+        _BG[key] = Image.blend(Image.new("RGB", (W, H), BASE), _glow(_LOOK), key[1])
     return _BG[key].copy()
 
 
@@ -200,21 +229,21 @@ def _hook(b: dict) -> tuple[float, Frame]:
     layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(layer)
     width = X1 - X0
-    kf = simg._sans(32, 600)
+    kf = simg._sans(40, 700)   # big enough that "SCROLL BREAK 03" reads as a series name
     h_max = 560 if circle else 720
     hf, hl, hs = simg._fit(d, b["text"], simg._serif, list(range(150, 70, -4)), width, h_max, 1.08)
     sub_lines = []
     if b.get("sub"):
         sf, sub_lines, ss = simg._fit(d, b["sub"], lambda s: simg._sans(s, 400), list(range(50, 34, -2)), width,
                                       160 if circle else 260, 1.35)
-    block = len(hl) * hs * 1.08 + (70 if b.get("kicker") else 0) + ((40 + len(sub_lines) * ss * 1.35) if sub_lines else 0)
+    block = len(hl) * hs * 1.08 + (80 if b.get("kicker") else 0) + ((40 + len(sub_lines) * ss * 1.35) if sub_lines else 0)
     if circle:   # text up top, the circle breathing in below it
         y = int(Y0 + 30)
     else:
         y = int(Y0 + (Y1 - 120 - Y0 - block) / 2)   # sit a little high: the lower screen gets covered
     if b.get("kicker"):
-        d.text((X0, y), b["kicker"].upper(), font=kf, fill=LABEL)
-        y += 70
+        d.text((X0, y), b["kicker"].upper(), font=kf, fill=AMBER)
+        y += 80
     y = simg._draw_lines(d, hl, hf, hs, X0, y, TEXT, 1.08)
     if sub_lines:
         y = simg._draw_lines(d, sub_lines, sf, ss, X0, y + 40, TEXT_SOFT, 1.35)
@@ -236,16 +265,31 @@ def _hook(b: dict) -> tuple[float, Frame]:
 HOOK_R = (120, 210)        # hook circle radius, start and end
 
 
+TEXT_R = (130, 175)        # text-beat circle radius, exhaled and inhaled
+CALM_CYCLE = 10.0          # seconds: in for 4, out for 6, the same pace as the Calm preset
+
+
+def _calm_level(t: float) -> float:
+    """0..1 lung fullness on a 4-in / 6-out cycle, for circles that breathe in the background."""
+    c = t % CALM_CYCLE
+    return _ease(c / 4.0) if c < 4.0 else 1.0 - _ease((c - 4.0) / 6.0)
+
+
 def _text(b: dict) -> tuple[float, Frame]:
     secs = beat_secs(b)
     layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    _text_block(ImageDraw.Draw(layer), b["headline"], b.get("body", ""), None,
-                list(range(116, 60, -4)), list(range(52, 34, -2)))
+    bottom = _text_block(ImageDraw.Draw(layer), b["headline"], b.get("body", ""), Y0 + 30,
+                         list(range(116, 60, -4)), list(range(52, 34, -2)))
     lo, hi = _bg(0.55), _bg(0.7)
     rise, rise_t = 36, 0.45
+    cy = max(int(bottom) + 140 + TEXT_R[1], 1180)
+    circle = cy + TEXT_R[1] <= H - 260   # only if it fits above Instagram's caption area
 
     def frame(t: float) -> Image.Image:
         img = Image.blend(lo, hi, 0.5 + 0.5 * math.sin(math.pi * min(1.0, t / max(secs, 0.1))))
+        if circle:
+            lvl = _calm_level(t + 2.0)   # start mid-inhale so it is visibly moving from frame 0
+            _draw_circle(img, W // 2, cy, int(TEXT_R[0] + (TEXT_R[1] - TEXT_R[0]) * lvl), TEXT_R[1])
         img.paste(layer, (0, int(rise * (1 - _ease(t / rise_t)))), layer)
         return img
 
@@ -378,6 +422,8 @@ def _end(b: dict) -> tuple[float, Frame]:
     lines = list(lines)
     if b.get("tool"):
         lines.append(f"Try it now, free: {b['tool']} at derot.org/tools.")
+    if b.get("line"):
+        lines.insert(0, b["line"])
     simg._icon(img, X0, 400, 168)
     y = simg._draw_lines(d, head, simg._serif(112), 112, X0, 640, TEXT, 1.06)
     y += 40
@@ -409,8 +455,12 @@ def ffmpeg_exe() -> str:
 
 
 def render_reel(beats: list[dict], out_mp4: Path, cover_jpg: Optional[Path] = None,
-                audio: Optional[Path] = None, volume: float = 1.0) -> dict:
+                audio: Optional[Path] = None, volume: float = 1.0, look: str = "ember") -> dict:
     """Render a reel to out_mp4 (and its first frame to cover_jpg). Returns {"duration"}."""
+    global _LOOK
+    if look not in LOOKS:
+        raise ValueError(f"unknown reel look '{look}' (have: {', '.join(sorted(LOOKS))})")
+    _LOOK = look
     segs = [BUILDERS[b["beat"]](b) for b in beats]
     starts, t = [], 0.0
     for secs, _ in segs:

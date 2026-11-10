@@ -1,0 +1,36 @@
+{
+  "kind": "promo",
+  "slug": "promo-w5-tue-break03",
+  "phase": "prelaunch",
+  "pillar": "reset",
+  "title": "Scroll break 03: a 30-second reset for when the feed has you wired.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "Scroll break 03: a 30-second reset for when the feed has you wired.\n\nIn for 4, out for 6, three rounds. The long exhale does the work.\n\nA new scroll break every Tuesday. Launch list: link in bio.",
+    "instagram_hashtags": [
+      "scrollbreak",
+      "breathingexercise",
+      "breathwork",
+      "calmreset"
+    ]
+  },
+  "images": [],
+  "threads_images": null,
+  "reel": {
+    "path": "img/social/promo-w5-tue-break03/reel.mp4",
+    "url": "https://derot.org/img/social/promo-w5-tue-break03/reel.mp4",
+    "cover_path": "img/social/promo-w5-tue-break03/reel-cover.jpg",
+    "cover_url": "https://derot.org/img/social/promo-w5-tue-break03/reel-cover.jpg",
+    "duration": 35.4,
+    "hash": "d652f61ec6ab6425"
+  },
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-11-10T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-11-10T14:03:51+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "kind": "promo",
+  "slug": "promo-w6-wed-stay",
+  "phase": "prelaunch",
+  "pillar": "pov",
+  "title": "Most tools for your phone ask you to leave. We'd rather help you stay and feel okay.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "Most tools for your phone ask you to leave. We'd rather help you stay and feel okay.\n\nRegulate, don't restrict."
+  },
+  "images": [],
+  "threads_images": [],
+  "threads_topic": "Digital Wellbeing",
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-11-18T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-11-10T14:03:51+00:00"
+}

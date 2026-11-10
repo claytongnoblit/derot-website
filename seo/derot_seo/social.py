@@ -35,13 +35,18 @@ EXIT_OK, EXIT_FAILED, EXIT_NEEDS_REVIEW = 0, 30, 31
 
 THREADS_MAX_BYTES = 500
 IG_CAPTION_MAX = 2200
+# Article reel captions stay short: the reel carries the value and almost nobody taps "more".
+# (Promo captions are hand-written in plan.yaml and only held to IG_CAPTION_MAX.)
+IG_REEL_CAPTION_MAX = 600
+REEL_LINE_MAX = 56
 
 COPY_SCHEMA = {
     "type": "object", "additionalProperties": False,
-    "required": ["cover_headline", "points", "instagram_caption", "instagram_hashtags",
+    "required": ["cover_headline", "points", "reel_lines", "instagram_caption", "instagram_hashtags",
                  "threads_text", "facebook_message"],
     "properties": {
         "cover_headline": {"type": "string"},
+        "reel_lines": {"type": "array", "items": {"type": "string"}},
         "points": {"type": "array", "items": {
             "type": "object", "additionalProperties": False, "required": ["headline", "body"],
             "properties": {"headline": {"type": "string"}, "body": {"type": "string"}}}},
@@ -93,7 +98,8 @@ Every claim, number, and technique in the social copy must come from the article
 PLATFORM BRIEFS
 - cover_headline: the first carousel slide, and also the first frame of the Instagram Reel, where it has about one second to stop someone mid-scroll. A hook that names a feeling the reader has right now or a specific promise, plain and concrete, under 60 characters. Second person beats third person ("Your jaw is tight" not "Scrolling causes tension"). Not a question. No clickbait.
 - points: {n_min}-{n_max} carousel slides, one idea each, in reading order, that let someone get real value without leaving Instagram. headline under 48 characters; body under 190 characters, concrete (counts, timings, what it feels like). If the article teaches a technique, one slide gives the exact steps. Do not end with a call to action; a closing slide is added automatically.
-- instagram_caption: the first line is a hook under 125 characters (it shows before "more"). Then 3-6 short paragraphs that add to the slides rather than repeat them. Links are not clickable on Instagram, so no URLs: the caption ends with the exact line "Full guide: link in bio." Under 1500 characters.
+- reel_lines: exactly 3 lines for the Instagram Reel, shown one at a time after the hook, about 2.5 seconds each. Each one is a complete thought that reads in a glance with no body text under it, under {REEL_LINE_MAX} characters, in order, building to the reset (for example "Your shoulders creep up first." / "Then your breath goes short." / "A longer exhale brings you back."). No numbers that need context, no study citations, no call to action. A breathe-along of the article's technique and a closing card follow automatically.
+- instagram_caption: this posts under the Reel. The first line is a hook under 125 characters (it shows before "more"). Then one or two short paragraphs with the single most useful detail (the exact steps or timing), no caveat stacks. Links are not clickable on Instagram, so no URLs: the caption ends with the exact line "Full guide: link in bio." Under {IG_REEL_CAPTION_MAX - 50} characters.
 - instagram_hashtags: 3-5 specific, relevant tags without the # sign (for example breathwork, nervoussystemregulation). No generic tags like love or instagood, nothing about addiction or detox.
 - threads_text: conversational, like a thoughtful person sharing one useful thing they learned. 1-3 short paragraphs, under 380 characters before the link. End with {{url}} on its own line (it is replaced with the article link). No hashtags.
 - facebook_message: 2-4 short paragraphs, under 700 characters, warm and practical, ending with a line inviting people to read the full guide. Do not include the URL (the link card is attached automatically).
@@ -122,6 +128,7 @@ URLISH_RE = re.compile(r"https?://\S+|www\.\S+|\b[a-z0-9-]+\.(?:com|net|io|co|ap
 def _strings(copy: dict) -> list[tuple[str, str]]:
     out = [("cover_headline", copy["cover_headline"]), ("instagram_caption", copy["instagram_caption"]),
            ("threads_text", copy["threads_text"]), ("facebook_message", copy["facebook_message"])]
+    out += [(f"reel_lines[{i}]", ln) for i, ln in enumerate(copy.get("reel_lines") or [])]
     for i, p in enumerate(copy["points"]):
         out += [(f"points[{i}].headline", p["headline"]), (f"points[{i}].body", p["body"])]
     return out
@@ -142,6 +149,13 @@ def check_copy(copy: dict, post: dict, cfg: dict) -> tuple[list[str], list[str]]
             p[k], n = qa.fix_dashes(p[k].strip())
             if n:
                 fixes.append(f"replaced {n} dash(es) in a slide")
+    lines = []
+    for ln in copy.get("reel_lines") or []:
+        ln, n = qa.fix_dashes(ln.strip())
+        if n:
+            fixes.append(f"replaced {n} dash(es) in a reel line")
+        lines.append(ln)
+    copy["reel_lines"] = lines
 
     # Instagram: no links, always the bio line, clean hashtags.
     if not re.search(r"link in bio", copy["instagram_caption"], re.I):
@@ -174,6 +188,15 @@ def check_copy(copy: dict, post: dict, cfg: dict) -> tuple[list[str], list[str]]
     ig = instagram_caption(copy)
     if len(ig) > IG_CAPTION_MAX:
         errors.append(f"instagram caption is {len(ig)} chars with hashtags (max {IG_CAPTION_MAX})")
+    if instagram_format(cfg) == "reel":
+        if len(copy["instagram_caption"]) > IG_REEL_CAPTION_MAX:
+            errors.append(f"instagram_caption is {len(copy['instagram_caption'])} chars "
+                          f"(max {IG_REEL_CAPTION_MAX} under a reel)")
+        if len(copy["reel_lines"]) != 3:
+            errors.append(f"reel_lines: need exactly 3, got {len(copy['reel_lines'])}")
+        for i, ln in enumerate(copy["reel_lines"]):
+            if len(ln) > REEL_LINE_MAX:
+                errors.append(f"reel_lines[{i}] is {len(ln)} chars (max {REEL_LINE_MAX})")
     tb = len(copy["threads_text"].replace("{url}", url).encode("utf-8"))
     if tb > THREADS_MAX_BYTES:
         errors.append(f"threads_text is {tb} bytes with the link (Threads max {THREADS_MAX_BYTES})")
@@ -277,14 +300,15 @@ def reel_files(out_dir: Path, beats: list[dict], cfg: dict) -> dict:
     was rendered) unless an identical one is already there. Returns the package's "reel" entry."""
     from . import social_reels as reels
     audio, volume = reel_audio(cfg, out_dir.name), reel_volume(cfg)
-    h = reels.spec_hash(beats, audio.name if audio else "", volume)
+    look = reels.pick_look(out_dir.name)
+    h = reels.spec_hash(beats, audio.name if audio else "", volume, look)
     mp4, cover, meta = out_dir / "reel.mp4", out_dir / "reel-cover.jpg", out_dir / "reel.json"
     base = cfg["site"]["base_url"]
     if meta.exists() and mp4.exists() and cover.exists():
         done = read_json(meta)
         if done.get("hash") == h:
             return done
-    info = reels.render_reel(beats, mp4, cover, audio, volume)
+    info = reels.render_reel(beats, mp4, cover, audio, volume, look=look)
     site_root = IMG_DIR.parent.parent   # IMG_DIR is <site>/img/social
     rel_v, rel_c = mp4.relative_to(site_root).as_posix(), cover.relative_to(site_root).as_posix()
     entry = {"path": rel_v, "url": f"{base}/{rel_v}", "cover_path": rel_c, "cover_url": f"{base}/{rel_c}",
@@ -293,14 +317,27 @@ def reel_files(out_dir: Path, beats: list[dict], cfg: dict) -> dict:
     return entry
 
 
+# The breathe-along an article reel ends on, by the article's free tool. Rounds keep the
+# whole reel well under social_reels.BREATHE_MAX.
+TOOL_BREATHE = {
+    "/tools/box-breathing-timer/": {"pattern": "box", "rounds": 1, "title": "Box breathing, with us"},
+    "/tools/4-7-8-breathing-timer/": {"pattern": "478", "rounds": 1, "title": "4-7-8, with us"},
+    "/tools/physiological-sigh/": {"pattern": "sigh", "rounds": 2, "title": "Two sighs, with us"},
+}
+DEFAULT_BREATHE = {"pattern": "calm", "rounds": 2, "title": "Breathe with us"}
+
+
 def article_beats(pkg: dict, cfg: dict, post: dict) -> list[dict]:
-    clusters = {c["id"]: c for c in (read_json(SEO_DIR / "data" / "keywords.json", {}) or {}).get("clusters", [])}
+    """Hook, three one-line beats, a short breathe-along, then the closing card. Reels that
+    read like the promo ones (one short idea per screen) held viewers better than slides
+    with paragraphs, so there is no body text and no topic label on the hook."""
     tool = site.tool_for(post, cfg)
     copy = pkg["copy"]
-    beats = [{"beat": "hook", "text": copy["cover_headline"],
-              "kicker": clusters.get(post.get("cluster"), {}).get("name", "")}]
-    # three points at most: the carousel can hold more, but a reel has to stay short
-    beats += [{"beat": "text", "headline": p["headline"], "body": p["body"]} for p in copy["points"][:3]]
+    beats = [{"beat": "hook", "text": copy["cover_headline"]}]
+    # older packages have no reel_lines: fall back to the slide headlines
+    lines = copy.get("reel_lines") or [p["headline"] for p in copy["points"]]
+    beats += [{"beat": "text", "headline": ln, "secs": 2.6} for ln in lines[:3]]
+    beats.append({"beat": "breathe", **TOOL_BREATHE.get(tool["url"], DEFAULT_BREATHE)})
     beats.append({"beat": "end", "closing": "article", "tool": tool["label"], "secs": 3.5})
     return beats
 

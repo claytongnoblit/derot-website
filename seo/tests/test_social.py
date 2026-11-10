@@ -32,6 +32,7 @@ def good_copy():
         "points": [{"headline": "Four equal counts", "body": "Breathe in for 4, hold for 4, out for 4, hold for 4."},
                    {"headline": "Use it mid-scroll", "body": "When your shoulders creep up, run one round."},
                    {"headline": "Go gently", "body": "Stop if you feel lightheaded."}],
+        "reel_lines": ["Four equal counts.", "Use it mid-scroll.", "Go gently."],
         "instagram_caption": "Four counts, four sides.\n\nOne round takes about 16 seconds.",
         "instagram_hashtags": ["#breathwork", "box breathing", "breathwork", "dopaminedetox"],
         "threads_text": "Box breathing is four equal counts. Try one round next time the feed winds you up.",
@@ -461,3 +462,30 @@ def test_comment_bait_is_blocked():
     assert hits("Comment below with your number")
     assert not hits("Save this for tonight.")
     assert not hits("Share it with someone who scrolls in bed.")
+
+
+def test_check_copy_reel_limits():
+    cfg = load_config()
+    c = good_copy()
+    c["reel_lines"] = ["x" * 70, "fine"]
+    c["instagram_caption"] = "Calm. " * 120
+    errors, _ = social.check_copy(c, POST, cfg)
+    assert any("need exactly 3" in e for e in errors)
+    assert any("reel_lines[0] is 70 chars" in e for e in errors)
+    assert any("under a reel" in e for e in errors)
+
+
+def test_article_beats_are_one_liners_with_a_breathe_along():
+    cfg = load_config()
+    pkg = {"slug": "box-breathing", "copy": good_copy()}
+    beats = social.article_beats(pkg, cfg, POST)
+    assert [b["beat"] for b in beats] == ["hook", "text", "text", "text", "breathe", "end"]
+    assert "kicker" not in beats[0]
+    assert all("body" not in b for b in beats if b["beat"] == "text")
+    assert beats[4]["pattern"] == "box"
+    from derot_seo import social_reels as reels
+    assert reels.check_beats(beats, Path("/nonexistent")) == []
+    # packages made before reel_lines existed fall back to the slide headlines
+    old = good_copy()
+    del old["reel_lines"]
+    assert social.article_beats({"slug": "x", "copy": old}, cfg, POST)[1]["headline"] == "Four equal counts"

@@ -156,14 +156,20 @@ def shortlist(data: dict, posts: list[dict], cfg: dict, n: Optional[int] = None,
     return out[:n]
 
 
-def mark(data: dict, keyword: str, status: str, **extra) -> None:
+def mark(data: dict, keyword: str, status: str, cluster: str = "", **extra) -> None:
+    """Set a keyword's status. `cluster` is only used when the keyword is new to the file
+    (every entry needs one; the self-test checks, and a missing one blocks publishing)."""
     for k in data["keywords"]:
         if k["keyword"].lower() == keyword.lower():
             k["status"] = status
             k.update(extra)
             return
     # Planner may phrase a keyword slightly differently; add it so state is tracked.
-    data["keywords"].append({"keyword": keyword.lower(), "status": status, "source": "planner", **extra})
+    # Callers pass the article's cluster; the first cluster is only a last resort so an
+    # entry is never left without one.
+    cluster = cluster or (data.get("clusters") or [{"id": ""}])[0]["id"]
+    data["keywords"].append({"keyword": keyword.lower(), "cluster": cluster,
+                             "status": status, "source": "planner", **extra})
 
 
 def cluster_keywords(data: dict, cluster_id: str) -> list[str]:

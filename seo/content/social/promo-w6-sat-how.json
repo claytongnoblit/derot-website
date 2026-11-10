@@ -1,0 +1,36 @@
+{
+  "kind": "promo",
+  "slug": "promo-w6-sat-how",
+  "phase": "prelaunch",
+  "pillar": "product",
+  "title": "What DeRot does when the feed winds you up: it pauses your apps while you reset with a few",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "What DeRot does when the feed winds you up: it pauses your apps while you reset with a few calming breaths.\n\nThen you go back, or you don't. Either way, calmer. You're never locked out.\n\nComing soon to iPhone. Launch list: link in bio.",
+    "instagram_hashtags": [
+      "digitalwellbeing",
+      "breathwork",
+      "mindfultech",
+      "screentime"
+    ]
+  },
+  "images": [],
+  "threads_images": null,
+  "reel": {
+    "path": "img/social/promo-w6-sat-how/reel.mp4",
+    "url": "https://derot.org/img/social/promo-w6-sat-how/reel.mp4",
+    "cover_path": "img/social/promo-w6-sat-how/reel-cover.jpg",
+    "cover_url": "https://derot.org/img/social/promo-w6-sat-how/reel-cover.jpg",
+    "duration": 14.4,
+    "hash": "bb2fa7d64ed76d35"
+  },
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-11-21T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-11-10T14:03:51+00:00"
+}

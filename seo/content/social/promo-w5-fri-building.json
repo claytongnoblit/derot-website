@@ -1,0 +1,23 @@
+{
+  "kind": "promo",
+  "slug": "promo-w5-fri-building",
+  "phase": "prelaunch",
+  "pillar": "building",
+  "title": "Something we learned making breathing reels: the ones that do best are the ones you can do",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "Something we learned making breathing reels: the ones that do best are the ones you can do along with, right there in the feed.\n\nSo that's what we're making more of. A new scroll break every Tuesday."
+  },
+  "images": [],
+  "threads_images": [],
+  "threads_topic": "Building in Public",
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-11-13T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-11-10T14:03:51+00:00"
+}

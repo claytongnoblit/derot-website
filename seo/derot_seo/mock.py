@@ -109,6 +109,7 @@ def _social(prompt, hint):
     return {
         "cover_headline": post["title"][:70],
         "points": [{"headline": t.split(".")[0][:48], "body": t[:190]} for t in (takeaways * 3)[:3]],
+        "reel_lines": [t.split(".")[0][:56] for t in (takeaways * 3)[:3]],
         "instagram_caption": post.get("dek", "") + "\n\nA calmer scroll starts with a longer exhale.",
         "instagram_hashtags": ["#breathwork", "nervous system regulation", "breathwork"],
         "threads_text": "Slow breathing with a longer exhale helps your body settle. Here is how to use it mid-scroll.",

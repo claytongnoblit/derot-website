@@ -1,0 +1,23 @@
+{
+  "kind": "promo",
+  "slug": "promo-w6-fri-soon",
+  "phase": "prelaunch",
+  "pillar": "building",
+  "title": "DeRot is close. A calm reset for the apps that wind you up, coming soon to iPhone.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "DeRot is close. A calm reset for the apps that wind you up, coming soon to iPhone.\n\nJoin the launch list and we'll tell you the day it's live:\n{url}"
+  },
+  "images": [],
+  "threads_images": [],
+  "threads_topic": "Building in Public",
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-11-20T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-11-10T14:03:51+00:00"
+}

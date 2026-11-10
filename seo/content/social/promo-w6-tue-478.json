@@ -1,0 +1,23 @@
+{
+  "kind": "promo",
+  "slug": "promo-w6-tue-478",
+  "phase": "prelaunch",
+  "pillar": "reset",
+  "title": "For the scroll in bed: in for 4, hold for 7, out for 8.",
+  "url": "https://derot.org/tools/4-7-8-breathing-timer/",
+  "approved": true,
+  "copy": {
+    "threads_text": "For the scroll in bed: in for 4, hold for 7, out for 8.\n\nSkip the hold if it makes you lightheaded. The long exhale is the part that matters. Timer here:\n{url}"
+  },
+  "images": [],
+  "threads_images": [],
+  "threads_topic": "Breathwork",
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-11-17T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-11-10T14:03:51+00:00"
+}

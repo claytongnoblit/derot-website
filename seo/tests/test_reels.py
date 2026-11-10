@@ -55,3 +55,19 @@ def test_hook_moves_from_the_first_frame():
               {"beat": "hook", "text": "Your doomscroll has a tell.", "circle": False}):
         secs, frame = reels._hook(b)
         assert frame(0).tobytes() != frame(secs / 2).tobytes()
+
+
+def test_looks_are_stable_and_all_render():
+    assert reels.pick_look("promo-w5-tue-break03") == reels.pick_look("promo-w5-tue-break03")
+    assert {reels.pick_look(f"promo-{i}") for i in range(40)} == set(reels.LOOKS)
+    b = [{"beat": "hook", "text": "Hi"}]
+    assert reels.spec_hash(b, look="ember") != reels.spec_hash(b, look="dusk")
+    for look in reels.LOOKS:
+        reels._LOOK = look
+        assert reels._bg(0.8).size == (reels.W, reels.H)
+    reels._LOOK = "ember"
+
+
+def test_end_line_is_checked_copy():
+    assert ("line", "A new scroll break every Tuesday.") in reels.beat_text(
+        {"beat": "end", "line": "A new scroll break every Tuesday."})

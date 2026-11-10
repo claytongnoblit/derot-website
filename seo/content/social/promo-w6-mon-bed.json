@@ -1,0 +1,23 @@
+{
+  "kind": "promo",
+  "slug": "promo-w6-mon-bed",
+  "phase": "prelaunch",
+  "pillar": "feeling",
+  "title": "Lights off, phone on, one more video. Then you're lying there more awake than when you got",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "Lights off, phone on, one more video. Then you're lying there more awake than when you got into bed.\n\nThat's not a willpower problem. Your body just never got the cue to wind down."
+  },
+  "images": [],
+  "threads_images": [],
+  "threads_topic": "Doomscrolling",
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-11-16T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-11-10T14:03:51+00:00"
+}

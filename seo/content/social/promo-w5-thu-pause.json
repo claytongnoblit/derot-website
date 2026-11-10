@@ -1,0 +1,23 @@
+{
+  "kind": "promo",
+  "slug": "promo-w5-thu-pause",
+  "phase": "prelaunch",
+  "pillar": "product",
+  "title": "How DeRot works, in one line: when a feed has wound you up, it pauses your apps while you ",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "How DeRot works, in one line: when a feed has wound you up, it pauses your apps while you reset with a few calming breaths.\n\nThen you go back, or you don't. You're never locked out."
+  },
+  "images": [],
+  "threads_images": [],
+  "threads_topic": "Digital Wellbeing",
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-11-12T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-11-10T14:03:51+00:00"
+}

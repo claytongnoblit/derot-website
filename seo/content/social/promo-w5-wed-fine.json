@@ -1,0 +1,23 @@
+{
+  "kind": "promo",
+  "slug": "promo-w5-wed-fine",
+  "phase": "prelaunch",
+  "pillar": "pov",
+  "title": "Ten minutes of the wrong feed can leave you rattled. An hour of the right one can leave yo",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "threads_text": "Ten minutes of the wrong feed can leave you rattled. An hour of the right one can leave you fine.\n\nThat's why we stopped caring about the number and started caring about how you feel after."
+  },
+  "images": [],
+  "threads_images": [],
+  "threads_topic": "Digital Wellbeing",
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-11-11T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-11-10T14:03:51+00:00"
+}

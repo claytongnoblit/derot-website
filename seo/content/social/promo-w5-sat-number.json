@@ -1,0 +1,36 @@
+{
+  "kind": "promo",
+  "slug": "promo-w5-sat-number",
+  "phase": "prelaunch",
+  "pillar": "pov",
+  "title": "Your screen time number isn't the problem. How you feel when you put the phone down is.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "Your screen time number isn't the problem. How you feel when you put the phone down is.\n\nIf you're wired, breathe in for 4 and out for 6 a few times before deciding what's next.\n\nDeRot pauses your apps while you reset with a few calming breaths. Coming soon to iPhone. Launch list: link in bio.",
+    "instagram_hashtags": [
+      "screentime",
+      "digitalwellbeing",
+      "breathwork",
+      "mindfulscrolling"
+    ]
+  },
+  "images": [],
+  "threads_images": null,
+  "reel": {
+    "path": "img/social/promo-w5-sat-number/reel.mp4",
+    "url": "https://derot.org/img/social/promo-w5-sat-number/reel.mp4",
+    "cover_path": "img/social/promo-w5-sat-number/reel-cover.jpg",
+    "cover_url": "https://derot.org/img/social/promo-w5-sat-number/reel-cover.jpg",
+    "duration": 23.0,
+    "hash": "765a4ed6ba8d73c1"
+  },
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-11-14T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-11-10T14:03:51+00:00"
+}

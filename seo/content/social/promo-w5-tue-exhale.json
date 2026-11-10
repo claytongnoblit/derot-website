@@ -1,0 +1,23 @@
+{
+  "kind": "promo",
+  "slug": "promo-w5-tue-exhale",
+  "phase": "prelaunch",
+  "pillar": "reset",
+  "title": "The quickest reset we know: make the exhale longer than the inhale.",
+  "url": "https://derot.org/tools/calm-breathing-4-6/",
+  "approved": true,
+  "copy": {
+    "threads_text": "The quickest reset we know: make the exhale longer than the inhale.\n\nIn for 4, out for 6. Three rounds. That's 30 seconds. Free timer if you'd rather not count:\n{url}"
+  },
+  "images": [],
+  "threads_images": [],
+  "threads_topic": "Breathwork",
+  "platforms": {
+    "threads": {
+      "status": "queued",
+      "scheduled_at": "2026-11-10T21:00:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-11-10T14:03:51+00:00"
+}

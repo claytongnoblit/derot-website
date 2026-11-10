@@ -1,0 +1,36 @@
+{
+  "kind": "promo",
+  "slug": "promo-w5-thu-breath",
+  "phase": "prelaunch",
+  "pillar": "feeling",
+  "title": "Three things the feed does to your breath, and a quick way to undo them.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "Three things the feed does to your breath, and a quick way to undo them.\n\nShort breaths, high in the chest, jaw tight. Breathe in through your nose, top it up with a second small sip, then let it all out in one long sigh. Two rounds.\n\nDeRot is coming soon to iPhone. Launch list: link in bio.",
+    "instagram_hashtags": [
+      "breathwork",
+      "physiologicalsigh",
+      "doomscrolling",
+      "breathingexercise"
+    ]
+  },
+  "images": [],
+  "threads_images": null,
+  "reel": {
+    "path": "img/social/promo-w5-thu-breath/reel.mp4",
+    "url": "https://derot.org/img/social/promo-w5-thu-breath/reel.mp4",
+    "cover_path": "img/social/promo-w5-thu-breath/reel-cover.jpg",
+    "cover_url": "https://derot.org/img/social/promo-w5-thu-breath/reel-cover.jpg",
+    "duration": 33.2,
+    "hash": "3daf54d024f8498b"
+  },
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-11-12T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-11-10T14:03:51+00:00"
+}

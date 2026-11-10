@@ -96,14 +96,21 @@ Instagram posts go out as Reels, rendered by `derot_seo/social_reels.py` with Pi
 | Beat | Fields | What it is |
 |---|---|---|
 | `hook` | `text`, `kicker`, `sub` | The first frame, on screen from frame 0. Under 70 characters. It is also the cover. |
-| `text` | `headline`, `body`, `secs` | A line or two. Time on screen comes from the word count unless `secs` is set. |
+| `text` | `headline`, `body`, `secs` | A line or two near the top, with a smaller circle breathing below. Time on screen comes from the word count unless `secs` is set. |
 | `breathe` | `pattern` (calm, box, 478, sigh), `rounds`, `title`, `note` | A breathe-along circle with counts. `note` shows during the last round. |
 | `phone` | `screen`, `crop`, `headline`, `body` | An app screen from `assets/screens/` rising into frame. |
-| `end` | `closing` (prelaunch, launch, article) | The closing card. |
+| `end` | `closing` (prelaunch, launch, article), `line` | The closing card. `line` adds one sentence on top, e.g. "A new scroll break every Tuesday." |
 
 Text stays inside Instagram's safe zone (clear of the caption, the buttons down the right edge, and the top bar). Each reel is saved as `reel.mp4`, `reel-cover.jpg`, and `reel.json`; a reel is only re-rendered when its beats change. Instagram fetches the video from derot.org like the images, so the hourly workflow waits until the files are live. The API cannot attach Instagram's music library, so audio is baked in: drop CC0 tracks (e.g. freepd.com; the repo is public) into `seo/assets/audio/` and each reel gets one, rotating by slug (`social.reels.volume` sets the level). An empty folder means silent reels. Adding or removing tracks re-renders queued reels on the next promo-build.
 
 What the first stats showed (Oct 2026): carousels got no reach, reels reached non-followers, but most viewers left in the first few seconds. So the hook moves from frame 0 (the breathing circle opens under the text), text beats ease in, reading time caps at 5s per beat, and reels stay short: under 22s without a breathe-along, under 40s with one (checked on build). Article reels use the first 3 points only. Captions are checked for comment bait ("Tell us below", "Be honest").
+
+Second stats read (Nov 2026, Oct 12 to Nov 5): views settled around 100 to 200 per reel, with zero follows, shares or comments. Promo reels (one short line per screen, list hooks like "Three signs the scroll has you wound up") beat article reels (paragraph slides, a topic label, 250-word captions), and every reel looked the same. So, from `RENDER_VERSION` 3:
+
+- Each reel gets one of four looks (`LOOKS`: ember, dusk, gold, low), picked by slug.
+- Text beats sit near the top with a smaller circle breathing on a 4-in / 6-out cycle below.
+- Hook kickers are bigger and amber, so a series name ("Scroll break 03") reads at a glance. Scroll break runs every Tuesday; its end card says so with `line`.
+- Article reels: hook (no topic label), the 3 `reel_lines` the copy model writes (one short line each, no body), a breathe-along matched to the article's tool, then the closing card. Their captions are capped at 600 characters. Older packages without `reel_lines` fall back to the slide headlines.
 
 ## Promo plan
 

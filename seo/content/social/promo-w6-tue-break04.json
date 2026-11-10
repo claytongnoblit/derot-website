@@ -1,0 +1,36 @@
+{
+  "kind": "promo",
+  "slug": "promo-w6-tue-break04",
+  "phase": "prelaunch",
+  "pillar": "reset",
+  "title": "Scroll break 04: 4-7-8 breathing for the scroll in bed.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "Scroll break 04: 4-7-8 breathing for the scroll in bed.\n\nIn for 4, hold for 7, out for 8. One round to start. If the hold feels like too much, skip it and just make the exhale long.\n\nA new scroll break every Tuesday. Launch list: link in bio.",
+    "instagram_hashtags": [
+      "scrollbreak",
+      "478breathing",
+      "cantsleep",
+      "breathwork"
+    ]
+  },
+  "images": [],
+  "threads_images": null,
+  "reel": {
+    "path": "img/social/promo-w6-tue-break04/reel.mp4",
+    "url": "https://derot.org/img/social/promo-w6-tue-break04/reel.mp4",
+    "cover_path": "img/social/promo-w6-tue-break04/reel-cover.jpg",
+    "cover_url": "https://derot.org/img/social/promo-w6-tue-break04/reel-cover.jpg",
+    "duration": 24.4,
+    "hash": "404312256448fc96"
+  },
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-11-17T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-11-10T14:03:51+00:00"
+}

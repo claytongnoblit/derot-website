@@ -281,7 +281,7 @@ def cmd_publish(mock: bool = False, keyword: Optional[str] = None, force: bool =
               "searches": llm.usage.searches}
     if log["parked"]:
         write_json(DRAFTS_DIR / f"{article['slug']}.json", {**article, "brief": log["brief"]})
-        kw.mark(data, log["plan"]["primary_keyword"], "parked",
+        kw.mark(data, log["plan"]["primary_keyword"], "parked", cluster=article.get("cluster", ""),
                 retry_after=(today() + dt.timedelta(days=21)).isoformat(), draft=article["slug"])
         kw.save_universe(data)
         append_jsonl(RUN_LOG, {**record, "result": "parked"})
@@ -295,10 +295,11 @@ def cmd_publish(mock: bool = False, keyword: Optional[str] = None, force: bool =
         return EXIT_PARKED
 
     write_json(POSTS_DIR / f"{article['slug']}.json", article)
-    kw.mark(data, article["primary_keyword"], "published", post=article["slug"], published=today().isoformat())
+    kw.mark(data, article["primary_keyword"], "published", cluster=article.get("cluster", ""),
+            post=article["slug"], published=today().isoformat())
     for s in article["secondary_keywords"]:
         if s.lower() != article["primary_keyword"].lower():
-            kw.mark(data, s, "covered", covered_by=article["slug"])
+            kw.mark(data, s, "covered", cluster=article.get("cluster", ""), covered_by=article["slug"])
     kw.save_universe(data)
     write_json(DATA_DIR / "briefs" / f"{article['slug']}.json", log["brief"])
     cfg_now = load_config()
@@ -512,7 +513,7 @@ def cmd_promote(slug: str) -> int:
         return 1
     write_json(POSTS_DIR / f"{slug}.json", post)
     src.unlink()
-    kw.mark(data, post["primary_keyword"], "published", post=slug, published=today().isoformat())
+    kw.mark(data, post["primary_keyword"], "published", cluster=post.get("cluster", ""), post=slug, published=today().isoformat())
     kw.save_universe(data)
     site.build(cfg, data)
     _summary(f"### Promoted draft: {post['title']}")

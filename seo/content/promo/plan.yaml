@@ -1,6 +1,6 @@
 # DeRot promotional posts for Threads and Instagram (see seo/SOCIAL.md, "Promo plan").
 #
-# Pre-launch: four weeks from `start`. Threads Mon-Fri, Instagram Reels Tue/Thu/Sat,
+# Pre-launch: six weeks from `start` (weeks 5-6 added 2026-11-06). Threads Mon-Fri, Instagram Reels Tue/Thu/Sat,
 # on top of the automatic blog shares (Mon/Wed/Fri). Pillars rotate by weekday:
 #   Mon feeling (name the wired-after-scroll state)   Tue reset (a 60-second technique)
 #   Wed point of view (regulate, don't restrict)      Thu product (how DeRot works)
@@ -506,6 +506,223 @@ prelaunch:
 
     It's almost here. Join the launch list (link in bio) and we'll tell you the day it's live.
   hashtags: [digitalwellbeing, breathwork, mindfultech, calmreset]
+
+# ---------------------------------------------------------------- week 5
+# Weeks 5-6 (added 2026-11-06 after the first full IG stats read): list hooks like
+# "Three signs" held the most viewers, so more of those; Scroll break is a weekly
+# Tuesday series with its number on the first frame; no paragraph slides.
+- id: w5-tue-break03
+  week: 5
+  day: tue
+  platform: instagram
+  pillar: reset
+  reel:
+    - { beat: hook, kicker: "Scroll break 03", text: "Thirty seconds. Breathe with the circle." }
+    - { beat: breathe, pattern: calm, rounds: 3, title: "In for 4, out for 6", note: "Let your shoulders drop on the way out." }
+    - { beat: end, closing: prelaunch, line: "A new scroll break every Tuesday." }
+  caption: |-
+    Scroll break 03: a 30-second reset for when the feed has you wired.
+
+    In for 4, out for 6, three rounds. The long exhale does the work.
+
+    A new scroll break every Tuesday. Launch list: link in bio.
+  hashtags: [scrollbreak, breathingexercise, breathwork, calmreset]
+
+- id: w5-tue-exhale
+  week: 5
+  day: tue
+  platform: threads
+  pillar: reset
+  url: https://derot.org/tools/calm-breathing-4-6/
+  text: |-
+    The quickest reset we know: make the exhale longer than the inhale.
+
+    In for 4, out for 6. Three rounds. That's 30 seconds. Free timer if you'd rather not count:
+    {url}
+
+- id: w5-wed-fine
+  week: 5
+  day: wed
+  platform: threads
+  pillar: pov
+  text: |-
+    Ten minutes of the wrong feed can leave you rattled. An hour of the right one can leave you fine.
+
+    That's why we stopped caring about the number and started caring about how you feel after.
+
+- id: w5-thu-breath
+  week: 5
+  day: thu
+  platform: instagram
+  pillar: feeling
+  reel:
+    - { beat: hook, text: "Three things the feed does to your breath" }
+    - { beat: text, headline: "1. It gets short.", secs: 2.4 }
+    - { beat: text, headline: "2. It moves up into your chest.", secs: 2.4 }
+    - { beat: text, headline: "3. Your jaw tightens along with it.", secs: 2.4 }
+    - { beat: text, headline: "Undo all three with one long sigh.", secs: 2.6 }
+    - { beat: breathe, pattern: sigh, rounds: 2, title: "Like this" }
+    - { beat: end, closing: prelaunch }
+  caption: |-
+    Three things the feed does to your breath, and a quick way to undo them.
+
+    Short breaths, high in the chest, jaw tight. Breathe in through your nose, top it up with a second small sip, then let it all out in one long sigh. Two rounds.
+
+    DeRot is coming soon to iPhone. Launch list: link in bio.
+  hashtags: [breathwork, physiologicalsigh, doomscrolling, breathingexercise]
+
+- id: w5-thu-pause
+  week: 5
+  day: thu
+  platform: threads
+  pillar: product
+  text: |-
+    How DeRot works, in one line: when a feed has wound you up, it pauses your apps while you reset with a few calming breaths.
+
+    Then you go back, or you don't. You're never locked out.
+
+- id: w5-fri-building
+  week: 5
+  day: fri
+  platform: threads
+  pillar: building
+  text: |-
+    Something we learned making breathing reels: the ones that do best are the ones you can do along with, right there in the feed.
+
+    So that's what we're making more of. A new scroll break every Tuesday.
+
+- id: w5-sat-number
+  week: 5
+  day: sat
+  platform: instagram
+  pillar: pov
+  reel:
+    - { beat: hook, text: "Your screen time number isn't the problem." }
+    - { beat: text, headline: "Ten minutes can leave you rattled.", secs: 2.6 }
+    - { beat: text, headline: "An hour can leave you fine.", secs: 2.4 }
+    - { beat: text, headline: "What matters is how you feel after.", secs: 2.6 }
+    - { beat: breathe, pattern: calm, rounds: 1, title: "So come back down" }
+    - { beat: end, closing: prelaunch }
+  caption: |-
+    Your screen time number isn't the problem. How you feel when you put the phone down is.
+
+    If you're wired, breathe in for 4 and out for 6 a few times before deciding what's next.
+
+    DeRot pauses your apps while you reset with a few calming breaths. Coming soon to iPhone. Launch list: link in bio.
+  hashtags: [screentime, digitalwellbeing, breathwork, mindfulscrolling]
+
+# ---------------------------------------------------------------- week 6
+- id: w6-mon-bed
+  week: 6
+  day: mon
+  platform: threads
+  pillar: feeling
+  text: |-
+    Lights off, phone on, one more video. Then you're lying there more awake than when you got into bed.
+
+    That's not a willpower problem. Your body just never got the cue to wind down.
+
+- id: w6-tue-break04
+  week: 6
+  day: tue
+  platform: instagram
+  pillar: reset
+  reel:
+    - { beat: hook, kicker: "Scroll break 04", text: "Scrolling in bed? Do this before the next video." }
+    - { beat: breathe, pattern: "478", rounds: 1, title: "4-7-8, for winding down", note: "Skip the hold if it makes you lightheaded." }
+    - { beat: end, closing: prelaunch, line: "A new scroll break every Tuesday." }
+  caption: |-
+    Scroll break 04: 4-7-8 breathing for the scroll in bed.
+
+    In for 4, hold for 7, out for 8. One round to start. If the hold feels like too much, skip it and just make the exhale long.
+
+    A new scroll break every Tuesday. Launch list: link in bio.
+  hashtags: [scrollbreak, 478breathing, cantsleep, breathwork]
+
+- id: w6-tue-478
+  week: 6
+  day: tue
+  platform: threads
+  pillar: reset
+  url: https://derot.org/tools/4-7-8-breathing-timer/
+  text: |-
+    For the scroll in bed: in for 4, hold for 7, out for 8.
+
+    Skip the hold if it makes you lightheaded. The long exhale is the part that matters. Timer here:
+    {url}
+
+- id: w6-wed-stay
+  week: 6
+  day: wed
+  platform: threads
+  pillar: pov
+  text: |-
+    Most tools for your phone ask you to leave. We'd rather help you stay and feel okay.
+
+    Regulate, don't restrict.
+
+- id: w6-thu-moments
+  week: 6
+  day: thu
+  platform: instagram
+  pillar: reset
+  reel:
+    - { beat: hook, text: "Four moments to take a breath mid-scroll" }
+    - { beat: text, headline: "1. After a heated comment thread.", secs: 2.4 }
+    - { beat: text, headline: "2. When the news won't stop.", secs: 2.4 }
+    - { beat: text, headline: "3. Right before bed.", secs: 2.2 }
+    - { beat: text, headline: "4. When you've lost track of time.", secs: 2.4 }
+    - { beat: breathe, pattern: calm, rounds: 1, title: "One breath like this" }
+    - { beat: end, closing: prelaunch }
+  caption: |-
+    Four moments to take a breath mid-scroll. Save it for the next one.
+
+    After a heated thread, during a news spiral, right before bed, or when you look up and an hour is gone. In for 4, out for 6, a few times.
+
+    DeRot is coming soon to iPhone. Launch list: link in bio.
+  hashtags: [doomscrolling, breathwork, mindfulscrolling, calmreset]
+
+- id: w6-thu-choose
+  week: 6
+  day: thu
+  platform: threads
+  pillar: product
+  slides:
+    - { template: phone, screen: myapps, headline: "Pick the apps that wind you up", body: "Social, games, news, or the one feed that always gets you." }
+  text: |-
+    DeRot only steps in on the apps you pick, the ones that tend to leave you wired.
+
+    Everything else stays exactly as it is.
+
+- id: w6-fri-soon
+  week: 6
+  day: fri
+  platform: threads
+  pillar: building
+  text: |-
+    DeRot is close. A calm reset for the apps that wind you up, coming soon to iPhone.
+
+    Join the launch list and we'll tell you the day it's live:
+    {url}
+
+- id: w6-sat-how
+  week: 6
+  day: sat
+  platform: instagram
+  pillar: product
+  reel:
+    - { beat: hook, text: "What DeRot does when the feed winds you up" }
+    - { beat: phone, screen: shield, crop: 0.25, headline: "It pauses you mid-scroll", secs: 3.0 }
+    - { beat: phone, screen: breathing-inhale, crop: 0.1, headline: "A few calming breaths", secs: 3.0 }
+    - { beat: phone, screen: reset-complete, crop: 0.1, headline: "Then back to your day, calmer", secs: 3.0 }
+    - { beat: end, closing: prelaunch }
+  caption: |-
+    What DeRot does when the feed winds you up: it pauses your apps while you reset with a few calming breaths.
+
+    Then you go back, or you don't. Either way, calmer. You're never locked out.
+
+    Coming soon to iPhone. Launch list: link in bio.
+  hashtags: [digitalwellbeing, breathwork, mindfultech, screentime]
 
 # Launch week. Released by `social launch --date`; {url} becomes the App Store link.
 launch:

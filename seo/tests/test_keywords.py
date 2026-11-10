@@ -111,3 +111,11 @@ def test_comparison_posts_skip_social():
     assert not social.wants_social({"cluster": "b"}, cfg)
     cfg["comparison_track"]["social"] = True
     assert social.wants_social({"cluster": "b"}, cfg)
+
+
+def test_mark_new_keyword_gets_a_cluster():
+    data = {"clusters": [{"id": "a"}, {"id": "b"}], "keywords": []}
+    kw.mark(data, "New Phrase", "covered", cluster="b", covered_by="x")
+    kw.mark(data, "other phrase", "covered")
+    assert data["keywords"][0]["cluster"] == "b"
+    assert data["keywords"][1]["cluster"] == "a"

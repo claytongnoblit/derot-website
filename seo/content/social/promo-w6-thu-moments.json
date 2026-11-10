@@ -1,0 +1,36 @@
+{
+  "kind": "promo",
+  "slug": "promo-w6-thu-moments",
+  "phase": "prelaunch",
+  "pillar": "reset",
+  "title": "Four moments to take a breath mid-scroll. Save it for the next one.",
+  "url": "https://derot.org/#newsletter",
+  "approved": true,
+  "copy": {
+    "instagram_caption": "Four moments to take a breath mid-scroll. Save it for the next one.\n\nAfter a heated thread, during a news spiral, right before bed, or when you look up and an hour is gone. In for 4, out for 6, a few times.\n\nDeRot is coming soon to iPhone. Launch list: link in bio.",
+    "instagram_hashtags": [
+      "doomscrolling",
+      "breathwork",
+      "mindfulscrolling",
+      "calmreset"
+    ]
+  },
+  "images": [],
+  "threads_images": null,
+  "reel": {
+    "path": "img/social/promo-w6-thu-moments/reel.mp4",
+    "url": "https://derot.org/img/social/promo-w6-thu-moments/reel.mp4",
+    "cover_path": "img/social/promo-w6-thu-moments/reel-cover.jpg",
+    "cover_url": "https://derot.org/img/social/promo-w6-thu-moments/reel-cover.jpg",
+    "duration": 24.8,
+    "hash": "633aa467735836f7"
+  },
+  "platforms": {
+    "instagram": {
+      "status": "queued",
+      "scheduled_at": "2026-11-19T23:30:00+00:00",
+      "attempts": 0
+    }
+  },
+  "built_at": "2026-11-10T14:03:51+00:00"
+}
