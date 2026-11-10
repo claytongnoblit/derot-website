@@ -221,7 +221,7 @@ def test_posts_everything_due_once(published):
     ig_media = fake.posts_to("/IG1/media")
     # Instagram gets the article as a Reel (config: instagram.format = reel)
     assert "reel_error" not in pkg and pkg["reel"]["duration"] > 5
-    assert (site / pkg["reel"]["path"]).stat().st_size > 10_000
+    assert (site / pkg["reel"]["path"]).exists()   # placeholder under DEROT_SEO_FAST_REELS; test_reels.py encodes for real
     parent = [c for c in ig_media if c[2].get("media_type") == "REELS"]
     assert len(ig_media) == 1 and len(parent) == 1
     assert parent[0][2]["video_url"] == pkg["reel"]["url"] and parent[0][2]["cover_url"] == pkg["reel"]["cover_url"]

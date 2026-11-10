@@ -30,6 +30,7 @@ from __future__ import annotations
 import hashlib
 import json
 import math
+import os
 import shutil
 import subprocess
 from pathlib import Path
@@ -460,6 +461,15 @@ def render_reel(beats: list[dict], out_mp4: Path, cover_jpg: Optional[Path] = No
     global _LOOK
     if look not in LOOKS:
         raise ValueError(f"unknown reel look '{look}' (have: {', '.join(sorted(LOOKS))})")
+    if os.environ.get("DEROT_SEO_FAST_REELS"):
+        # Tests only (set in tests/conftest.py, inherited by CLI subprocesses): placeholder
+        # files instead of a real encode. test_reels.py covers real rendering.
+        out_mp4.parent.mkdir(parents=True, exist_ok=True)
+        out_mp4.write_bytes(b"placeholder")
+        if cover_jpg:
+            cover_jpg.parent.mkdir(parents=True, exist_ok=True)
+            Image.new("RGB", (W, H), BASE).save(cover_jpg, "JPEG")
+        return {"duration": round(duration(beats), 2)}
     _LOOK = look
     segs = [BUILDERS[b["beat"]](b) for b in beats]
     starts, t = [], 0.0

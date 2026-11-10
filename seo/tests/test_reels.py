@@ -71,3 +71,10 @@ def test_looks_are_stable_and_all_render():
 def test_end_line_is_checked_copy():
     assert ("line", "A new scroll break every Tuesday.") in reels.beat_text(
         {"beat": "end", "line": "A new scroll break every Tuesday."})
+
+
+def test_fast_reels_placeholder(tmp_path, monkeypatch):
+    monkeypatch.setenv("DEROT_SEO_FAST_REELS", "1")
+    beats = [{"beat": "hook", "text": "Hi", "secs": 2}, {"beat": "end", "closing": "prelaunch", "secs": 3}]
+    info = reels.render_reel(beats, tmp_path / "r.mp4", tmp_path / "c.jpg")
+    assert info["duration"] == 5.0 and (tmp_path / "r.mp4").exists() and (tmp_path / "c.jpg").exists()
