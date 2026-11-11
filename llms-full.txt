@@ -1,5 +1,188 @@
 # DeRot blog: full text
 
+# How to De-Rot Your Brain Without Quitting Social Media
+
+URL: https://derot.org/blog/how-to-de-rot-your-brain/
+Updated: 2026-11-11
+
+Key takeaways:
+- To de-rot your brain, notice the wired feeling mid-scroll, breathe slowly with longer exhales for 30 to 60 seconds, rest your eyes on something far away, and then build a few gentler daily habits.
+- Brain rot is internet slang, not a diagnosis. Oxford defines it as the "supposed deterioration" of a person's mental state, and the research on long-term effects is early and mostly correlational.
+- In a 2025 meta-analysis, compulsive use (r = -.37) and emotional dependency (r = -.55) were linked with weaker cognition more strongly than time spent (r = -.20). How you scroll seems to matter more than how long.
+- A strict dopamine detox is unlikely to be necessary. In a 2025 blocking trial, the benefits were partly explained by more socializing, exercise and time in nature, so adding real-world time is a gentler bet.
+- The goal is to feel clear-headed after you scroll. Fewer minutes tends to follow as a side effect.
+
+How to de-rot your brain: notice the foggy, wired feeling while you're still scrolling, breathe slowly with longer exhales for 30 to 60 seconds, rest your eyes on something far away, then build a few gentler daily habits. The goal is to come back down and feel clear-headed. Using your phone less tends to follow on its own.
+
+None of this is a cure, and it isn't a 30-day plan. It's what to do at the moment the feed has wound you up, plus a few small changes so that moment comes around less often. You don't have to quit anything.
+
+## Brain rot meaning: what it is, and whether it's real
+
+Brain rot is internet slang for the foggy, slightly wired feeling after a long run of short-form video or feed scrolling. It is not a medical diagnosis and it is not literal brain damage.
+
+When Oxford named it the 2024 word of the year, it defined brain rot as ["the supposed deterioration of a person's mental or intellectual state"](https://www.pbs.org/newshour/amp/world/brain-rot-is-oxfords-word-of-the-year), ["especially viewed as the result of overconsumption of material (now particularly online content) considered to be trivial or unchallenging."](https://www.fox6now.com/news/brain-rot-oxford-word-year-2024) Use of the term [rose 230% year on year](https://www.fox6now.com/news/brain-rot-oxford-word-year-2024). The word "supposed" is doing honest work in that definition. (We keep a shorter [definition of brain rot](/glossary/#brain-rot) in our glossary.)
+
+In everyday use, "Reels brain rot" describes something you can feel. You close the app and a paragraph of text feels oddly heavy. Your attention skips around. You're restless without feeling rested.
+
+### What the research actually shows
+
+The largest look so far is a 2025 Psychological Bulletin meta-analysis of [71 studies and 98,299 participants](https://ifp.nyu.edu/2025/journal-article-abstracts/bul0000498/). Heavier short-form video use was linked with weaker attention (r = -.38) and weaker inhibitory control, which is the ability to stop yourself acting on an impulse (r = -.41). It also found a weaker overall link with mental health (r = -.21), including stress and anxiety, and no link with body image or self-esteem.
+
+That is worth taking seriously. It is also worth reading carefully:
+
+- Most of the studies were cross-sectional and relied on self-reported use, so [cause and effect is unclear](https://www.psypost.org/large-meta-analysis-links-tiktok-and-instagram-reels-to-poorer-cognitive-and-mental-health/). People who already struggle with anxiety or attention may reach for these apps more to cope.
+- The cognition analysis rested on [14 studies, all from China](https://reason.com/2025/12/31/study-short-form-video-isnt-rotting-your-brain), and reverse causation is plausible.
+
+So the feeling is real and common, the link is real enough to notice, and the long-term picture is early and mixed. Nobody has shown that a weekend of cat videos permanently rewires anything.
+
+## Is it the time you spend or the way you scroll?
+
+The way you scroll appears to matter more than the minutes. In the same meta-analysis, as [reported by Reason](https://reason.com/2025/12/31/study-short-form-video-isnt-rotting-your-brain), time spent watching was only weakly linked with cognition (r = -.20). Compulsive use, the hard-to-stop pull, was more strongly linked (r = -.37). Emotional dependency, leaning on the feed to manage how you feel, was linked most strongly of all (r = -.55). Time spent was not significantly linked with mental health (r = -.10).
+
+These are correlations, not proof. But they match what many people notice: half an hour watching cooking videos on purpose feels different from 20 minutes of thumb-on-autopilot after a stressful email.
+
+This is why we care about state over quantity. If a session leaves you clear-headed, the number on your screen time report matters less. Counting minutes can even backfire, because [screen time guilt tends to make the scroll worse](/blog/screen-time-guilt/), not better.
+
+## How to de-rot your brain in the moment
+
+The most useful place to de-rot is mid-scroll, while the wound-up feeling is actually happening. The sequence below takes about two minutes, and you can stop after any step.
+
+### Step 1: Notice the wired feeling mid-scroll
+
+The first step is noticing your body, because the feed's effect usually shows up physically before you put a name to it. Common cues:
+
+- Jaw clenched, or teeth touching
+- Shoulders creeping up toward your ears
+- Breathing short and high in the chest, or quietly held
+- Eyes fixed, face still, posture folded around the phone
+- The "one more" pull: your thumb moving before you've decided to keep going
+
+Name it without judgment. Short-form feeds are fast and endless, and a body that has been taking that in for a while tends to feel revved. That's a predictable response to the input, not a personal failing.
+
+A five-second body check you can run anywhere: **"Jaw. Shoulders. Breath."** Unclench your jaw, drop your shoulders, and notice where your breath is sitting. If two of the three were tight, you're due a reset. For more on what's going on underneath, see our guide to [nervous system overload from your phone](/blog/nervous-system-overload-from-phone/).
+
+### Step 2: Do a 30 to 60 second breath reset
+
+A slow breath with an exhale longer than the inhale is one of the simplest, quickest tools most people have for bringing their body back down. Pick one of these two.
+
+**Default: Calm 4-6 breathing (about 60 seconds)**
+
+1. Lower the phone or set it face down.
+2. Inhale gently through your nose for a count of 4.
+3. Exhale slowly through your nose or softly parted lips for a count of 6.
+4. Repeat for 6 rounds. That's roughly one minute at six breaths per minute.
+
+If counting feels like one more task, follow the free [calm 4-6 breathing timer](/tools/calm-breathing-4-6/).
+
+**Quick option: the physiological sigh (about 30 seconds)**
+
+1. Inhale through your nose until you're comfortably full.
+2. Take a short second sniff in to top up.
+3. Exhale long and slow through your mouth until you're empty.
+4. Do 2 or 3 rounds.
+
+There's a free [physiological sigh timer](/tools/physiological-sigh/) if you want a guide.
+
+**Why slow breathing helps.** A 2022 meta-analysis of 223 studies found that [slow breathing increased vagally mediated heart rate variability](https://pure.solent.ac.uk/en/publications/effects-of-voluntary-slow-breathing-on-heart-rate-and-heart-rate-/) during a session and immediately afterward. That's a marker associated with the calming, "rest and digest" side of your nervous system. In a 2023 randomized trial with 108 participants, [five minutes a day of cyclic sighing for 28 days](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947) raised positive mood more than mindfulness meditation and produced the biggest drop in breathing rate. The authors concluded that daily cyclic sighing [has promise as a stress management exercise](https://pubmed.ncbi.nlm.nih.gov/36630953/).
+
+To keep that honest: the trial was exploratory, participants were mostly students, the dose was five minutes a day rather than 30 seconds, and heart rate variability and resting heart rate did not change significantly in that study. Treat a one-minute reset as a way to shift how you feel right now, not as a treatment.
+
+**What it feels like.** By the third or fourth long exhale, many people notice their shoulders settle and the urge to flick to the next video go quieter. It's subtle. You're not aiming for bliss, just a notch down.
+
+**Common mistakes:**
+
+- Forcing the top-up inhale on the sigh. It should be a small sip of air, not a gasp.
+- Rushing the exhale. The slow exhale is the part doing the work.
+- Breathing big instead of slow. Overbreathing can leave you lightheaded.
+- Keeping your eyes on the feed while you breathe. Look away from the screen.
+
+**Safety.** Stop and return to normal breathing if you feel dizzy, lightheaded or tingly. If 4-6 feels like a strain, shorten it to 3 in and 5 out. If you're pregnant, have a heart or lung condition, or have a history of fainting or panic, go gently and check with a clinician. In the 2023 trial, [about 10% of participants reported a negative experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947).
+
+This mid-scroll moment is exactly what we built DeRot for. It meets you mid-scroll and pauses your apps while you reset with a few calming breaths, so you head back to the feed with your shoulders down and the wired feeling fading. It's coming soon to iOS. Until then, the free timers above cover the breathing.
+
+### Step 3: Look far away and change your input
+
+After the breath, give your eyes and attention something slow. Rest your gaze on something distant, ideally green, for about 40 seconds, then change what's coming in.
+
+There's a small piece of evidence for the green part. In a [University of Melbourne study of 150 students](https://sciencedaily.com/releases/2015/05/150526093611.htm), those who glanced at a green roof for 40 seconds made fewer errors and responded more consistently on an attention task than those who looked at a concrete roof. The [published paper](https://findanexpert.unimelb.edu.au/scholarlywork/977781-40-second-green-roof-views-sustain-attention--the-role-of-micro-breaks-in-attention-restoration) reports fewer omission errors after the green view. It's one lab study, so keep expectations modest. Think of it as a cheap micro-break for your attention, nothing more.
+
+No tree outside? A distant window, the sky, or the far end of the room still breaks the close, fast focus of a feed.
+
+Then switch your input:
+
+- Stand up and fill a glass of water.
+- Step outside, even just onto a step or balcony.
+- Put on one song and actually listen to all of it.
+- Say something to whoever is nearby.
+
+You don't need a speech to yourself about willpower. You're changing channel so the momentum breaks. If you go back to the app afterward, that's fine. You're going back in a different state, and that's the point.
+
+## Do you need a dopamine detox? (Probably not)
+
+Probably not. The strict version of a [dopamine detox](/glossary/#dopamine-detox) doesn't do what its name suggests, and gentler changes seem to capture much of the benefit.
+
+Grinspoon, writing for Harvard Health and quoted by Mental Floss, has pointed out that [dopamine doesn't actually decrease when you avoid stimulating activities](https://www.mentalfloss.com/science/psychology/does-dopamine-fasting-actually-work). Sepah, who created dopamine fasting, recommends small, minimally disruptive experiments instead, and [extreme versions have been linked to loneliness and anxiety](https://www.mentalfloss.com/science/psychology/does-dopamine-fasting-actually-work). Skipping meals or cutting off contact with people is not a reset worth trying.
+
+What about simply cutting the phone off? A 2025 randomized trial asked 467 adults to block mobile internet for two weeks. [91% improved on at least one outcome](https://www.news-medical.net/news/20250219/Blocking-mobile-internet-for-two-weeks-improves-mental-health-and-well-being.aspx), but only about a quarter kept the block for at least 10 of the 14 days. The gains were [partly explained by more in-person socializing, exercise and time in nature](https://usrtk.org/healthwire/blocking-mobile-phone-internet-may-boost-mood-mental-health-attention/), and the people who stuck with it had better mental health and attention to begin with.
+
+Our read: a lot of the benefit may come from what fills the space, not from the absence of the phone. That's good news if you'd rather add real life in than go cold turkey.
+
+## Gentler daily habits that leave you less wound up
+
+The habits that seem most useful add calm in rather than shutting things out. Pick one or two, not all of them.
+
+- **Add real-world time.** A walk with a friend, a workout, twenty minutes outside. These were the same things that partly explained the benefits in the [blocking trial](https://usrtk.org/healthwire/blocking-mobile-phone-internet-may-boost-mood-mental-health-attention/).
+- **Watch the pull, not the clock.** Notice when "one more" turns automatic, or when you're opening the app to change how you feel. Those patterns, [more than raw time](https://reason.com/2025/12/31/study-short-form-video-isnt-rotting-your-brain), were linked with weaker focus.
+- **Practice slow breathing for five minutes a day.** That was the dose in the [cyclic sighing trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947). It also makes the mid-scroll reset feel familiar when you need it.
+- **Give longer attention a small, regular slot.** One chapter of a book. One full episode with no second screen. If a whole film feels hard at first, start with something shorter and build.
+- **Make phone-free moments the easy default.** Charge the phone outside the bedroom, or leave it in another room during breakfast. Defaults you can break without guilt work better than rules you'll resent.
+
+For more ways to stay connected without the comedown, see [how to stop doomscrolling without quitting your phone](/blog/how-to-stop-doomscrolling/).
+
+You'll see pages promising your attention span back in 7 or 30 days. We haven't found good research behind those timelines. A more useful check is simple: does a scrolling session leave you clearer than it used to?
+
+## When to talk to someone
+
+Brain rot isn't a diagnosis, and the steps above are for everyday overstimulation. Slow breathing can help you feel calmer, but it does not treat anxiety, ADHD, depression or any other condition.
+
+If problems with focus, mood, anxiety or sleep keep going, or start getting in the way of work, relationships or rest, talk to a doctor or mental health professional. If you're in crisis or thinking about harming yourself, call or text 988 in the US, or contact your local emergency services.
+
+## FAQ
+**Can brain rot be reversed, and how long does it take?**
+The foggy, wired feeling after a long scroll usually eases once your body comes down, often within minutes of a slow-breathing reset and a change of scene. There's no good research behind the popular 7-day or 30-day recovery timelines. Most studies linking short-form video and attention are correlational, so it's unclear what, if anything, needs reversing long term. A better gauge is whether your sessions leave you clearer over time.
+
+**Why do I feel foggy or wired after scrolling?**
+Short-form feeds are fast and endless, and a body taking that in for a while often ends up tense: clenched jaw, raised shoulders, short breathing. Many people also slip into compulsive scrolling or use the feed to manage their mood, and in a 2025 meta-analysis those patterns were linked with weaker cognition more strongly than time spent. The result can feel like being restless and tired at once.
+
+**Does TikTok or Reels actually damage your attention span?**
+A 2025 meta-analysis of 71 studies found that heavier short-form video use was linked with weaker attention and inhibitory control. But most of the studies were cross-sectional and relied on self-reported use, and the cognition analysis came from 14 studies, all in China. People with existing attention struggles may simply use these apps more. So there's an association worth noticing, not proof of damage.
+
+**How do I fix brain rot without quitting social media?**
+Focus on how you feel rather than cutting minutes. Notice the wired feeling mid-scroll, do 30 to 60 seconds of slow breathing with longer exhales, look at something far away, and change your input for a minute. Over time, add more in-person time, movement and time outside, and watch for the automatic 'one more' pull. You can keep your apps and still feel clearer.
+
+**Why can't I focus on a movie or book anymore?**
+Many people notice this after a stretch of heavy short-form scrolling, and research does link compulsive short-form use with weaker attention, though cause and effect isn't clear. Stress, poor sleep and simply being out of practice can play a part too. Start small: one chapter or one episode with the phone in another room. If focus problems persist or affect daily life, talk to a professional.
+
+**Is it the time I spend or the way I scroll?**
+The way you scroll seems to matter more. In a 2025 meta-analysis, time spent was only weakly linked with cognition (r = -.20), while compulsive use (r = -.37) and emotional dependency on the feed (r = -.55) were linked much more strongly. Time spent wasn't significantly linked with mental health. These are correlations, but they suggest watching your state, not just your screen time number.
+
+## Sources
+- Feeds, feelings, and focus: A systematic review and meta-analysis examining the cognitive and mental health correlates of short-form video use: https://ifp.nyu.edu/2025/journal-article-abstracts/bul0000498/
+- Study: short-form video isn't rotting your brain: https://reason.com/2025/12/31/study-short-form-video-isnt-rotting-your-brain
+- Large meta-analysis links TikTok and Instagram Reels to poorer cognitive and mental health: https://www.psypost.org/large-meta-analysis-links-tiktok-and-instagram-reels-to-poorer-cognitive-and-mental-health/
+- Brief structured respiration practices enhance mood and reduce physiological arousal: https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947
+- Brief structured respiration practices enhance mood and reduce physiological arousal: https://pubmed.ncbi.nlm.nih.gov/36630953/
+- Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis: https://pure.solent.ac.uk/en/publications/effects-of-voluntary-slow-breathing-on-heart-rate-and-heart-rate-/
+- Glancing at greenery can boost concentration levels: https://sciencedaily.com/releases/2015/05/150526093611.htm
+- 40-second green roof views sustain attention: the role of micro-breaks in attention restoration: https://findanexpert.unimelb.edu.au/scholarlywork/977781-40-second-green-roof-views-sustain-attention--the-role-of-micro-breaks-in-attention-restoration
+- Blocking mobile internet for two weeks improves mental health and well-being: https://www.news-medical.net/news/20250219/Blocking-mobile-internet-for-two-weeks-improves-mental-health-and-well-being.aspx
+- Blocking mobile phone internet for two weeks may boost mood, mental health, and attention: https://usrtk.org/healthwire/blocking-mobile-phone-internet-may-boost-mood-mental-health-attention/
+- Does dopamine fasting actually work?: https://www.mentalfloss.com/science/psychology/does-dopamine-fasting-actually-work
+- 'Brain rot' is Oxford's word of the year: https://www.pbs.org/newshour/amp/world/brain-rot-is-oxfords-word-of-the-year
+- Oxford names 'brain rot' as 2024 word of the year: https://www.fox6now.com/news/brain-rot-oxford-word-year-2024
+
+---
+
 # Apps That Make You Breathe Before Opening Instagram, Compared
 
 URL: https://derot.org/blog/app-breathe-before-opening-instagram/

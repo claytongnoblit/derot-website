@@ -1230,8 +1230,9 @@
       "content_type": "explainer",
       "angle": "Brain rot discourse decoded: overstimulation, not damage; how to come down.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Gen Z term; trend-driven."
+      "status": "covered",
+      "notes": "Gen Z term; trend-driven.",
+      "covered_by": "how-to-de-rot-your-brain"
     },
     {
       "keyword": "brain rot meaning",
@@ -1245,7 +1246,7 @@
       "seasonality": [],
       "status": "covered",
       "notes": "Dictionary SERP. Name-adjacent to DeRot brand.",
-      "covered_by": "glossary"
+      "covered_by": "how-to-de-rot-your-brain"
     },
     {
       "keyword": "how to de-rot your brain",
@@ -1257,8 +1258,10 @@
       "content_type": "how-to",
       "angle": "Brand-aligned: de-rotting as calming, not quitting.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Brand-name term, near-empty SERP."
+      "status": "published",
+      "notes": "Brand-name term, near-empty SERP.",
+      "post": "how-to-de-rot-your-brain",
+      "published": "2026-11-11"
     },
     {
       "keyword": "news anxiety",

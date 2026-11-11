@@ -1,0 +1,288 @@
+{
+  "title_options": [
+    "How to de-rot your brain: a calmer way to come back down from the scroll",
+    "How to de-rot your brain (without quitting your phone)",
+    "How to de-rot your brain: what brain rot is, and a 60-second reset"
+  ],
+  "search_intent": "Informational how-to. Searchers feel foggy, overstimulated or wired after short-form video and feed scrolling. They want to know whether \"brain rot\" is real and how to feel clear-headed again, and many want a way to do that without quitting social media. Start with a plain definition and an honest take on the evidence, then give a practical sequence for the moment itself plus gentler daily habits.",
+  "serp_summary": "Page one is mostly Substack and Beehiiv newsletters, app-company blogs (Freedom, Headway, Planoly, Takeroon), podcasts and listicles. No clinic, university or government page ranks. The formats are \"7 ways\" listicles and step plans: Planoly's 4 warm steps, and Freedom's TL;DR plus a 30-day blocking protocol plus an FAQ. Their strengths are an \"isn't about quitting the internet\" tone, admitting brain rot isn't a diagnosis, and practical swaps like walks, books and phone-free mornings. Their weaknesses: almost no citations, recovery timelines with no source, dopamine \"reset\" myths, nothing on the physical state, no breathing step, quantity-only advice (limits and blocking), nothing for the mid-scroll moment, and no mention of the 2025 Psychological Bulletin meta-analysis.",
+  "gaps": [
+    "Honest definition: Oxford's 'supposed deterioration' wording plus what the 2025 meta-analysis does and does not show (mostly correlational, cognition analysis based on 14 studies all from China, mostly self-report).",
+    "State over quantity, backed by data: compulsive use (r = -.37) and emotional dependency (r = -.55) are linked with cognition far more strongly than time spent (r = -.20). Time spent was not significantly linked with mental health.",
+    "The body: jaw, shoulders, shallow breathing and the 'one more' pull. No ranking page covers this.",
+    "A breathing step with exact counts (Calm 4-6, physiological sigh), backed by Balban 2023 and Laborde 2022, linked to the free tools.",
+    "A sequence for the mid-scroll moment instead of only 30-day plans.",
+    "Fair reframe of the dopamine detox: Grinspoon via Mental Floss, Sepah's 'minimally disruptive' advice, and the nuance of the 2025 PNAS Nexus blocking trial (low adherence, gains partly explained by socializing, exercise and nature).",
+    "A 40-second green-view micro-break (Lee 2015) as a small, honestly scoped step."
+  ],
+  "outline": [
+    {
+      "h2": "How do you de-rot your brain? The quick answer",
+      "points": [
+        "Answer first (40-60 words): de-rotting means bringing your body and attention back down after the feed has wound you up. Notice the state, breathe slowly for 30-60 seconds, rest your eyes on something far away, then build a few gentler daily habits.",
+        "Being calmer and clear-headed is the goal. Fewer minutes is a side effect.",
+        "Set expectations: this is about how you feel, not a cure."
+      ]
+    },
+    {
+      "h2": "What is brain rot, and is it real?",
+      "points": [
+        "Oxford 2024 word of the year: 'the supposed deterioration of a person's mental or intellectual state...' (S12, S13). Use of the term rose 230%.",
+        "In plain terms: the foggy, overstimulated, slightly wired feeling after a long run of Reels, TikTok or feed scrolling. It is not literal brain damage and not a diagnosis.",
+        "2025 meta-analysis of 71 studies and 98,299 people: short-form video use was linked with weaker attention (-.38) and inhibitory control (-.41) (S1).",
+        "Limits: mostly cross-sectional, mostly self-report, cognition analysis rests on 14 studies all from China, and reverse causation is plausible (S2, S3). Early and mixed, so no 'rewired' claims."
+      ]
+    },
+    {
+      "h2": "Is it the time you spend or the way you scroll?",
+      "points": [
+        "Time spent and cognition: -.20. Compulsive use: -.37. Emotional dependency: -.55 (S2).",
+        "Time spent and mental health: -.10, not significant (S2).",
+        "Takeaway: the 'one more' pull and how the feed leaves you feeling matter more than the minutes. This is the state-over-quantity point."
+      ]
+    },
+    {
+      "h2": "Step 1: Notice the wired feeling mid-scroll",
+      "points": [
+        "Body cues: clenched jaw, raised shoulders, shallow high breathing, eyes locked, the 'one more' pull.",
+        "Name it without judgment. The feed did this, not a personal failing.",
+        "A 5-second body check script."
+      ]
+    },
+    {
+      "h2": "Step 2: Do a 30 to 60 second breath reset",
+      "points": [
+        "Default, Calm 4-6: inhale through the nose for 4, exhale slowly for 6, about 6 rounds (roughly 60 seconds). Link the calm 4-6 tool.",
+        "Quick option, physiological sigh: inhale through the nose, take a short second inhale to top up, then a long, slow exhale through the mouth. 2-3 rounds. Link the physiological sigh tool.",
+        "Evidence: slow breathing raised vagally mediated HRV during a session and immediately after (S6). In Balban 2023, cyclic sighing was the only exercise that beat mindfulness on positive mood; the dose was 5 minutes a day for 28 days (S4, S5). Note: mostly students, exploratory, no HRV change.",
+        "What it feels like, plus common mistakes: forcing the top-up inhale, rushing the exhale.",
+        "One DeRot mention: the app that meets you mid-scroll and pauses your apps while you reset with a few calming breaths, so your shoulders drop.",
+        "Safety line: stop if you feel dizzy."
+      ]
+    },
+    {
+      "h2": "Step 3: Look far away and change your input",
+      "points": [
+        "Rest your eyes on something distant, ideally green, for about 40 seconds.",
+        "Lee 2015: 150 students who took a 40-second green-roof view made fewer attention errors (S7, S8). It is one lab study, so keep the claim small.",
+        "Switch your input: stand up, get water, step outside, put on a song. Do it without a lecture about willpower.",
+        "Frame this as a micro-break, not an eye-health claim."
+      ]
+    },
+    {
+      "h2": "Do you need a dopamine detox? (Probably not)",
+      "points": [
+        "Grinspoon (Harvard Health, via Mental Floss): dopamine 'doesn't actually decrease' when you avoid stimulation (S11).",
+        "Sepah, who created dopamine fasting, recommends 'minimally disruptive' experiments. Extreme versions are linked to loneliness and anxiety (S11).",
+        "2025 internet-blocking RCT with 467 adults: 91% improved on at least one outcome, but only about a quarter kept the block for the full two weeks, and the gains were partly explained by in-person socializing, exercise and nature (S9, S10).",
+        "Takeaway: add real-world time rather than going cold turkey."
+      ]
+    },
+    {
+      "h2": "Gentler daily habits that leave you less wound up",
+      "points": [
+        "Add, don't subtract: more in-person time, movement and time outside (S10).",
+        "Watch for the compulsive pull rather than counting minutes (S2).",
+        "A daily 5-minute slow-breathing or sighing practice (S4).",
+        "Practice longer-form attention: a full film or a chapter of a book. Keep it small.",
+        "Make phone-free moments (mornings, meals) easy defaults, not rules.",
+        "No unsourced recovery timelines."
+      ]
+    },
+    {
+      "h2": "When to talk to someone",
+      "points": [
+        "Brain rot isn't a diagnosis. Breathing can help you feel calmer but does not treat anxiety, ADHD or depression.",
+        "If focus, mood, anxiety or sleep problems persist, see a professional.",
+        "Crisis: 988 in the US, or local emergency services."
+      ]
+    }
+  ],
+  "questions": [
+    "What does brain rot mean, and is it a real medical condition?",
+    "Does TikTok or Reels actually damage your attention span?",
+    "Can brain rot be reversed, and how long does it take?",
+    "How do I fix brain rot without quitting social media?",
+    "Does a dopamine detox work?",
+    "Why do I feel foggy or wired after scrolling?",
+    "Why can't I focus on a movie or book anymore?",
+    "What is popcorn brain?",
+    "Is it the time I spend or the way I scroll?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://ifp.nyu.edu/2025/journal-article-abstracts/bul0000498/",
+      "title": "Feeds, feelings, and focus: A systematic review and meta-analysis examining the cognitive and mental health correlates of short-form video use",
+      "publisher": "Psychological Bulletin (APA), abstract via NYU IFP",
+      "year": "2025",
+      "key_findings": "71 studies, 98,299 participants. Cognition r = -.34, attention -.38, inhibitory control -.41. Mental health -.21, stress -.34, anxiety -.33. No link with body image or self-esteem. Results held across ages and platforms."
+    },
+    {
+      "id": "S2",
+      "url": "https://reason.com/2025/12/31/study-short-form-video-isnt-rotting-your-brain",
+      "title": "Study: short-form video isn't rotting your brain",
+      "publisher": "Reason",
+      "year": "2025",
+      "key_findings": "Cognition analysis used 14 studies, all from China; 74% of all studies came from Asia. Time vs cognition -.20, compulsive use -.37, emotional dependency -.55. Mental health vs time -.10 (not significant). Reverse causation is plausible."
+    },
+    {
+      "id": "S3",
+      "url": "https://www.psypost.org/large-meta-analysis-links-tiktok-and-instagram-reels-to-poorer-cognitive-and-mental-health/",
+      "title": "Large meta-analysis links TikTok and Instagram Reels to poorer cognitive and mental health",
+      "publisher": "PsyPost",
+      "year": "2025",
+      "key_findings": "Mostly cross-sectional. People with existing anxiety or attention problems may use these apps more to cope. Self-reported use can be inaccurate. Authors call for longitudinal studies."
+    },
+    {
+      "id": "S4",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Cell Reports Medicine / PMC",
+      "year": "2023",
+      "key_findings": "RCT, 108 participants, 5 minutes a day for 28 days. Cyclic sighing raised positive affect more than mindfulness and gave the biggest drop in breathing rate. No change in HRV or resting heart rate. About 10% reported negative experiences. Mostly students."
+    },
+    {
+      "id": "S5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36630953/",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "PubMed",
+      "year": "2023",
+      "key_findings": "Exhale-focused cyclic sighing improved mood and lowered breathing rate more than mindfulness (p < 0.05). Daily 5-minute cyclic sighing 'has promise' for stress management."
+    },
+    {
+      "id": "S6",
+      "url": "https://pure.solent.ac.uk/en/publications/effects-of-voluntary-slow-breathing-on-heart-rate-and-heart-rate-/",
+      "title": "Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis",
+      "publisher": "Neuroscience and Biobehavioral Reviews (via Solent University)",
+      "year": "2022",
+      "key_findings": "223 studies. Slow breathing increased vagally mediated HRV during a session, immediately after, and after multi-session training. Low-cost, with few adverse effects expected."
+    },
+    {
+      "id": "S7",
+      "url": "https://sciencedaily.com/releases/2015/05/150526093611.htm",
+      "title": "Glancing at greenery can boost concentration levels",
+      "publisher": "ScienceDaily / University of Melbourne",
+      "year": "2015",
+      "key_findings": "150 students. A 40-second green-roof view led to fewer errors and more consistent responses than a concrete-roof view."
+    },
+    {
+      "id": "S8",
+      "url": "https://findanexpert.unimelb.edu.au/scholarlywork/977781-40-second-green-roof-views-sustain-attention--the-role-of-micro-breaks-in-attention-restoration",
+      "title": "40-second green roof views sustain attention: the role of micro-breaks in attention restoration",
+      "publisher": "Journal of Environmental Psychology / University of Melbourne",
+      "year": "2015",
+      "key_findings": "Primary record (vol. 42, pp. 182-189). Fewer omission errors after the green view."
+    },
+    {
+      "id": "S9",
+      "url": "https://www.news-medical.net/news/20250219/Blocking-mobile-internet-for-two-weeks-improves-mental-health-and-well-being.aspx",
+      "title": "Blocking mobile internet for two weeks improves mental health and well-being",
+      "publisher": "News-Medical",
+      "year": "2025",
+      "key_findings": "RCT, 467 adults. About a quarter stayed offline for the full two weeks. 91% improved on at least one outcome; 71% reported better mental health."
+    },
+    {
+      "id": "S10",
+      "url": "https://usrtk.org/healthwire/blocking-mobile-phone-internet-may-boost-mood-mental-health-attention/",
+      "title": "Blocking mobile phone internet for two weeks may boost mood, mental health, and attention",
+      "publisher": "USRTK HealthWire",
+      "year": "2025",
+      "key_findings": "Gains were partly explained by in-person socializing, exercise and time in nature. Those who stuck with the block had better baseline mental health and attention."
+    },
+    {
+      "id": "S11",
+      "url": "https://www.mentalfloss.com/science/psychology/does-dopamine-fasting-actually-work",
+      "title": "Does dopamine fasting actually work?",
+      "publisher": "Mental Floss",
+      "year": "not checked",
+      "key_findings": "Grinspoon (Harvard Health): dopamine doesn't decrease when you avoid stimulation. Sepah recommends 'minimally disruptive' experiments. Extreme versions are linked to loneliness and anxiety."
+    },
+    {
+      "id": "S12",
+      "url": "https://www.pbs.org/newshour/amp/world/brain-rot-is-oxfords-word-of-the-year",
+      "title": "'Brain rot' is Oxford's word of the year",
+      "publisher": "PBS NewsHour (AP)",
+      "year": "2024",
+      "key_findings": "Oxford definition: 'the supposed deterioration of a person's mental or intellectual state'."
+    },
+    {
+      "id": "S13",
+      "url": "https://www.fox6now.com/news/brain-rot-oxford-word-year-2024",
+      "title": "Oxford names 'brain rot' as 2024 word of the year",
+      "publisher": "FOX6",
+      "year": "2024",
+      "key_findings": "Full definition, including 'overconsumption of material (now particularly online content) considered to be trivial or unchallenging'. Use of the term rose 230% year on year."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "Oxford defines brain rot as 'the supposed deterioration of a person's mental or intellectual state'.",
+      "source_id": "S12"
+    },
+    {
+      "fact": "The definition continues: 'especially viewed as the result of overconsumption of material (now particularly online content) considered to be trivial or unchallenging'. Use of the term rose 230% year on year.",
+      "source_id": "S13"
+    },
+    {
+      "fact": "A 2025 meta-analysis of 71 studies and 98,299 participants linked short-form video use with weaker attention (r = -.38) and inhibitory control (r = -.41).",
+      "source_id": "S1"
+    },
+    {
+      "fact": "The same meta-analysis found a weak overall link with mental health (r = -.21), including stress (-.34) and anxiety (-.33), and no link with body image or self-esteem.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Time spent watching was weakly linked with cognition (-.20), while compulsive use (-.37) and emotional dependency (-.55) were much more strongly linked.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "Time spent was not significantly linked with mental health (-.10). The cognition analysis used only 14 studies, all from China.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "Most of the studies were cross-sectional with self-reported use, so cause and effect is unclear.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "In a 108-person RCT of 5 minutes a day for 28 days, cyclic sighing raised positive mood more than mindfulness and gave the biggest drop in breathing rate. There was no significant change in HRV.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "The abstract says daily 5-minute cyclic sighing 'has promise as an effective stress management exercise'.",
+      "source_id": "S5"
+    },
+    {
+      "fact": "A meta-analysis of 223 studies found slow breathing increases vagally mediated HRV during a session and immediately after.",
+      "source_id": "S6"
+    },
+    {
+      "fact": "Among 150 students, a 40-second green-roof view led to fewer attention errors than a concrete view.",
+      "source_id": "S7"
+    },
+    {
+      "fact": "In a 467-adult trial, about a quarter blocked mobile internet for the full two weeks, and 91% improved on at least one outcome.",
+      "source_id": "S9"
+    },
+    {
+      "fact": "The benefits of blocking were partly explained by more in-person socializing, exercise and time in nature.",
+      "source_id": "S10"
+    },
+    {
+      "fact": "Harvard's Grinspoon says dopamine doesn't decrease when you avoid overstimulating activities.",
+      "source_id": "S11"
+    }
+  ],
+  "safety_notes": [
+    "Brain rot is not a diagnosis. Breathing can help you feel calmer but does not treat anxiety, ADHD or depression.",
+    "Stop if you feel dizzy, lightheaded or tingly. Top up gently on the sigh's second inhale and shorten the counts if you are straining.",
+    "If you are pregnant, have a heart or lung condition, or have a history of fainting or panic, go gently and check with a clinician. About 10% of trial participants reported a negative experience.",
+    "Don't recommend extreme detoxes like skipping meals or cutting off social contact.",
+    "If focus, mood, anxiety or sleep problems persist, see a professional. In a crisis, call 988 in the US or local emergency services.",
+    "No alarmist claims ('rewired', 'brain damage'). The evidence is correlational.",
+    "Do not use the Przybylski quote, effect sizes from Laborde, the 37,000-vote or Thoreau facts, or any 20-20-20 or eye-strain claims. None of them are verified."
+  ],
+  "word_count_target": 1900,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: \"How to de-rot your brain\"\n\nI used all 10 searches and checked the key studies and two top-ranking pages. The main findings: the research supports the angle (state over quantity), the top results never deal with the wired body state or give a breathing step, and three claims we might want still need checking (flagged under SOURCES).\n\n## SERP ANALYSIS\n\n**What ranks.** Almost all of page one is Substack and Beehiiv newsletters, blogs from app companies (Freedom, Headway, Planoly, Takeroon), podcasts and listicles. No clinic, university or government page ranks for this keyword. Results that rank for nearby searches include PsyPost's coverage of the 2025 meta-analysis, therapist.com and reverehealth.com.\n\n**Formats.**\n- Listicles: \"7 ways to un-rot your brain\", \"How to cure brain rot.\"\n- Step-by-step plans:\n  - Planoly has four steps: lower the input, reconnect with something physical, create without an audience, build small breaks from the feed.\n  - Freedom has a TL;DR, \"what happens in the brain\", four \"stages\" and a \"30-Day Brain Reset Protocol\" built on blocking, plus an FAQ.\n\n**What they do well.**\n- Planoly says plainly \"Anti-brainrot isn't about quitting the internet\" and has a warm tone.\n- Several pages admit brain rot is not a clinical diagnosis.\n- They give practical swaps: walks, books, full-length films, phone-free mornings.\n- Reddit advice favors gradual change over quitting cold turkey.\n\n**What they miss or get wrong.**\n1. **Almost no real citations.** Planoly cites nothing. Freedom links a newsletter, a statistics site and its own blog, and gives recovery timelines with no source (\"2–4 weeks\", \"30–90 days\"). It also calls brain rot \"a cognitive condition\" while saying it is not a diagnosis.\n2. **Dopamine myths.** Many pages say dopamine needs to \"recalibrate\" or \"reset\", with no evidence.\n3. **Nothing on the body.** No page covers how scrolling leaves you feeling physically (jaw, shoulders, shallow breathing). None gives a breathing technique.\n4. **Advice is about quantity.** Screen-time limits, 30-day protocols and blocking dominate, often to sell a blocker.\n5. **No in-the-moment step.** Everything is a daily or monthly plan. Nothing says what to do 20 minutes into Reels.\n6. **The best evidence goes unmentioned.** The 2025 *Psychological Bulletin* meta-analysis found that compulsive use matters more than minutes, and it is only correlational. The top pages ignore both points.\n\n## GAPS AND ANGLE\n\n- **Definition first, kept honest.** Use Oxford's wording (\"the *supposed* deterioration...\") plus the meta-analysis. Short-form video use is linked with weaker attention (r = −.38) and inhibitory control (r = −.41). Nearly all the data is correlational, the cognition analysis rests on 14 studies all from China, and most measures are self-report. The direction of cause is unproven.\n- **State over quantity, backed by data.** Time spent was only weakly linked to cognition (r = −.20), while compulsive use (−.37) and emotional dependency (−.55) were much more strongly linked. For mental health, time spent was not significantly linked at all (−.10). The \"one more\" pull matters more than the minutes. This gives the article something no ranking page has.\n- **A sequence for the moment itself:**\n  1. Notice the state.\n  2. Breathe for 30–60 seconds. Use Calm 4-6 as the default, and the physiological sigh (cyclic sighing) as the quick option. Balban 2023 found cyclic sighing was the only exercise that beat mindfulness on positive mood. Laborde 2022 found slow breathing raises vagally mediated heart rate variability during a session and immediately after.\n  3. Look at something far away or green. Lee 2015 found a 40-second green view cut attention errors. It is a single student lab study, so keep the claim small.\n  4. Gentler daily habits.\n- **Detox reframe.** Harvard Health's Grinspoon says dopamine \"doesn't actually decrease when you avoid overstimulating activities\". Even Sepah, who created dopamine fasting, recommends \"minimally disruptive\" experiments. Be fair about the 2025 PNAS Nexus internet-blocking trial: people did benefit, but only about a quarter kept the block for the full two weeks. The gains were partly explained by more in-person socializing, exercise and time in nature. That supports adding real-world time rather than going cold turkey.\n- **DeRot mention.** Once, as the app that meets you mid-scroll at step 2.\n- **Internal links.** Link the free tools for calm 4-6 breathing and the physiological sigh. I don't have the exact paths; take them from the site inventory, not from these notes.\n\n## QUESTIONS (People Also Ask, Reddit, forums)\n\n- What does brain rot mean? Is it a real medical condition?\n- Is \"reels brain rot\" real? Does TikTok or Reels actually damage your brain or attention span?\n- Can brain rot be reversed, and how long does it take to recover?\n- How do I fix brain rot without quitting social media?\n- Does a dopamine detox work?\n- Why do I feel foggy, restless or wired after scrolling?\n- Why can't I focus on a movie or book anymore? (common on Reddit)\n- What is \"popcorn brain\"? (related term)\n- Is it the time I spend or the way I scroll? (answer with the compulsive-use vs duration data)\n\n## SOURCES\n\n- https://ifp.nyu.edu/2025/journal-article-abstracts/bul0000498/ | Feeds, feelings, and focus: A systematic review and meta-analysis examining the cognitive and mental health correlates of short-form video use (abstract) | Psychological Bulletin (APA), abstract hosted by NYU IFP | 2025 | 71 studies, 98,299 participants. Platforms covered: TikTok, Douyin, Reels, Shorts. Cognition r = −.34 (moderate); attention −.38; inhibitory control −.41. Mental health r = −.21 (weak); stress −.34; anxiety −.33. No link with body image or self-esteem. Results held across youth and adult samples and across platforms. Vol 151(9):1125–1146, doi 10.1037/bul0000498.\n- https://reason.com/2025/12/31/study-short-form-video-isnt-rotting-your-brain | Study: short-form video isn't rotting your brain | Reason | 2025 | Breakdown of the same meta-analysis. The cognition analysis used only 14 studies, all from China; the mental health analysis used 61. 74% of all studies came from Asia. Time watching vs cognition −.20; compulsive use −.37; emotional dependency −.55. Mental health vs time −.10 and vs frequency −.05 (both not significant); vs addiction −.32. Depression and loneliness −.23 each; well-being −.14. Argues reverse causation is plausible.\n- https://www.psypost.org/large-meta-analysis-links-tiktok-and-instagram-reels-to-poorer-cognitive-and-mental-health/ | Large meta-analysis links TikTok and Instagram Reels to poorer cognitive and mental health | PsyPost | 2025 | Mostly cross-sectional studies. People with existing anxiety or attention problems may use these apps more to cope. Few studies controlled for general social media use. Self-reported use \"can be inaccurate\". Authors call for longitudinal designs to \"tease apart cause and effect\".\n- https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947 | Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.) | Cell Reports Medicine / PMC | 2023 | Remote RCT, 108 randomized (30 cyclic sighing, 21 box breathing, 33 cyclic hyperventilation, 24 mindfulness). 5 minutes a day for 28 days. Positive affect rose 1.89 for cyclic sighing vs 1.22 for mindfulness (mindfulness not significant). Only cyclic sighing differed significantly from mindfulness, and its benefit grew with more days of practice. Cyclic sighing gave the biggest drop in breathing rate (p < 0.05). No significant change in HRV or resting heart rate. About 10% reported negative experiences. Limits: mostly Stanford undergraduates, exploratory, retrospectively registered, 4 weeks only. Technique: inhale through the nose, take a second short inhale to top up, then a long, slow exhale through the mouth.\n- https://pubmed.ncbi.nlm.nih.gov/36630953/ | Brief structured respiration practices enhance mood and reduce physiological arousal | PubMed | 2023 | Abstract: exhale-focused cyclic sighing gave greater mood improvement and a larger drop in breathing rate than mindfulness meditation (p < 0.05). \"Daily 5-min cyclic sighing has promise as an effective stress management exercise.\"\n- https://pure.solent.ac.uk/en/publications/effects-of-voluntary-slow-breathing-on-heart-rate-and-heart-rate-/ | Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis (Laborde et al.) | Neuroscience and Biobehavioral Reviews (via Solent University) | 2022 | 223 studies from 1,842 abstracts (172 measured during a session, 16 immediately after one session, 49 after multi-session training). Slow breathing increased vagally mediated HRV at all three time points. Authors call it low-tech and low-cost, with few adverse effects expected. Effect sizes are not on the page.\n- https://sciencedaily.com/releases/2015/05/150526093611.htm | Glancing at greenery (40-second green roof views) | ScienceDaily / University of Melbourne | 2015 | 150 students did a sustained-attention task. A 40-second view of a flowering green roof partway through led to significantly fewer errors and more consistent responses than a concrete-roof view. Lee: \"It's really important to have micro-breaks.\"\n- https://findanexpert.unimelb.edu.au/scholarlywork/977781-40-second-green-roof-views-sustain-attention--the-role-of-micro-breaks-in-attention-restoration | 40-second green roof views sustain attention: the role of micro-breaks in attention restoration (Lee et al.) | Journal of Environmental Psychology / University of Melbourne | 2015 | Primary record (vol. 42, pp. 182–189). Fewer omission errors after the green view.\n- https://www.news-medical.net/news/20250219/Blocking-mobile-internet-for-two-weeks-improves-mental-health-and-well-being.aspx | Blocking mobile internet for two weeks improves mental health and well-being (Castelo et al., PNAS Nexus) | News-Medical | 2025 | Four-week RCT, 467 adults, average age 32. 57% installed the blocking app and about a quarter stayed offline for the full two weeks. 91% improved on at least one outcome; 71% reported better mental health. Calls and texts still worked during the block.\n- https://usrtk.org/healthwire/blocking-mobile-phone-internet-may-boost-mood-mental-health-attention/ | Blocking mobile phone internet for two weeks may boost mood, mental health, and attention | USRTK HealthWire | 2025 | Gains were partly explained by more in-person socializing, exercise and time in nature. Participants who stuck with the block had better baseline mental health and attention, which limits how far the results generalize.\n- https://www.mentalfloss.com/science/psychology/does-dopamine-fasting-actually-work | Does dopamine fasting actually work? | Mental Floss | year not checked | Quotes Harvard Health's Peter Grinspoon, MD: dopamine \"doesn't actually decrease when you avoid overstimulating activities\" and \"you can't 'fast' from a naturally occurring brain chemical\". Sepah created the practice in 2016 for compulsive behaviors and recommends \"minimally disruptive\" experiments. Extreme versions are linked to loneliness and anxiety. This is a secondary source; I couldn't reach the Harvard Health page.\n- https://www.pbs.org/newshour/amp/world/brain-rot-is-oxfords-word-of-the-year | 'Brain rot' is Oxford's word of the year | PBS NewsHour (AP) | 2024 | Oxford definition: \"the supposed deterioration of a person's mental or intellectual state\". Grathwohl: it \"speaks to one of the perceived dangers of virtual life, and how we are using our free time.\"\n- https://www.fox6now.com/news/brain-rot-oxford-word-year-2024 | Oxford names 'brain rot' as 2024 word of the year | FOX6 | 2024 | Full definition, ending \"...especially viewed as the result of overconsumption of material (now particularly online content) considered to be trivial or unchallenging.\" Use rose 230% year on year. Search summaries also said about 37,000 people voted and the earliest use was Thoreau's *Walden* (1854), but I did not see those two facts on the page.\n\n**Do not use without checking first:**\n- The Przybylski quote (\"There's no evidence that brain rot is a real condition\") showed up only in a search summary. The FOX6 and PBS pages I opened don't contain it.\n- I couldn't open the Harvard Health page itself.\n- Laborde's effect sizes are not on the page I could reach.\n- I found no source for 20-20-20 or eye strain. Keep the \"look far away\" step framed as a micro-break (Lee 2015), not an eye-health claim.\n\n## SAFETY\n\n- Brain rot is not a diagnosis. Breathing does not treat anxiety, ADHD or depression; it can help you feel calmer in the moment.\n- Stop if you feel dizzy, lightheaded or tingly, and go back to normal breathing. On the sigh's second inhale, top up gently rather than forcing it. Balban's box-breathing instructions told people to shorten the counts if they were straining.\n- Balban excluded people with heart disease, glaucoma, a history of seizures, pregnancy, psychosis, suicidality, bipolar disorder or substance use disorders. Readers with heart or lung conditions, who are pregnant, or who have a history of fainting or panic should go gently and check with a clinician. About 10% of Balban participants reported a negative experience.\n- Don't recommend extreme detoxes (skipping meals, cutting off social contact). Sources link them to loneliness, anxiety and malnutrition.\n- If poor focus, low mood, anxiety or sleep problems persist, talk to a professional. If someone is in crisis: 988 in the US, or local emergency services.\n- Correlational evidence is not permanent damage. Avoid alarmist claims such as \"rewired\" or \"brain cells destroyed.\""
+}
