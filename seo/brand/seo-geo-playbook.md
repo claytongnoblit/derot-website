@@ -24,6 +24,7 @@ GEO = generative engine optimization: being the page that ChatGPT search, Google
 ## Internal linking (topical authority)
 - Link to 2-5 relevant existing DeRot pages using descriptive anchor text (not "click here"). Only use URLs from the provided site inventory.
 - Link to the relevant free breathing tool when the article teaches a technique.
+- When the article uses a term that has a glossary entry in the inventory (/glossary/#...), link its first mention to that definition instead of defining it at length. At most 2 glossary links per article.
 
 ## FAQ section
 - 3-6 genuine follow-up questions people ask (People Also Ask style), not repeats of H2s. Answers 40-90 words, direct, standalone. They are rendered visibly and as FAQPage schema.

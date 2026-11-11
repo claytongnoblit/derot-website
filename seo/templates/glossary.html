@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block main %}
+  <article class="post glossary">
+    <header class="post-head">
+      <nav class="crumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a><span aria-hidden="true">/</span><span>Glossary</span>
+      </nav>
+      <h1>{{ g.title }}</h1>
+      <p class="dek">{{ g.intro }}</p>
+      <p class="byline">
+        By <a href="/about/" rel="author">DeRot Editorial</a>
+        <span aria-hidden="true">·</span>
+        Updated <time datetime="{{ g.updated }}">{{ updated_human }}</time>
+        <span aria-hidden="true">·</span>
+        {{ terms|length }} terms
+      </p>
+    </header>
+
+    <nav class="gl-index" aria-label="All terms">
+      {% for grp in groups %}
+      <div class="gl-index-group">
+        <p class="toc-label"><a href="#{{ grp.id }}">{{ grp.name }}</a></p>
+        <ul>{% for t in grp.terms %}<li><a href="#{{ t.id }}">{{ t.term }}</a></li>{% endfor %}</ul>
+      </div>
+      {% endfor %}
+    </nav>
+
+    {% for grp in groups %}
+    <section class="gl-group" id="{{ grp.id }}" aria-labelledby="{{ grp.id }}-h">
+      <h2 id="{{ grp.id }}-h" class="gl-group-title">{{ grp.name }}</h2>
+      {% for t in grp.terms %}
+      <section class="gl-term" id="{{ t.id }}">
+        <h3><a class="gl-anchor" href="#{{ t.id }}">{{ t.term }}</a></h3>
+        {% if t.aka %}<p class="gl-aka">Also called {{ t.aka|join(", ") }}</p>{% endif %}
+        <p class="gl-def">{{ t.definition }}</p>
+        <div class="prose gl-more">{{ t.more_html | safe }}</div>
+        {% if t.see %}<p class="gl-see">{% for s in t.see %}<a href="{{ s.url }}">{{ s.label }}</a>{% endfor %}</p>{% endif %}
+      </section>
+      {% endfor %}
+    </section>
+    {% endfor %}
+
+    <aside class="try-it glass">
+      <p class="eyebrow">Try it now</p>
+      <p class="try-title">Free breathing timers</p>
+      <p>Box breathing, 4-7-8, Calm 4-6, and the physiological sigh, guided in your browser.</p>
+      <a class="btn-primary" href="/tools/">Start breathing</a>
+    </aside>
+
+    <p class="disclaimer">This glossary is for general education and is not medical advice. Breathing exercises are safe for most people, but stop if you feel dizzy or unwell. If you have a heart or lung condition, are pregnant, or live with anxiety or panic that disrupts your life, talk with a qualified professional. If you are in crisis, contact local emergency services or call or text 988 in the US. <a href="/about/#editorial-standards">How we research and write.</a></p>
+  </article>
+{% include "_newsletter.html" %}
+{% endblock %}

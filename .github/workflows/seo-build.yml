@@ -13,6 +13,8 @@ on:
       - "seo/assets/**"
       - "seo/pages/**"
       - "seo/derot_seo/site.py"
+      - "seo/derot_seo/glossary.py"
+      - "seo/content/glossary.yaml"
       - "seo/config.yaml"
       - "tools/**"
   workflow_dispatch:

@@ -211,7 +211,7 @@ ARTICLE_SCHEMA = {
 
 def _inventory_for_prompt(inventory: dict) -> str:
     rows = [f"- {path} : {page['title']}" for path, page in sorted(inventory.items())
-            if page.get("type") in ("post", "tool", "hub", "home", "about")]
+            if page.get("type") in ("post", "tool", "hub", "home", "about", "glossary", "glossary-term")]
     return "\n".join(rows)
 
 

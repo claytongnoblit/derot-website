@@ -73,6 +73,7 @@ open /tmp/derot-test/blog/*/index.html
 - **Nothing to do** unless an issue opens. Failed or parked runs open a GitHub issue labeled `seo`; the weekly report is an issue labeled `seo-report`.
 - **Prefer to approve each post?** Set `publishing.mode: review` in `config.yaml`; each article arrives as a pull request to merge. Only one article waits for review at a time; scheduled runs skip while a `seo/...` pull request is open.
 - **Force a topic:** Actions > SEO publish > Run workflow, enter a keyword.
+- **Edit the glossary:** change `content/glossary.yaml` (hand-edited, never written by the pipeline) and push; SEO build re-renders `/glossary/`, the sitemap, and `llms.txt`. Same copy rules as posts; `tests/test_glossary.py` checks them.
 - **Edit a published post:** change its JSON in `seo/content/posts/` and push; SEO build re-renders. Do not edit generated HTML in `blog/` (it is overwritten).
 - **Unpublish:** delete the post JSON and push. Its pages and image are removed on the next build.
 - **Parked draft:** fix the JSON in `seo/content/drafts/`, push, then run Actions > SEO build with `promote_slug` set to the draft's slug. Promote re-checks it, resets its dates, and publishes it.
@@ -114,4 +115,5 @@ python -m derot_seo promote <slug>    # publish a fixed draft
 | `data/briefs/`, `data/runs.jsonl` | research briefs and run log (audit trail) |
 | `content/posts/`, `content/drafts/` | article source of truth |
 | `templates/`, `assets/blog.css`, `pages/about.md` | page design |
+| `content/glossary.yaml` | glossary terms for `/glossary/` (hand-edited) |
 | `out/social/`, `out/reports/` | social kits and weekly reports |

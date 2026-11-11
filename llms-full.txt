@@ -2709,3 +2709,218 @@ Night mode may help a little with light exposure, though the evidence on night m
 - Social media use and disturbed sleep: https://blog.oup.com/2018/05/social-media-use-disturbed-sleep/
 
 ---
+
+# Breathing and Calm Glossary
+
+URL: https://derot.org/glossary/
+Updated: 2026-11-11
+
+## 4-6 breathing (also called Calm 4-6, 4-6 breath)
+
+4-6 breathing is a slow breathing pattern where you inhale for 4 seconds and exhale for 6, which works out to 6 breaths per minute.
+
+The longer exhale and the slow pace are the two ingredients most calming techniques share. Slow breathing in this range is linked to higher heart rate variability in [a 2022 meta-analysis](https://eprints.bournemouth.ac.uk/38169/). Calm 4-6 is the default reset in DeRot.
+
+## 4-7-8 breathing (also called 4-7-8 breath, relaxing breath)
+
+4-7-8 breathing is a technique where you inhale through your nose for 4 counts, hold for 7, and exhale through your mouth for 8.
+
+It is often used at bedtime. Research is early: [a small 2022 study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9277512/) in sleep-deprived young adults linked it to changes in heart rate variability and blood pressure. The long hold makes some people lightheaded, so a faster count is fine.
+
+## Autonomic nervous system (also called ANS)
+
+The autonomic nervous system is the part of your nervous system that runs things you do not consciously control, like heart rate, digestion, and breathing.
+
+It has two main branches, the sympathetic and the parasympathetic, which [Cleveland Clinic](https://my.clevelandclinic.org/health/body/23273-autonomic-nervous-system) describes as working in balance. Breathing is unusual because it runs on autopilot but you can also take the wheel, which is why it is such a useful lever.
+
+## Bedtime procrastination
+
+Bedtime procrastination is going to bed later than you meant to, with nothing actually stopping you from going earlier.
+
+The term comes from [a 2014 paper](https://pubmed.ncbi.nlm.nih.gov/24994989/) that introduced it as its own kind of procrastination and linked it to less sleep. A phone in bed is one of the easiest ways for it to happen.
+
+## Box breathing (also called square breathing, 4-4-4-4 breathing)
+
+Box breathing is a technique where you inhale, hold, exhale, and hold again for an equal count, usually 4 seconds each.
+
+The four equal sides give your attention something simple to follow, and the pace slows your breathing to about 4 breaths a minute. [Cleveland Clinic](https://health.clevelandclinic.org/box-breathing-benefits) describes it as a way to calm down in stressful moments. If the holds make you feel air hungry, shorten them.
+
+## Brain rot (also called brainrot)
+
+Brain rot is slang for the foggy, dulled feeling people blame on consuming too much trivial or low-effort online content.
+
+[Oxford University Press](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/) named it Word of the Year for 2024, noting usage rose 230% in a year and that Thoreau used the phrase in 1854. It is a cultural term, not a medical one.
+
+## Breathwork (also called breathing exercises, breath practice)
+
+Breathwork is an umbrella term for any practice where you deliberately change how you breathe, from slow calming patterns to fast energizing ones.
+
+Calming and energizing styles do very different things, so the label alone tells you little. [A 2023 meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/) of randomized trials found breathwork was linked to lower self-reported stress, with small to medium effects.
+
+## Calm technology (also called calm tech)
+
+Calm technology is a design idea where technology informs you without demanding your attention, staying in the background until you need it.
+
+Mark Weiser and John Seely Brown of Xerox PARC introduced it in [Designing Calm Technology](https://calmtech.com/papers/designing-calm-technology) in the mid-1990s. Most feeds are built on the opposite principle.
+
+## Coherent breathing (also called 5-5 breathing, 6 breaths per minute)
+
+Coherent breathing is slow, even breathing at about 5 to 6 breaths per minute, often 5 seconds in and 5 seconds out.
+
+This pace sits close to many people's resonance frequency. In [a 2014 study](https://pubmed.ncbi.nlm.nih.gov/24380741/), breathing at 5.5 breaths per minute increased heart rate variability compared with normal breathing.
+
+## Cyclic sighing (also called repeated physiological sighs)
+
+Cyclic sighing is the practice of repeating physiological sighs, a double inhale and a long exhale, for a few minutes at a time.
+
+In [a 2023 study from Stanford](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947), five minutes a day of cyclic sighing for a month improved mood more than mindfulness meditation did. [Stanford Medicine](https://stanmed.stanford.edu/cyclic-sighing-stress-relief/) has a plain-language summary.
+
+## Diaphragmatic breathing (also called belly breathing, abdominal breathing)
+
+Diaphragmatic breathing is breathing that moves your belly rather than your chest, using the diaphragm, the dome-shaped muscle under your lungs.
+
+[Cleveland Clinic](https://my.clevelandclinic.org/health/articles/9445-diaphragmatic-breathing) recommends it for relaxation and lists lower stress among its benefits. A quick check: put one hand on your chest and one on your belly, and let the belly hand move first.
+
+## Doomscrolling (also called doomscroll, doomsurfing)
+
+Doomscrolling is spending too much time scrolling through news or posts that make you feel sad, anxious, or angry.
+
+[Merriam-Webster](https://www.merriam-webster.com/dictionary/doomscrolling) dates the word to 2020. Even brief exposure has a cost: in [one experiment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8513826/), a few minutes of negative pandemic news lowered people's mood right away.
+
+## Dopamine detox (also called dopamine fasting)
+
+Dopamine detox is a trend of cutting out phones, media, and other stimulation for a stretch of time, based on the idea that it resets your brain's reward system.
+
+The science behind the name does not hold up. A Harvard physician [explains](https://www.health.harvard.edu/blog/dopamine-fasting-misunderstanding-science-spawns-a-maladaptive-fad-2020022618917) that avoiding stimulation does not lower or reset dopamine, and that the psychiatrist who coined it meant a behavioral approach, not a literal fast.
+
+## Extended exhale breathing (also called longer exhale breathing, exhale-focused breathing)
+
+Extended exhale breathing is any pattern where each breath out lasts longer than the breath in, such as 4 seconds in and 6 or 8 out.
+
+Exhale-focused practices did well in [a 2023 Stanford-led study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947). Whether a longer exhale adds anything beyond simply breathing slowly is less settled: [one 2024 study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11310264/) found slow pace mattered more than the ratio for heart rate variability.
+
+## Fight or flight (also called sympathetic nervous system, stress response)
+
+Fight or flight is your body's fast stress response, run by the sympathetic nervous system, which raises your heart rate and breathing to prepare you to act.
+
+[Cleveland Clinic](https://my.clevelandclinic.org/health/body/23262-sympathetic-nervous-system-sns-fight-or-flight) explains that it evolved for physical threats. A tense feed can nudge the same system, which is part of why scrolling can leave you feeling wired.
+
+## Friction (app design) (also called design friction, digital friction)
+
+Friction is a small, deliberate obstacle in an app, like a pause or a delay, that gives you a moment to choose instead of acting on autopilot.
+
+Research on friction apps is promising: in [a 2023 study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409) of the app one sec, a short delay before opening an app reduced how often people opened it. DeRot uses a breathing pause as its friction, mid-scroll rather than at the door.
+
+## Heart rate variability (also called HRV)
+
+Heart rate variability (HRV) is the small variation in time between one heartbeat and the next.
+
+[Cleveland Clinic](https://my.clevelandclinic.org/health/symptoms/21773-heart-rate-variability-hrv) notes that higher HRV generally means your body adapts well to changing demands. Wearables like Apple Watch, Oura, and Whoop all estimate it. Slow breathing raises HRV while you do it, per [a 2022 meta-analysis](https://eprints.bournemouth.ac.uk/38169/).
+
+## Hyperventilation (also called overbreathing)
+
+Hyperventilation is breathing faster or deeper than your body needs, which lowers carbon dioxide in your blood.
+
+It can cause lightheadedness, tingling, and a racing heart, according to [Columbia University's health library](https://www.columbiadoctors.org/health-library/symptom/hyperventilation/). It is also why forcing very big breaths during a breathing exercise can backfire. Slower and softer is usually better than deeper.
+
+## Infinite scroll (also called endless scroll)
+
+Infinite scroll is a design where new content loads automatically as you reach the bottom, so the feed never ends and there is no natural place to stop.
+
+Its inventor, Aza Raskin, [testified in 2026](https://www.kob.com/new-mexico/inventor-of-infinite-scroll-says-he-regrets-it-at-new-mexico-meta-trial/) that he regrets creating it. Without a stopping cue, the decision to stop falls on you, usually after you are already wound up.
+
+## Interoception (also called body awareness)
+
+Interoception is your awareness of signals from inside your body, like your heartbeat, breathing, hunger, and tension.
+
+That is how [Cleveland Clinic](https://my.clevelandclinic.org/health/articles/interoception) defines it. It is what lets you notice that your jaw is clenched twenty minutes into a scroll. You can't settle a tension you haven't noticed yet.
+
+## Mindful minutes (also called Mindful Minutes (Apple Health))
+
+Mindful minutes is the Apple Health category that logs time spent on breathing or meditation sessions.
+
+Apple Watch's [Mindfulness app](https://support.apple.com/HT206999) records its Breathe and Reflect sessions there, and other apps can write to it too.
+
+## Nasal breathing (also called nose breathing)
+
+Nasal breathing is breathing in and out through your nose instead of your mouth.
+
+[A 2024 study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11178300/) found that breathing through the nose lowered diastolic blood pressure and increased the parasympathetic contribution to heart rate variability compared with mouth breathing. Most calming techniques start with a nasal inhale.
+
+## Nervous system regulation (also called self-regulation, regulating your nervous system)
+
+Nervous system regulation is a wellness term for shifting your body from a stressed, keyed-up state back toward a calm, settled one.
+
+It is not a medical diagnosis. In practice it means nudging the balance of your [autonomic nervous system](https://my.clevelandclinic.org/health/body/23273-autonomic-nervous-system) with things like slow breathing, movement, or rest. Regulate, don't restrict is the idea DeRot is built on.
+
+## Paced breathing (also called slow-paced breathing, slow breathing)
+
+Paced breathing is breathing to a set rhythm, usually slower than your natural rate, by following a count, a timer, or a visual guide.
+
+[A systematic review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6137615/) of slow breathing (under 10 breaths a minute) linked it to higher heart rate variability and to feeling more relaxed and less anxious. A guide helps because counting on your own drifts faster when you are stressed.
+
+## Passive scrolling (also called passive social media use)
+
+Passive scrolling is browsing a feed without posting, messaging, or commenting, just taking in other people's content.
+
+In [a 2015 study](https://pubmed.ncbi.nlm.nih.gov/25706656/), passive Facebook use lowered how good people felt over time, while active use did not. [Later research](https://pmc.ncbi.nlm.nih.gov/articles/PMC7801842) suggests the active versus passive split is a useful, if imperfect, way to think about it.
+
+## Physiological sigh (also called double inhale, sigh breath)
+
+A physiological sigh is a double inhale through the nose (one full breath, then a short top-up) followed by a long, slow exhale through the mouth.
+
+Your body already sighs on its own every few minutes. Researchers have proposed that [spontaneous sighs act as a reset](https://research.vu.nl/en/publications/respiratory-variability-preceding-and-following-sighs-a-resetter-/) for your breathing pattern, and people report [relief after sighing](https://research.vu.nl/en/publications/take-a-deep-breath-the-relief-effect-of-spontaneous-and-instructe/). One or two is often enough to take the edge off.
+
+## Pursed-lip breathing
+
+Pursed-lip breathing is inhaling through your nose and exhaling slowly through lips shaped as if you were about to whistle.
+
+It is a standard technique for people with lung conditions, and [Cleveland Clinic](https://my.clevelandclinic.org/health/treatments/9443-pursed-lip-breathing) notes it slows your breathing and helps you relax. The narrowed lips stretch the exhale without you having to count.
+
+## Resonance frequency breathing (also called resonance breathing, HRV breathing)
+
+Resonance frequency breathing means breathing at the personal pace where your heart rate rises and falls the most with each breath, usually around 6 breaths per minute.
+
+It is the core of HRV biofeedback training. [Lehrer and Gevirtz](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104929) explain that at this pace, the heart rate and blood pressure rhythms line up and amplify each other. Without a heart rate sensor, 5.5 to 6 breaths per minute is a reasonable starting point.
+
+## Respiratory rate (also called breaths per minute, breathing rate)
+
+Respiratory rate is the number of breaths you take per minute. A normal adult resting rate is 12 to 18 breaths per minute.
+
+That range comes from [Cleveland Clinic](https://my.clevelandclinic.org/health/articles/10881-vital-signs). Most calming techniques bring you well below it, to around 4 to 6 breaths a minute, for a few minutes at a time.
+
+## Respiratory sinus arrhythmia (also called RSA)
+
+Respiratory sinus arrhythmia is the normal speeding up of your heart as you breathe in and slowing down as you breathe out.
+
+Despite the name, it is healthy, not a heart problem. It is one of the main signals behind HRV and vagal tone, as [Lewis, Porges, and colleagues](https://pmc.ncbi.nlm.nih.gov/articles/PMC3269511) describe. It is also why a long exhale feels calming: the out-breath is when your heart slows.
+
+## Rest and digest (also called parasympathetic nervous system)
+
+Rest and digest is the calming mode of your parasympathetic nervous system, which slows your heart rate and supports digestion and recovery.
+
+[Cleveland Clinic](https://my.clevelandclinic.org/health/body/23266-parasympathetic-nervous-system-psns) describes it as the counterweight to fight or flight. Slow breathing with a long exhale is one of the few ways to lean toward it on purpose.
+
+## Revenge bedtime procrastination
+
+Revenge bedtime procrastination is staying up late on purpose to claim free time you did not get during the day, often by scrolling.
+
+It is a popular phrase rather than a research term; studies call it [bedtime procrastination](#bedtime-procrastination). Research in teens has linked bedtime procrastination with [problematic smartphone use and worse sleep quality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11059092/).
+
+## Vagal tone (also called cardiac vagal tone)
+
+Vagal tone describes how strongly the vagus nerve is slowing your heart at any moment, usually estimated from heart rate variability.
+
+Researchers often measure it through respiratory sinus arrhythmia, the rise and fall of heart rate with each breath. [Lewis, Porges, and colleagues](https://pmc.ncbi.nlm.nih.gov/articles/PMC3269511) compare the common ways of calculating it.
+
+## Vagus nerve (also called Cranial nerve X)
+
+The vagus nerve is the longest cranial nerve, running from your brain to your gut, and a main pathway of the parasympathetic nervous system.
+
+[Cleveland Clinic](https://my.clevelandclinic.org/health/body/22279-vagus-nerve) lists heart rate, blood pressure, breathing, and digestion among the functions it helps regulate. There are a lot of vagus nerve hacks online. Slow breathing is one of the best studied ways to work with it.
+
+## Window of tolerance
+
+The window of tolerance is the zone of arousal where you can handle stress and still think clearly, between feeling keyed up (hyperarousal) and shut down (hypoarousal).
+
+The term was coined by psychiatrist Daniel Siegel, as [this overview](https://www.psychologytoday.com/us/blog/making-the-whole-beautiful/202205/what-is-the-window-of-tolerance-and-why-is-it-so-important) explains. A few slow breaths is one way to step back inside it when you notice you are drifting toward the edge.

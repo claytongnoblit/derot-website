@@ -190,3 +190,25 @@ nav.topic-chips { justify-content: center; max-width: 900px; padding: 0 24px; }
   .try-it, .derot-box, .takeaways { padding: 22px 20px; }
   .newsletter-card { padding: 38px 22px; }
 }
+
+/* GLOSSARY (/glossary/, source: seo/content/glossary.yaml) */
+nav.gl-index { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 22px 28px; max-width: none; padding: 22px 0 6px; margin: 0 0 20px; border-top: 1px solid var(--hairline); border-bottom: 1px solid var(--hairline); align-items: start; }
+.gl-index .toc-label a { color: var(--section-label); text-decoration: none; }
+.gl-index ul { list-style: none; margin: 0 0 14px; }
+.gl-index li { margin: 4px 0; font-size: 0.9rem; }
+.gl-index li a { color: var(--text-soft); text-decoration: none; }
+.gl-index li a:hover { color: var(--amber); }
+.gl-group { margin-top: 44px; }
+.gl-group-title { font-family: var(--serif); font-style: italic; font-weight: 400; font-size: 1.6rem; color: var(--section-label); margin-bottom: 8px; }
+.gl-term { padding: 22px 0; border-bottom: 1px solid var(--divider); scroll-margin-top: 24px; }
+.gl-term:target { background: var(--secondary); border-radius: 12px; padding: 22px 16px; margin: 0 -16px; }
+.gl-term h3 { font-family: var(--serif-display); font-weight: 400; font-size: 1.45rem; color: var(--text); margin-bottom: 4px; }
+.gl-anchor { color: inherit; text-decoration: none; }
+.gl-anchor:hover { color: var(--amber); }
+.gl-aka { font-size: 0.85rem; color: var(--text-2); margin-bottom: 10px; }
+.gl-def { font-size: 1.08rem; line-height: 1.6; color: var(--text); margin-bottom: 10px; }
+.gl-more p { margin-bottom: 0; }
+.gl-see { display: flex; flex-wrap: wrap; gap: 8px 14px; margin-top: 12px; font-size: 0.88rem; }
+.gl-see a { color: var(--amber); text-decoration: none; }
+.gl-see a::before { content: "→ "; }
+.gl-see a:hover { text-decoration: underline; text-underline-offset: 3px; }

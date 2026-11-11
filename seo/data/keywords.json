@@ -810,7 +810,8 @@
       "content_type": "glossary",
       "angle": "Glossary definition linking vagal tone to HRV and breath.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "glossary"
     },
     {
       "keyword": "nervous system reset",
@@ -834,8 +835,9 @@
       "content_type": "glossary",
       "angle": "Window of tolerance in everyday terms, and how scrolling can push you out of it.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Therapy sites rank."
+      "status": "covered",
+      "notes": "Therapy sites rank.",
+      "covered_by": "glossary"
     },
     {
       "keyword": "co-regulation vs self-regulation",
@@ -1241,8 +1243,9 @@
       "content_type": "glossary",
       "angle": "Define it, then pivot to feeling regulated rather than rotted.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Dictionary SERP. Name-adjacent to DeRot brand."
+      "status": "covered",
+      "notes": "Dictionary SERP. Name-adjacent to DeRot brand.",
+      "covered_by": "glossary"
     },
     {
       "keyword": "how to de-rot your brain",
@@ -2610,8 +2613,9 @@
       "content_type": "glossary",
       "angle": "Glossary entry with a 1-minute practice.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Cleveland Clinic, Harvard Health dominate."
+      "status": "covered",
+      "notes": "Cleveland Clinic, Harvard Health dominate.",
+      "covered_by": "glossary"
     },
     {
       "keyword": "nasal breathing benefits",
@@ -2659,8 +2663,9 @@
       "content_type": "glossary",
       "angle": "Normal resting rate vs slow paced breathing.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Medical SERP."
+      "status": "covered",
+      "notes": "Medical SERP.",
+      "covered_by": "glossary"
     },
     {
       "keyword": "what is paced breathing",
@@ -2672,7 +2677,8 @@
       "content_type": "glossary",
       "angle": "Definition plus a pacer.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "glossary"
     },
     {
       "keyword": "sigh meaning breathing",
@@ -2684,7 +2690,8 @@
       "content_type": "glossary",
       "angle": "Why we sigh and how spontaneous sighs reset breathing.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "glossary"
     },
     {
       "keyword": "wim hof breathing vs calming breathing",
@@ -2708,7 +2715,8 @@
       "content_type": "glossary",
       "angle": "A glossary index of every named pattern on the site.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "glossary"
     },
     {
       "keyword": "how to take a mental break at work",

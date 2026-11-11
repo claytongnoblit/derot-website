@@ -16,6 +16,7 @@ import markdown as md_lib
 import yaml
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
+from . import glossary as gloss
 from .util import (ASSETS_DIR, DATA_DIR, PAGES_DIR, SITE_DIR, TEMPLATES_DIR, load_posts, read_json,
                    read_text, today, word_count, write_json)
 
@@ -82,6 +83,11 @@ def inventory(posts: list[dict], clusters: dict, extra_cluster: Optional[str] = 
     }
     for t in tool_pages():
         inv[t["url"]] = {"title": t["title"], "type": "tool"}
+    g = gloss.load_glossary()
+    if g:
+        inv["/glossary/"] = {"title": g["title"], "type": "glossary"}
+        for t in g["terms"]:  # anchors, so the writer can link a single definition
+            inv[f"/glossary/#{t['id']}"] = {"title": f"{t['term']} (glossary definition)", "type": "glossary-term"}
     used = {p.get("cluster") for p in posts}
     if extra_cluster:
         used.add(extra_cluster)
@@ -314,14 +320,19 @@ def build(cfg: dict, data: dict, regenerate_images: bool = False) -> list[str]:
         jsonld=[_jsonld({"@context": "https://schema.org", "@type": "AboutPage", "url": f"{base}/about/",
                          "mainEntity": org_ld(cfg)})]))
 
+    # glossary (hand-edited source: seo/content/glossary.yaml)
+    glossary = gloss.load_glossary()
+    if glossary:
+        put("glossary/index.html", gloss.render_glossary(env, common, cfg, render_markdown))
+
     shutil.copyfile(ASSETS_DIR / "blog.css", SITE_DIR / "blog" / "blog.css")
     written.append("blog/blog.css")
 
     put("blog/feed.xml", build_feed(cfg, posts, clusters))
-    put("sitemap.xml", build_sitemap(cfg, posts, counts, tools))
+    put("sitemap.xml", build_sitemap(cfg, posts, counts, tools, glossary))
     put("robots.txt", build_robots(cfg))
-    put("llms.txt", build_llms(cfg, posts, tools, clusters))
-    put("llms-full.txt", build_llms_full(cfg, posts))
+    put("llms.txt", build_llms(cfg, posts, tools, clusters, glossary))
+    put("llms-full.txt", build_llms_full(cfg, posts, glossary))
     if cfg.get("indexnow", {}).get("enabled"):
         put(f"{cfg['indexnow']['key']}.txt", cfg["indexnow"]["key"])
     put(".nojekyll", "")
@@ -332,7 +343,7 @@ def build(cfg: dict, data: dict, regenerate_images: bool = False) -> list[str]:
     now = set(written)
     for rel in sorted(old - now):
         f = SITE_DIR / rel
-        if f.exists() and (rel.startswith("blog/") or rel.startswith("img/blog/")):
+        if f.exists() and (rel.startswith("blog/") or rel.startswith("img/blog/") or rel.startswith("glossary/")):
             f.unlink()
             try:
                 f.parent.rmdir()
@@ -375,12 +386,15 @@ def build_feed(cfg: dict, posts: list[dict], clusters: dict) -> str:
 """
 
 
-def build_sitemap(cfg: dict, posts: list[dict], counts: dict, tools: list[dict]) -> str:
+def build_sitemap(cfg: dict, posts: list[dict], counts: dict, tools: list[dict],
+                  glossary: Optional[dict] = None) -> str:
     base = cfg["site"]["base_url"]
     latest = max((p.get("date_modified") or p["date_published"] for p in posts), default=None)
     urls: list[tuple[str, Optional[str]]] = [(base + "/", None), (base + "/blog/", latest), (base + "/about/", None),
                                              (base + "/support.html", None), (base + "/privacy.html", None)]
     urls += [(base + t["url"], None) for t in tools]
+    if glossary:
+        urls.append((base + "/glossary/", glossary.get("updated")))
     for cid in counts:
         cl = max(p.get("date_modified") or p["date_published"] for p in posts if p.get("cluster") == cid)
         urls.append((f"{base}/blog/topics/{cid}/", cl))
@@ -435,7 +449,8 @@ Sitemap: {base}/sitemap.xml
 """
 
 
-def build_llms(cfg: dict, posts: list[dict], tools: list[dict], clusters: dict) -> str:
+def build_llms(cfg: dict, posts: list[dict], tools: list[dict], clusters: dict,
+               glossary: Optional[dict] = None) -> str:
     base = cfg["site"]["base_url"]
     lines = ["# DeRot", "",
              "> DeRot is an iOS app that pauses your social media scroll mid-session and walks you through a "
@@ -455,12 +470,16 @@ def build_llms(cfg: dict, posts: list[dict], tools: list[dict], clusters: dict) 
         lines += ["", f"## {clusters.get(cid, {}).get('name', 'Articles')}"]
         for p in ps:
             lines.append(f"- [{p['title']}]({base}/blog/{p['slug']}/): {p['meta_description']}")
+    if glossary:
+        lines += ["", "## Glossary", f"- [{glossary['title']}]({base}/glossary/): {glossary['meta_description']}"]
+        for t in sorted(glossary["terms"], key=lambda t: t["term"].lower()):
+            lines.append(f"- [{t['term']}]({base}/glossary/#{t['id']}): {t['definition']}")
     lines += ["", "## About", f"- [About DeRot and editorial standards]({base}/about/)",
               f"- [Full text of all articles]({base}/llms-full.txt)", ""]
     return "\n".join(lines)
 
 
-def build_llms_full(cfg: dict, posts: list[dict]) -> str:
+def build_llms_full(cfg: dict, posts: list[dict], glossary: Optional[dict] = None) -> str:
     base = cfg["site"]["base_url"]
     parts = ["# DeRot blog: full text", ""]
     for p in posts:
@@ -469,6 +488,11 @@ def build_llms_full(cfg: dict, posts: list[dict]) -> str:
                   "Key takeaways:", *[f"- {t}" for t in p["key_takeaways"]], "", p["body_markdown"], "",
                   "## FAQ", *[f"**{f['question']}**\n{f['answer']}\n" for f in p["faqs"]],
                   "## Sources", *[f"- {s['title']}: {s['url']}" for s in p.get("sources", [])], "", "---", ""]
+    if glossary:
+        parts += [f"# {glossary['title']}", "", f"URL: {base}/glossary/", f"Updated: {glossary['updated']}", ""]
+        for t in sorted(glossary["terms"], key=lambda t: t["term"].lower()):
+            aka = f" (also called {', '.join(t['aka'])})" if t.get("aka") else ""
+            parts += [f"## {t['term']}{aka}", "", t["definition"], "", t.get("more", ""), ""]
     return "\n".join(parts)
 
 

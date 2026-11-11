@@ -38,6 +38,44 @@ Key facts: made by NinetyFourVentures LLC; no account required; works on-device;
 ## Sleep and winding down
 - [Is Scrolling Before Bed Bad? What Matters More Than Blue Light](https://derot.org/blog/is-scrolling-before-bed-bad/): Is scrolling before bed bad? Blue light is often a smaller factor than you've heard. See what the research says, and a 10-second test to check yourself.
 
+## Glossary
+- [Breathing and Calm Glossary](https://derot.org/glossary/): Plain-English, sourced definitions of breathing techniques, nervous system terms, and scrolling words, from box breathing and vagal tone to doomscrolling.
+- [4-6 breathing](https://derot.org/glossary/#4-6-breathing): 4-6 breathing is a slow breathing pattern where you inhale for 4 seconds and exhale for 6, which works out to 6 breaths per minute.
+- [4-7-8 breathing](https://derot.org/glossary/#4-7-8-breathing): 4-7-8 breathing is a technique where you inhale through your nose for 4 counts, hold for 7, and exhale through your mouth for 8.
+- [Autonomic nervous system](https://derot.org/glossary/#autonomic-nervous-system): The autonomic nervous system is the part of your nervous system that runs things you do not consciously control, like heart rate, digestion, and breathing.
+- [Bedtime procrastination](https://derot.org/glossary/#bedtime-procrastination): Bedtime procrastination is going to bed later than you meant to, with nothing actually stopping you from going earlier.
+- [Box breathing](https://derot.org/glossary/#box-breathing): Box breathing is a technique where you inhale, hold, exhale, and hold again for an equal count, usually 4 seconds each.
+- [Brain rot](https://derot.org/glossary/#brain-rot): Brain rot is slang for the foggy, dulled feeling people blame on consuming too much trivial or low-effort online content.
+- [Breathwork](https://derot.org/glossary/#breathwork): Breathwork is an umbrella term for any practice where you deliberately change how you breathe, from slow calming patterns to fast energizing ones.
+- [Calm technology](https://derot.org/glossary/#calm-technology): Calm technology is a design idea where technology informs you without demanding your attention, staying in the background until you need it.
+- [Coherent breathing](https://derot.org/glossary/#coherent-breathing): Coherent breathing is slow, even breathing at about 5 to 6 breaths per minute, often 5 seconds in and 5 seconds out.
+- [Cyclic sighing](https://derot.org/glossary/#cyclic-sighing): Cyclic sighing is the practice of repeating physiological sighs, a double inhale and a long exhale, for a few minutes at a time.
+- [Diaphragmatic breathing](https://derot.org/glossary/#diaphragmatic-breathing): Diaphragmatic breathing is breathing that moves your belly rather than your chest, using the diaphragm, the dome-shaped muscle under your lungs.
+- [Doomscrolling](https://derot.org/glossary/#doomscrolling): Doomscrolling is spending too much time scrolling through news or posts that make you feel sad, anxious, or angry.
+- [Dopamine detox](https://derot.org/glossary/#dopamine-detox): Dopamine detox is a trend of cutting out phones, media, and other stimulation for a stretch of time, based on the idea that it resets your brain's reward system.
+- [Extended exhale breathing](https://derot.org/glossary/#extended-exhale): Extended exhale breathing is any pattern where each breath out lasts longer than the breath in, such as 4 seconds in and 6 or 8 out.
+- [Fight or flight](https://derot.org/glossary/#fight-or-flight): Fight or flight is your body's fast stress response, run by the sympathetic nervous system, which raises your heart rate and breathing to prepare you to act.
+- [Friction (app design)](https://derot.org/glossary/#friction): Friction is a small, deliberate obstacle in an app, like a pause or a delay, that gives you a moment to choose instead of acting on autopilot.
+- [Heart rate variability](https://derot.org/glossary/#heart-rate-variability): Heart rate variability (HRV) is the small variation in time between one heartbeat and the next.
+- [Hyperventilation](https://derot.org/glossary/#hyperventilation): Hyperventilation is breathing faster or deeper than your body needs, which lowers carbon dioxide in your blood.
+- [Infinite scroll](https://derot.org/glossary/#infinite-scroll): Infinite scroll is a design where new content loads automatically as you reach the bottom, so the feed never ends and there is no natural place to stop.
+- [Interoception](https://derot.org/glossary/#interoception): Interoception is your awareness of signals from inside your body, like your heartbeat, breathing, hunger, and tension.
+- [Mindful minutes](https://derot.org/glossary/#mindful-minutes): Mindful minutes is the Apple Health category that logs time spent on breathing or meditation sessions.
+- [Nasal breathing](https://derot.org/glossary/#nasal-breathing): Nasal breathing is breathing in and out through your nose instead of your mouth.
+- [Nervous system regulation](https://derot.org/glossary/#nervous-system-regulation): Nervous system regulation is a wellness term for shifting your body from a stressed, keyed-up state back toward a calm, settled one.
+- [Paced breathing](https://derot.org/glossary/#paced-breathing): Paced breathing is breathing to a set rhythm, usually slower than your natural rate, by following a count, a timer, or a visual guide.
+- [Passive scrolling](https://derot.org/glossary/#passive-scrolling): Passive scrolling is browsing a feed without posting, messaging, or commenting, just taking in other people's content.
+- [Physiological sigh](https://derot.org/glossary/#physiological-sigh): A physiological sigh is a double inhale through the nose (one full breath, then a short top-up) followed by a long, slow exhale through the mouth.
+- [Pursed-lip breathing](https://derot.org/glossary/#pursed-lip-breathing): Pursed-lip breathing is inhaling through your nose and exhaling slowly through lips shaped as if you were about to whistle.
+- [Resonance frequency breathing](https://derot.org/glossary/#resonance-frequency-breathing): Resonance frequency breathing means breathing at the personal pace where your heart rate rises and falls the most with each breath, usually around 6 breaths per minute.
+- [Respiratory rate](https://derot.org/glossary/#respiratory-rate): Respiratory rate is the number of breaths you take per minute. A normal adult resting rate is 12 to 18 breaths per minute.
+- [Respiratory sinus arrhythmia](https://derot.org/glossary/#respiratory-sinus-arrhythmia): Respiratory sinus arrhythmia is the normal speeding up of your heart as you breathe in and slowing down as you breathe out.
+- [Rest and digest](https://derot.org/glossary/#rest-and-digest): Rest and digest is the calming mode of your parasympathetic nervous system, which slows your heart rate and supports digestion and recovery.
+- [Revenge bedtime procrastination](https://derot.org/glossary/#revenge-bedtime-procrastination): Revenge bedtime procrastination is staying up late on purpose to claim free time you did not get during the day, often by scrolling.
+- [Vagal tone](https://derot.org/glossary/#vagal-tone): Vagal tone describes how strongly the vagus nerve is slowing your heart at any moment, usually estimated from heart rate variability.
+- [Vagus nerve](https://derot.org/glossary/#vagus-nerve): The vagus nerve is the longest cranial nerve, running from your brain to your gut, and a main pathway of the parasympathetic nervous system.
+- [Window of tolerance](https://derot.org/glossary/#window-of-tolerance): The window of tolerance is the zone of arousal where you can handle stress and still think clearly, between feeling keyed up (hyperarousal) and shut down (hypoarousal).
+
 ## About
 - [About DeRot and editorial standards](https://derot.org/about/)
 - [Full text of all articles](https://derot.org/llms-full.txt)
