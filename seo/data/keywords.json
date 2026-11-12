@@ -2103,7 +2103,7 @@
       "angle": "Breathwrk for planned sessions vs DeRot for unplanned moments.",
       "seasonality": [],
       "status": "covered",
-      "covered_by": "best-free-breathing-apps"
+      "covered_by": "breathing-exercise-app-iphone"
     },
     {
       "keyword": "one sec alternative",
@@ -2347,7 +2347,7 @@
       "angle": "Apple's Breathe/Mindfulness reminders vs a breath that triggers when you actually need it.",
       "seasonality": [],
       "status": "covered",
-      "covered_by": "best-free-breathing-apps"
+      "covered_by": "breathing-exercise-app-iphone"
     },
     {
       "keyword": "breathing exercise app for iphone",
@@ -2359,7 +2359,9 @@
       "content_type": "list",
       "angle": "iPhone-specific picks; DeRot as the scroll-aware option.",
       "seasonality": [],
-      "status": "queued"
+      "status": "published",
+      "post": "breathing-exercise-app-iphone",
+      "published": "2026-11-12"
     },
     {
       "keyword": "how to lock apps on iphone",

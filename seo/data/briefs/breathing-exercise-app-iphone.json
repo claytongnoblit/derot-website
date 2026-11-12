@@ -1,0 +1,294 @@
+{
+  "title_options": [
+    "Breathing exercise apps for iPhone, compared: Watch, Health, widgets and patterns",
+    "Best breathing exercise app for iPhone: an iPhone-native comparison",
+    "Breathing apps for iPhone and Apple Watch, compared field by field"
+  ],
+  "search_intent": "Commercial investigation, close to download. Searchers want a quick, trustworthy shortlist of iPhone breathing apps they can install now, matched to what they care about: free vs paid, Apple Watch haptics, Health logging, quick-start widgets, and the technique they already use (box, 4-7-8, resonance, longer exhale). Secondary intents: 'does iPhone have a built-in breathing app', 'Apple Watch Breathe alternative', 'Breathwrk alternative / does Breathwrk work on Apple Watch'.",
+  "serp_summary": "App Store listings (Unwind, Awesome Breathing, Breathe+, iBreathe) take many top slots. Ranked roundups (appstoretracker.com, mindfulsuite.com, freeappsforme.com, getfree.app) order apps by rating and 'best for' labels with no explained weighting, mix Android and iOS, cite no linked research, and in one case show placeholder data and wrongly say Breathwrk has a strong Watch app. A brand-run roundup ranks its own app #1 without disclosing it. alternativeto.net pages rank for the 'alternative' queries. No result compares iPhone-specific integration (Watch, Health, widgets, Control Center, Shortcuts, offline), maps apps to breathing patterns, or deals with the hard part: actually starting a session while you're wound up.",
+  "gaps": [
+    "Field-by-field iPhone integration comparison (Watch app and haptics, Health mindful minutes, Lock Screen/Home Screen widgets, Control Center, background/screen-off play, offline), using only what each listing states",
+    "Honest 'not stated' handling: no checked listing states Shortcuts or Siri support; tell readers to check the Shortcuts app after installing",
+    "Clarifying that Apple's Breathe now lives inside the free Mindfulness app (watchOS 8+), with 1-5 min sessions at 4-10 breaths per minute, but no inhale/exhale ratio or holds stated",
+    "Correcting the common claim that Breathwrk works on Apple Watch: the US listing says 'Designed for iPhone', states no Watch app, and requires iOS 26.0 or later",
+    "Pattern column matching apps to box, 4-7-8, resonance/coherent, custom ratios; no listing names the physiological/cyclic sigh, so link DeRot's free browser timers",
+    "Grounding in evidence (Fincham 2023, Balban 2023, Laborde 2022) while saying plainly that the evidence is about the breathing technique, not any specific app",
+    "A 'how fast can you start' angle and the mid-scroll moment, which every competitor ignores",
+    "Proper disclosure: DeRot makes an app in this category, is not ranked, and no app paid to be included"
+  ],
+  "outline": [
+    {
+      "h2": "Quick answer: which breathing exercise app for iPhone fits you?",
+      "points": [
+        "Answer first (40-60 words): Apple Mindfulness if you have an Apple Watch and want free and built in; Unwind for the most quick-start surfaces (widgets, Control Center); Awesome Breathing for named patterns and a free tier with optional support purchases; The Breathing App for resonance and box with no ads; iBreathe or Breathe+ for detailed custom timings",
+        "Disclosure in the first 100 words: DeRot makes an app in this category. We don't rank our own app, and no app paid to be included",
+        "Summary table, with no DeRot row: App | Best for | Patterns | Apple Watch | Health logging | Quick-start surfaces | Free option | Price (as listed, checked Nov 2026)"
+      ]
+    },
+    {
+      "h2": "How we compared iPhone breathing apps",
+      "points": [
+        "Criteria: comes with Apple devices or not; Apple Watch companion and haptics; Health mindful-minute logging; how fast you can start (widget, Lock Screen, Control Center, complication); patterns supported; price as listed",
+        "All facts are taken from US App Store listings checked 12 November 2026; 'not stated' means the listing doesn't say",
+        "Shortcuts and Siri support isn't stated for any app; open the Shortcuts app after installing to check",
+        "No star ratings, scores, or testing claims"
+      ]
+    },
+    {
+      "h2": "Does iPhone have a built-in breathing app?",
+      "points": [
+        "Apple's Breathe is part of the free Mindfulness app on Apple Watch (watchOS 8+), with no in-app purchases",
+        "Sessions run 1-5 minutes at 4-10 breaths per minute with haptic guidance and log mindful minutes to Health and Fitness",
+        "Without an Apple Watch, the iPhone has no built-in guided breathing timer (keep the wording careful and stick to what the listing states)",
+        "Limits: you set a breath rate only; the listing doesn't state inhale/exhale ratios or holds",
+        "Tip: Health can show your heart rate during Breathe sessions. Treat it as a curiosity, not a diagnosis (older Apple Support page)"
+      ]
+    },
+    {
+      "h2": "The apps, compared field by field",
+      "points": [
+        "One H3 per app in the same order: Best for, How it works, What stands out, Drawbacks, Price (as listed, checked November 2026)",
+        "Apple Mindfulness; iBreathe; Awesome Breathing; Unwind; Breathe+; The Breathing App; Breathwrk",
+        "Note ads and tracking for iBreathe; the separate Breathe+ Watch app is unverified, so don't quote its price; Breathwrk prices mostly have no billing period stated"
+      ]
+    },
+    {
+      "h2": "Which app suits box breathing, 4-7-8, resonance or a longer exhale?",
+      "points": [
+        "Pattern-to-app mapping table",
+        "Box and 4-7-8 are named by Awesome Breathing, Breathe+ and The Breathing App; resonance at 5-7 breaths per minute in The Breathing App; Coherent in Awesome Breathing",
+        "Any app with custom ratios can do calm 4-6; link the calm 4-6 timer",
+        "No listing names the physiological sigh; link the free physiological sigh timer and explain the Stanford how-to",
+        "Link the box and 4-7-8 browser timers"
+      ]
+    },
+    {
+      "h2": "Alternatives to the Apple Watch Breathe app and to Breathwrk",
+      "points": [
+        "Want ratios or holds on the wrist: Awesome Breathing (eyes-free tap mode), Unwind (complications), iBreathe (live heart rate)",
+        "Breathwrk alternatives: if you need a Watch app, Lock Screen widgets, or an iPhone older than iOS 26",
+        "Free and no ads: Apple Mindfulness, Awesome Breathing (free with optional support purchases), The Breathing App free tier"
+      ]
+    },
+    {
+      "h2": "Do breathing apps actually help, or is it just the breathing?",
+      "points": [
+        "Fincham 2023 meta-analysis: a small-to-moderate effect on stress, but study quality is moderate",
+        "Balban 2023: 5 minutes a day of cyclic sighing improved positive affect more than mindfulness; no HRV change",
+        "Laborde 2022: slow breathing raises vagally mediated HRV during and after sessions",
+        "The evidence covers techniques, not specific apps; an app mainly helps you remember and keep pace"
+      ]
+    },
+    {
+      "h2": "Using a breathing app in the mid-scroll moment",
+      "points": [
+        "The hard part isn't knowing the technique. It's starting while you're wound up, so pick the fewest taps (widget, Control Center, complication)",
+        "A 60-second script: put the phone face down, do 3 physiological sighs or 6 rounds of 4-in, 6-out, and notice your shoulders and jaw",
+        "One sec research: friction cuts down how often people open apps, but people drift back (Haliburton 2024), so friction alone isn't the whole answer"
+      ]
+    },
+    {
+      "h2": "Where DeRot fits (our app)",
+      "points": [
+        "Short and clearly labeled; not ranked",
+        "For people whose stress comes from the feed itself: DeRot pauses your apps mid-scroll while you reset with a few calming breaths (Calm 4-6, Box, 4-7-8)",
+        "Not for: people who want a full Watch or Health breathing practice, or a hard lockout",
+        "Pre-launch: point to the launch newsletter"
+      ]
+    }
+  ],
+  "questions": [
+    "Does iPhone have a built-in breathing app, and can I use it without an Apple Watch?",
+    "What is the best free breathing app for iPhone?",
+    "Which breathing apps work on Apple Watch with haptics so I can breathe with my eyes closed?",
+    "Do breathing apps save mindful minutes to Apple Health?",
+    "Does Breathwrk work on Apple Watch, and why won't it install on my iPhone?",
+    "Can I add a breathing widget to my Lock Screen or Control Center?",
+    "How long should a breathing session be to feel a difference?",
+    "Which app is best for box breathing, 4-7-8, or resonance at 6 breaths per minute?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/",
+      "title": "Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials",
+      "publisher": "Scientific Reports (via PMC)",
+      "year": "2023",
+      "key_findings": "Stress: 12 RCTs, 785 adults, g = -0.35 (95% CI -0.55 to -0.14). Anxiety g = -0.32 (20 studies), depression g = -0.40 (18 studies). Moderate risk of bias in most studies. Slow-paced subgroup significant; fast-paced (2 studies) not. No adverse events attributed to breathwork, but few studies reported them."
+    },
+    {
+      "id": "S2",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Cell Reports Medicine (via PMC)",
+      "year": "2023",
+      "key_findings": "Remote RCT, 108 randomized, 5 min per day for 28 days. Daily positive affect change: breathwork +1.91 vs mindfulness +1.22. Cyclic sighing beat mindfulness and lowered respiratory rate more. No significant HRV or resting heart rate change. Exploratory. Excluded pregnancy, heart disease, glaucoma, seizures and others."
+    },
+    {
+      "id": "S3",
+      "url": "https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html",
+      "title": "Cyclic sighing can help breathe away anxiety",
+      "publisher": "Stanford Medicine",
+      "year": "2023",
+      "key_findings": "How-to: inhale through the nose, take a second sip, then a long exhale through the mouth, for about 5 minutes. Calls the study preliminary. Use S2 for the numbers."
+    },
+    {
+      "id": "S4",
+      "url": "https://eprints.bournemouth.ac.uk/38169/",
+      "title": "Effects of voluntary slow breathing on heart rate and heart rate variability: a systematic review and meta-analysis",
+      "publisher": "Neuroscience & Biobehavioral Reviews (Bournemouth University repository)",
+      "year": "2022",
+      "key_findings": "223 studies. Vagally mediated HRV increased during sessions, right after them, and across multi-session interventions. Low-cost, with few adverse effects expected."
+    },
+    {
+      "id": "S5",
+      "url": "https://heibib.ub.uni-heidelberg.de/search/Record/1868867595",
+      "title": "Directing smartphone use through the self-nudge app one sec",
+      "publisher": "PNAS (Heidelberg University library record)",
+      "year": "2023",
+      "key_findings": "Field study of 280 participants over 6 weeks plus an online experiment (n = 500): the delay and dismiss option reduced app opening. Percentages unverified, so describe the findings without numbers. The lead author is affiliated with one sec."
+    },
+    {
+      "id": "S6",
+      "url": "https://anguilla.dbs.ifi.lmu.de/publications/hgr+24/",
+      "title": "A Longitudinal In-the-Wild Investigation of Design Frictions to Prevent Smartphone Overuse",
+      "publisher": "CHI 2024, LMU Munich",
+      "year": "2024",
+      "key_findings": "1,039 one sec users tracked for an average of 13.4 weeks. Friction reduced opening attempts and made opening more intentional, but users took breaks from it and quickly returned to overuse."
+    },
+    {
+      "id": "S7",
+      "url": "https://apps.apple.com/us/app/mindfulness/id1560383515",
+      "title": "Mindfulness",
+      "publisher": "Apple Inc. (App Store)",
+      "year": "2026",
+      "key_findings": "Free, no in-app purchases. Breathe: haptics, 1-5 min, 4-10 breaths per minute, reminders. Logs mindful minutes to Health and Fitness. State of Mind logging. watchOS 8+."
+    },
+    {
+      "id": "S8",
+      "url": "https://support.apple.com/en-gw/guide/watch/apd371dfe3d7/6.0/watchos",
+      "title": "Use Apple Watch to breathe mindfully",
+      "publisher": "Apple Support",
+      "year": "2019",
+      "key_findings": "Older watchOS 6 guide. Heart rate during Breathe can be viewed in Health. Use only for that tip."
+    },
+    {
+      "id": "S9",
+      "url": "https://apps.apple.com/us/app/ibreathe-deep-breathing-exercises/id1296605806",
+      "title": "iBreathe – Relax and Breathe",
+      "publisher": "Jade Lizard Software (App Store)",
+      "year": "2026",
+      "key_findings": "Watch app (watchOS 10+) with live heart rate; mindful minutes; Lock Screen widget; background sessions; custom intervals in 0.5 s steps up to 35 s. Free with ads; Remove Ads $2.99, Unlock Premium $3.99; tips $0.49-$9.99. iOS 17+."
+    },
+    {
+      "id": "S10",
+      "url": "https://apps.apple.com/us/app/awesome-breathing-pacer-timer/id1453087953",
+      "title": "Awesome Breathing: Pacer Timer",
+      "publisher": "Awesome Labs LLC (App Store)",
+      "year": "2026",
+      "key_findings": "Watch app (watchOS 10+) with eyes-free tap mode; mindful minutes; plays when locked or in the background; 15 programs including Box, 4-7-8, Coherent, plus custom. Free; optional support purchases $0.99-$14.99. Listing says no data collected. iOS 16.4+."
+    },
+    {
+      "id": "S11",
+      "url": "https://apps.apple.com/us/app/unwind-breathing-exercises/id1470613384",
+      "title": "Unwind: Breathing Exercises",
+      "publisher": "Mystical Bits, LLC (App Store)",
+      "year": "2026",
+      "key_findings": "Watch app (watchOS 10+) with complications; mindful minutes and State of Mind; Lock Screen and Home Screen widgets; Control Center controls; 3 guided exercises plus custom in 0.1 s steps. Free; Pro $1.99/week, $3.99/month, $9.99/year, $24.99 lifetime. iOS 16.4+."
+    },
+    {
+      "id": "S12",
+      "url": "https://apps.apple.com/us/app/breathe-breathing-exercises/id1106998959",
+      "title": "Breathing Exercises: Breathe+",
+      "publisher": "Dynamic App Design LLC (App Store)",
+      "year": "2026",
+      "key_findings": "Inhale/exhale 1-32 s and holds 1-32 s; subtitle names box and 4-7-8; sessions 1-60 min; HealthKit mindful minutes. Watch not stated in this listing. Free; $9.99/month, $29.99/year, Unlock Everything $69.99, Remove Ads $3.99. iOS 17+."
+    },
+    {
+      "id": "S13",
+      "url": "https://apps.apple.com/us/app/the-breathing-app-calm-daily/id1285982210",
+      "title": "The Breathing App: Calm Daily",
+      "publisher": "Breathing App, LLC (App Store)",
+      "year": "2026",
+      "key_findings": "Box, Resonance (5-7 per minute), 4-7-8, and personal ratios (1-30 s, holds 0-90 s); works with the screen off and in the background; no account, no ads. Free tier: Resonance and Kids, sessions up to 20 min. Premium $4.99/month or $44.99/year (also $3.99/month and $39.99/year listed); 7-day trial. Watch and Health not stated. iOS 15+."
+    },
+    {
+      "id": "S14",
+      "url": "https://apps.apple.com/us/app/id1481804500?l=en-us",
+      "title": "Breathwrk: Breathing Exercises",
+      "publisher": "Peloton Interactive, Inc. (App Store)",
+      "year": "2026",
+      "key_findings": "'Designed for iPhone'; no Watch app stated; requires iOS 26.0+. Apple Health and mindful minutes; offline access; 100+ exercises including 4-7-8. Free with in-app purchases from $1.99 to $69.99, billing periods mostly not stated. Free for Peloton All Access, Guide and App+ members."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "Apple's Mindfulness app is free with no in-app purchases; Breathe offers 1-5 minute sessions at 4-10 breaths per minute with haptic guidance and logs mindful minutes to Health and Fitness (watchOS 8+).",
+      "source_id": "S7"
+    },
+    {
+      "fact": "Heart rate recorded during Apple Watch Breathe sessions can be viewed in the Health app.",
+      "source_id": "S8"
+    },
+    {
+      "fact": "Unwind lists Lock Screen and Home Screen widgets, Control Center controls and Watch complications; Pro is $1.99/week, $3.99/month, $9.99/year or $24.99 lifetime (App Store, checked November 2026).",
+      "source_id": "S11"
+    },
+    {
+      "fact": "iBreathe contains ads, offers a Lock Screen widget and live heart rate on Apple Watch, and lists Remove Ads at $2.99 and Unlock Premium at $3.99; it requires iOS 17+.",
+      "source_id": "S9"
+    },
+    {
+      "fact": "Awesome Breathing includes 15 programs including Box 4-4-4-4, 4-7-8 and Coherent, an eyes-free tap mode on Apple Watch, and plays when the phone is locked; the listing says no data is collected.",
+      "source_id": "S10"
+    },
+    {
+      "fact": "Breathe+ allows inhale and exhale of 1-32 seconds and holds of 1-32 seconds, with sessions of 1-60 minutes; prices listed are $9.99/month, $29.99/year, $69.99 Unlock Everything.",
+      "source_id": "S12"
+    },
+    {
+      "fact": "The Breathing App offers Resonance at 5-7 breaths per minute, box and 4-7-8, works with the screen off, has no ads and no account; free sessions run up to 20 minutes.",
+      "source_id": "S13"
+    },
+    {
+      "fact": "Breathwrk's US listing says 'Designed for iPhone', states no Apple Watch app, and requires iOS 26.0 or later; in-app purchases range from $1.99 to $69.99 with billing periods mostly not stated.",
+      "source_id": "S14"
+    },
+    {
+      "fact": "A 2023 meta-analysis of 12 RCTs (785 adults) found breathwork reduced stress with a small-to-moderate effect (g = -0.35), though most studies had moderate risk of bias.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "In a 2023 RCT of 108 people practicing 5 minutes a day for 28 days, breathwork raised daily positive affect more than mindfulness (+1.91 vs +1.22), with cyclic sighing performing best; HRV did not change significantly.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "Cyclic sighing: inhale through the nose, take a second short sip of air, then exhale slowly through the mouth, for about 5 minutes.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "A 2022 review of 223 studies found voluntary slow breathing increases vagally mediated heart rate variability during sessions, right after them, and across multi-session interventions.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "In a study of 1,039 one sec users over about 13 weeks, friction reduced app opening attempts, but users who paused the intervention quickly returned to overuse.",
+      "source_id": "S6"
+    },
+    {
+      "fact": "A PNAS field study of 280 participants found that a short delay before opening an app reduced how often people opened target apps.",
+      "source_id": "S5"
+    }
+  ],
+  "safety_notes": [
+    "Slow breathing with a longer exhale is low-risk (S4); stop and breathe normally if you feel dizzy, lightheaded or tingly.",
+    "Breath holds (box, 4-7-8) and fast breathing aren't for everyone: pregnancy, heart or lung conditions, glaucoma, seizure history, fainting or panic history. Check with a clinician; the Balban trial excluded these groups (S2).",
+    "Never practice breath holds in or near water or while driving; sit down to practice.",
+    "Don't recommend Wim Hof-style or cyclic hyperventilation apps without this caveat; few studies reported adverse events (S1).",
+    "Heart rate shown in apps or in Health is for curiosity, not diagnosis.",
+    "No app or technique treats anxiety, panic or sleep problems; talk to a professional if distress persists; in a crisis call 988 (US) or local emergency services.",
+    "Don't quote the unverified one sec percentages; leave out the Breathe+ for watch price and Othership; cite no star ratings."
+  ],
+  "word_count_target": 2600,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: breathing exercise app for iPhone (list/roundup)\n\n**Checked:** 12 November 2026. All App Store facts come from US listings fetched today. Prices are in USD as the listings show them. Where a listing doesn't give a billing period, it is marked \"period not stated.\"\n\n---\n\n## SERP ANALYSIS\n\n**What ranks for \"best breathing exercise app for iPhone\":**\n1. **App Store listings take many top slots:** Unwind, Awesome Breathing, Breathe+ and iBreathe. People searching this are often ready to download, so the article needs a table they can act on quickly.\n2. **appstoretracker.com/best/breathwork-apps** is a ranked list of 9: iBreathe (Best Overall), Open, Breathwrk (Best Quick Sessions), Wim Hof, Othership, FivePointFive, Unwind (Best Free), Coherence, and Box Breathing–Float.\n   - It says it scores apps on 5 criteria (guidance, variety, evidence, free-tier value, iPhone experience) but never gives the weights. It also says there are no paid placements or affiliate links.\n   - Quality problems: every app shows the same \"92K monthly downloads / $480K revenue,\" which looks like placeholder data. Othership is labeled \"Best for Sleep\" on its card and \"Best for Athletes\" in the text. The page is dated May 2026 but cites ratings from November 2026. Research claims (Radboud/Wim Hof, Nestor's *Breath*) have no links.\n   - **Factual error:** it says Breathwrk has a \"strong Watch experience with wrist haptics.\" Breathwrk's current US listing doesn't mention Apple Watch at all, says \"Designed for iPhone,\" and lists only iPhone, Mac and Vision under compatibility.\n   - It doesn't cover Health logging, widgets or Shortcuts.\n3. **mindfulsuite.com \"Best Breathing Exercise Apps 2026 (25 Rated)\"** returned HTTP 429, so I couldn't read it. Its title says it uses scores.\n4. **freeappsforme.com** (14 apps, Android and iOS mixed together) and **getfree.app** (free apps) are generic lists. Both mix platforms and don't focus on what's specific to iPhone.\n5. **othership.us/resources/breathwork-apps**, \"25+ Breathwork Apps\": a roundup run by a brand. **Othership lists itself #1**, adds \"Try othership free for 30 days\" calls to action, and **never discloses** that Othership is its own product. The heading says \"8 Free Breathing Apps\" but the section lists 9. This is a useful contrast with our disclosure rule.\n6. **alternativeto.net** pages rank for the \"alternative\" queries: Medito, Mindful Breathe (open source), The Breathing App, Breathe+ for watch, Breathing Zone, Lungy.\n\n**How the ranking roundups choose and order apps:** mostly by App Store rating and a \"best for\" label, with no explained weighting. None of them cites research with links. Disclosure ranges from absent (Othership) to unverifiable (\"no affiliates\" alongside placeholder data).\n\n## GAPS AND ANGLE\n\nWhat the current top results miss, which we can provide:\n- **No ranking page compares iPhone-specific integration field by field:** Watch app, Health mindful minutes, Lock Screen widget or Control Center, Shortcuts, offline or background play. We can, using only what each listing states.\n- **Shortcuts support is \"not stated\" for every app checked.** We should say that plainly instead of guessing. The honest advice is to check the app's Shortcuts actions yourself after installing.\n- **Breathwrk vs. Apple Watch:** competitors say Breathwrk works on the Watch, but the listing doesn't support that. Its listing also requires **iOS 26.0 or later**, which matters for anyone on an older iPhone. This is the strongest \"Breathwrk alternative\" hook: if you want a Watch app, Lock Screen access, or an older iOS, here's what fits.\n- **The built-in Apple option is misunderstood.** Breathe now lives inside the **Mindfulness** app (free, by Apple, watchOS 8+). It offers 1–5 minute sessions at 4–10 breaths per minute with haptics, and logs mindful minutes to Health and Fitness. Its weaknesses, from the listing and reviews: you can only set a breath rate (no inhale-to-exhale ratio and no holds stated), and reviewers complain about extra taps since the redesign.\n  - Older Apple Support pages (watchOS 6 era) still describe a standalone \"Breathe\" app with a Breathe watch face. That is outdated, so cite the current App Store listing for features.\n- **Pattern column:** no roundup lets readers match an app to the technique they already use. From the listings:\n  - Box and 4-7-8 are named by Awesome Breathing, Breathe+ (subtitle \"Box Breath 478\") and The Breathing App.\n  - Resonance at 5–7 breaths per minute is in The Breathing App; Coherent is in Awesome Breathing.\n  - Custom ratios are offered by iBreathe, Unwind, Breathe+, Awesome Breathing and The Breathing App.\n  - **No listing names the physiological or cyclic sigh.** That's a natural place to link our free browser timer for the physiological sigh. A 4-in, 6-out pattern can be built in any app with custom ratios; link our calm 4-6 timer too.\n- **No roundup grounds the comparison in evidence.** We can cite Fincham 2023, Balban 2023, Laborde 2022 and the one sec friction studies, and be honest that the evidence is about the breathing technique, not about any specific app.\n- **\"The mid-scroll moment\" is absent from every result.** They all assume you'll remember to open a breathing app. DeRot's angle: the hardest part is starting a session while you're wound up. That supports (a) a \"how fast can you start\" column (widget, Control Center, watch complication) and (b) the short, labeled DeRot section for readers whose stress comes from the feed itself.\n- **Disclosure as a trust signal:** we disclose our tie; Othership's ranking page doesn't. Don't name or criticize Othership's page in the article. Just do disclosure properly.\n\n**Proposed apps (DeRot is not ranked or numbered):**\nApple Mindfulness (built in on the Watch), iBreathe, Awesome Breathing, Unwind, Breathe+, The Breathing App, and Breathwrk (needed for the alternative section).\n\nI didn't verify Othership's App Store listing. Only its own blog page gave prices ($17.99/month or $129.99/year), which is not enough to list it under our rules. Leave it out or verify it first.\n\n**Facts per app (from the listings):**\n\n| App | Watch | Health | Quick-start surfaces stated | Patterns stated | Free / price as listed |\n|---|---|---|---|---|---|\n| Apple Mindfulness | Yes (watchOS 8+); haptic guidance | Mindful minutes (Health and Fitness); State of Mind logging | Reminders; complications mentioned for State of Mind | Breath rate 4–10 per minute, 1–5 min | Free, no in-app purchases |\n| iBreathe (Jade Lizard Software) | Yes (watchOS 10+), live heart rate on Watch | Mindful minutes | Lock Screen widget; reminders; background sessions | Preset sleep, stress and anxiety exercises; custom intervals at 0.5 s steps up to 35 s; multi-set | Free; Remove Ads $2.99, Unlock Premium $3.99 (one-time per listing, period not stated); tips $0.49–$9.99. **Contains ads.** iOS 17+ |\n| Awesome Breathing (Awesome Labs) | Yes (watchOS 10+); eyes-free tap mode | Mindful minutes | Reminders; plays when locked or in the background; widgets not stated | 15 programs incl. Box 4-4-4-4, 4-7-8, Equal 4-4, 4-1-7, Triangle, Coherent; custom | Free; optional \"Support\" purchases $0.99–$14.99 (some monthly). Listing says no data collected. iOS 16.4+ |\n| Unwind (Mystical Bits) | Yes (watchOS 10+), complications | Mindful minutes; State of Mind (v3.3.1) | Lock Screen and Home Screen widgets; Control Center controls; haptics | 3 guided exercises plus custom (0.1 s steps) | Free; Pro $1.99/week, $3.99/month, $9.99/year, $24.99 lifetime (family tiers listed). iOS 16.4+ |\n| Breathe+ (Dynamic App Design) | Not stated in this listing (a separate \"Breathe+ for watch\" app exists at $0.99) | Mindful minutes (HealthKit) | Reminders; widgets not stated | Inhale and exhale 1–32 s, holds 1–32 s; subtitle names box and 4-7-8; sessions 1–60 min | Free; $9.99/month, $29.99/year, Unlock Everything $69.99; Remove Ads $3.99. iOS 17+ |\n| The Breathing App (Breathing App, LLC) | Not stated | Not stated | Works with the screen off and in the background; no account; no ads | Box, Resonance (5–7 per minute), Calming, Grounding, Energizing, 4-7-8, personal ratios (1–30 s, holds 0–90 s) | Free: Resonance and Kids ratios, sessions up to 20 min. Premium $4.99/month or $44.99/year (also $3.99/month and $39.99/year listed); 7-day trial. Listing says no data collected. iOS 15+ |\n| Breathwrk (Peloton Interactive) | **Not stated**; \"Designed for iPhone\" | Apple Health and Mindfulness minutes | Reminders; offline access stated; widgets not stated | 100+ exercises and classes; calming, focus, sleep (4-7-8) | Free; in-app purchases from $1.99 to $69.99, mostly without a billing period (only \"Premium 900 Monthly $9.00\" says monthly). Free for Peloton All Access, Guide and App+ members. **iOS 26.0+** |\n\nNo app states Shortcuts or Siri support.\n\n## QUESTIONS (People Also Ask / forum style)\n\n- Does iPhone have a built-in breathing app? (Apple's Breathe is part of the Mindfulness app on Apple Watch; sessions log mindful minutes to Health on iPhone.) Can you use it without an Apple Watch?\n- What is the best free breathing app for iPhone?\n- Which breathing apps work with Apple Watch and use haptics, so I can breathe with my eyes closed?\n- Do breathing apps save mindful minutes to Apple Health?\n- Is Breathwrk free? Does Breathwrk work on Apple Watch? Why won't Breathwrk install on my iPhone? (iOS 26 requirement)\n- What's a good alternative to the Apple Watch Breathe app that lets me set a longer exhale or a box pattern?\n- Which app is best for box breathing, 4-7-8, or resonance at 6 breaths per minute?\n- Can I add a breathing widget to my Lock Screen or Control Center?\n- Do breathing apps actually reduce stress, or is it just the breathing?\n- How long should a breathing session be to feel a difference? (The Balban protocol was 5 min per day; a single short session can still help, but say that carefully.)\n\n## SOURCES\n\n- https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/ | Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials (Fincham et al.) | Scientific Reports, via PMC | 2023 | Stress: 12 RCTs, 785 adults, Hedges' g = −0.35 (95% CI −0.55 to −0.14), I² = 42%. Anxiety: 20 studies, g = −0.32. Depression: 18 studies, g = −0.40. Most studies had moderate risk of bias, none low. Slow-paced subgroup (10 studies) g = −0.35, significant; fast-paced (2 studies) not significant. No adverse events attributed to breathwork, but only 4–6 studies reported them. The authors warn against hype; the first author is a trained breath teacher.\n- https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947 | Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.) | Cell Reports Medicine, via PMC | 2023 | Remote RCT. 108 randomized: cyclic sighing 30, box 21, cyclic hyperventilation 33, mindfulness 24. 5 min per day for 28 days. Positive affect daily change: breathwork +1.91 vs mindfulness +1.22; cyclic sighing beat mindfulness in the mixed model. Cyclic sighing lowered respiratory rate more than mindfulness (p < 0.05). **No significant HRV or resting heart rate change.** Anxiety fell within all groups, with no between-group difference. Exploratory, retrospectively registered, 4 weeks. Excluded pregnancy, heart disease, glaucoma, seizures and others. The senior author advised WHOOP.\n- https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html | Cyclic sighing can help breathe away anxiety | Stanford Medicine | 2023 | Plain-language how-to: inhale through the nose, take a second deeper sip, exhale slowly through the mouth, about 5 min. Reports 111 volunteers (differs from the paper's 108 randomized; cite the paper for numbers). Effect grew over the month. Calls the study preliminary.\n- https://eprints.bournemouth.ac.uk/38169/ | Effects of voluntary slow breathing on heart rate and heart rate variability: a systematic review and meta-analysis (Laborde et al.) | Neuroscience & Biobehavioral Reviews (Bournemouth repository) | 2022 | 223 studies included out of 1,842 abstracts (172 during the session, 16 immediately after, 49 after multi-session interventions). Vagally mediated HRV increased during, right after and over interventions. Describes slow breathing as a low-cost, low-tech option with few adverse effects expected. I couldn't retrieve the pooled effect sizes, so don't quote numbers beyond these.\n- https://heibib.ub.uni-heidelberg.de/search/Record/1868867595 | Directing smartphone use through the self-nudge app one sec (Grüning, Riedel, Lorenz-Spreen) | PNAS, via Heidelberg University library record | 2023 | Field study, 280 participants, 6 weeks. Per the search summary of this record, users closed the target app in about 36% of attempts, and opening attempts fell about 37% vs week 1. Separate online experiment, n = 500: the dismiss option and the delay were effective; the message alone was not. **I couldn't load the full abstract (access denied). Verify the numbers at DOI 10.1073/pnas.2213114120 before quoting them.** The lead author works at one sec.\n- https://anguilla.dbs.ifi.lmu.de/publications/hgr+24/ | A Longitudinal In-the-Wild Investigation of Design Frictions to Prevent Smartphone Overuse (Haliburton et al.) | CHI 2024, LMU Munich | 2024 | 1,039 one sec users tracked for an average of 13.4 weeks; 249 surveyed. Mostly targeted social media. Frictions reduced opening attempts and made openings more intentional. Users took breaks from the intervention and quickly returned to overuse. This supports the point that friction alone isn't the whole answer.\n- https://apps.apple.com/us/app/mindfulness/id1560383515 | Mindfulness (App Store) | Apple Inc. | checked 2026-11-12 | Free, no in-app purchases. Breathe: haptic guidance, 1–5 min, 4–10 breaths per minute, reminders. Breathe and Reflect count as mindful minutes in Health and Fitness. State of Mind logging. iOS 15+, watchOS 8+, visionOS. 3.7★ from 95 ratings (don't cite ratings in the article).\n- https://support.apple.com/en-gw/guide/watch/apd371dfe3d7/6.0/watchos | Use Apple Watch to breathe mindfully | Apple Support | watchOS 6 (older) | Sessions 1–5 min via the Digital Crown. Breath rate set in the iPhone Watch app. Heart rate during Breathe viewable in Health. Breathe watch face. **Outdated wording;** use it only for the Health heart-rate tip.\n- https://apps.apple.com/us/app/ibreathe-deep-breathing-exercises/id1296605806 | iBreathe – Relax and Breathe | Jade Lizard Software | checked 2026-11-12 | See table. Contains ads; the privacy label lists data used to track.\n- https://apps.apple.com/us/app/awesome-breathing-pacer-timer/id1453087953 | Awesome Breathing: Pacer Timer | Awesome Labs LLC | checked 2026-11-12 | See table.\n- https://apps.apple.com/us/app/unwind-breathing-exercises/id1470613384 | Unwind: Breathing Exercises | Mystical Bits, LLC | checked 2026-11-12 | See table.\n- https://apps.apple.com/us/app/breathe-breathing-exercises/id1106998959 | Breathing Exercises: Breathe+ | Dynamic App Design LLC | checked 2026-11-12 | See table. Also: https://apps.apple.com/us/app/-/id6742187963, a separate \"Breathe+ for watch\" app, $0.99 per search snippet (not fetched; verify before use).\n- https://apps.apple.com/us/app/the-breathing-app-calm-daily/id1285982210 | The Breathing App: Calm Daily | Breathing App, LLC | checked 2026-11-12 | See table.\n- https://apps.apple.com/us/app/id1481804500?l=en-us | Breathwrk: Breathing Exercises | Peloton Interactive, Inc. | checked 2026-11-12 | See table. iOS 26+, \"Designed for iPhone,\" no Watch stated.\n\nContext only, not for citing as evidence: appstoretracker.com/best/breathwork-apps, othership.us/resources/breathwork-apps, freeappsforme.com, alternativeto.net. Don't use the casrai.org, codingmall or acibadem safety pages; they're weak sources.\n\n## SAFETY\n\n- Slow breathing with a longer exhale (calm 4-6, resonance around 6 per minute) is low-risk. Laborde 2022 expects few adverse effects. Fincham 2023 found no adverse events attributed to breathwork, but notes that few studies reported them and that more research is needed on fast-paced breathwork for vulnerable people.\n- Breath holds (box, 4-7-8) and fast breathing can cause lightheadedness or tingling. Stop if you feel dizzy and go back to normal breathing. Sit down to practice. Never do breath holds in or near water or while driving.\n- Balban 2023 excluded people with heart disease, glaucoma, seizure history, pregnancy, psychosis, suicidality, bipolar disorder or substance use disorders. So the evidence doesn't cover those groups. Advise them to check with a clinician before holds or fast breathing.\n- Don't recommend the cyclic hyperventilation and Wim Hof-style apps to this audience without the caveat above.\n- No app or technique treats anxiety, panic, or sleep problems. People with persistent distress should talk to a professional. In a crisis, call 988 in the US or local emergency services.\n- Apps that show heart rate (iBreathe on Watch; Apple's Health view of heart rate during Breathe) are for curiosity, not diagnosis.\n\n---\n\n### Notes for the writer\n- **Unverified:** I couldn't confirm the one sec PNAS percentages against the full text, so verify them at the DOI or describe the findings without numbers. Mindfulsuite couldn't be read (HTTP 429).\n- **Missing:** I didn't find a peer-reviewed source on how scrolling affects mood (I hit the search limit). The \"Where DeRot fits\" section should lean on the feeling the reader describes, not on an uncited statistic.\n- **Pricing:** quote prices exactly as listed, with \"checked November 2026.\" Breathwrk's purchases mostly have no billing period, so write \"in-app purchases from $1.99 to $69.99; billing periods not stated on the listing.\"\n- **Tools:** link our free physiological sigh, calm 4-6, box and 4-7-8 timers. Take the exact URLs from the site inventory."
+}
