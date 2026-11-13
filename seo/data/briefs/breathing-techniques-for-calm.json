@@ -1,0 +1,282 @@
+{
+  "title_options": [
+    "Breathing techniques for calm: 5 patterns, 60-second scripts, and when to use each",
+    "Breathing techniques for calm, matched to the moment you're in",
+    "Calming breathing techniques: what works, how it feels, and which to pick right now"
+  ],
+  "search_intent": "Mainly informational and how-to. The reader wants a few breathing techniques that will calm them down, with clear steps they can try right away. A secondary intent is choosing between them (which one for anxiety, sleep, or a quick reset), and some searchers want a timer they can use online. A pillar page should answer quickly, give runnable scripts, help the reader pick by situation, and link to deeper articles and tools.",
+  "serp_summary": "The results are mostly numbered listicles of 5 to 9 techniques (belly, box, 4-7-8, longer exhale, alternate nostril, lion's breath, pursed lip) from Calm, GoodRx, Cleveland Clinic, Intermountain, Bustle and brand blogs. For stress variants, NHS and NHS-trust pages rank strongly. The NHS page teaches a single 5-in/5-out technique for at least 5 minutes. Steps are clear, but the pages rarely grade the evidence, give thin safety guidance (Cleveland Clinic has no dizziness note), often skip the physiological sigh, give vague session lengths, include no 60-second scripts or common mistakes, mostly lack timers, and never name the modern trigger of being wound up mid-scroll.",
+  "gaps": [
+    "Organize the page by the reader's state and moment (mid-scroll, before a hard conversation, needing focus, in bed), not only by technique.",
+    "Grade the evidence plainly: slow breathing near 6/min is strongest, cyclic sighing is promising (mostly one RCT), the extra benefit of a longer exhale is mixed, and box and 4-7-8 have thin direct evidence.",
+    "Cover the physiological sigh / cyclic sighing (Balban 2023), which many listicles skip.",
+    "Give exact 60-second scripts with cycle counts, and be honest that the shortest tested sessions were 5 minutes.",
+    "Include 'what it should feel like' and common mistakes for each technique (gulping the inhale, forcing holds, over-breathing, chest breathing).",
+    "Write a real safety section covering dizziness, breath holds, who should skip holds or fast breathing, and grounding as an alternative.",
+    "Embed or link interactive timers (/tools/) on the page.",
+    "Add an 'is it working?' checklist based on body signals, explaining that a watch's HRV reading is not the test.",
+    "Name the feed as a specific trigger, supported by passive-use research, without alarmism."
+  ],
+  "outline": [
+    {
+      "h2": "What are the best breathing techniques for calm? (quick answer)",
+      "points": [
+        "Answer-first, 40-60 words: slow breathing around 6 breaths a minute with an easy, slightly longer exhale has the best support. The physiological sigh is the fastest reset. Box and 4-7-8 are useful but less directly studied.",
+        "Define slow breathing as 10 breaths a minute or fewer, citing S3.",
+        "Overall effect of breathwork on self-reported stress is small to medium, g = -0.35 (S2).",
+        "Link the parasympathetic breathing article and at most one glossary term (HRV or vagus nerve, if it exists in the inventory)."
+      ]
+    },
+    {
+      "h2": "Which breathing technique should you use right now? Pick by the moment",
+      "points": [
+        "Markdown table with columns Moment | Technique | Why | 60-second dose | Free timer.",
+        "Mid-scroll, jaw tight and wired: 2-3 physiological sighs, then 4-6 calm breathing.",
+        "Before a hard conversation or call: 4-6 or coherent 5-5. No holds, so you can do it unnoticed.",
+        "Need focus while still activated: box 4-4-4-4.",
+        "In bed: 4-7-8 or 4-6 with the lights off.",
+        "State over quantity: the point is how you feel, not minutes practiced."
+      ]
+    },
+    {
+      "h2": "Five calming breathing techniques as 60-second scripts",
+      "points": [
+        "### Physiological sigh (cyclic sighing): nasal inhale about 2 s, top-up sip about 1 s, long mouth exhale 6-8 s, about 6 cycles. Feel: shoulders drop on the second exhale. Mistakes: a huge gulp, rushing the exhale. Link the physiological sigh timer and the physiological sigh duration article (S1).",
+        "### 4-6 calm breathing: inhale 4, exhale 6, 10 s per breath, 6 breaths. Mistakes: forcing the exhale, chest breathing. Easier version: 3-5. Link the calm 4-6 tool and the 4-6 how-to article.",
+        "### Coherent 5-5 breathing: 6 breaths of 10 s. Cite NHS 5/5 guidance (S11) and resonance breathing (S6). It doesn't need to be exact (S7, verify first). Link the custom timer.",
+        "### Box breathing 4-4-4-4: 16 s per round, about 4 rounds. Easier version: 3-3-3-3. Mistakes: straining the holds or clenching the throat. Link the box timer and the box breathing duration article.",
+        "### 4-7-8: 19 s per round, 3-4 rounds. Easier version: 3-5-6 or drop the hold. Note lightheadedness. Link the 4-7-8 timer.",
+        "Each script gets numbered steps, what it feels like, 2-3 mistakes and an easier version."
+      ]
+    },
+    {
+      "h2": "What does the research say? An honest evidence ladder",
+      "points": [
+        "Strongest: slow breathing around 6/min (S3, S4, S6, S5 labeled as a thesis).",
+        "Promising: cyclic sighing gave the largest positive-affect gain vs mindfulness in a 108-person remote RCT, 5 min a day for 28 days (S1). Note its limits: mostly undergraduates, exploratory.",
+        "Mixed: whether a longer exhale adds benefit. Bae 2021 found it does (S8); Meehan & Shaffer 2024 found no effect (S9). Verify both first.",
+        "Thin direct evidence: box and 4-7-8. Marchant's thesis found 6 bpm beat both on HRV (S5). Kobayashi 4-4-8 is preliminary, n=15 (S10).",
+        "Effects are small to medium and self-reported (S2)."
+      ]
+    },
+    {
+      "h2": "How long do you need to breathe to feel calmer? Does 1 minute work?",
+      "points": [
+        "Self-contained answer: one minute is often enough to notice a shift, but it is a starting dose, not a tested protocol.",
+        "You 2021: 5 minutes at 6/min raised RMSSD as much as 20 minutes did, and 5 minutes was the shortest session tested (S4).",
+        "NHS suggests at least 5 minutes and regular daily practice (S11).",
+        "Practical rule: if you're still wired, do two more minutes."
+      ]
+    },
+    {
+      "h2": "Using calming breathing mid-scroll, when the feed has you wound up",
+      "points": [
+        "The feed can leave you feeling worse: passive Facebook use lowered affective wellbeing, mediated by envy (S13). Instagram browsing of others' profiles lowered wellbeing (S14, verify first).",
+        "What you see matters, not just minutes.",
+        "A 30-second script: two physiological sighs, then three 4-6 breaths, then decide whether to keep scrolling.",
+        "One DeRot mention, leading with the felt shift: DeRot pauses your scroll while you reset with a few calming breaths (pre-launch)."
+      ]
+    },
+    {
+      "h2": "Is it working? Body signals to check instead of your watch",
+      "points": [
+        "The exhale lengthens without effort, shoulders drop, jaw unclenches, hands feel warm and heavy, and the urge to keep scrolling quiets.",
+        "Balban found mood improved with no significant HRV or resting heart rate change over 28 days, so a wearable reading isn't the test (S1)."
+      ]
+    },
+    {
+      "h2": "Breathing safely: dizziness, breath holds, and who should go gently",
+      "points": [
+        "Dizziness usually comes from over-breathing. Breathe smaller and softer, sit or lie down (S12, verify wording), and stop if dizzy or tingly.",
+        "Even 6 bpm slightly lowered CO2 in the thesis (S5).",
+        "Skip holds and fast breathing in pregnancy, heart or lung conditions, a history of fainting, seizures or panic. Balban's exclusions (S1).",
+        "Fast breathwork: adverse-event reporting is sparse (S2).",
+        "About 10% reported negative experiences in Balban (S1). Offer grounding as an alternative.",
+        "Never practice while driving or in water. See a professional for persistent anxiety or sleep problems. In a crisis, contact local emergency services or call 988 in the US."
+      ]
+    }
+  ],
+  "questions": [
+    "What is the fastest breathing technique to calm down?",
+    "Is box breathing or 4-7-8 better for anxiety?",
+    "Why does 4-7-8 breathing make me dizzy or lightheaded?",
+    "Does a 1-minute breathing exercise actually work?",
+    "Should I breathe through my nose or my mouth to calm down?",
+    "Can breathing exercises lower heart rate or blood pressure right away?",
+    "What should I do if breathing exercises make my anxiety worse?",
+    "Is there a free breathing exercise timer online?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Cell Reports Medicine (Balban et al.)",
+      "year": "2023",
+      "key_findings": "Remote RCT with 108 participants, 5 min a day for 28 days. Cyclic sighing was the only group that differed significantly from mindfulness on positive affect (+1.89). It reduced respiratory rate most. No significant HRV or resting heart rate change in any group. 10% reported negative experiences. Population mostly undergraduates; exploratory study."
+    },
+    {
+      "id": "S2",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/",
+      "title": "Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials",
+      "publisher": "Scientific Reports (Fincham et al.)",
+      "year": "2023",
+      "key_findings": "12 RCTs, 785 adults. Self-reported stress g = -0.35, anxiety g = -0.32, depression g = -0.40. Most studies at moderate risk of bias. Adverse-event reporting sparse."
+    },
+    {
+      "id": "S3",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full",
+      "title": "How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing",
+      "publisher": "Frontiers in Human Neuroscience (Zaccaro et al.)",
+      "year": "2018",
+      "key_findings": "Slow breathing (10 breaths/min or fewer) was linked to higher HRV and RSA, more relaxation, and less anxiety. 15 studies, no RCTs, small samples."
+    },
+    {
+      "id": "S4",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8656666/",
+      "title": "Single Slow-Paced Breathing Session at Six Cycles per Minute: Dose-Response on Cardiac Vagal Activity",
+      "publisher": "IJERPH (You, Laborde et al.)",
+      "year": "2021",
+      "key_findings": "59 young adults. Sessions of 5, 10, 15 and 20 min at 6/min all raised RMSSD, with no difference by duration. 5 min was the shortest session tested."
+    },
+    {
+      "id": "S5",
+      "url": "https://scholarsarchive.byu.edu/etd/10696",
+      "title": "Comparing the Effects of Square, 4-7-8, and 6 Breaths-per-Minute Breathing on HRV, CO2, and Mood",
+      "publisher": "Brigham Young University (Marchant, master's thesis, not peer reviewed)",
+      "year": "2025",
+      "key_findings": "84 students. 6 bpm (4:6 and 5:5) raised HRV more than square or 4-7-8. No mood or blood pressure changes. 6 bpm slightly lowered end-tidal CO2."
+    },
+    {
+      "id": "S6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28890890/",
+      "title": "The Impact of Resonance Frequency Breathing on Measures of HRV, Blood Pressure, and Mood",
+      "publisher": "Frontiers in Public Health (Steffen et al.)",
+      "year": "2017",
+      "key_findings": "15 min of resonance breathing (about 6/min) gave better positive mood and lower systolic blood pressure during a stress task than control."
+    },
+    {
+      "id": "S7",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.624254/pdf",
+      "title": "Pacer vs soothing-rhythm breathing",
+      "publisher": "Frontiers in Psychology (Steffen et al.)",
+      "year": "2021",
+      "key_findings": "Per the search summary (verify first): 96 participants. Both a 6/min pacer and self-paced soothing breathing raised HRV. People couldn't hold exactly 6/min."
+    },
+    {
+      "id": "S8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34289128/",
+      "title": "Longer exhalation and cardiac vagal activity",
+      "publisher": "Psychophysiology (Bae et al.)",
+      "year": "2021",
+      "key_findings": "Per the search summary (verify first): 28 adults. At the same rate, a longer exhale acutely raised RMSSD and HF-HRV."
+    },
+    {
+      "id": "S9",
+      "url": "https://link.springer.com/article/10.1007/s10484-024-09637-2",
+      "title": "Inhale:exhale ratio and HRV replication",
+      "publisher": "Applied Psychophysiology and Biofeedback (Meehan & Shaffer)",
+      "year": "2024",
+      "key_findings": "Per the search summary (verify first): at about 6 bpm, 1:2 vs 1:1 breathing made no HRV difference. Prior literature is mixed."
+    },
+    {
+      "id": "S10",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11229811/",
+      "title": "Acute effects of the 4-4-8 breathing technique on arterial stiffness in healthy young men",
+      "publisher": "Cardiology Journal (Kobayashi & Negoro)",
+      "year": "2024",
+      "key_findings": "15 men, 5 min of 4-4-8 breathing. Systolic BP about 105 to 99 mmHg at 30 min. Effects gone by 60 min. Preliminary."
+    },
+    {
+      "id": "S11",
+      "url": "https://nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress",
+      "title": "Breathing exercises for stress",
+      "publisher": "NHS (UK)",
+      "year": "current",
+      "key_findings": "Inhale through the nose for 5, exhale through the mouth for 5, without forcing, for at least 5 minutes. You may not reach 5 at first. Regular daily practice gives the most benefit."
+    },
+    {
+      "id": "S12",
+      "url": "https://www.leicspart.nhs.uk/mental-health/advice/breathing-exercises-for-stress-anxiety-and-panic/",
+      "title": "Breathing exercises for stress, anxiety and panic",
+      "publisher": "Leicestershire Partnership NHS Trust",
+      "year": "current",
+      "key_findings": "Per the search summary (verify wording): some people feel dizzy at first, and sitting or lying down helps."
+    },
+    {
+      "id": "S13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25706656/",
+      "title": "Passive Facebook usage undermines affective well-being",
+      "publisher": "Journal of Experimental Psychology: General (Verduyn et al.)",
+      "year": "2015",
+      "key_findings": "Lab plus experience-sampling study. Passive use lowered affective wellbeing over time, mediated by envy."
+    },
+    {
+      "id": "S14",
+      "url": "https://www.frontiersin.org/articles/10.3389/fhumd.2020.585518",
+      "title": "Instagram browsing and well-being experiment",
+      "publisher": "Frontiers in Human Dynamics",
+      "year": "2020",
+      "key_findings": "Per the search summary (verify first): browsing your own profile improved wellbeing; browsing acquaintance or influencer profiles lowered it."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "In a remote RCT of 108 people practicing 5 minutes a day for 28 days, cyclic sighing was the only technique that improved positive affect significantly more than mindfulness meditation.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "In Balban 2023, none of the groups showed a significant change in HRV or resting heart rate, even though mood improved.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "About 10% of participants in Balban 2023 reported negative experiences.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "A meta-analysis of 12 RCTs with 785 adults found breathwork reduced self-reported stress with a small-to-medium effect (g = -0.35).",
+      "source_id": "S2"
+    },
+    {
+      "fact": "A systematic review defines slow breathing as 10 breaths per minute or fewer and links it to higher HRV and greater relaxation. All 15 included studies were non-randomized.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "Breathing at 6 cycles a minute for 5, 10, 15 or 20 minutes raised RMSSD equally in 59 young adults. 5 minutes was the shortest session tested.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "In an 84-person BYU master's thesis, 6 breaths-per-minute breathing raised HRV more than square or 4-7-8 breathing.",
+      "source_id": "S5"
+    },
+    {
+      "fact": "15 minutes of resonance-frequency breathing (about 6/min) improved positive mood and lowered systolic blood pressure during a stress task compared with sitting quietly.",
+      "source_id": "S6"
+    },
+    {
+      "fact": "5 minutes of 4-4-8 breathing lowered systolic blood pressure from about 105 to 99 mmHg at 30 minutes in 15 young men. The effect was gone by 60 minutes.",
+      "source_id": "S10"
+    },
+    {
+      "fact": "NHS guidance: breathe in through the nose for a count of 5 and out through the mouth for 5, without forcing it, for at least 5 minutes.",
+      "source_id": "S11"
+    },
+    {
+      "fact": "Passive Facebook use lowered affective wellbeing over time, and envy explained the effect.",
+      "source_id": "S13"
+    }
+  ],
+  "safety_notes": [
+    "Stop and return to normal breathing if you feel dizzy, tingly, lightheaded or short of breath. Breathe smaller and softer, not deeper, and sit or lie down.",
+    "Do not strain breath holds. Shorten box breathing to 3-3-3-3 and 4-7-8 to 3-5-6, or drop the hold entirely.",
+    "Skip breath holds and fast breathing if you are pregnant, have a heart or lung condition, or have a history of fainting, seizures or panic attacks. Check with a clinician first.",
+    "Leave out hyperventilation-style breathwork. Adverse effects are under-reported.",
+    "If focusing on your breath makes anxiety worse, switch to grounding (feet on the floor, name 5 things you can see).",
+    "Never practice while driving or in water.",
+    "Make no treatment claims. Breathing can help you feel calmer and may reduce stress.",
+    "Seek professional help for persistent anxiety, panic or sleep problems. In a crisis, contact local emergency services or call 988 in the US."
+  ],
+  "word_count_target": 2800,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: \"breathing techniques for calm\" (pillar)\n\n## SERP ANALYSIS\n\n**Who ranks.** The results are mostly listicles from wellness brands, pharmacy and health publishers, plus a few clinic and public-health pages:\n- Calm's blog has two lists of 7 techniques ([anxiety](https://blog.calm.com/blog/breathing-exercises-for-anxiety), [stress](https://eng.calm.com/blog/breathing-for-stress)).\n- GoodRx ([1](https://www.goodrx.com/well-being/healthy-mind/breathing-exercises-to-calm-anxiety-and-stress), [2](https://www.goodrx.com/conditions/stress/breathing-exercises-to-calm-anxiety-and-stress)).\n- [Cleveland Clinic, \"Breathwork\"](https://health.clevelandclinic.org/breathwork) and [Intermountain Health](https://intermountainhealthcare.org/blogs/article/try-these-simple-breathing-exercises-to-calm-yourself-down).\n- [Bustle](https://www.bustle.com/wellness/breathing-exercises-to-calm-anxiety-experts) (quotes from \"experts\"), [The Educated Patient](https://theeducatedpatient.com/view/7-breathing-techniques-to-instantly-calm-your-mind), a [Substack listicle](https://abbymedcalfphd.substack.com/p/seven-powerful-techniques-to-breathe), [Monday Campaigns](https://www.mondaycampaigns.org/?p=2938), and a brand blog from [Twinings](https://twinings.co.uk/blogs/news/four-breathing-exercises-to-calm-your-body-and-mind).\n- For the \"stress\" variants, NHS and NHS-trust pages rank strongly ([NHS breathing exercises for stress](https://nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress), [Leicestershire Partnership NHS](https://www.leicspart.nhs.uk/mental-health/advice/breathing-exercises-for-stress-anxiety-and-panic/), [Berkshire NHS Talking Therapies](https://talkingtherapies.berkshirehealthcare.nhs.uk/therapy-in-focus-blogs/three-breathing-techniques-to-try/)).\n\n**Format.** The dominant format is a numbered list of 5 to 9 techniques. The usual set is belly breathing, box, 4-7-8, a longer exhale, alternate nostril, lion's breath and pursed lip. Each gets a short paragraph of steps. The physiology is reduced to one generic line about \"sympathetic to parasympathetic.\" There are almost no timers. The NHS page is a single technique: inhale for a count of 5 through the nose, exhale for 5 through the mouth, at least 5 minutes, practice daily.\n\n**What they do well.**\n- Clear step lists.\n- Some mapping of technique to goal (Cleveland Clinic: 4-7-8 for sleep, box as a portable option, belly breathing for beginners).\n- The NHS gives a sensible \"don't force it, you may not reach 5 at first\" note.\n\n**What they miss or get wrong.**\n1. **They are organized by technique, not by the reader's state.** No one answers \"I'm wired right now, which one do I use?\"\n2. **They treat all techniques as equal.** No page says that slow breathing near 6 breaths a minute and long exhales have better support than box or 4-7-8. Cleveland Clinic presents each technique with a single study link and no grading.\n3. **Thin safety coverage.** Cleveland Clinic says breathwork is accessible \"regardless of age or other medical conditions\" and never mentions dizziness, hyperventilation or pregnancy. Its only warnings cover holotropic breathwork and pursed-lip breathing during exertion.\n4. **They don't cover the physiological sigh / cyclic sighing,** even though it has the most-cited recent RCT (Balban 2023).\n5. **Session length is fuzzy.** Pages say \"5 to 10 minutes a day\" or \"3 to 5 minutes.\" None offers a 60-second script, which is what \"guided breathing exercise 1 minute\" searchers want. None explains that research mostly tested 5-minute-plus sessions.\n6. **No common mistakes or \"what it should feel like\"** (gulping the inhale, forcing holds, over-breathing, chest breathing).\n7. **No interactive tool on most pages.** \"Breathing exercise online\" intent goes unserved by the listicles. DeRot's /tools/ timers fill that gap.\n8. **The trigger is always \"anxiety\" or \"stress\" in the abstract.** No page names the specific modern trigger: a feed that has you wound up partway through a session.\n\n## GAPS AND ANGLE\n\n- **Organizing idea: pick by state, not by technique.** Add a \"Which breath for which moment\" table near the top:\n  - Mid-scroll, jaw tight, mildly wired: physiological sigh x 2 to 3, then 4-6 calm breathing.\n  - Before a hard conversation or call: 4-6 or coherent 5-5 (no holds, so you can do it unnoticed).\n  - Need focus while still activated: box 4-4-4-4.\n  - In bed: 4-7-8 or 4-6, lights off.\n- **Graded evidence ladder, stated plainly.**\n  - Strongest: slow breathing around 6 breaths a minute (Zaccaro review; You 2021; Steffen 2017/2021; Marchant 2025).\n  - Promising, mostly one RCT: cyclic sighing (Balban 2023).\n  - Mixed: exhale longer than inhale (Bae 2021 positive; Meehan & Shaffer 2024 null).\n  - Thin direct evidence: box breathing and 4-7-8 (small studies; in Marchant's thesis, 6 bpm beat both on HRV).\n  - Overall breathwork effect on self-reported stress: small to medium (Fincham 2023, g = −0.35).\n- **Five 60-second scripts with exact counts.** Each gets cycles per minute, what it feels like (\"shoulders drop on the second exhale,\" \"warm, slightly heavy hands\"), 2 to 3 common mistakes, and an easier version (for example, shrink box to 3-3-3-3, or drop the hold). Arithmetic for the scripts:\n  - Physiological sigh: inhale about 2 s, top-up sip about 1 s, exhale about 6 to 8 s. Roughly 6 cycles in 60 s.\n  - 4-6 calm: 10 s per breath, 6 breaths = 60 s.\n  - Coherent 5-5: 10 s per breath, 6 breaths = 60 s.\n  - Box 4-4-4-4: 16 s per round, about 4 rounds per minute.\n  - 4-7-8: 19 s per round, about 3 to 4 rounds. Many teachers say start with 4 rounds.\n- **Be honest that 60 seconds is a starting dose, not a tested protocol.**\n  - You 2021 found a 5-minute session at 6/min raised RMSSD as much as 20 minutes did, but 5 minutes was the shortest session tested.\n  - Bae 2021 reportedly saw HF-HRV stay elevated for 4 minutes after a 2:1 block (needs verifying).\n  - Framing: one minute is often enough to feel the shift. If you're still wired, do two more.\n- **The mid-scroll moment.** Cite Verduyn 2015 (passive Facebook use lowered affective wellbeing, mediated by envy) and the 2020 Instagram experiment (browsing acquaintance or influencer profiles hurt wellbeing). This supports \"the feed can leave you feeling worse\" without alarmism. Mention DeRot once here, leading with the felt shift: it meets you mid-scroll with a few calming breaths.\n- **The \"is it working?\" checklist** (body signals, not wearables): exhale lengthens without effort, shoulders drop, jaw unclenches, the urge to keep scrolling quiets. Note that Balban found no HRV change over 28 days even while mood improved, so a watch reading isn't the test.\n- **Internal links:**\n  - The 4-6 how-to, box breathing duration, physiological sigh duration and parasympathetic breathing articles.\n  - Every /tools/ timer: box, 4-7-8, calm 4-6, physiological sigh, custom (for 5-5 coherent).\n  - At most 2 glossary links (for example, HRV and vagus nerve, if they exist in the inventory).\n\n## QUESTIONS (PAA / forum style)\n\n1. What is the fastest breathing technique to calm down? (Physiological sigh, 1 to 3 sighs; Balban's protocol was 5 min a day.)\n2. Is box breathing or 4-7-8 better for anxiety? (No head-to-head RCT; in Marchant's thesis, 6 bpm beat both on HRV.)\n3. Why does 4-7-8 breathing make me dizzy or lightheaded? (Holds and over-breathing. Shorten counts or drop the hold. Note that Marchant found even 6 bpm lowered end-tidal CO2 slightly.)\n4. How long should I do breathing exercises to feel calmer? Does 1 minute work?\n5. Should I breathe through my nose or my mouth?\n6. What is the 3-3-3 breathing rule? (It appears in SERP results; mention briefly or skip.)\n7. Can breathing exercises lower heart rate or blood pressure right away? (Kobayashi 2024: 4-4-8 for 5 min, systolic about 105 to 99 mmHg at 30 min in 15 young men.)\n8. Is it bad to hold your breath during breathing exercises? Who should avoid breath holds?\n9. What should I do if breathing exercises make my anxiety worse?\n10. Do I need an app, or is there a breathing exercise online I can use? (Point to /tools/.)\n\n## SOURCES\n\n1. https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947 | Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.) | Cell Reports Medicine | 2023 | Remote RCT (NCT05304000). 108 randomized: 24 mindfulness, 30 cyclic sighing, 21 box breathing, 33 cyclic hyperventilation with retention. 5 min a day for 28 days. Daily positive-affect gains: cyclic sighing +1.89 (p=0.025), box +1.84 (p=0.026), hyperventilation +1.97 (p=0.003), mindfulness +1.22 (p=0.06). Only cyclic sighing differed significantly from mindfulness on positive affect. Breathwork reduced respiratory rate more than mindfulness, driven by cyclic sighing. The respiratory-rate drop correlated with the positive-affect gain (r = −0.24). No significant change in HRV, resting heart rate or sleep in any group. State anxiety fell in all groups, with no between-group difference. 10% reported negative experiences. Limitations: exploratory, retrospectively registered, remote, mostly Stanford undergraduates, 4 weeks only. Cyclic sighing protocol: slow nasal inhale, a short second inhale to top up, then a long, full exhale through the mouth.\n2. https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/ | Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials (Fincham et al.) | Scientific Reports | 2023 | 12 RCTs, 785 adults. Self-reported stress g = −0.35 (95% CI −0.55 to −0.14), p = 0.0009. Anxiety g = −0.32 (20 studies). Depression g = −0.40 (18 studies). Most studies at moderate risk of bias. Ten stress studies were mainly slow-paced breathing (g = −0.35, significant). Two fast-paced studies (g = −0.31, not significant). Self-report outcomes only. No adverse events attributed to breathwork, but few studies reported them. One fast-breathing study noted hot flushes, shortness of breath and sweating in a subgroup. The authors urge caution.\n3. https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full | How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing (Zaccaro et al.) | Frontiers in Human Neuroscience | 2018 | Slow breathing defined as 10 breaths per minute or less, in healthy adults. 15 studies included from 2,461 abstracts. Slow breathing was linked to higher HRV and RSA (parasympathetic involvement), more EEG alpha and less theta, and more comfort and relaxation with lower anxiety and arousal. Limitations: no RCTs (10 within-subject, 5 pre-post), small samples (one had n=10), heterogeneous methods. Proposed mechanisms are speculative. (PubMed record: https://pubmed.ncbi.nlm.nih.gov/30245619/)\n4. https://pmc.ncbi.nlm.nih.gov/articles/PMC8656666/ | Single Slow-Paced Breathing Session at Six Cycles per Minute: Investigation of Dose-Response Relationship on Cardiac Vagal Activity (You, Laborde et al.) | Int J Environ Res Public Health | 2021 | 59 analyzed, ages 18 to 26. Within-subject, randomized session order. Breathing at 6 cycles per minute for 5, 10, 15 or 20 min all raised RMSSD versus a neutral-documentary control (large effects, p < 0.001), with no difference between durations. RMSSD returned to baseline afterward. Resting breathing rate after the session was lower after longer sessions: 14.18 (5 min) vs 11.14 (20 min) vs about 17 (control). Supports \"short sessions count,\" but 5 min was the shortest tested.\n5. https://scholarsarchive.byu.edu/etd/10696 | Comparing the Effects of Square, 4-7-8, and 6 Breaths-per-Minute Breathing Conditions on Heart Rate Variability, CO2 Levels, and Mood (Marchant) | Brigham Young University (master's thesis, not peer reviewed) | 2025 | 84 college students. Square, 4-7-8, 6 bpm at 4:6, and 6 bpm at 5:5 compared. The 6 bpm conditions raised HRV more than square or 4-7-8 (small to medium effects). No meaningful changes in blood pressure or mood for any condition. 6 bpm unexpectedly lowered end-tidal CO2 (mild over-breathing). This is the most direct comparison of the article's patterns, but it is a thesis, so flag it as such.\n6. https://pubmed.ncbi.nlm.nih.gov/28890890/ | The Impact of Resonance Frequency Breathing on Measures of Heart Rate Variability, Blood Pressure, and Mood (Steffen et al.) | Frontiers in Public Health | 2017 | Resonance frequency (RF) described as about 6 breaths per minute, determined individually. 15 min of RF breathing vs RF+1 breath/min vs sitting quietly. The RF group had higher positive mood than both other groups, a higher LF/HF ratio than control, and lower systolic BP than control during a stress task and recovery (all p < .05). Sample size not stated in the abstract. Supports coherent 5-5 breathing.\n7. https://www.frontiersin.org/articles/10.3389/fpsyg.2021.624254/pdf | Pacer vs soothing-rhythm breathing (Steffen et al.) | Frontiers in Psychology | 2021 | Per the search summary: randomized, 96 participants. Both a 6 breaths/min pacer and a self-paced \"soothing rhythm\" raised HRV during the intervention. Participants could not consistently hold exactly 6/min. Useful for \"you don't have to hit the count perfectly.\" Verify details before citing numbers.\n8. https://pubmed.ncbi.nlm.nih.gov/34289128/ | Longer exhalation and cardiac vagal activity (Bae et al.) | Psychophysiology | 2021 | Per the search summary: 28 adults. A 2:1 exhale-to-inhale cue gave actual ratios of 1.33 vs 1.08 for 1:1. At the same breathing rate, the longer exhale acutely raised RMSSD and HF-HRV, with HF-HRV staying elevated for 4 minutes after the block. PubMed was blocked, so confirm the title and authors before citing.\n9. https://link.springer.com/article/10.1007/s10484-024-09637-2 | Inhale:exhale ratio and HRV replication (Meehan & Shaffer) | Applied Psychophysiology and Biofeedback | 2024 | Per the search summary: at about 6 bpm, 1:2 vs 1:1 breathing did not change HRV time-domain or frequency-domain metrics, and a replication found no effect on nonlinear measures either. A cited review of 9 studies reached mixed conclusions: 4 favored a longer exhale, 1 a longer inhale, 3 found no effect, 1 favored equal breaths. Use it for honesty: slow rate is well supported, the extra benefit of a longer exhale is uncertain.\n10. https://pmc.ncbi.nlm.nih.gov/articles/PMC11229811/ | Acute effects of the 4-4-8 breathing technique on arterial stiffness in healthy young men (Kobayashi & Negoro) | Cardiology Journal | 2024 | Randomized crossover with 15 men aged 20. 5 min of 4-4-8 breathing (hold included). At 30 min: brachial systolic BP about 105 to 99 mmHg, HF power up and LF down (p < 0.05). Effects were gone by 60 min. Tiny, homogeneous sample. This is the closest peer-reviewed evidence for a 4-7-8-style hold-plus-long-exhale pattern. Present it as preliminary.\n11. https://nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress | Breathing exercises for stress | NHS (UK) | current | Inhale gently through the nose counting 1 to 5 (you may not reach 5 at first), exhale slowly through the mouth counting 1 to 5, \"without forcing it,\" for at least 5 minutes. Most benefit comes from regular, daily practice. Authoritative support for slow, even breathing.\n12. https://www.leicspart.nhs.uk/mental-health/advice/breathing-exercises-for-stress-anxiety-and-panic/ | Breathing exercises for stress, anxiety and panic | Leicestershire Partnership NHS Trust | current | Per the search summary, the NHS material notes that some people feel a little dizzy at first, and that sitting or lying down helps until the exercise feels familiar. Grounding may suit people with breathing-related conditions better. Confirm wording before quoting.\n13. https://pubmed.ncbi.nlm.nih.gov/25706656/ | Passive Facebook usage undermines affective well-being: Experimental and longitudinal evidence (Verduyn et al.) | Journal of Experimental Psychology: General | 2015 | Lab experiment with about 80 undergraduates plus a 1-week experience-sampling field study. Passive use lowered affective wellbeing over time, mediated by envy. Use it to frame \"the feed can leave you feeling worse,\" without alarm.\n14. https://www.frontiersin.org/articles/10.3389/fhumd.2020.585518 | Instagram browsing and well-being experiment | Frontiers in Human Dynamics | 2020 | Per the search summary: browsing your own profile improved wellbeing, while browsing an acquaintance's or an influencer's profile lowered it. What you see matters, not just minutes. Supports \"state over quantity.\"\n15. https://health.clevelandclinic.org/breathwork | Breathwork | Cleveland Clinic | current | Competitor reference (SERP). Covers belly, box, 4-7-8 (for sleep), alternate nostril, pursed lip, lion's breath, five-finger and holotropic breathing. Suggests 5 to 10 min a day. No dizziness or contraindication guidance. Do not cite it as evidence, and use it carefully.\n\nEvidence grading for the writer: sources 1 to 6 and 11 are the strongest to lean on. Sources 7 to 9, 12 and 14 come from search summaries only; verify before quoting numbers. Source 5 is a thesis and should be labeled as one.\n\n## SAFETY\n\n- **Dizziness and lightheadedness.** These are the most common complaints, usually from breathing too deeply or too fast, or from forcing holds. NHS material says some people feel dizzy at first and that sitting or lying down helps. Even 6 bpm breathing lowered CO2 slightly in Marchant 2025. What to tell readers: breathe smaller and softer, not bigger; stop and return to normal breathing if dizzy, tingly or short of breath; never practice while driving or in water.\n- **Breath holds (box, 4-7-8).** Don't strain. Shorten to 3-3-3-3 or 3-5-6, or drop the hold. Balban's box protocol itself told participants to shorten durations if they had to strain. Holds and fast or hyperventilation-style breathing are not for everyone: pregnancy, heart or lung conditions, a history of fainting, seizures or panic attacks. Balban excluded people with heart disease, glaucoma, seizures, pregnancy, psychosis, bipolar disorder, suicidality and substance use disorders.\n- **Leave out fast or hyperventilation breathwork.** Fincham notes that adverse-event reporting is sparse and that one fast-breathing study saw hot flushes, shortness of breath and sweating. Cleveland Clinic says holotropic breathwork needs a trained facilitator.\n- **Some people find breath focus makes anxiety worse.** Balban's debrief: 10% reported negative experiences. Offer grounding (feet on the floor, naming 5 things you can see) as an alternative.\n- **No treatment claims.** Breathing \"can help you feel calmer\" and \"may reduce stress.\" The evidence shows small-to-medium, self-reported effects (Fincham g = −0.35).\n- **When to get help.** Talk to a professional for persistent anxiety, panic, sleep problems or distress. If someone may be in crisis, point to local emergency services or 988 (US Suicide & Crisis Lifeline).\n\n---\n\nNotes for the writer:\n1. **Verify before citing numbers.** PubMed and one PMC page were blocked, so the Bae 2021, Meehan & Shaffer 2024, Steffen 2021 and Instagram 2020 details come from search summaries. Check them before quoting figures.\n2. **There's no 60-second trial.** The shortest tested session in these sources is 5 minutes, so frame the 60-second scripts as a starting point. Don't present them as a tested protocol.\n\nSources:\n- [Calm: 7 deep breathing exercises for anxiety](https://blog.calm.com/blog/breathing-exercises-for-anxiety)\n- [Calm: breathing for stress](https://eng.calm.com/blog/breathing-for-stress)\n- [GoodRx (well-being)](https://www.goodrx.com/well-being/healthy-mind/breathing-exercises-to-calm-anxiety-and-stress)\n- [GoodRx (conditions)](https://www.goodrx.com/conditions/stress/breathing-exercises-to-calm-anxiety-and-stress)\n- [Cleveland Clinic: Breathwork](https://health.clevelandclinic.org/breathwork)\n- [Intermountain Health](https://intermountainhealthcare.org/blogs/article/try-these-simple-breathing-exercises-to-calm-yourself-down)\n- [Bustle](https://www.bustle.com/wellness/breathing-exercises-to-calm-anxiety-experts)\n- [The Educated Patient](https://theeducatedpatient.com/view/7-breathing-techniques-to-instantly-calm-your-mind)\n- [Abby Medcalf Substack](https://abbymedcalfphd.substack.com/p/seven-powerful-techniques-to-breathe)\n- [Monday Campaigns](https://www.mondaycampaigns.org/?p=2938)\n- [Twinings](https://twinings.co.uk/blogs/news/four-breathing-exercises-to-calm-your-body-and-mind)\n- [Balban et al. 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947)\n- [Fincham et al. 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/)\n- [Zaccaro et al. 2018](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full)\n- [Zaccaro et al. 2018 (PubMed)](https://pubmed.ncbi.nlm.nih.gov/30245619/)\n- [You et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8656666/)\n- [Marchant 2025 (BYU thesis)](https://scholarsarchive.byu.edu/etd/10696)\n- [Steffen et al. 2017](https://pubmed.ncbi.nlm.nih.gov/28890890/)\n- [Steffen et al. 2021](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.624254/pdf)\n- [Bae et al. 2021](https://pubmed.ncbi.nlm.nih.gov/34289128/)\n- [Meehan & Shaffer 2024](https://link.springer.com/article/10.1007/s10484-024-09637-2)\n- [Kobayashi & Negoro 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11229811/)\n- [NHS: Breathing exercises for stress](https://nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress)\n- [Leicestershire Partnership NHS](https://www.leicspart.nhs.uk/mental-health/advice/breathing-exercises-for-stress-anxiety-and-panic/)\n- [Berkshire NHS Talking Therapies](https://talkingtherapies.berkshirehealthcare.nhs.uk/therapy-in-focus-blogs/three-breathing-techniques-to-try/)\n- [Verduyn et al. 2015](https://pubmed.ncbi.nlm.nih.gov/25706656/)\n- [Instagram browsing study 2020](https://www.frontiersin.org/articles/10.3389/fhumd.2020.585518)"
+}

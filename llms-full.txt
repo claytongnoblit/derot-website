@@ -1,5 +1,287 @@
 # DeRot blog: full text
 
+# Breathing Techniques for Calm: 5 Patterns, Each in 60 Seconds
+
+URL: https://derot.org/blog/breathing-techniques-for-calm/
+Updated: 2026-11-13
+
+Key takeaways:
+- Slow breathing at about 6 breaths a minute, with an easy exhale, has the strongest research support of any calming breathing technique.
+- The physiological sigh (a double inhale through the nose, then a long exhale through the mouth) is the quickest reset to do (about 10 seconds a sigh) and works well mid-scroll.
+- Box breathing and 4-7-8 are useful structured patterns, but they have less direct evidence than plain slow breathing.
+- One minute is a good starting dose for feeling a shift, but 5 minutes is the shortest session most studies have actually tested.
+- Stop if you feel dizzy or tingly, breathe smaller and softer, and skip breath holds if you are pregnant or have a heart or lung condition, fainting, seizures or panic attacks.
+
+The best breathing techniques for calm slow you to around six breaths a minute with an easy, slightly longer exhale. That pattern has the strongest research behind it. The physiological sigh is the quickest reset to do, at about 10 seconds a sigh. Box breathing and 4-7-8 are useful too, just less directly studied. Each one fits into a 60-second script.
+
+Below you'll find all five as scripts with exact counts. Each one is matched to a real moment (wired mid-scroll, before a hard call, in bed), and the evidence is graded honestly. Every technique links to a free timer, so you don't have to count in your head while you're already wound up.
+
+## What are the best breathing techniques for calm? (quick answer)
+
+Slow breathing with a relaxed exhale is the best-supported way to calm down using your breath. Everything else on this page is a variation on that idea, with a different rhythm or a hold added.
+
+Researchers usually define slow breathing as [10 breaths a minute or fewer](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full). A 2018 systematic review linked it to higher [heart rate variability](/glossary/#heart-rate-variability), more relaxation and less anxiety. The caveat: all 15 studies in that review were non-randomized, and most were small. The calming patterns below all slow you down to roughly 3 to 7 breaths a minute.
+
+How big is the effect? A [2023 meta-analysis of 12 randomized trials with 785 adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/) found that breathwork reduced self-reported stress with a small-to-medium effect (g = -0.35). The same review rated most of the trials at moderate risk of bias. So the effect is real but modest. Breathing can help you feel calmer. It does not switch stress off.
+
+If you want the mechanism, our piece on [why longer exhales bring you back down](/blog/parasympathetic-breathing/) covers the nervous system side in plain language. The short version of the five:
+
+- **Physiological sigh (cyclic sighing):** double inhale, long exhale. The quickest reset to do.
+- **4-6 calm breathing:** in for 4, out for 6. The everyday default.
+- **Coherent 5-5 breathing:** in for 5, out for 5. Even, steady, no holds.
+- **Box breathing 4-4-4-4:** in, hold, out, hold. Structured, good when you need focus.
+- **4-7-8 breathing:** in for 4, hold for 7, out for 8. Long and slow, popular at bedtime.
+
+## Which breathing technique should you use right now? Pick by the moment
+
+Pick by the state you're in, not by which technique sounds most impressive. When you're wired and tight, start with a fast release. Before a hard conversation, use something nobody can see you doing. In bed, use something long and slow.
+
+| Moment | Technique | Why | 60-second dose | Free timer |
+|---|---|---|---|---|
+| Mid-scroll, jaw tight, vaguely wired | 2 to 3 physiological sighs, then 4-6 | Sighs give a quick release; 4-6 keeps you there | 3 sighs (about 30 s) plus 3 breaths of 4-6 (30 s) | [Physiological sigh timer](/tools/physiological-sigh/) |
+| Before a hard conversation or call | 4-6 or coherent 5-5 | No holds, so you can do it quietly through your nose | 6 breaths of 10 s | [Calm 4-6 timer](/tools/calm-breathing-4-6/) |
+| Need to focus while still activated | Box 4-4-4-4 | The counting gives a busy mind a job | 4 rounds of 16 s | [Box breathing timer](/tools/box-breathing-timer/) |
+| In bed, lights off | 4-7-8 or 4-6 | Long, slow cycles with nothing to look at | 3 rounds of 19 s, or 6 breaths of 4-6 | [4-7-8 timer](/tools/4-7-8-breathing-timer/) |
+| Not sure | 4-6 | The best-supported default | 6 breaths of 10 s | [Calm 4-6 timer](/tools/calm-breathing-4-6/) |
+
+The goal is a change in state, not a number of minutes logged. Six slow breaths that bring your shoulders down from your ears are worth more to you right now than a 20-minute session you keep putting off. If one round doesn't shift anything, do another round or switch patterns. Nothing is being graded here.
+
+## Five calming breathing exercises as 60-second scripts
+
+Each script below takes about a minute, with the cycle count already worked out. If you'd rather not count, each one has a free breathing exercise online in our [guided breathing timers](/tools/) that paces it for you. Sit or stand comfortably and let your belly, not your shoulders, move on the inhale. Keep every breath a size smaller than you think it should be.
+
+### 1. Physiological sigh (cyclic sighing)
+
+The physiological sigh is a breathing pattern in which you take a full inhale through the nose, top it up with a second short sip of air, then let it all out in a long, slow exhale through the mouth. Repeated for a few minutes, it's called cyclic sighing. That's the version tested in a [2023 randomized trial of 108 people](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947).
+
+**The 60-second script (about 6 cycles):**
+
+1. Breathe in through your nose for about 2 seconds, filling most of the way.
+2. Without breathing out, take one more short sip through the nose, about 1 second, to top off.
+3. Exhale slowly through your mouth for 6 to 8 seconds until you're comfortably empty.
+4. Rest for a beat, then repeat. About 6 cycles fill a minute.
+
+**What it should feel like:** the first one often feels a little awkward. By the second or third exhale, many people notice their shoulders drop and their jaw loosen, a bit like setting down a bag you forgot you were holding.
+
+**Common mistakes:**
+
+- Gulping a huge first inhale. The top-up sip needs room, so fill to roughly three quarters, not to bursting.
+- Rushing the exhale. The long, unhurried out-breath does the work.
+- Doing it hard and fast. Two or three gentle sighs make a reset. Ten forceful ones in a row can leave you lightheaded.
+
+**Easier version:** one or two sighs, then go back to normal breathing.
+
+Use the [physiological sigh timer](/tools/physiological-sigh/), and see [how many sighs you actually need](/blog/how-long-to-do-physiological-sigh/) for the one-sigh versus five-minute question.
+
+### 2. 4-6 calm breathing
+
+4-6 breathing is a slow-breathing pattern in which you inhale for 4 seconds and exhale for 6, so each breath takes 10 seconds and you breathe 6 times a minute. It is the simplest way to combine slow breathing with a slightly longer exhale.
+
+**The 60-second script (6 breaths):**
+
+1. Inhale gently through your nose for a count of 4. Let your belly expand.
+2. Exhale through your nose, or softly through slightly pursed lips, for a count of 6.
+3. Go straight into the next inhale. Six breaths is one minute.
+
+**What it should feel like:** the exhale starts to slide out on its own instead of being pushed. By breath four or five, most of the effort goes out of counting.
+
+**Common mistakes:**
+
+- Squeezing out the last of the air to reach 6. If you're straining, the count is too long for you today.
+- Chest breathing, where your shoulders rise on the inhale. Put a hand on your belly and breathe into it.
+- Counting faster as you go. Wired breathing tends to speed up the count.
+
+**Easier version:** 3-5 (8 seconds per breath, about 7 to 8 breaths a minute). It still counts as slow breathing.
+
+Try the [calm 4-6 breathing timer](/tools/calm-breathing-4-6/) or read the [full 4-6 breathing how-to](/blog/4-6-breathing-how-to/).
+
+### 3. Coherent 5-5 breathing
+
+Coherent breathing is slow, even breathing in which the inhale and exhale last the same time, usually 5 seconds each, for about 6 breaths a minute. The [NHS breathing exercise for stress](https://nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress) uses this rhythm: in through the nose and out through the mouth for a count of 5 each, without forcing it. It also points out that you may not reach 5 at first. The pattern is close to resonance frequency breathing, which in research [sits at about 6 breaths a minute](https://pubmed.ncbi.nlm.nih.gov/28890890/).
+
+**The 60-second script (6 breaths):**
+
+1. Breathe in through your nose for 5.
+2. Breathe out for 5, through the mouth or nose, smooth and unhurried.
+3. Repeat. Six breaths is one minute.
+
+**What it should feel like:** steady and almost metronomic. It feels less like a drop than a sigh does and more like settling, the way a choppy surface goes flat.
+
+**Common mistakes:**
+
+- Treating the count like a test. A [2021 study comparing a 6-a-minute pacer with self-paced soothing breathing](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.624254/pdf) found that both raised HRV, so close enough is fine.
+- Overfilling each breath to stretch it to 5. Breathe slower, not bigger.
+
+**Easier version:** 4-4 (about 7 to 8 breaths a minute).
+
+Set the [custom breathing timer](/tools/custom-breathing-timer/) to 5 in and 5 out.
+
+### 4. Box breathing (4-4-4-4)
+
+Box breathing is a four-part pattern in which you inhale for 4, hold for 4, exhale for 4 and hold empty for 4. Each round lasts 16 seconds, just under 4 breaths a minute.
+
+**The 60-second script (about 4 rounds):**
+
+1. Inhale through your nose for 4.
+2. Hold gently for 4. Keep your throat soft, as if you were just pausing.
+3. Exhale for 4.
+4. Hold empty for 4.
+5. Repeat. Four rounds take about 64 seconds.
+
+**What it should feel like:** structured and absorbing. The four corners give your attention something to hold on to. The holds may feel slightly effortful, but they should never feel like straining.
+
+**Common mistakes:**
+
+- Clenching your throat or bracing your belly during the holds.
+- Overfilling the inhale, which makes the full hold feel pressured.
+- Rushing the counts because you're already activated.
+
+**Easier version:** 3-3-3-3 (12-second rounds, 5 rounds a minute), or drop the empty hold.
+
+Use the [box breathing timer](/tools/box-breathing-timer/), and see [how long to do box breathing](/blog/how-long-to-do-box-breathing/) if you want to build beyond a minute.
+
+### 5. 4-7-8 breathing
+
+4-7-8 breathing is a pattern in which you inhale through the nose for 4, hold for 7 and exhale through the mouth for 8. One round lasts 19 seconds, so you breathe about 3 times a minute.
+
+**The 60-second script (3 rounds):**
+
+1. Breathe out fully through your mouth to start.
+2. Inhale quietly through your nose for 4.
+3. Hold for 7.
+4. Exhale through your mouth for 8 with a soft "whoosh."
+5. Repeat for 3 rounds (about 57 seconds). Stop at 4.
+
+**What it should feel like:** slow and heavy, often a little sleepy. It is also the pattern on this page most likely to make you lightheaded, because of the long hold and the very low breathing rate.
+
+**Common mistakes:**
+
+- Taking a big inhale before the hold. A normal-sized breath is plenty.
+- Counting in strict seconds when that's too long for you. Count faster at first and keep the 4:7:8 ratio.
+- Pushing through dizziness. Stop and breathe normally instead.
+
+**Easier version:** 3-5-6, or drop the hold and breathe in for 4 and out for 8.
+
+Use the [4-7-8 breathing timer](/tools/4-7-8-breathing-timer/).
+
+## What does the research say? An honest evidence ladder
+
+Slow breathing at about 6 breaths a minute has the most support. Cyclic sighing looks promising but rests mainly on one trial. The evidence on whether the exhale needs to be longer is mixed. Box breathing and 4-7-8 have little direct research of their own.
+
+| Evidence level | Technique | What the research shows | Main caveat |
+|---|---|---|---|
+| Strongest | Slow breathing near 6/min (4-6, 5-5) | Raises HRV markers; linked to relaxation and better mood | Small samples, mostly young adults |
+| Promising | Cyclic sighing | Largest mood gain versus mindfulness in one RCT | Mostly one exploratory study |
+| Mixed | Longer exhale vs equal exhale | Studies disagree | Effect, if any, looks small |
+| Thin | Box, 4-7-8 | Little direct testing | Mostly a thesis and one tiny study |
+
+### Strongest: slow breathing around 6 breaths a minute
+
+In a [study of 59 young adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC8656666/), breathing at 6 cycles a minute for 5, 10, 15 or 20 minutes raised RMSSD, a marker of vagal heart activity, by about the same amount whatever the session length. In [another study, 15 minutes of resonance breathing at about 6 a minute](https://pubmed.ncbi.nlm.nih.gov/28890890/) led to better positive mood and lower systolic blood pressure during a stress task than sitting quietly. That fits the [systematic review](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full) linking slow breathing to relaxation, with its non-randomized caveat.
+
+### Promising: cyclic sighing
+
+In the [2023 remote randomized trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947), 108 people practiced for 5 minutes a day for 28 days. Cyclic sighing was the only technique that improved positive affect significantly more than mindfulness meditation, and it lowered breathing rate the most. The authors describe the study as exploratory, and the participants were mostly undergraduates, so it needs replicating.
+
+### Mixed: does the exhale need to be longer?
+
+[One 2021 study](https://pubmed.ncbi.nlm.nih.gov/34289128/) found that at the same breathing rate, a longer exhale raised measures of vagal activity. A [2024 study and its replication](https://link.springer.com/article/10.1007/s10484-024-09637-2) found that at about 6 breaths a minute, a 1:2 ratio made no HRV difference compared with 1:1. Slowing down seems to matter more than the exact ratio. Use a longer exhale if it feels easier, and don't worry if it doesn't.
+
+### Thin: box breathing and 4-7-8
+
+In an [84-person master's thesis (not peer reviewed)](https://scholarsarchive.byu.edu/etd/10696), breathing at 6 breaths a minute raised HRV more than square (box) breathing or 4-7-8, with no differences in mood or blood pressure between patterns. A [small study of 15 young men](https://pmc.ncbi.nlm.nih.gov/articles/PMC11229811/) found that 5 minutes of a related pattern, 4-4-8 breathing (not 4-7-8 itself), lowered systolic blood pressure from about 105 to 99 mmHg at 30 minutes, and the effect was gone by 60 minutes. That is preliminary. Box and 4-7-8 are still reasonable to use. Many people like the structure. They just aren't better proven than plain slow breathing.
+
+### The overall picture
+
+Across trials, the effects are [small to medium and mostly self-reported](https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/): g = -0.35 for stress, -0.32 for anxiety and -0.40 for depression symptoms. That's a useful tool, not a treatment.
+
+## How long do you need to breathe to feel calmer? Does a 1-minute guided breathing exercise work?
+
+A minute can be enough to notice a shift, but treat it as a starting dose rather than a tested protocol. Most studies use 5 minutes or more, so a 60-second script is a practical shortcut.
+
+The [dose-response study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8656666/) is encouraging for short sessions: 5 minutes at 6 breaths a minute raised RMSSD as much as 20 minutes did. But 5 minutes was the shortest session it tested, so it can't tell us what one minute does. The [NHS suggests at least 5 minutes](https://nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress) and says regular daily practice brings the most benefit.
+
+Here's a practical rule. Do one minute. If you still feel wired afterward, do two more. If you want the longer-term mood effect from the sighing trial, the tested dose was [5 minutes a day for 28 days](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947).
+
+## Breathing exercises for stress mid-scroll, when the feed has you wound up
+
+Mid-scroll is one of the most useful places to use a calming breath, because that's when you notice the tension: jaw set, shoulders up, breath shallow, thumb still moving. You don't need to quit anything. You need a minute to come back down.
+
+The feed can leave you feeling worse, and it isn't only about time spent. In one study, [passive Facebook use lowered affective wellbeing over time](https://pubmed.ncbi.nlm.nih.gov/25706656/), and envy explained the effect. In [a 2020 Instagram experiment](https://www.frontiersin.org/articles/10.3389/fhumd.2020.585518), browsing acquaintances' or influencers' profiles lowered wellbeing, while browsing your own profile did not. So what you see and how it lands matters, not only the minutes. The feed is very good at being interesting. It is much less good at letting your shoulders come down. For more on the body side, see [nervous system overload from your phone](/blog/nervous-system-overload-from-phone/).
+
+**A 30-second mid-scroll reset:**
+
+1. Notice one signal: a tight jaw, raised shoulders or a held breath.
+2. Take your eyes off the screen and do two physiological sighs (about 20 seconds).
+3. Take one slow 4-6 breath (10 seconds). If you have time, add two more.
+4. Then decide: keep scrolling, switch to something else, or put the phone down. Any of those is fine. The difference is that you're choosing from a calmer place.
+
+This is the moment we built DeRot for. DeRot pauses your apps while you reset with a few calming breaths, meeting you mid-scroll so the wired feeling fades before you carry on. It's launching soon on iOS.
+
+## Is it working? Body signals to check instead of your watch
+
+You can tell a breathing technique is working when your body tells you, not when a number on your watch changes. Look for these signals:
+
+- Your exhale gets longer without you making it.
+- Your shoulders drop and your jaw unclenches.
+- Your hands feel warmer or heavier.
+- Your thoughts slow down enough that you can pick one.
+- The pull to keep scrolling quiets.
+
+Don't use a wearable as the test. In the [28-day sighing trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947), mood improved, yet none of the groups showed a significant change in HRV or resting heart rate. A single reading on your wrist can miss a shift you can plainly feel.
+
+## Breathing safely: dizziness, breath holds, and who should go gently
+
+Calming breathing should feel easy. If it makes you dizzy, tingly, lightheaded or short of breath, stop and go back to normal breathing. Those sensations usually mean you're over-breathing, moving more air than you need. That can slide toward [hyperventilation](/glossary/#hyperventilation).
+
+Some practical guidance:
+
+- **Breathe smaller and softer, not deeper.** Even slow breathing can do this: the [BYU thesis](https://scholarsarchive.byu.edu/etd/10696) found that 6 breaths a minute slightly lowered end-tidal CO2. Guidance from one NHS trust notes that [some people feel dizzy at first, and sitting or lying down helps](https://www.leicspart.nhs.uk/mental-health/advice/breathing-exercises-for-stress-anxiety-and-panic/).
+- **Don't strain holds.** Shorten box breathing to 3-3-3-3 and 4-7-8 to 3-5-6, or drop the hold entirely.
+- **Skip breath holds and fast breathing** if you are pregnant, have a heart or lung condition, or have a history of fainting, seizures or panic attacks. Check with a clinician first. Gentle 4-6 or 5-5 breathing without holds is usually the softer option.
+- **Leave out fast, hyperventilation-style breathwork.** The meta-analysis found that [adverse-event reporting in breathwork trials is sparse](https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/), so we don't know much about its downsides.
+- **If focusing on your breath makes you more anxious, switch.** About [10% of participants in the sighing trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947) reported negative experiences. Grounding is a good alternative: press your feet into the floor and name five things you can see.
+- **Never practice while driving or in water.**
+
+Breathing techniques can help you feel calmer and may reduce stress, but they don't treat anxiety, panic or insomnia. If anxiety, panic or sleep problems persist, talk to a doctor or mental health professional. If you're in crisis, contact local emergency services, or call or text 988 in the US.
+
+## FAQ
+**What is the fastest breathing technique to calm down?**
+The physiological sigh is the quickest to do, at about 10 seconds a sigh, though the research on it used 5-minute sessions. Breathe in through your nose, take a second short sip of air to top off, then exhale slowly through your mouth for 6 to 8 seconds. One to three sighs is often enough to notice your shoulders drop. Follow with a few slow 4-6 breaths (in for 4, out for 6) to stay settled. Keep the sighs gentle, because forceful repeated sighs can make you lightheaded.
+
+**Is box breathing or 4-7-8 better for anxiety?**
+Neither has strong direct evidence, and neither treats anxiety. In one small comparison, plain slow breathing at about 6 breaths a minute raised heart rate variability more than either pattern. Box breathing is often handier when you need to focus, because the four counts keep your mind busy. 4-7-8 is slower and suits bedtime. If holds feel uncomfortable, use 4-6 breathing, which has no holds.
+
+**Why does 4-7-8 breathing make me dizzy or lightheaded?**
+4-7-8 slows you to about 3 breaths a minute and adds a long hold, and many people take a big inhale before that hold. Together these shift your blood gases enough to cause dizziness or tingling. Stop and breathe normally if it happens. Next time, breathe in less, count faster while keeping the 4:7:8 ratio, try 3-5-6, or drop the hold. Sitting or lying down also helps.
+
+**Should I breathe through my nose or my mouth to calm down?**
+Inhaling through your nose is the usual default for calming patterns. It tends to keep breaths smaller and slower, which helps you avoid over-breathing. Exhaling through your mouth or through gently pursed lips makes a long, slow exhale easier to control, and that's why the physiological sigh and 4-7-8 use it. Before a conversation or in public, breathing in and out through your nose keeps it unnoticeable.
+
+**Can breathing exercises lower heart rate or blood pressure right away?**
+Sometimes, a little and briefly. Studies of slow breathing at about 6 breaths a minute show short-term changes in heart rate variability. One small study found that 5 minutes of 4-4-8 breathing lowered systolic blood pressure when it was measured 30 minutes later, and it was back to baseline by an hour. These are modest, short-lived effects in healthy volunteers. Breathing is not a substitute for medical care for heart or blood pressure conditions.
+
+**What should I do if breathing exercises make my anxiety worse?**
+Stop and let your breathing go back to normal. Paying close attention to your breath makes some people more anxious, and around 10% of participants in one breathing trial reported negative experiences. Try grounding instead: press your feet into the floor and name five things you can see. If anxiety or panic keeps coming back, talk to a professional. In a crisis, contact local emergency services or call 988 in the US.
+
+## Sources
+- Brief structured respiration practices enhance mood and reduce physiological arousal: https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947
+- Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials: https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/
+- How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing: https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full
+- Single Slow-Paced Breathing Session at Six Cycles per Minute: Dose-Response on Cardiac Vagal Activity: https://pmc.ncbi.nlm.nih.gov/articles/PMC8656666/
+- Comparing the Effects of Square, 4-7-8, and 6 Breaths-per-Minute Breathing on HRV, CO2, and Mood: https://scholarsarchive.byu.edu/etd/10696
+- The Impact of Resonance Frequency Breathing on Measures of HRV, Blood Pressure, and Mood: https://pubmed.ncbi.nlm.nih.gov/28890890/
+- Pacer vs soothing-rhythm breathing: https://www.frontiersin.org/articles/10.3389/fpsyg.2021.624254/pdf
+- Longer exhalation and cardiac vagal activity: https://pubmed.ncbi.nlm.nih.gov/34289128/
+- Inhale:exhale ratio and HRV replication: https://link.springer.com/article/10.1007/s10484-024-09637-2
+- Acute effects of the 4-4-8 breathing technique on arterial stiffness in healthy young men: https://pmc.ncbi.nlm.nih.gov/articles/PMC11229811/
+- Breathing exercises for stress: https://nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress
+- Breathing exercises for stress, anxiety and panic: https://www.leicspart.nhs.uk/mental-health/advice/breathing-exercises-for-stress-anxiety-and-panic/
+- Passive Facebook usage undermines affective well-being: https://pubmed.ncbi.nlm.nih.gov/25706656/
+- Instagram browsing and well-being experiment: https://www.frontiersin.org/articles/10.3389/fhumd.2020.585518
+
+---
+
 # Breathing Exercise Apps for iPhone, Compared: What Each Does Best
 
 URL: https://derot.org/blog/breathing-exercise-app-iphone/

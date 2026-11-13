@@ -85,8 +85,10 @@
       "content_type": "pillar",
       "angle": "One hub that teaches each pattern in 60 seconds and tells you which to use for which moment, including mid-scroll.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Pillar; SERP mixes Healthline, Cleveland Clinic, Calm blog."
+      "status": "published",
+      "notes": "Pillar; SERP mixes Healthline, Cleveland Clinic, Calm blog.",
+      "post": "breathing-techniques-for-calm",
+      "published": "2026-11-13"
     },
     {
       "keyword": "box breathing",
@@ -495,8 +497,9 @@
       "content_type": "tool",
       "angle": "A browser-based guided breathing exercise that works instantly, no app or login.",
       "seasonality": [],
-      "status": "tool",
-      "notes": "Tool SERP; small sites and YouTube."
+      "status": "covered",
+      "notes": "Tool SERP; small sites and YouTube.",
+      "covered_by": "breathing-techniques-for-calm"
     },
     {
       "keyword": "guided breathing exercise 1 minute",
@@ -509,7 +512,7 @@
       "angle": "A true 60-second guided breath, the same length as a DeRot reset.",
       "seasonality": [],
       "status": "covered",
-      "covered_by": "how-long-to-do-physiological-sigh"
+      "covered_by": "breathing-techniques-for-calm"
     },
     {
       "keyword": "breathing pacer",
@@ -569,7 +572,8 @@
       "content_type": "list",
       "angle": "Five patterns ranked by speed of relief, each with a timer.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "breathing-techniques-for-calm"
     },
     {
       "keyword": "calming breathing exercises",
@@ -581,7 +585,8 @@
       "content_type": "list",
       "angle": "Short list of calming patterns that work in under a minute, with on-page pacers.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "breathing-techniques-for-calm"
     },
     {
       "keyword": "how to calm your nervous system",
