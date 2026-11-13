@@ -27,9 +27,14 @@
   },
   "platforms": {
     "instagram": {
-      "status": "queued",
+      "status": "posted",
       "scheduled_at": "2026-11-12T23:30:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "id": "18110083481118526",
+      "permalink": "https://www.instagram.com/reel/Dfqc5PuxDpY/",
+      "posted_at": "2026-11-13T01:29:04+00:00",
+      "error": null,
+      "retry_after": null
     }
   },
   "built_at": "2026-11-10T14:03:51+00:00"
