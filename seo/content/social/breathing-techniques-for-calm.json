@@ -68,9 +68,14 @@
       "retry_after": null
     },
     "instagram": {
-      "status": "queued",
+      "status": "posted",
       "scheduled_at": "2026-11-13T23:30:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "id": "18137580689506175",
+      "permalink": "https://www.instagram.com/reel/DftQBq6iwdz/",
+      "posted_at": "2026-11-14T03:34:39+00:00",
+      "error": null,
+      "retry_after": null
     }
   },
   "images": [
