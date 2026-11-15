@@ -3886,6 +3886,62 @@
       "status": "queued",
       "source": "expansion",
       "added": "2026-11-10"
+    },
+    {
+      "keyword": "how to take a mental break",
+      "cluster": "workday-stress-breaks",
+      "intent": "informational",
+      "volume_tier": 3,
+      "difficulty_tier": 3,
+      "business_fit": 4,
+      "content_type": "how-to",
+      "angle": "A real mental break changes your state, not just your tab, so a few slow breaths beat a scroll that leaves you more wired.",
+      "seasonality": [],
+      "status": "queued",
+      "source": "expansion",
+      "added": "2026-11-15"
+    },
+    {
+      "keyword": "how to stop revenge bedtime procrastination",
+      "cluster": "sleep-and-winding-down",
+      "intent": "informational",
+      "volume_tier": 3,
+      "difficulty_tier": 2,
+      "business_fit": 5,
+      "content_type": "how-to",
+      "angle": "Late-night scrolling is reclaiming time while staying wound up, so we show how to downshift mid-scroll instead of banning the phone.",
+      "seasonality": [],
+      "status": "queued",
+      "source": "expansion",
+      "added": "2026-11-15"
+    },
+    {
+      "keyword": "alternatives to brick app blocker",
+      "cluster": "comparisons-and-alternatives",
+      "intent": "commercial",
+      "volume_tier": 2,
+      "difficulty_tier": 2,
+      "business_fit": 4,
+      "content_type": "comparison",
+      "angle": "A neutral roundup of Brick alternatives for people who want less friction than a physical lockout device.",
+      "seasonality": [],
+      "status": "queued",
+      "source": "expansion",
+      "added": "2026-11-15"
+    },
+    {
+      "keyword": "5 breaths per minute benefits",
+      "cluster": "hrv-and-breathing",
+      "intent": "informational",
+      "volume_tier": 1,
+      "difficulty_tier": 2,
+      "business_fit": 3,
+      "content_type": "explainer",
+      "angle": "What the research says about breathing even slower than six a minute, and when it starts to feel like effort instead of calm.",
+      "seasonality": [],
+      "status": "queued",
+      "source": "expansion",
+      "added": "2026-11-15"
     }
   ]
 }
