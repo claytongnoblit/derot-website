@@ -921,7 +921,7 @@
       "seasonality": [],
       "status": "covered",
       "notes": "Brand-owned term; zero competition.",
-      "covered_by": "nervous-system-overload-from-phone"
+      "covered_by": "why-app-blockers-dont-work"
     },
     {
       "keyword": "why does scrolling make me anxious",
@@ -1502,8 +1502,9 @@
       "content_type": "faq",
       "angle": "What research and Reddit say about blocker fatigue and bypassing, and a regulation alternative.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Reddit threads rank."
+      "status": "covered",
+      "notes": "Reddit threads rank.",
+      "covered_by": "why-app-blockers-dont-work"
     },
     {
       "keyword": "why app blockers don't work",
@@ -1515,7 +1516,9 @@
       "content_type": "explainer",
       "angle": "Willpower and workaround loops explained; why regulation sticks.",
       "seasonality": [],
-      "status": "queued"
+      "status": "published",
+      "post": "why-app-blockers-dont-work",
+      "published": "2026-11-16"
     },
     {
       "keyword": "screen time limits not working",
@@ -1529,7 +1532,7 @@
       "seasonality": [],
       "status": "covered",
       "notes": "Apple community and Reddit rank.",
-      "covered_by": "screen-time-guilt"
+      "covered_by": "why-app-blockers-dont-work"
     },
     {
       "keyword": "how to stop checking your phone",
@@ -2922,9 +2925,10 @@
       "content_type": "explainer",
       "angle": "Explain Screen Time APIs, friction and lockouts plainly, then contrast restricting your phone with regulating your state.",
       "seasonality": [],
-      "status": "queued",
+      "status": "covered",
       "source": "expansion",
-      "added": "2026-10-11"
+      "added": "2026-10-11",
+      "covered_by": "why-app-blockers-dont-work"
     },
     {
       "keyword": "how to block distracting apps",

@@ -1,0 +1,266 @@
+{
+  "title_options": [
+    "Why app blockers don't work (for a lot of us), and what to try instead",
+    "Why app blockers don't work: the workaround loop, explained fairly",
+    "Why app blockers don't work long term: it's your state, not your minutes"
+  ],
+  "search_intent": "Mostly behavioral. The searcher has tried Screen Time limits or a blocker app and keeps bypassing it (Ignore Limit, deleting the app, switching apps). They want to know why that happens and what works better. A smaller group has a technical problem (the blocker is broken). Give them one short paragraph on technical failures and point them to the vendor's help docs.",
+  "serp_summary": "Vendor pages dominate the results. They fall into three groups: pages arguing against blockers to sell an alternative (Mindless, RepScroll, CursedScreen), pages pushing stricter no-bypass blockers (Habit Doom, Shutout, TechLockdown), and troubleshooting help docs (AppBlock, Jomo, Roots). They run 600-1,200 words, cite no peer-reviewed research, admit no case where blockers help, never mention body state or mood after scrolling, and give no script for the moment the limit screen appears. Their strong points are the override problem (Ignore Limit, One More Minute), the fact that the blocker sits on the same phone as the user, and deleting the blocker as the escape hatch.",
+  "gaps": [
+    "A fair summary of the evidence: friction and limits do reduce opens and minutes (one sec PNAS, Allcott et al.), but effects rebound (Haliburton CHI 2024)",
+    "Detox meta-analyses show small or no well-being effects: minutes change more reliably than mood",
+    "The loop has a mechanism: the urge stays, restriction can invite pushback (reactance, labeled as theory), and the feed itself can leave you feeling worse (Sagioglou & Greitemeyer affective forecasting)",
+    "The one sec follow-up found the dismiss option was the most effective element and the deliberation message did nothing, which supports offering a better next step",
+    "A clear, non-defensive section on who should keep a hard blocker",
+    "A concrete 60-second off-ramp script for the limit screen or the moment you notice your jaw clenching",
+    "Honest caveats on breathing evidence (cyclic sighing is not 4-6; Balban found no HRV change)"
+  ],
+  "outline": [
+    {
+      "h2": "Why app blockers don't work for many people (the quick answer)",
+      "points": [
+        "Answer in 40-60 words: blockers manage minutes and access, but what sends you back to the feed is your state (wound up, restless, wanting relief). When access is cut, the urge stays, so people work around it",
+        "Fairness up front: blockers and limits do reduce use for many people",
+        "One sentence for the technical crowd: if your blocker is literally failing (Safe Mode, power saving, Screen Time glitches), check the vendor's help docs. This article is about the behavioral loop"
+      ]
+    },
+    {
+      "h2": "How app blockers and Screen Time limits actually work",
+      "points": [
+        "Three types: hard limits, schedules/downtime, friction delays (a pause before the app opens)",
+        "iOS App Limits: the time's-up screen offers One More Minute, Remind Me in 15 Minutes and Ignore Limit for Today unless Block at End of Limit and a Screen Time passcode are set (TechLockdown)",
+        "The structural catch: the blocker runs on the same phone, controlled by the same person it is meant to restrain"
+      ]
+    },
+    {
+      "h2": "Do app blockers work? What the research shows",
+      "points": [
+        "one sec PNAS 2023: actual opens fell 57% over 6 weeks; 36% of attempts ended with the app closed; disclose that a coauthor created one sec",
+        "Allcott, Gentzkow & Song: self-set limits substantially reduced use; draft figure about 22 min/day (roughly a sixth). Hedge as a draft figure",
+        "Haliburton CHI 2024: 1,039 users over about 13 weeks; people took breaks from the friction and quickly fell back into overuse",
+        "Detox meta-analyses: Liu 2025, small effect (d≈0.23); Lemahieu 2025, no significant effect",
+        "Takeaway: cutting access changes minutes more reliably than how you feel"
+      ]
+    },
+    {
+      "h2": "Why you keep bypassing your own limits: the workaround loop",
+      "points": [
+        "Describe the loop: tap Ignore Limit, delete the blocker, switch to another app or the browser",
+        "Reason 1: the urge stays when access is cut (fits the rebound finding)",
+        "Reason 2: restriction can feel like a rule to push against. Label reactance as a theory and design rationale, not a proven blocker effect",
+        "Reason 3: the feed leaves you wired anyway, and people expect it to lift their mood when it lowers it (Sagioglou & Greitemeyer)",
+        "Frame it as habit and state, never addiction or a character flaw"
+      ]
+    },
+    {
+      "h2": "Who should keep using a hard blocker",
+      "points": [
+        "People who want firm limits during work or sleep",
+        "People who bypass any friction on autopilot: a passcode held by someone they trust helps",
+        "Anyone for whom a specific app is causing real harm",
+        "If use is seriously disrupting sleep, work, relationships or mood, pair a blocker with talking to a doctor or therapist"
+      ]
+    },
+    {
+      "h2": "What to do instead of blocking apps: regulate, don't restrict",
+      "points": [
+        "Offer a better next step instead of a wall: the one sec follow-up found the dismiss option worked best and the deliberation message did nothing",
+        "Exhale-led slow breathing: Laborde 2022 (223 studies) found vagally mediated HRV rose during, right after and across multi-session practice",
+        "Balban 2023: 5 min/day of cyclic sighing improved positive affect more than mindfulness; no HRV change. Call 4-6 'in the same family', not the tested pattern",
+        "Glossary link for HRV or vagus nerve if available (max 2)"
+      ]
+    },
+    {
+      "h2": "A 60-second script for the mid-scroll moment",
+      "points": [
+        "Trigger: the limit screen appears, or you notice your jaw clench or shoulders rise",
+        "Numbered steps: phone face down; one long sigh out; 4 in, 6 out for 3 rounds (about 30 seconds); check jaw, shoulders, breath; then close, or continue on purpose",
+        "What it feels like and common mistakes (forcing big breaths, rushing the exhale)",
+        "Link the calm 4-6 breathing tool at /tools/",
+        "Safety: stop if dizzy, lightheaded or tingly"
+      ]
+    },
+    {
+      "h2": "Where DeRot fits",
+      "points": [
+        "One short mention: DeRot meets you mid-scroll and pauses your apps while you reset with a few calming breaths. Lead with the felt experience (shoulders drop, the wired feeling fades)",
+        "Pre-launch: point to the launch newsletter, not a download",
+        "Do not compare it to or rank it against named blockers; never say 'locks'"
+      ]
+    }
+  ],
+  "questions": [
+    "Do app blockers actually work?",
+    "Why do I keep bypassing my own Screen Time limits?",
+    "How do I remove Ignore Limit or One More Minute on iPhone?",
+    "Is a hard blocker or a soft friction app better?",
+    "Why do I delete the blocker app after a few days?",
+    "Does a social media detox make you happier?",
+    "Why do I feel worse after scrolling but keep doing it?",
+    "Can breathing help with the urge to keep scrolling?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409",
+      "title": "Directing smartphone use through the self-nudge app one sec",
+      "publisher": "PNAS (Grüning, Riedel, Lorenz-Spreen)",
+      "year": "2023",
+      "key_findings": "280 iOS users analyzed over 6 weeks: actual opens fell 57%; 36% of attempts ended with the app closed; attempts fell 37%. A follow-up (n=500) found the dismiss option had the strongest effect and the deliberation message was not effective. Coauthor Riedel created one sec. Self-selection and self-report limitations."
+    },
+    {
+      "id": "S2",
+      "url": "https://mcml.ai/publications/hgr+24/",
+      "title": "A Longitudinal In-the-Wild Investigation of Design Frictions to Prevent Smartphone Overuse",
+      "publisher": "ACM CHI 2024 (Haliburton et al.)",
+      "year": "2024",
+      "key_findings": "1,039 users tracked for an average of 13.4 weeks. Friction reduced attempts and made opens more deliberate, but users took breaks from the interventions and quickly fell back into overuse."
+    },
+    {
+      "id": "S3",
+      "url": "https://causalclaims.trfetzer.com/paper/w28936.html",
+      "title": "Digital Addiction (Allcott, Gentzkow, Song)",
+      "publisher": "NBER w28936 / AER",
+      "year": "2022",
+      "key_findings": "Randomized experiment: self-set limits substantially reduce use. Effects are consistent with habit formation. People are partly unaware of their self-control problems."
+    },
+    {
+      "id": "S4",
+      "url": "https://conference.nber.org/conf_papers/f157494.pdf",
+      "title": "Digital Addiction, July 2021 conference draft",
+      "publisher": "NBER",
+      "year": "2021",
+      "key_findings": "Limit treatment cut use of six apps by about 22 min/day (17%). Draft figure, not verified in the published paper."
+    },
+    {
+      "id": "S5",
+      "url": "https://scinapse.io/papers/2072037113",
+      "title": "Facebook's emotional consequences: Why Facebook causes a decrease in mood and why people still use it",
+      "publisher": "Computers in Human Behavior (Sagioglou & Greitemeyer)",
+      "year": "2014",
+      "key_findings": "Facebook activity lowered mood, mediated by feeling the time was wasted. People keep using it because they expect to feel better (affective forecasting error)."
+    },
+    {
+      "id": "S6",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11939267/",
+      "title": "Am I Happier Without You? Social Media Detox and Well-Being: A Meta-Analysis of RCTs",
+      "publisher": "Behavioral Sciences (Liu et al.)",
+      "year": "2025",
+      "key_findings": "20 RCTs, 10,106 participants. Small well-being effect, d=0.233. Detox type made no difference. High heterogeneity; mostly students."
+    },
+    {
+      "id": "S7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40038410/",
+      "title": "Lemahieu et al., social media abstinence meta-analysis (abstract)",
+      "publisher": "Scientific Reports via PubMed",
+      "year": "2025",
+      "key_findings": "10 studies, 4,674 adults. Abstinence had no significant effect on positive affect, negative affect or life satisfaction."
+    },
+    {
+      "id": "S8",
+      "url": "https://www.psypost.org/taking-a-break-from-social-media-does-not-improve-mental-health-mass-data-review/",
+      "title": "Taking a break from social media does not improve mental health",
+      "publisher": "PsyPost",
+      "year": "2026",
+      "key_findings": "Coverage of Lemahieu: duration did not matter; many participants struggled to stay off; boredom and isolation may cancel out benefits."
+    },
+    {
+      "id": "S9",
+      "url": "https://fis.dshs-koeln.de/de/publications/effects-of-voluntary-slow-breathing-on-heart-rate-and-heart-rate-/",
+      "title": "Effects of voluntary slow breathing on heart rate and heart rate variability: systematic review and meta-analysis",
+      "publisher": "Neuroscience & Biobehavioral Reviews (Laborde et al.)",
+      "year": "2022",
+      "key_findings": "223 studies. Vagally mediated HRV increased during, immediately after and after multi-session slow breathing; few adverse effects expected."
+    },
+    {
+      "id": "S10",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Cell Reports Medicine (Balban et al.), Stanford",
+      "year": "2023",
+      "key_findings": "n=108, 5 min/day for 28 days. Cyclic sighing raised positive affect more than mindfulness and lowered respiratory rate. No significant HR or HRV change. Small, exploratory trial that excluded several medical conditions."
+    },
+    {
+      "id": "S11",
+      "url": "https://www.techlockdown.com/articles/fix-ignore-limit-screen-time",
+      "title": "How to Fix the \"Ignore Limit\" Screen Time Bypass for App Limits",
+      "publisher": "TechLockdown",
+      "year": "n.d.",
+      "key_findings": "The iOS time's-up screen offers One More Minute, Remind Me in 15 Minutes and Ignore Limit for Today unless Block at End of Limit and a Screen Time passcode are set."
+    },
+    {
+      "id": "S12",
+      "url": "https://www.airdroid.com/ios-parental/how-to-remove-ignore-limit-option-on-screen-time/",
+      "title": "How to remove Ignore Limit option on Screen Time",
+      "publisher": "AirDroid",
+      "year": "n.d.",
+      "key_findings": "Confirms that Block at End of Limit plus a Screen Time passcode removes the Ignore Limit option."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "In a 6-week field study of 280 analyzed users, the one sec friction app cut actual app openings by 57%.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Users closed the target app in 36% of opening attempts after the one sec intervention.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "In a 500-person follow-up experiment, the option to dismiss had the strongest effect and the deliberation message was not effective.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "A coauthor of the one sec PNAS study (Riedel) created the app.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Tracking 1,039 one sec users for an average of 13.4 weeks found that users took breaks from the friction and quickly fell back into overuse on returning.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "In a randomized experiment, letting people set limits on future screen time substantially reduced use, and people were partly unaware of their self-control problems.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "In the July 2021 draft, the limit tool cut use of six apps by about 22 minutes a day (17%). This is a draft figure; phrase it as 'about a sixth'.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "Facebook use lowered mood, yet people expected to feel better afterward (an affective forecasting error).",
+      "source_id": "S5"
+    },
+    {
+      "fact": "A meta-analysis of 20 RCTs (10,106 participants) found social media detox had a small well-being effect (d=0.233), and detox type made no difference.",
+      "source_id": "S6"
+    },
+    {
+      "fact": "A meta-analysis of 10 studies (4,674 adults) found abstaining from social media had no significant effect on positive affect, negative affect or life satisfaction.",
+      "source_id": "S7"
+    },
+    {
+      "fact": "A meta-analysis of 223 studies found slow breathing increased vagally mediated HRV during, immediately after and across multi-session practice.",
+      "source_id": "S9"
+    },
+    {
+      "fact": "5 minutes a day of cyclic sighing for 28 days raised positive affect more than mindfulness meditation (n=108), with no significant change in HRV.",
+      "source_id": "S10"
+    },
+    {
+      "fact": "The iOS App Limit screen offers One More Minute and Ignore Limit for Today unless Block at End of Limit and a Screen Time passcode are set.",
+      "source_id": "S11"
+    }
+  ],
+  "safety_notes": [
+    "Breathing at 4 in, 6 out has no holds. Still, stop and breathe normally if you feel dizzy, lightheaded or tingly, and don't force big breaths.",
+    "Box breathing, 4-7-8 and fast breathing are not for everyone (pregnancy, heart or lung conditions, a history of fainting or panic). The Balban trial excluded people with heart disease, seizures, pregnancy, psychosis or bipolar disorder.",
+    "Never claim breathing treats anxiety or compulsive use. Use 'can help you feel calmer'. Do not claim the studies tested the 4-6 pattern or DeRot.",
+    "Avoid addiction framing. If you cite Allcott et al.'s title, present 'digital addiction' as their phrase and frame it as habit.",
+    "If phone use is seriously disrupting sleep, work, relationships or mood, a firm blocker plus talking to a doctor or therapist is reasonable. For crisis, point to local emergency services or 988 in the US.",
+    "Disclose that the one sec creator coauthored the research. Hedge the 22 min/17% figure as coming from a draft.",
+    "Leave out the WellSpent and Etkin claims (unverified), or mention them only as researchers' arguments without numbers."
+  ],
+  "word_count_target": 1900,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: \"why app blockers don't work\" (explainer)\n\n## SERP ANALYSIS\n\n**Who ranks.** Results for this keyword are almost all vendor pages, and there is no neutral or research-led explainer.\n- **Pages that argue against blocking to sell an alternative:** [Mindless (beehiiv)](https://mindless.beehiiv.com/p/why-blocking-apps-doesn-t-work), [a willpower/bypass blog](https://przem-client.pages.dev/blog/when-willpower-hacks-stop-working-why-you-keep-bypassing-your-own-blockers-1773401892441) (now unreachable), [RepScroll](https://repscroll.com/blog/screen-time-blocker-that-actually-works) and [CursedScreen](https://cursedscreen-website.pages.dev/blog/site-blocker/).\n- **Pages that push stricter blockers:** [Habit Doom \"no bypass\"](https://habitdoom.com/blog/doomscrolling-apps-no-bypass-2026), [Shutout's Notion page](https://shutout.notion.site/Third-Party-Screen-Time-Blockers-Like-Opal-Freedom-and-Clearspace-Are-Useless-on-iOS-1604a04f7cca80bdb4b9ca0b46a50a6d) and [TechLockdown](https://www.techlockdown.com/articles/fix-ignore-limit-screen-time).\n- **Troubleshooting help pages:** [AppBlock usage limits](https://appblock.app/usage-limits-do-not-work-2/), [Jomo](https://help.jomo.so/en/article/blocking-doesnt-seem-to-be-working-pr6ji2/) and [Roots](https://intercom.help/roots/en/articles/10203224-app-blocking-is-not-working).\n\n**Search intent is split.**\n1. **Technical:** \"my blocker is broken.\" Examples are Android Safe Mode and power saving disabling blockers, and iOS Screen Time data being unreliable.\n2. **Behavioral:** \"I keep bypassing it.\"\n\nOur article serves the behavioral intent. One short paragraph acknowledging the technical failures would catch the first group too.\n\n**Typical format.** Pages run 600 to 1,200 words. They give a few reasons blockers \"fail\" and then pitch their own product. The Mindless piece is a good example: about 700 words, three headings, no studies cited, an unsourced \"3x longer stressed Instagram sessions\" claim, and a call to \"Get Mindless.\"\n\n**What they cover well.**\n- The override problem, including Apple's \"Ignore Limit\" and \"One More Minute\" ([TechLockdown](https://www.techlockdown.com/articles/fix-ignore-limit-screen-time), [AirDroid](https://www.airdroid.com/ios-parental/how-to-remove-ignore-limit-option-on-screen-time/), [Apple Community threads](https://discussions.apple.com/thread/253661766?page=1)).\n- The fact that the blocker sits on the same phone, controlled by the same person it is meant to restrain.\n- Deleting the blocker as the escape hatch.\n\n**What they miss or get wrong.**\n- **No peer-reviewed evidence.** None cite the one sec PNAS study, the Allcott/Gentzkow/Song field experiment, or the detox meta-analyses.\n- **No fairness.** None say clearly that limits do reduce use for many people (Allcott et al.), or who should keep a hard blocker.\n- **Wrong fix.** The strict-blocker vendors answer \"it didn't work\" with \"lock harder\" and never ask why the urge comes back.\n- **Body state is missing.** Mood after scrolling, the affective forecasting error (expecting to feel better, feeling worse) and arousal are never mentioned.\n- **No scripts.** Nobody gives a concrete thing to do in the moment the limit screen appears.\n\n## GAPS AND ANGLE\n\n1. **Fair evidence summary.** Friction and limits do work on the numbers:\n   - one sec cut actual app openings by 57% over 6 weeks.\n   - Allcott et al.'s limit tool reduced use. The figure in the July 2021 conference draft is 22 min/day (17%), and participants valued the tool.\n\n   But the effects rebound. Haliburton 2024 found users take breaks from the friction and quickly fall back into overuse when they return. Fully quitting social media has mixed or small effects on well-being:\n   - Lemahieu 2025: no significant effect.\n   - Liu 2025: d ≈ 0.23.\n\n   Message: cutting access changes minutes more reliably than it changes how you feel.\n2. **Mechanism of the loop, three parts:**\n   - (a) The urge stays when access is cut, which fits Haliburton's rebound finding.\n   - (b) Restriction can feel like a rule to push against (reactance). Label this as a theory and design rationale, not a proven effect for blockers.\n   - (c) The feed itself can leave you feeling worse, and people misjudge this. Sagioglou & Greitemeyer found people expect Facebook to lift their mood when it lowers it.\n3. **A useful detail from the one sec experiment (n=500).** The *option to dismiss* (an easy off-ramp) had the strongest effect. The deliberation message alone did nothing. This supports \"offer a better next step\" over \"wag a finger\" without overclaiming. Disclose that a coauthor founded one sec.\n4. **Regulation alternative.** Catch the mid-scroll moment and use exhale-led slow breathing.\n   - Laborde 2022 (223 studies): slow breathing raises vagally mediated HRV during, right after, and across multi-session practice.\n   - Balban 2023 (n=108): 5 min/day of exhale-emphasized cyclic sighing improved positive affect more than mindfulness meditation.\n   - **Caveat:** cyclic sighing is not 4-in-6-out, and Balban found no HRV change. Describe 4-6 as \"slow, exhale-led breathing in the same family.\" Do not claim the studies tested DeRot's exact pattern.\n5. **Who should keep a hard blocker.** People who want firm limits during work or sleep, people for whom any friction gets bypassed on autopilot and a passcode held by someone else helps, and anyone for whom a specific app is causing real harm. Plus a pointer to professional help.\n6. **Off-ramp script (60 seconds).** When the limit screen appears or you notice the jaw clench: put the phone face down, sigh out once, then do 4 in and 6 out for about 30 seconds (3 rounds). Check in on shoulders, jaw and breath, then choose deliberately: close, or continue on purpose. Link /tools/ (the calm 4-6 timer).\n7. **Product mentions.** DeRot appears once or twice as the \"regulate, don't restrict\" version: it meets you mid-scroll and pauses the app while you reset with a few calming breaths. Never rank it against named blockers.\n\n## QUESTIONS\n\n- Do app blockers actually work?\n- Why do I keep bypassing my own Screen Time limits?\n- How do app blockers work? (hard limits, schedules, friction delays, Screen Time API)\n- Is a hard blocker or a \"soft\" friction app better?\n- How do I remove \"Ignore Limit\" / \"One More Minute\" on iPhone? (Block at End of Limit plus a Screen Time passcode, per [AirDroid](https://www.airdroid.com/ios-parental/how-to-remove-ignore-limit-option-on-screen-time/) and [TechLockdown](https://www.techlockdown.com/articles/fix-ignore-limit-screen-time))\n- Why do I delete the blocker app after a few days?\n- Does a social media detox make you happier?\n- Why do I feel worse after scrolling but keep doing it?\n- What can I do instead of blocking apps?\n- Can breathing help with the urge to keep scrolling?\n- Does setting a time limit make you use your phone more? (Etkin's early Duke work; see the source note below)\n\n## SOURCES\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9974409 | Directing smartphone use through the self-nudge app one sec | PNAS (Grüning, Riedel, Lorenz-Spreen) | 2023 | Field study: 719 iOS users recruited, 280 analyzed over 6 weeks. In 36% of attempts users closed the target app after the intervention. Attempts fell 37% from week 1 (166/user) to week 6 (105). Actual openings fell 57%. 10-s delay with moving screen effect. Self-reported about 77 min/day less on apps and higher satisfaction with their consumption (d=0.81). A follow-up experiment with 500 participants found the dismiss option had the strongest effect, the time delay also reduced consumption, and the deliberation message was not effective. Limitations: self-selection, attrition, self-report, iOS only. Coauthor Riedel created one sec.\n\nhttps://mcml.ai/publications/hgr+24/ | A Longitudinal In-the-Wild Investigation of Design Frictions to Prevent Smartphone Overuse | ACM CHI 2024 (Haliburton, Grüning, Riedel, Schmidt, Terzimehić) | 2024 | 1,039 one sec users tracked for an average of 13.4 weeks, plus a survey of 249. Most targeted social media. Friction reduced opening attempts and made opens more deliberate. Users took periodic breaks from the interventions and quickly fell back into overuse when they returned.\n\nhttps://causalclaims.trfetzer.com/paper/w28936.html | Digital Addiction (Allcott, Gentzkow, Song), abstract summary | NBER w28936 / AER | 2022 | Randomized experiment. Letting people set limits on future screen time \"substantially reduces use.\" Temporary incentives had lasting effects, consistent with habit formation. The model implies self-control problems cause 31% of social media use. People are partly unaware of their self-control problems. (Supporting detail: the [July 2021 conference draft](https://conference.nber.org/conf_papers/f157494.pdf) reports the limit treatment cut use of the six study apps (Facebook, Instagram, Twitter, Snapchat, browser, YouTube) by 22 min/day (17%). The full paper's sample is about 2,000 users (1,933 per the Hamilton brief). The incentive arm cut use 39%. These numbers come from the draft and search summaries and were not verified in the published AER text, so use cautiously or phrase as \"about a sixth.\")\n\nhttps://scinapse.io/papers/2072037113 | Facebook's emotional consequences: Why Facebook causes a decrease in mood and why people still use it | Computers in Human Behavior (Sagioglou & Greitemeyer), vol. 35, 359-363 | 2014 | Study 1: the longer people were active on Facebook, the more negative their mood afterward. Study 2 (experimental) showed Facebook activity caused a drop in mood, mediated by feeling it was less meaningful or a waste of time. People keep using it because they expect to feel better afterward (affective forecasting error). Caveat: there are few experiments on this, and other work finds brief positive effects after active posting.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC11939267/ | Am I Happier Without You? Social Media Detox and Well-Being: A Meta-Analysis of RCTs | Behavioral Sciences (Liu et al.) | 2025 | 20 RCTs, 10,106 participants. Small positive effect on overall well-being: d=0.233 (95% CI 0.154-0.313); positive indicators d=0.231, negative indicators d=0.239. Detox type (full abstinence, limited use, therapy-based) made no significant difference. High heterogeneity (I² about 70%). Mostly students.\n\nhttps://www.psypost.org/taking-a-break-from-social-media-does-not-improve-mental-health-mass-data-review/ | Taking a break from social media does not improve mental health (coverage of Lemahieu et al., Scientific Reports) | PsyPost | 2025 study (article dated 2026) | 10 studies, 4,674 adults, abstinence lasting from 1 day to about 4 weeks. No significant effect on positive affect, negative affect or life satisfaction. Duration did not matter. Many participants struggled to stay off. Benefits and drawbacks such as boredom and isolation may cancel out. Original abstract on [PubMed 40038410](https://pubmed.ncbi.nlm.nih.gov/40038410/).\n\nhttps://fis.dshs-koeln.de/de/publications/effects-of-voluntary-slow-breathing-on-heart-rate-and-heart-rate-/ | Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis | Neuroscience & Biobehavioral Reviews 138:104711 (Laborde et al.) | 2022 | 223 studies included (172 during-session, 16 immediately after one session, 49 after multi-session interventions). Vagally mediated HRV increased at all three time points. The authors call slow breathing a low-tech, low-cost technique \"with few adverse effects expected.\"\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9873947 | Brief structured respiration practices enhance mood and reduce physiological arousal | Cell Reports Medicine (Balban et al.), Stanford | 2023 | Remote RCT, n=108 (30 cyclic sighing, 21 box breathing, 33 cyclic hyperventilation, 24 mindfulness), 5 min/day for 28 days. Cyclic sighing (double inhale, then a long exhale) raised positive affect significantly more than mindfulness, and the effect grew with more days of practice. It cut respiratory rate more than mindfulness. State anxiety fell about 3.85 points per session (similar to mindfulness). No significant change in resting HR or HRV. 90% reported positive experiences. Excluded people with heart disease, seizures, pregnancy, psychosis or bipolar disorder. Small, exploratory, retrospectively registered.\n\nhttps://www.techlockdown.com/articles/fix-ignore-limit-screen-time | How to Fix the \"Ignore Limit\" Screen Time Bypass for App Limits | TechLockdown | n.d. | Describes iOS App Limits: the \"time's up\" screen offers One More Minute, Remind Me in 15 Minutes, and Ignore Limit for Today unless \"Block at End of Limit\" and a Screen Time passcode are set. Use only for factual description of how Screen Time limits work. No official Apple support page appeared in results. Corroborated by [AirDroid](https://www.airdroid.com/ios-parental/how-to-remove-ignore-limit-option-on-screen-time/).\n\n**Low confidence (cite cautiously or not at all):**\n\nhttps://mhealth.jmir.org/2026/1/e56824 | WellSpent RCT | JMIR mHealth | 2026 | The page could not be loaded. Per the search snippet: the introduction argues that overly restrictive tools such as app blocking \"can undermine users' sense of autonomy and trigger psychological reactance,\" reducing continued use. It reports short-term reductions in problematic smartphone use with a user-defined limit that offers a quit/continue choice. Cite only as \"researchers designing these tools have argued...\" Sample size and effects are unverified.\n\nhttps://medicalxpress.com/news/2021-08-online-limits-backfire.pdf | Online limits may backfire (Jordan Etkin, Duke) | Medical Xpress | 2021 | Early research. The search snippet says optional self-set time limits may lead people to spend more time online. The PDF could not be read and the details are unverified. Mention only as early or unpublished at most, or leave it out.\n\n## SAFETY\n\n- **Breathing:** 4 in / 6 out is gentle and has no breath holds. Still: stop and return to normal breathing if you feel dizzy, lightheaded or tingly, and don't force big breaths. Box breathing and 4-7-8 involve holds, and the physiological sigh can feel effortful. These are not for everyone (pregnancy, heart or lung conditions, a history of fainting or panic). Note that the Balban trial excluded people with heart disease, seizures, pregnancy, psychosis or bipolar disorder.\n- **Claims:** never say breathing treats anxiety, compulsive use or any condition. Use \"can help you feel calmer\" or \"is associated with.\" Balban found no HRV change, and the HRV evidence comes from Laborde's meta-analysis of slow breathing generally, not of DeRot's pattern.\n- **Don't shame the reader.** Avoid \"addiction\" framing. Allcott et al. use the term \"digital addiction\" in their title; quote it as their phrase if needed, but frame it as habit and self-control.\n- **Who should keep a hard blocker.** If someone's phone use is seriously disrupting sleep, work, relationships or mood, a firm blocker (with the passcode held by someone they trust) is a reasonable choice, alongside talking to a doctor or therapist. For persistent anxiety or distress, recommend professional support. For crisis, point to local emergency services or 988 in the US.\n- **Disclose conflicts of interest:** the one sec research includes the app's creator as coauthor.\n\n---\n\n**What to know before drafting:**\n- **Search budget:** I used all 10 searches.\n- **Pages I couldn't open:** the published AER paper, the WellSpent study, the Etkin piece and Apple's own Screen Time support page. That is why the 22 min/17% figure is marked as from a draft and why the Screen Time description relies on third-party guides.\n\nThe strongest evidence to build the article around is one sec (PNAS 2023), Haliburton's long-term study (CHI 2024), Sagioglou (2014), the two detox meta-analyses, Laborde (2022) and Balban (2023)."
+}
