@@ -2123,8 +2123,10 @@
       "content_type": "comparison",
       "angle": "One sec adds friction before opening; DeRot meets you mid-scroll with a full calm breath.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Mostly one-sec.app's own pages rank."
+      "status": "published",
+      "notes": "Mostly one-sec.app's own pages rank.",
+      "post": "one-sec-alternative",
+      "published": "2026-11-17"
     },
     {
       "keyword": "one sec vs opal",
@@ -2288,7 +2290,7 @@
       "seasonality": [],
       "status": "covered",
       "notes": "Android 17 Pause Point coverage; one sec targets this term.",
-      "covered_by": "app-breathe-before-opening-instagram"
+      "covered_by": "one-sec-alternative"
     },
     {
       "keyword": "app that makes you breathe before opening instagram",
@@ -2316,7 +2318,7 @@
       "seasonality": [],
       "status": "covered",
       "notes": "Chrome extension 'Mindful Scroll' competes.",
-      "covered_by": "app-breathe-before-opening-instagram"
+      "covered_by": "one-sec-alternative"
     },
     {
       "keyword": "best app to stop doomscrolling",
