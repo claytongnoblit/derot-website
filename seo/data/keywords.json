@@ -1281,7 +1281,8 @@
         1,
         11
       ],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "how-to-stop-news-anxiety"
     },
     {
       "keyword": "headline stress disorder",
@@ -1293,7 +1294,8 @@
       "content_type": "glossary",
       "angle": "Explain the non-clinical term and offer calming steps.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "how-to-stop-news-anxiety"
     },
     {
       "keyword": "heart racing while scrolling",
@@ -3069,9 +3071,11 @@
       "content_type": "how-to",
       "angle": "Stay informed without the wired feeling: a mid-scroll breath reset plus kinder news habits, not a news detox.",
       "seasonality": [],
-      "status": "queued",
+      "status": "published",
       "source": "expansion",
-      "added": "2026-10-11"
+      "added": "2026-10-11",
+      "post": "how-to-stop-news-anxiety",
+      "published": "2026-11-18"
     },
     {
       "keyword": "why does the news make me anxious",
@@ -3083,9 +3087,10 @@
       "content_type": "explainer",
       "angle": "Explain the threat-detection stress response that alarming headlines trigger, and why reading the news on a feed amplifies it.",
       "seasonality": [],
-      "status": "queued",
+      "status": "covered",
       "source": "expansion",
-      "added": "2026-10-11"
+      "added": "2026-10-11",
+      "covered_by": "how-to-stop-news-anxiety"
     },
     {
       "keyword": "resonance frequency breathing app",
@@ -3153,9 +3158,10 @@
       "content_type": "explainer",
       "angle": "Why big-picture dread builds feed by feed, and how a slow exhale mid-scroll brings your body back to the room you're in.",
       "seasonality": [],
-      "status": "queued",
+      "status": "covered",
       "source": "expansion",
-      "added": "2026-10-18"
+      "added": "2026-10-18",
+      "covered_by": "how-to-stop-news-anxiety"
     },
     {
       "keyword": "how to calm anxiety quickly at night",

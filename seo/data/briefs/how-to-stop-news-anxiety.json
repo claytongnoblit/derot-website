@@ -1,0 +1,278 @@
+{
+  "title_options": [
+    "How to stop news anxiety (without quitting the news)",
+    "How to stop news anxiety: a mid-scroll reset and kinder news habits",
+    "News anxiety: why headlines keep you on alert, and how to come back down"
+  ],
+  "search_intent": "Informational how-to. Searchers feel anxious or wired after following the news and want practical ways to feel calmer while still staying informed. Secondary intent: understand why the news affects them and whether \"headline stress disorder\" is real.",
+  "serp_summary": "Mayo Clinic holds several top spots with a short, generic tip page that ends in a \"when to get help\" section. Below it are Medical News Today, Fortune Well, Stylist, Foundry BC, ieso, an ADAA member blog, Stanford Magazine, Who What Wear, Yahoo, and some Substacks. Doomscrolling variants bring up KQED, Mental Floss, Wondermind, Down To Earth/The Conversation, AJC (Jan 2026), and some spam. Nearly every result is a listicle of 5 to 15 tips: set check-in times, use a timer, turn off notifications, pick 2 to 3 trusted sources, read instead of watching, skip news before bed, take breaks, turn worry into action, look for good news, a vague \"slow your breathing,\" and get help if it persists. They cite almost nothing, never explain why the body stays on alert, often treat \"headline stress disorder\" as a diagnosis, and several push a \"news detox.\"",
+  "gaps": [
+    "No result explains why headlines keep the body on alert. Two mechanisms are missing: repeated media exposure keeping the stressor active (Holman 2014) and the checking loop, where people consume more news to ease the feeling of threat (McLaughlin 2022).",
+    "Breathing gets one vague line. No result gives counts, timing, or a reset for the moment you're partway through a news scroll.",
+    "Headline stress disorder is rarely defined honestly as a popular label coined by Steven Stosny rather than a clinical diagnosis.",
+    "Several results push a 'news detox' or 'cleanse', which treats the reader as the problem and conflicts with staying informed.",
+    "No result discusses evidence nuance: the data is mostly correlational and may run both ways, and experiments show short-term mood dips rather than anxiety disorders.",
+    "Results only adjust how much news you take in. None look at format (an endless feed vs. an article or newsletter that ends) or at how you feel afterward."
+  ],
+  "outline": [
+    {
+      "h2": "How do you stop news anxiety? The quick answer",
+      "points": [
+        "Answer-first, 40-60 words: staying informed is fine. The trouble is the delivery: alarming headlines arriving one after another in a feed that never ends, so your body stays on alert after you already have the facts. Reset mid-scroll with a few slow breaths, then change how the news reaches you, not whether you follow it.",
+        "Include the primary keyword naturally.",
+        "Use the APA 2017 figures: 95% follow the news regularly and 56% say it causes them stress. This is a common experience, not a personal failing."
+      ]
+    },
+    {
+      "h2": "Why do headlines put your body on alert?",
+      "points": [
+        "Headlines are written to grab attention. In a feed you get threat after threat, each one shown without its context.",
+        "Holman 2014: after the Boston Marathon bombings, 6+ hours a day of coverage was associated with more acute stress than being there in person. Repeated exposure may prolong acute stress.",
+        "de Hoog & Verboon 2020: ordinary daily news shifted mood in the moment, more so when it felt personally relevant. News doesn't need to be extreme to affect you.",
+        "Describe the feeling: tight jaw, raised shoulders, wired but tired."
+      ]
+    },
+    {
+      "h2": "Why you keep checking even when it makes you feel worse",
+      "points": [
+        "McLaughlin 2022 calls this misregulation: consuming more news to ease the sense of threat. Use the verbatim 'vicious cycle' quote.",
+        "This explains the 20-minutes-later feeling. It comes from how the feed works, not from a character flaw.",
+        "Stosny's advice: read past the headline, because the details are usually less alarming than the headline suggests."
+      ]
+    },
+    {
+      "h2": "What is headline stress disorder? (A popular label, not a diagnosis)",
+      "points": [
+        "Quotable definition: a term psychologist Steven Stosny coined, first as 'election stress disorder' around 2016, for strong emotional reactivity to the news. It is not a clinical diagnosis.",
+        "Stosny pointed to smartphone alerts, social media, and 24-hour cable news.",
+        "Don't use the label to diagnose readers. If distress is persistent, see the support section."
+      ]
+    },
+    {
+      "h2": "A 60-second reset for the middle of a news scroll",
+      "points": [
+        "Numbered steps: 1) Notice your jaw and shoulders and let them drop. 2) Do 3 to 5 Calm breaths (inhale 4, exhale 6), or one or two physiological sighs (a full inhale, a short top-up inhale, then a long slow exhale). 3) Decide on purpose whether to keep reading, switch to a full article, or close the app.",
+        "Describe what it feels like and common mistakes: forcing the exhale, doing rapid repeated sighs.",
+        "Evidence honesty: Balban 2023 tested 5 minutes a day for 28 days. Cyclic sighing gave the biggest gain in positive mood, but anxiety fell about the same across all groups, including mindfulness. Present the short version as a practical adaptation, not a tested dose.",
+        "Link to the calm 4-6 breathing tool and the physiological sigh tool. If it helps the reader, mention once that DeRot meets you mid-scroll and pauses your apps while you reset with a few calming breaths.",
+        "Short safety note: stop if you feel dizzy."
+      ]
+    },
+    {
+      "h2": "Kinder news habits that keep you informed",
+      "points": [
+        "Set check-in times instead of checking all day.",
+        "Turn off breaking-news alerts.",
+        "Read instead of watching autoplay clips. Holman links heavy broadcast exposure to acute stress.",
+        "Follow a few trusted sources or newsletters that end, instead of the infinite feed.",
+        "Read past the headline.",
+        "End each session on one thing you can actually do."
+      ]
+    },
+    {
+      "h2": "Why a 'news detox' isn't the answer",
+      "points": [
+        "A detox frames you as the problem. Avoiding uncertainty can feed more checking when you come back.",
+        "Short breaks are fine, especially after a traumatic event.",
+        "Selective news avoidance is at an all-time high (Reuters 2025, nearly 100,000 people in 48 markets). The goal is to take in news better, not to tune out completely."
+      ]
+    },
+    {
+      "h2": "What the research on news and anxiety does and doesn't show",
+      "points": [
+        "Most large studies are cross-sectional and correlational, and the relationship may run both ways: distressed people may seek out more news.",
+        "McLaughlin: 16.5% had severely problematic consumption, and 73.6% of that group reported mental ill-being vs 8% of others. Measured at a single time point.",
+        "Shabahang 2024: doomscrolling was moderately associated with existential anxiety in 800 students.",
+        "Experiments show short-term mood dips. They don't show that news causes anxiety disorders."
+      ]
+    },
+    {
+      "h2": "When news anxiety needs more support",
+      "points": [
+        "If worry persists, disrupts sleep or eating, or feels like more than you can handle, talk to a doctor or mental health professional.",
+        "If directly affected by a traumatic event, limit repeated graphic coverage.",
+        "If you're in crisis, call or text 988 in the US or contact local emergency services."
+      ]
+    }
+  ],
+  "questions": [
+    "Why does the news make me so anxious?",
+    "Is headline stress disorder a real diagnosis?",
+    "Is it OK to stop watching the news for my mental health?",
+    "How do I stay informed without doomscrolling?",
+    "Can doomscrolling cause existential anxiety or dread?",
+    "Why can't I stop checking the news when it makes me feel worse?",
+    "Is reading the news better than watching it?",
+    "Should I avoid news before bed?",
+    "When is news anxiety something to see a professional about?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3890785",
+      "title": "Media's role in broadcasting acute stress following the Boston Marathon bombings",
+      "publisher": "PNAS via PubMed Central",
+      "year": "2014",
+      "key_findings": "Survey of 4,675 US adults. 6+ hours a day of bombing coverage was associated with more acute stress than direct exposure, and those with 6+ hours were about 9 times as likely to report high acute stress. Repeated exposure may prolong acute stress. Cross-sectional, possibly bidirectional."
+    },
+    {
+      "id": "S2",
+      "url": "https://www.eurekalert.org/news-releases/962341",
+      "title": "News addiction linked to poor mental and physical health",
+      "publisher": "EurekAlert / Taylor & Francis",
+      "year": "2022",
+      "key_findings": "Survey of about 1,100 US adults. 16.5% had severely problematic news consumption. In that group, 73.6% reported mental ill-being vs 8% of others, and 61% reported physical ill-being vs 6.1%. Single time point."
+    },
+    {
+      "id": "S3",
+      "url": "https://newsroom.taylorandfrancisgroup.com/news-addiction-linked-to-not-only-poor-mental-wellbeing-but-physical-health-too-new-study-shows/",
+      "title": "News addiction linked to not only poor mental wellbeing but physical health too",
+      "publisher": "Taylor & Francis",
+      "year": "2022",
+      "key_findings": "Describes misregulation (consuming more news to ease feelings of threat). Verbatim McLaughlin quotes on a 'constant state of high alert' and a 'vicious cycle' of being drawn further in."
+    },
+    {
+      "id": "S4",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7187375",
+      "title": "Is the news making us unhappy? The influence of daily news exposure on emotional states",
+      "publisher": "British Journal of Psychology via PubMed Central",
+      "year": "2020",
+      "key_findings": "Smartphone study of 63 Dutch adults over 10 days. News perceived as negative was linked to worse mood in the moment, more so when it felt personally relevant. News need not be extreme to affect mood."
+    },
+    {
+      "id": "S5",
+      "url": "https://phys.org/news/2024-07-doomscrolling-trigger-existential-crisis.html",
+      "title": "Can doomscrolling trigger an existential crisis?",
+      "publisher": "Phys.org / Flinders University",
+      "year": "2024",
+      "key_findings": "800 students in Iran and the US. Doomscrolling was moderately associated with existential anxiety. Correlational."
+    },
+    {
+      "id": "S6",
+      "url": "https://bps.org.uk/research-digest/creeping-influence-doomscrolling",
+      "title": "The creeping influence of doomscrolling",
+      "publisher": "British Psychological Society Research Digest",
+      "year": "2024",
+      "key_findings": "Independent summary of the Shabahang study confirming the moderate association and the correlational caveat."
+    },
+    {
+      "id": "S7",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Cell Reports Medicine via PubMed Central",
+      "year": "2023",
+      "key_findings": "Remote RCT, 108 people, 5 minutes a day for 28 days. Cyclic sighing gave the largest gain in positive affect and lowered respiratory rate more than mindfulness. State anxiety fell similarly across groups. No HRV changes. Small, mostly student sample."
+    },
+    {
+      "id": "S8",
+      "url": "https://m.medicalxpress.com/news/2017-11-apa-stress-america-survey-lowest.html",
+      "title": "APA Stress in America survey: US at 'lowest point we can remember'",
+      "publisher": "Medical Xpress",
+      "year": "2017",
+      "key_findings": "95% of US adults follow the news regularly, 56% say it causes them stress, and 72% say the media blows things out of proportion."
+    },
+    {
+      "id": "S9",
+      "url": "https://www.kcrw.com/stories/what-is-headline-stress-disorder-and-do-you-have-it",
+      "title": "What is headline stress disorder and do you have it?",
+      "publisher": "KCRW",
+      "year": "not stated",
+      "key_findings": "Stosny coined the term. It is not an actual diagnosis and describes high emotional reactivity to the news."
+    },
+    {
+      "id": "S10",
+      "url": "https://amp.cbc.ca/radio/tapestry/headlines-and-rejection-1.5291275/news-headlines-getting-you-down-here-s-how-to-protect-your-mental-health-1.5291287",
+      "title": "News headlines getting you down? Here's how to protect your mental health",
+      "publisher": "CBC Radio Tapestry",
+      "year": "not stated (about 2019)",
+      "key_findings": "Stosny first called it 'election stress disorder' around 2016. He cites alerts, social media, and 24-hour cable news as causes, and advises reading past the headline."
+    },
+    {
+      "id": "S11",
+      "url": "https://journalism.co.za/reuters-institute-digital-news-report-2025/",
+      "title": "Reuters Institute Digital News Report 2025 (summary)",
+      "publisher": "journalism.co.za",
+      "year": "2025",
+      "key_findings": "Survey of nearly 100,000 people in 48 markets. Selective news avoidance remains at an all-time high."
+    },
+    {
+      "id": "S12",
+      "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025",
+      "title": "Digital News Report 2025",
+      "publisher": "Reuters Institute, University of Oxford",
+      "year": "2025",
+      "key_findings": "Official report page. Confirmed figures: news avoidance of 63% in Bulgaria and 61% in Croatia."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "95% of US adults said they follow the news regularly, and 56% said doing so causes them stress (APA Stress in America, 2017).",
+      "source_id": "S8"
+    },
+    {
+      "fact": "72% of US adults believe the media blows things out of proportion.",
+      "source_id": "S8"
+    },
+    {
+      "fact": "Among 4,675 adults surveyed after the Boston Marathon bombings, 6+ hours a day of related media was associated with more acute stress than direct exposure (b=15.61 vs b=5.69).",
+      "source_id": "S1"
+    },
+    {
+      "fact": "People with 6+ hours a day of bombing coverage were about 9 times as likely to report high acute stress.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "16.5% of about 1,100 US adults showed severely problematic news consumption. 73.6% of them reported mental ill-being vs 8% of other participants.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "61% of severely problematic news consumers reported physical ill-being vs 6.1% of others.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "Misregulation means consuming more news to ease feelings of threat. McLaughlin describes a 'vicious cycle' in which people become drawn further in rather than tuning out.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "In a 10-day smartphone study of 63 adults, news perceived as more negative was associated with worse mood in the moment, and the effect was stronger when the news felt personally relevant.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "In 800 students, doomscrolling was moderately associated with existential anxiety. The study was correlational.",
+      "source_id": "S5"
+    },
+    {
+      "fact": "The BPS Research Digest describes the doomscrolling and existential anxiety link as moderate and correlational.",
+      "source_id": "S6"
+    },
+    {
+      "fact": "In a 108-person RCT, 5 minutes of daily cyclic sighing for 28 days produced the largest gain in positive affect (+1.89), but state anxiety fell similarly across all groups, including mindfulness.",
+      "source_id": "S7"
+    },
+    {
+      "fact": "Headline stress disorder was coined by psychologist Steven Stosny and is not a clinical diagnosis.",
+      "source_id": "S9"
+    },
+    {
+      "fact": "Stosny first used the term 'election stress disorder' around the 2016 US election, and he advises reading beyond the headline.",
+      "source_id": "S10"
+    },
+    {
+      "fact": "The Reuters Institute's 2025 survey of nearly 100,000 people in 48 markets found selective news avoidance at an all-time high.",
+      "source_id": "S11"
+    }
+  ],
+  "safety_notes": [
+    "Stop if you feel dizzy, lightheaded, or tingly, and go back to normal breathing. Keep the exhale gentle, and shorten the counts if 4-6 feels like a strain.",
+    "With physiological sighs, keep the second inhale small and do only one or two. Rapid repeated sighs can tip into overbreathing.",
+    "Breath holds and fast breathing are not for everyone, including people who are pregnant, have heart or lung conditions, or a history of fainting or panic. Calm 4-6 has no holds, so it is the gentler default.",
+    "Breathing can help you feel calmer in the moment. It doesn't treat anxiety disorders, PTSD, or insomnia.",
+    "Headline stress disorder is a popular label, not a diagnosis. Don't use it to diagnose readers.",
+    "If news-related worry persists, disrupts sleep or eating, or feels like more than you can handle, talk to a doctor or mental health professional.",
+    "If you're in crisis, call or text 988 (US) or contact local emergency services.",
+    "Do not cite the unverified Reuters 'about 40%' and '39%' figures, and do not quote Stosny."
+  ],
+  "word_count_target": 1900,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: \"How to stop news anxiety\"\n\n**Main things to know:**\n- I used all 10 searches and verified the key numbers by fetching the pages.\n- No source in the brief supports the Calm 4-6 breath specifically. The only breathing study here is Balban 2023, which tested 5 minutes of daily practice, so keep any physiology claims about the mid-scroll reset short and modest.\n- Three figures could not be verified: the Reuters 2025 \"about 40%\" avoidance rate, its \"39% avoid news because of mood\" figure, and any Stosny quote. Don't cite them.\n- No Reddit threads came up in search.\n\n---\n\n## SERP ANALYSIS\n\n**What ranks:** Mayo Clinic (\"How to ease anxiety when the news is affecting your life\") holds several of the top spots. After it come Medical News Today, Fortune Well, Stylist, Foundry BC, ieso, an ADAA member blog (Thriveworks), Stanford Magazine, Who What Wear (\"15 things\"), a Yahoo \"five ways\" piece, and a few Substacks. The doomscrolling queries bring up KQED, Mental Floss, Wondermind, Down To Earth/The Conversation, AJC (Jan 2026), plus low-quality Alibaba \"product-insights\" spam pages.\n\n**Format:** Almost all are tip listicles of 5 to 15 items. Mayo is short and generic, with a \"when to get help\" section at the end. The Mayo page blocked fetching (403), so its structure comes from the search snippets.\n\n**The tips they all share:**\n- Check the news at set times (Mayo suggests once in the morning and once in the evening).\n- Use a timer (for example, 20 minutes).\n- Turn off push notifications.\n- Choose 2 to 3 trusted sources.\n- Read instead of watching video.\n- Avoid news before bed.\n- Take breaks.\n- Turn worry into action, such as volunteering.\n- Look for good news to balance the bad.\n- \"Slow your breathing\" (vague, with no counts).\n- Seek professional help if symptoms persist.\n\n**What they do well:** They're sensible and permission-giving. They include a help-seeking note, and some mention that reading feels less intense than video.\n\n**What they miss or get wrong:**\n- Breathing gets one line (\"slow your breathing\") with no counts, no timing, and no guidance on when to use it. Nobody gives a reset for the moment you're midway through a scroll.\n- None of them explain why headlines keep the body on alert. The Holman/Silver \"media keeps the stressor alive\" mechanism and the McLaughlin \"misregulation\" loop (checking more to ease the threat) are both missing.\n- \"Headline stress disorder\" rarely gets a clear explanation. Pages either use it as if it were a real diagnosis or skip it. The plain definition is a popular label coined by psychologist Steven Stosny, not a diagnosis.\n- Several pages push a \"news detox\" or \"news cleanse\" (a weekly 24-hour detox, a week-long cleanse). That frames the reader as the problem and conflicts with \"stay informed.\"\n- They're weak on evidence nuance: almost no citations, and nothing on the fact that most of the data is correlational.\n- They treat amount of news as the only lever. None of them address format (an endless feed vs. a finite article or newsletter) or how you feel afterward.\n\n## GAPS AND ANGLE\n\n1. **The problem is the delivery, not the reader.** Back this with Holman 2014: in the week after the Boston Marathon bombings, 6+ hours a day of coverage was associated with more acute stress than being there. Media exposure \"keeps the acute stressor active.\" Add de Hoog & Verboon 2020: even ordinary daily news shifts mood in the moment, more so when it feels personally relevant.\n2. **The checking loop.** McLaughlin 2022 describes it: high alert leads to checking more to ease the distress, which doesn't help. This explains the \"20 minutes later\" feeling without blaming the reader.\n3. **Define headline stress disorder honestly.** It was coined by Stosny after the 2016 election (first as \"election stress disorder\"). It's not a clinical diagnosis. Note the distinction clearly so the page is easy to quote.\n4. **A mid-scroll reset script (60 seconds).** Notice your jaw and shoulders, then do 3 to 5 Calm breaths (inhale 4, exhale 6) or one or two physiological sighs (a double inhale followed by a long exhale), then decide on purpose whether to keep reading. Be honest about the evidence: Balban 2023 tested 5 minutes a day for 28 days, not single sighs. Present the short version as a practical adaptation, not a tested dose.\n5. **Kinder news habits instead of a detox:**\n   - Set check-in times.\n   - Read rather than watch autoplay clips.\n   - Choose a few trusted sources or newsletters that end, instead of the infinite feed.\n   - Turn off alerts.\n   - Finish on one thing you can actually do.\n6. **Evidence nuance box: what the research shows and doesn't.**\n   - The large studies are cross-sectional and correlational. Distressed people may also look for more news, so the relationship can run both ways.\n   - The existential anxiety link (Shabahang 2024) is moderate, not strong.\n   - Experiments show short-term mood dips after negative news. They don't show that news causes anxiety disorders.\n7. **Internal links:** the calm 4-6 breathing tool and the physiological sigh tool in /tools/, plus glossary entries as available.\n\n## QUESTIONS (People Also Ask style)\n\n- Why does the news make me so anxious?\n- Is headline stress disorder a real diagnosis?\n- Is it OK to stop watching the news for my mental health?\n- How do I stay informed without doomscrolling?\n- Can doomscrolling cause existential anxiety or dread?\n- How much news is too much?\n- Why can't I stop checking the news when it makes me feel worse?\n- Is reading the news better than watching it?\n- Should I avoid news before bed?\n- When is news anxiety something to see a professional about?\n\n## SOURCES\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC3890785 | Media's role in broadcasting acute stress following the Boston Marathon bombings (Holman, Garfin, Silver) | PNAS 111(1) via PubMed Central | 2014 |\n- Internet survey, Apr 29 to May 13, 2013. 4,675 adults: Boston n=846, NYC n=941, rest of US n=2,888.\n- 6+ hours a day of bombing-related media in the week after was associated with higher acute stress than direct exposure (b=15.61 vs b=5.69). Those with 6+ hours were about 9 times as likely to report high acute stress. Direct exposure was not significantly associated with high acute stress.\n- The authors say repeated exposure may \"prolong acute stress experiences\" and advise limiting viewing after major traumas.\n- Limitations: cross-sectional and correlational, self-reports recalled 2 to 4 weeks later, and possibly bidirectional.\n\nhttps://www.eurekalert.org/news-releases/962341 | News addiction linked to poor mental and physical health (press release for McLaughlin, Gotlieb, Mills, Health Communication) | EurekAlert / Taylor & Francis | 2022 |\n- Online survey of about 1,100 US adults. 16.5% showed \"severely problematic\" news consumption.\n- In that group, 73.6% reported mental ill-being \"quite a bit/very much\" vs 8% of other participants, and 61% reported physical ill-being vs 6.1%.\n- The associations held after controlling for demographics, personality, and overall news use.\n- Single time point, so the direction of the relationship isn't established.\n\nhttps://newsroom.taylorandfrancisgroup.com/news-addiction-linked-to-not-only-poor-mental-wellbeing-but-physical-health-too-new-study-shows/ | Same study, publisher newsroom | Taylor & Francis | 2022 |\n- Five dimensions of problematic use: transportation, preoccupation, misregulation (consuming more news to ease feelings of threat), underregulation, and interference.\n- Verbatim McLaughlin quotes: \"Witnessing these events unfold in the news can bring about a constant state of high alert in some people\" and \"For these individuals, a vicious cycle can develop in which, rather than tuning out, they become drawn further in.\"\n- Use EurekAlert for the mental-health percentage. My fetch of this page gave \"6%,\" which looks like a parsing error.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC7187375 | Is the news making us unhappy? The influence of daily news exposure on emotional states (de Hoog & Verboon) | British Journal of Psychology via PubMed Central | 2020 |\n- Smartphone ecological momentary assessment: 63 Dutch adults (85 recruited, ages 18 to 82), prompted about 5 times a day for 10 days.\n- News perceived as more negative was associated with more negative and less positive mood. The effect was stronger when the news felt personally relevant. Neuroticism had a main effect but did not moderate the news effect.\n- The authors conclude news doesn't need to be extreme to affect mood.\n- The paper's literature review says experiments show negative affect, sadness, worry, and anxiety rise after negative news.\n- Limitations: convenience sample, mostly highly educated, and associational.\n\nhttps://phys.org/news/2024-07-doomscrolling-trigger-existential-crisis.html | Can doomscrolling trigger an existential crisis? (Shabahang et al., Computers in Human Behavior Reports) | Phys.org / Flinders University | 2024 |\n- 800 university students who use social media: 620 in Iran, 180 in the US.\n- Doomscrolling predicted higher existential anxiety in both samples. The association was moderate, not strong.\n- Doomscrolling also predicted misanthropy in the Iranian sample.\n- Correlational, and the exact content participants viewed is unknown.\n\nhttps://bps.org.uk/research-digest/creeping-influence-doomscrolling | The creeping influence of doomscrolling | British Psychological Society Research Digest | 2024 | Independent summary of the Shabahang study. Useful as a second, authoritative citation for the \"moderate\" association and the correlational caveat.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9873947 | Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.) | Cell Reports Medicine via PubMed Central | 2023 |\n- Remote RCT, 5 minutes a day for 28 days. 108 participants: mindfulness 24, cyclic sighing 30, box breathing 21, cyclic hyperventilation 33.\n- Cyclic sighing method: a slow inhale, then a second shorter inhale, then a slow full exhale.\n- Cyclic sighing had the largest daily gain in positive affect (+1.89, p=0.025), significantly more than mindfulness. It also reduced respiratory rate more than mindfulness (p<0.05).\n- State anxiety fell similarly across groups (sighing -3.85, mindfulness -3.95), with no significant differences between groups. There were no significant changes in HRV or resting heart rate.\n- Limitations: mostly Stanford undergraduates, self-reported practice, small groups, registered retrospectively, and the senior author advises WHOOP.\n- Pregnancy and heart disease were among the exclusion criteria.\n\nhttps://m.medicalxpress.com/news/2017-11-apa-stress-america-survey-lowest.html | APA Stress in America survey: US at \"lowest point we can remember\" | Medical Xpress (coverage of APA Stress in America: The State of Our Nation) | 2017 |\n- 95% of US adults follow the news regularly, 56% say doing so causes them stress, and 72% believe the media \"blows things out of proportion.\"\n- Adults feel conflicted between wanting to stay informed and seeing the media as a source of stress.\n- Search snippets put fieldwork at Aug 2017 with 3,511 adults (Harris Poll), but the page I fetched didn't confirm this, so leave out the sample size.\n\nhttps://www.kcrw.com/stories/what-is-headline-stress-disorder-and-do-you-have-it | What is headline stress disorder and do you have it? | KCRW | year not stated |\n- Stosny coined the term. It is not an actual diagnosis. He describes it as high emotional reactivity.\n- I didn't verify the quote wording on the page, so describe it in our own words and don't quote.\n\nhttps://amp.cbc.ca/radio/tapestry/headlines-and-rejection-1.5291275/news-headlines-getting-you-down-here-s-how-to-protect-your-mental-health-1.5291287 | News headlines getting you down? Here's how to protect your mental health | CBC Radio, Tapestry | about 2019 (year not confirmed) |\n- Stosny first called it \"election stress disorder\" around the 2016 US election, then renamed it \"headline stress disorder.\"\n- He cites smartphone alerts, social media, and 24-hour cable news as causes.\n- His advice: read beyond the headline, because the details are usually less alarming than the headline.\n\nhttps://journalism.co.za/reuters-institute-digital-news-report-2025/ | Reuters Institute Digital News Report 2025 (summary) | journalism.co.za | 2025 |\n- Online survey of almost 100,000 people in 48 markets. \"Selective news avoidance is still at an all-time high.\"\n- The overall avoidance percentage (about 40%) and the mood reason (39%) were not confirmed on any page I could fetch. Don't cite those numbers.\n- The official page (reutersinstitute.politics.ox.ac.uk/digital-news-report/2025) only confirmed Bulgaria at 63% and Croatia at 61%.\n\n## SAFETY\n\n- **Breathing:** Stop if you feel dizzy, lightheaded, or tingly, and go back to normal breathing. Keep the exhale gentle, not forced. With the physiological sigh, the second inhale is small. Do one or two, not a fast run of them, because rapid repeated sighs can tip into overbreathing. Shorten the counts if 4-6 feels like a strain.\n- **Who should be careful:** Breath holds and fast or hyperventilation-style breathing are not for everyone, including people who are pregnant, have heart or lung conditions, or a history of fainting or panic. Balban excluded pregnancy, heart disease, seizures, psychosis, and suicidality. The Calm 4-6 breath has no holds, which makes it the gentler default.\n- **No treatment claims:** Breathing can help you feel calmer in the moment. It doesn't treat anxiety disorders, PTSD, or insomnia. In Balban, anxiety reductions from breathwork were similar to mindfulness, not better.\n- **\"Headline stress disorder\" is not a diagnosis.** Don't use it to diagnose readers.\n- **When to get support:** If news-related worry keeps going, disrupts sleep or eating, or feels like more than you can handle, talk to a doctor or mental health professional. This matches the Mayo Clinic snippet guidance.\n- **Trauma:** After a major traumatic event, especially if you're directly affected, limiting repeated graphic coverage is reasonable (per Holman 2014).\n- **Crisis:** Anyone in crisis or having thoughts of self-harm should call or text 988 (Suicide & Crisis Lifeline, US) or contact local emergency services.\n- **Avoidance nuance:** Short breaks are fine, but framing avoidance as a permanent fix can backfire, because uncertainty can feed more checking. That's another reason to frame habits around how you take in news, not quitting it."
+}
