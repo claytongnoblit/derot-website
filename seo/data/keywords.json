@@ -2292,7 +2292,7 @@
       "seasonality": [],
       "status": "covered",
       "notes": "Android 17 Pause Point coverage; one sec targets this term.",
-      "covered_by": "one-sec-alternative"
+      "covered_by": "screenzen-alternative"
     },
     {
       "keyword": "app that makes you breathe before opening instagram",
@@ -2320,7 +2320,7 @@
       "seasonality": [],
       "status": "covered",
       "notes": "Chrome extension 'Mindful Scroll' competes.",
-      "covered_by": "one-sec-alternative"
+      "covered_by": "screenzen-alternative"
     },
     {
       "keyword": "best app to stop doomscrolling",
@@ -3415,8 +3415,10 @@
       "content_type": "comparison",
       "angle": "ScreenZen adds a wait before opening; who might want a calming reset mid-scroll instead.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Added 2026-10-18."
+      "status": "published",
+      "notes": "Added 2026-10-18.",
+      "post": "screenzen-alternative",
+      "published": "2026-11-19"
     },
     {
       "keyword": "one sec vs screenzen",

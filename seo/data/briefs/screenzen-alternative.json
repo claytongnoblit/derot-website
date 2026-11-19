@@ -1,0 +1,253 @@
+{
+  "title_options": [
+    "ScreenZen alternatives for iPhone, compared: delay, block, or reset?",
+    "ScreenZen alternative: one sec, ClearSpace, Opal and Screen Time compared",
+    "Looking for a ScreenZen alternative? Pick by what's actually bothering you"
+  ],
+  "search_intent": "Commercial investigation. The searcher already knows or uses ScreenZen, an app that adds a wait before you open another app. They want to know what else works the same way, what's stricter, and what costs what, so they can switch or confirm they don't need to. A smaller group searches \"Pause Point iPhone\" and wants to know whether Google's feature exists on iOS and what does the same job. Format: a neutral roundup that leads with a verdict, then a summary table, parallel per-app sections and if-then picks.",
+  "serp_summary": "The results are mostly directories (AlternativeTo, Product Hunt, sugggest, CB Insights) with user-voted or link lists and no analysis. Many of the apps they list are desktop blockers or parental tools, which don't fit this search. The two substantive roundups both come from competing vendors that rank themselves first and disclose this only in the site header or footer. TaskGate puts itself first and claims ScreenZen costs \"$5/month,\" which conflicts with the App Store listing (free, tips only). Habit Doom also ranks itself and names the habituation problem well (\"ceremony without function\"), but its fix is always more strictness and it cites no evidence. None of the results gives a check date for prices, cites the PNAS one sec research, or talks about how people feel after scrolling. For \"pause point iphone,\" the results are Google's own announcement, tech-press coverage of it as an Android 17 feature, and one sec's vendor blog.",
+  "gaps": [
+    "No neutral roundup: disclose in the first 100 words, keep DeRot out of the ranked list and the table, and order apps by stated criteria.",
+    "Pricing accuracy: give prices as listed, with currency, billing period and 'checked November 2026'. Correct the common '$5/month' myth: ScreenZen is free and its in-app purchases are optional tips.",
+    "Evidence: no one cites PNAS 2023. In its controlled experiment, the option to dismiss the open did most of the work, the 10-second delay added nothing beyond that, and the deliberation message alone did nothing. In the field study, dismissals fell from 43% to about 32-34%, which fits the 'I tap through now' complaint.",
+    "State over quantity: every competing page measures minutes or opens. None addresses the wired, jaw-clenched feeling 20 minutes into the feed.",
+    "Fairness: one sec (Re-Intervention), ScreenZen (short check periods) and ClearSpace (session limits) already step in mid-session, but they do it with time-based kick-outs. Don't claim DeRot is the only app that acts mid-scroll.",
+    "one sec and ClearSpace also include a breath, but at the door. The honest difference is timing and purpose.",
+    "Pause Point: a short, accurate answer, keeping Google's feature separate from the unrelated 'Pausing Point' App Store app.",
+    "Say plainly that people who want a hard stop are better served by Opal Deep Focus or Screen Time limits."
+  ],
+  "outline": [
+    {
+      "h2": "What's the best ScreenZen alternative? (quick answer)",
+      "points": [
+        "40-60 word verdict: one sec or ClearSpace if you want a delay with a different style; Opal or Apple Screen Time if you want a harder stop; stay with ScreenZen if a free, customizable wait already works for you.",
+        "Disclosure: 'DeRot makes an app in this category. We do not rank our own app, and no app paid to be included.'",
+        "Summary table without DeRot. Columns: App | Best for | How it works | Free option | Price (as listed, Nov 2026) | Platforms. Rows: ScreenZen, one sec, ClearSpace, Opal, Apple Screen Time."
+      ]
+    },
+    {
+      "h2": "How we compared",
+      "points": [
+        "Criteria: how it steps in (delay, block or timer), how strict it is and how easy it is to bypass, cost as listed, platforms, and whether it addresses how you feel or only time spent.",
+        "Facts come from each app's US App Store listing (one sec from its UK listing, labeled GBP) and Apple Support, all checked November 2026.",
+        "We did not run hands-on testing and do not give ratings."
+      ]
+    },
+    {
+      "h2": "ScreenZen: the baseline, and who should keep it",
+      "points": [
+        "Best for / How it works / What stands out / Drawbacks / Price: free, optional tips of $5-$40 one-time.",
+        "Wait time can grow with each open; short check periods; reflective prompts and breathing while you wait; strict blocking options.",
+        "Drawbacks: the wait can start to feel routine and you tap through it; it is a gate at the door."
+      ]
+    },
+    {
+      "h2": "Other friction and delay apps: one sec and ClearSpace",
+      "points": [
+        "one sec, with the same parallel fields: a pause plus breath animation, Re-Intervention after a set time, free tier for 1 app, UK prices in GBP.",
+        "ClearSpace, same fields: 'proceed after a deep breath or opt out,' session limits, challenges, USD prices as listed with terms where stated.",
+        "What the research says: the PNAS 2023 findings and their limits (6 weeks, self-selected participants, a coauthor created the app)."
+      ]
+    },
+    {
+      "h2": "Stricter blockers: Opal and Apple Screen Time",
+      "points": [
+        "Opal, same fields: schedules, limits, Focus Difficulty, Deep Focus can't be cancelled; iOS 18+, iPhone only; USD plan prices with tier mapping not stated.",
+        "Apple Screen Time, same fields: built in and free, App Limits per app or category, Downtime, Always Allowed. Describe features generally because the cited guide is an older version.",
+        "Who it's for: people who want a real stop rather than a nudge."
+      ]
+    },
+    {
+      "h2": "Why a delay at the door doesn't help 20 minutes in",
+      "points": [
+        "State over quantity: a delay works before the feed has its effect. The wired, jaw-clenched feeling builds during the session.",
+        "Correlational evidence that doomscrolling is linked to feeling worse (BPS summary); say plainly that it shows association, not cause.",
+        "Mid-scroll script: put the phone face down, drop your shoulders, breathe in for 4 and out for 6, five times, then decide. Link to the calm 4-6 breathing tool.",
+        "Be proportional: Balban tested 5 minutes a day for 28 days, and a 30-second reset is a different dose."
+      ]
+    },
+    {
+      "h2": "Is there a Google Pause Point for iPhone?",
+      "points": [
+        "Pause Point is a 10-second Android pause with a breathing option. Google's announcement doesn't mention iOS, and Google has not announced an iPhone version.",
+        "On iPhone, one sec, ScreenZen and ClearSpace follow the same pause-and-ask pattern.",
+        "'Pausing Point' on the App Store is an unrelated app."
+      ]
+    },
+    {
+      "h2": "Which ScreenZen alternative should you pick?",
+      "points": [
+        "If you want a free, adjustable wait, stay with ScreenZen.",
+        "If you want a breath at the door and a timed kick-out on iPhone or Mac, pick one sec.",
+        "If you want a deep-breath gate plus challenges, pick ClearSpace.",
+        "If you want no way to bypass, pick Opal Deep Focus.",
+        "If you want free and built in, use Screen Time App Limits and Downtime.",
+        "If your main complaint is feeling wound up mid-feed, see the next section."
+      ]
+    },
+    {
+      "h2": "Where DeRot fits (our app)",
+      "points": [
+        "DeRot pauses your apps while you reset with a few calming breaths, and it meets you mid-scroll rather than at the door.",
+        "It isn't for people who want a hard lockout.",
+        "It's pre-launch and coming soon to iOS; point readers to the newsletter."
+      ]
+    }
+  ],
+  "questions": [
+    "Is ScreenZen really free, and what do you pay for?",
+    "What's the difference between ScreenZen and one sec?",
+    "Why do I tap through ScreenZen's wait screen without thinking?",
+    "Do delay apps like ScreenZen actually work?",
+    "Is there a Google Pause Point for iPhone?",
+    "Can Apple Screen Time do what ScreenZen does for free?",
+    "Is Opal stricter than ScreenZen?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409",
+      "title": "Directing smartphone use through the self-nudge app one sec",
+      "publisher": "PNAS",
+      "year": "2023",
+      "key_findings": "Field study: 280 users analyzed over 6 weeks. About 36% of open attempts were dismissed (43% in week 1, 32-34% by weeks 4-6). Open attempts fell 37% and actual openings fell 57%. In the controlled experiment (N=500), the dismiss option had the strongest effect, the 10-second delay added nothing beyond it, and the deliberation message alone had no effect. A coauthor created the app."
+    },
+    {
+      "id": "S2",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Cell Reports Medicine",
+      "year": "2023",
+      "key_findings": "Randomized trial of 108 people, 5 minutes a day for 28 days. Cyclic sighing improved positive affect more than mindfulness. No change in HRV. Exploratory study."
+    },
+    {
+      "id": "S3",
+      "url": "https://blog.google/products-and-platforms/platforms/android/pause-point/",
+      "title": "Pause Point",
+      "publisher": "Google",
+      "year": "2026",
+      "key_findings": "A 10-second breather to ask 'Why am I here?', with breathing, timer, photo and alternative-app options. Turning it off requires a phone restart. iOS is not mentioned."
+    },
+    {
+      "id": "S4",
+      "url": "https://apps.apple.com/us/app/-/id1541027222",
+      "title": "ScreenZen- Screen Time Control",
+      "publisher": "Apple App Store",
+      "year": "2026",
+      "key_findings": "Free; in-app purchases are tips of $5, $10, $20 and $40. Delay before opening that can increase with each open, short check periods, breathing while waiting, strict blocking. Available for iPhone, iPad, Mac and Vision Pro."
+    },
+    {
+      "id": "S5",
+      "url": "https://apps.apple.com/gb/app/id1532875441",
+      "title": "one sec, screen time + focus",
+      "publisher": "Apple App Store (UK)",
+      "year": "2026",
+      "key_findings": "Delays apps instead of blocking them. Breath animation. Re-Intervention after a set time. Free tier covers 1 app. Pro is £6.99/month, £19.99/year or £99.99 lifetime. iOS 15+ and macOS 14+."
+    },
+    {
+      "id": "S6",
+      "url": "https://one-sec.app/blog/pause-point-for-iphone/",
+      "title": "Pause Point for iPhone? Here's the Alternative for iOS: one sec",
+      "publisher": "one sec (vendor)",
+      "year": "2026",
+      "key_findings": "Vendor page. Says one sec's pause includes breathing with 4-7-8 and box options. Use only for one sec's own features."
+    },
+    {
+      "id": "S7",
+      "url": "https://apps.apple.com/us/app/1497465230",
+      "title": "Opal: Screen Time Control",
+      "publisher": "Apple App Store",
+      "year": "2026",
+      "key_findings": "Blocks apps using Apple's Screen Time API, with schedules, limits and Focus Difficulty. Deep Focus can't be cancelled or bypassed. Listed USD prices include $19.99 monthly and $99.99 yearly. iPhone only, iOS 18+."
+    },
+    {
+      "id": "S8",
+      "url": "https://apps.apple.com/us/app/-/id1572515807",
+      "title": "ClearSpace: Reduce Screen Time",
+      "publisher": "Apple App Store",
+      "year": "2026",
+      "key_findings": "Proceed after a deep breath or opt out. Session limits, schedules, challenges. Premium is $6.99 monthly or $44.99 annual (USD). iOS 16+."
+    },
+    {
+      "id": "S9",
+      "url": "https://support.apple.com/en-lk/guide/iphone/set-up-screen-time-for-yourself-iphbfa595995/14.0",
+      "title": "Set up Screen Time for yourself on iPhone",
+      "publisher": "Apple Support",
+      "year": "2020",
+      "key_findings": "App Limits per app or category, Downtime to block apps and notifications, Always Allowed list. Built into iOS and free."
+    },
+    {
+      "id": "S10",
+      "url": "https://bps.org.uk/research-digest/creeping-influence-doomscrolling",
+      "title": "The creeping influence of doomscrolling",
+      "publisher": "British Psychological Society",
+      "year": "2024",
+      "key_findings": "In 800 students, doomscrolling was associated with higher existential anxiety. Correlational only."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "ScreenZen is free on the US App Store; its in-app purchases are optional tips of $5, $10, $20 and $40 (checked November 2026).",
+      "source_id": "S4"
+    },
+    {
+      "fact": "ScreenZen's wait time can increase with each open, and it lets you check apps for short periods so you don't get pulled in.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "In a controlled experiment with 500 participants, the option to dismiss an app open had the strongest effect; the 10-second delay added nothing beyond that option.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "In the one sec field study, the share of open attempts dismissed fell from 43% in week 1 to about 32-34% by weeks 4-6.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "In the field study, actual target-app openings fell 57% and open attempts fell 37% over 6 weeks. The study had limits: participants self-selected and a coauthor created the app.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "one sec's free tier covers 1 app; Pro is listed at £6.99/month, £19.99/year or £99.99 lifetime on the UK App Store.",
+      "source_id": "S5"
+    },
+    {
+      "fact": "one sec's Re-Intervention takes you out of the app after a set time, such as 5 minutes.",
+      "source_id": "S5"
+    },
+    {
+      "fact": "ClearSpace asks you to proceed after a deep breath or opt out. Premium is listed at $6.99 monthly or $44.99 annual.",
+      "source_id": "S8"
+    },
+    {
+      "fact": "Opal's Deep Focus won't let you cancel or bypass at all. Opal requires iOS 18+ and runs on iPhone only.",
+      "source_id": "S7"
+    },
+    {
+      "fact": "Apple Screen Time offers App Limits for categories or individual apps, and Downtime to block apps and notifications.",
+      "source_id": "S9"
+    },
+    {
+      "fact": "Google's Pause Point gives a 10-second breather to ask 'Why am I here?'; Google's announcement does not mention iOS.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "In a study of 108 people practicing 5 minutes a day for 28 days, cyclic sighing improved positive affect more than mindfulness. HRV did not change.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "In a study of 800 students, doomscrolling was associated with higher existential anxiety. The finding is correlational.",
+      "source_id": "S10"
+    }
+  ],
+  "safety_notes": [
+    "Breathing scripts should be gentle: stop if you feel dizzy, lightheaded or tingly, and shorten the counts if they feel like a strain.",
+    "Breath holds and fast breathing are not for everyone, including people who are pregnant, have heart or lung conditions, or have a history of fainting or panic.",
+    "Don't claim a 10- or 30-second pause produces the effects of 5 minutes of daily practice. State the limits of the one sec and Balban studies.",
+    "No app, DeRot included, treats anxiety, sleep problems or compulsive use. Suggest a professional for ongoing distress, and point to 988 in the US or local emergency services if someone may be in crisis.",
+    "Avoid addiction framing, even where a competitor's listing uses it.",
+    "Cite competitor facts only from their listings. Give prices with currency and 'checked November 2026', and label one sec's prices as UK GBP."
+  ],
+  "word_count_target": 2300,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: \"screenzen alternative\" (comparison)\n\n**Facts checked:** November 19, 2026. App Store listings show release dates without a year, so the article should say \"checked November 2026.\"\n\n**Search budget:** I used all 10 searches. Some gaps are listed at the end.\n\n---\n\n## SERP ANALYSIS\n\n**Primary keyword \"screenzen alternative\": what ranks**\n\n- **Directories:** AlternativeTo (several paginated pages), Product Hunt alternatives pages, sugggest.com and CB Insights. They are user-voted lists or link lists with no analysis. AlternativeTo's top pick is \"Mindful: Focus & Screen Time,\" a free, open-source app, plus Cold Turkey, Reef Wellbeing, Forest, RescueTime and Circle. Many of these are desktop blockers or parental tools, so they don't match the intent well.\n- **TaskGate's page** (taskgate-landing-web.vercel.app/alternatives/screen-zen):\n  - Format: TL;DR, a feature table with star ratings, then Strengths, Weaknesses, Best for and Price for each app, then \"Choose X if...\" lines.\n  - Order: TaskGate (labeled \"Recommended\"), One Sec, Opal, Forest, unhookd, Freedom.\n  - Disclosure: none in the body. Ownership is only implied by the header and footer.\n  - **Factual error:** it says ScreenZen costs \"$5/month\" and that \"full features still require payment.\" The US App Store listing shows ScreenZen as free, with in-app purchases that are tips only ($5 to $40). This is a clear accuracy gap we can beat.\n- **Habit Doom's pages** (habitdoom.com, \"One Sec Alternative for iPhone (2026),\" updated Sep 17, 2026, plus a \"Screen Time Apps Reddit Actually Recommends\" post):\n  - Format: short summary, a five-app table, numbered reviews, \"How to pick,\" FAQ and repeated download buttons.\n  - Order: ScreenZen, Habit Doom, Opal, Apple Screen Time, Brick. It ranks itself as \"the closest match in 2026.\"\n  - Disclosure: only in the site footer.\n  - **It covers one thing well:** it names the habituation problem (\"the pause that worked in week one becomes background noise by month three\"; once you \"start tapping through automatically\" it is \"ceremony without function\").\n  - **Its fix is always more strictness:** NFC hardware, habit gates, lockouts. It cites no evidence and does not cover how people feel after scrolling.\n- **Others:** nibble-app.com's ScreenZen explainer (a vendor blog), an Android Authority-hosted ScreenZen review, and ScreenBreak on Product Hunt (effort challenges instead of a timer).\n- **Overall pattern:**\n  - Every substantive roundup is run by a competing vendor that ranks itself first, and none clearly discloses this in the body.\n  - Formats are table-first with parallel per-app sections.\n  - Ordering is driven by the vendor's interest, not by stated criteria. None gives a check date for prices.\n\n**\"google pause point iphone\"**\n\n- **Google's own post** (blog.google, May 12, 2026, by Sophie Sanders): Pause Point \"gives you a 10-second breather to ask, 'Why am I here?'\" During the pause you can do \"a short breathing exercise,\" set a scrolling timer, look at favorite photos, or open a suggested alternative such as an audiobook. Turning it off requires \"a phone restart.\" The post does not mention devices, the Android version, or iOS.\n- **Tech press** (TechCrunch, 9to5Google, Digital Trends, PhoneArena, Android Authority, Stuff) covers it as an Android 17 feature.\n- **one sec's own blog** ranks for \"Pause Point for iPhone\" (Aug 24, 2026). It says Pause Point is unavailable on iPhone and iPad, and lists only the Pixel 11 and Pixel 11 Pro as supported. That device detail comes from a vendor page, so say \"Google has not announced an iPhone version\" instead of citing device lists.\n- **Name confusion:** an unrelated App Store app called \"Pausing Point\" (id6469034960) appears in results. We should not imply it is Google's feature.\n\n---\n\n## GAPS AND ANGLE\n\n1. **No neutral roundup ranks.** Every competitor page puts its own app first without clear disclosure. Our disclosure, plus keeping DeRot out of the ranked list and the table, is a real differentiator, especially given Google's 2026 demotions of brand-ranked lists.\n2. **Accuracy.** TaskGate's \"$5/month\" claim about ScreenZen conflicts with the App Store's tip-only listing. Listing prices with currency, billing period and check date will beat every ranking page.\n3. **Nobody uses the actual evidence on how delay apps work.** In the PNAS one sec paper's controlled experiment (N=500):\n   - the **option to dismiss** the open had the strongest effect;\n   - the 10-second delay worked but added nothing beyond that option;\n   - the deliberation message alone did nothing.\n\n   In the field study, the dismissal rate fell from 43% in week 1 to about 32-34% by weeks 3-6. That fits the \"you start tapping through\" complaint, though the authors read it partly as people cutting their most needless opens first. It is honest nuance nobody else gives.\n4. **State over quantity is missing everywhere.** Every page measures success in minutes or opens. None covers the reader's real complaint: coming out of the feed wired and jaw-clenched. That is our information gain. A delay at the door works before the feed has had its effect, and a calming reset works after.\n5. **Fairness point the writer must handle honestly.** Several of these apps already step in mid-session, but they are time-based kick-outs, not calming resets:\n   - one sec has \"Re-Intervention,\" a \"Doom Scroll Emergency Brake\" after a set time such as 5 minutes;\n   - ScreenZen lets you check apps \"for short periods so users don't get pulled in\";\n   - ClearSpace has session lengths and time limits.\n\n   Don't claim DeRot is the only app that acts mid-scroll. The accurate claim is that its intervention is a short calming breath reset aimed at how you feel, not a gate or a timer.\n6. **Two of the listed competitors also include breathing:** one sec (breath animation, with 4-7-8 and box options per its blog) and ClearSpace (\"proceed after a deep breath or opt out?\"). The honest difference is timing and purpose: a breath at the door as a speed bump, versus a reset once you're already wound up.\n7. **Pause Point:** answer it in 2-3 sentences. It's Android only, and Google's post doesn't mention iOS. On iPhone, the same \"pause, breathe, ask why\" pattern is what one sec, ScreenZen and ClearSpace do. Don't speculate about future iOS support.\n8. **Reader framing:** no lockout and no addiction language. Habit Doom and TaskGate both push stricter gates. We should say plainly that people who want a hard stop are better served by Opal's Deep Focus or Screen Time limits.\n\n**Suggested picks for the ranked or compared list (DeRot excluded):**\n\n- one sec and ClearSpace (friction and delay)\n- Opal and Apple Screen Time (stricter blocking)\n- ScreenZen as the baseline\n\nGoogle Pause Point gets a short answer section, not a ranked entry, because it isn't available on iPhone.\n\n---\n\n## QUESTIONS (People Also Ask style)\n\n- Is ScreenZen really free? What do you pay for? (The listing shows optional tips only.)\n- What's the difference between ScreenZen and one sec?\n- Why do I tap through ScreenZen's wait screen without thinking, and does the pause stop working over time?\n- Is there a Google Pause Point for iPhone?\n- What's the best ScreenZen alternative that doesn't lock me out?\n- Is Opal stricter than ScreenZen, and can you bypass it? (Deep Focus \"won't let you cancel or bypass at all.\")\n- Can Apple Screen Time do the same thing as ScreenZen for free? (Official docs cover App Limits and Downtime. The \"Ignore Limit\" bypass is only documented in Apple Community threads.)\n- Do delay apps actually work? (PNAS 2023 findings and limits.)\n- Why do I feel wired or tense after scrolling, and will a delay app help with that?\n- Does breathing during the pause actually calm you down? (Balban 2023: 5 minutes a day over 28 days, a different dose from a 10-second pause.)\n\n---\n\n## SOURCES\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9974409 | Directing smartphone use through the self-nudge app one sec | PNAS (Grüning, Riedel, Lorenz-Spreen) | 2023 | Field study: 719 iOS users recruited, 280 analyzed over 6 weeks. About 36% of open attempts were dismissed after the intervention (43% week 1, 36% week 2, 33% week 3, 32-34% weeks 4-6). Open attempts fell 37% (166 to 105 per user per week). Actual target-app openings fell 57%. Participants self-reported about 77 fewer minutes a day and more satisfaction. Preregistered controlled experiment (N=500, five conditions): the dismiss option had the strongest effect; the 10-second delay worked but added nothing beyond the dismiss option; the deliberation message alone was not effective. Limits: self-selection, no randomized field control, dropouts, only 6 weeks, a lot of self-report, and coauthor Riedel created the app (conflict of interest).\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9873947 | Brief structured respiration practices enhance mood and reduce physiological arousal | Cell Reports Medicine (Balban et al.) | 2023 | Remote RCT, NCT05304000. 108 randomized: 24 mindfulness, 30 cyclic sighing, 21 box breathing, 33 cyclic hyperventilation with retention. 5 minutes a day for 28 days. Positive affect rose +1.91 for all breathwork (p<0.0001) and +1.89 for cyclic sighing (p=0.025), versus +1.22 for mindfulness (p=0.06). Cyclic sighing beat mindfulness on positive affect and on reducing respiratory rate (p<0.05), and its benefit grew with more days of practice. Both groups reduced state anxiety and negative affect, with no difference between groups. No change in HRV, resting heart rate, sleep or trait anxiety. Limits: exploratory, retrospectively registered, mostly one Stanford undergraduate class, 4 weeks. 90% reported positive and 10% negative experiences.\n\nhttps://blog.google/products-and-platforms/platforms/android/pause-point/ | Pause Point | Google (The Keyword blog) | 2026 | Announced May 12, 2026. A \"10-second breather to ask, 'Why am I here?'\" Options during the pause: a short breathing exercise, a scrolling timer, favorite photos, alternative app suggestions. Requires \"a phone restart to turn it off.\" Devices and iOS are not mentioned.\n\nhttps://apps.apple.com/us/app/-/id1541027222 | ScreenZen- Screen Time Control | Apple App Store (ScreenZen LLC) | 2026 | Free. In-app purchases are tips: Kind $5.00, Generous $10.00, Amazing $20.00, Fantastic $40.00 (USD, one-time). Features: \"Delay before opening your app\"; the wait time can increase with each open; check apps for short periods \"so users don't get pulled in\"; reflective prompts; breathing and other activities while waiting; app goals with optional block at the limit; strict blocking by time range or number of opens; schedules; a Settings lock; streaks. Platforms: iPhone and iPad (iOS/iPadOS 16.4+), Mac (macOS 13+), Vision Pro. v4.0.0 dated Sep 6. A Google Play listing also exists (Android), but its details were unreadable.\n\nhttps://apps.apple.com/gb/app/id1532875441 | one sec, screen time + focus | Apple App Store UK (riedel.wtf apps S.L.) | 2026 | \"Adds a short pause before distracting apps.\" It \"DELAYS access to distracting apps instead of blocking apps completely.\" A deep-breath animation runs via Shortcuts Automation. \"Re-Intervention / Doom Scroll Emergency Brake\": after a set time (for example 5 minutes) you're taken out of the app. Free Safari extension. Free tier covers 1 app. Prices on the UK store (GBP): pro £6.99/month, £19.99/year, £99.99 lifetime; Family £11.99/month, £34.99/year, £149.00 lifetime. Platforms: iPhone and iPad (iOS 15+), Mac (macOS 14+). **US prices not checked.** Either label these as UK prices or recheck the US listing.\n\nhttps://one-sec.app/blog/pause-point-for-iphone/ | Pause Point for iPhone? Here's the Alternative for iOS: one sec | one sec (vendor) | 2026 | Aug 24, 2026. Says Pause Point is unavailable on iPhone and iPad and lists Pixel 11 and Pixel 11 Pro as supported. one sec's pause includes a breathing exercise, with 4-7-8 and box options. Platforms claimed: iPhone, iPad, Mac, Android and \"all major web browsers.\" Vendor source: use only for one sec's own features and platforms.\n\nhttps://apps.apple.com/us/app/1497465230 | Opal: Screen Time Control | Apple App Store (Opal OS Corporation) | 2026 | Uses Apple's Screen Time API to \"monitor and block apps.\" Features: scheduled blocks, daily app limits, sessions (timed or \"Always On\"), breaks with a written intention and timer. Focus Difficulty: \"Make it hard, or make it a bit easier.\" \"Deep Focus won't let you cancel or bypass at all.\" Release notes mention a \"Resistance\" waiting-room setting (Standard or Increasing). Free with in-app purchases. Listed USD prices: Weekly Plan $4.99 and $9.99, Opal Student Weekly $9.99, Monthly Plan $19.99, Yearly Plan $99.99, Opal Pro Subscription $49.99. The tier mapping is not stated. iPhone only, iOS 18+. No breathing feature listed. v4.24 is about 3 days old; v4.23 is dated Nov 9.\n\nhttps://apps.apple.com/us/app/-/id1572515807 | ClearSpace: Reduce Screen Time | Apple App Store (Clearspace Technologies, Inc.) | 2026 | \"When you click on a selected app, decide: proceed after a deep breath or opt out?\" Also blocking and limits, session time limits (\"you don't scroll for too long\"), schedules and \"Screen Time Challenges.\" Push-up detection appears in release notes but not in the description. Free with in-app purchases. Listed USD prices: Premium (Monthly) $6.99, Premium (Annual) $44.99, other \"Clearspace Premium\" entries at $44.99, $49.99 and $59.99 (terms not stated), Premium Family $79.99. iOS 16+ (header says \"Only for iPhone\"; also lists visionOS). v2.7.6 dated Nov 9. Note: an earlier search snippet showed $7.99/month and $9.99 for students, so prices vary. Use the fetched figures with the check date.\n\nhttps://support.apple.com/en-lk/guide/iphone/set-up-screen-time-for-yourself-iphbfa595995/14.0 | Set up Screen Time for yourself on iPhone | Apple Support (iPhone User Guide, iOS 14 version) | 2020s | Built into iOS. App Limits can be set \"for a category of apps... and for individual apps,\" with different amounts per day. Downtime can \"block apps and notifications during periods when you want time away.\" Always Allowed list. The guide does not describe what happens at the limit. This is an older version of the guide: describe Screen Time features generally.\n\nhttps://bps.org.uk/research-digest/creeping-influence-doomscrolling | The creeping influence of doomscrolling | British Psychological Society Research Digest | 2024 | Summarizes Shabahang et al. 2024, Computers in Human Behavior Reports: 800 university students who use social media (620 Iran, 180 US). Doomscrolling predicted higher existential anxiety in both samples (moderate association). Correlational, not causal, and content viewed was not measured. Use it carefully for \"the feed can leave people feeling worse.\"\n\n**Context only (SERP analysis, not health claims; vendor or community sources):**\n- [TaskGate: Best ScreenZen Alternatives](https://taskgate-landing-web.vercel.app/alternatives/screen-zen)\n- [Habit Doom: One Sec Alternative for iPhone (2026)](https://habitdoom.com/blog/one-sec-alternative-iphone)\n- [Habit Doom: Screen Time Apps Reddit Actually Recommends](https://habitdoom.com/blog/screen-time-reward-apps-reddit)\n- [AlternativeTo: ScreenZen](https://alternativeto.net/software/screenzen/)\n- [Apple Community: Screen time, ignore time limit](https://discussions.apple.com/thread/254915610) (user reports only)\n- [TechCrunch on Pause Point](https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/)\n- [9to5Google on Pause Point](https://9to5google.com/2026/05/12/android-digital-wellbeing-pause-point-upgrade/)\n- [Stanford Medicine: Breathing anxiety away](https://stanmed.stanford.edu/?p=5425) (not opened)\n- [Haliburton et al., design frictions longitudinal study (PDF)](https://researchgate.net/profile/Luke-Haliburton/publication/377774169_A_Longitudinal_In-the-Wild_Investigation_of_Design_Frictions_to_Prevent_Smartphone_Overuse/links/65b7d1311bed776ae313b600/A-Longitudinal-In-the-Wild-Investigation-of-Design-Frictions-to-Prevent-Smartphone-Overuse.pdf) (it returned a 403 and I couldn't verify it. **Do not cite numbers from it.**)\n\n---\n\n## SAFETY\n\n- **Breathing prompts:** keep them gentle. Stop if you feel dizzy, lightheaded or tingly, and go back to normal breathing. Shorten the counts if they feel like a strain; the Balban protocol says to shorten box-breathing durations if you have to strain.\n- **Breath holds and fast breathing** (cyclic hyperventilation, long 4-7-8 holds) are not for everyone. Balban excluded people with moderate-to-severe heart disease, glaucoma, seizures, pregnancy, psychosis, suicidality, bipolar disorder or substance use disorder. Add a caution for pregnancy, heart or lung conditions, and a history of fainting or panic.\n- **Evidence limits to state plainly:**\n  - The one sec data is 6 weeks long, self-selected and coauthored by the app's creator.\n  - Balban is a small, exploratory 4-week study of 5 minutes a day. It found no HRV change and no between-group difference in anxiety.\n  - Doomscrolling and mood evidence is mostly correlational.\n  - Don't claim a 10-second or 30-second pause produces the effects of a 5-minute daily practice.\n- **No treatment claims.** None of these apps, DeRot included, treats anxiety, sleep problems or compulsive use. For ongoing anxiety, sleep trouble or distress, talk to a professional. If someone may be in crisis, point them to local emergency services or 988 in the US.\n- **Avoid addiction framing**, even though ClearSpace's listing tagline is \"Make your phone less addicting.\" Don't repeat that framing in our voice.\n\n---\n\n**Gaps for the writer or editor:**\n- ScreenZen's, Opal's, ClearSpace's and one sec's own websites were not opened; only the App Store listings were.\n- one sec's US prices were not checked (UK GBP only).\n- The Google Play details for ScreenZen could not be read.\n- There is no slow-breathing or HRV meta-analysis or exhale-focused review in the brief yet. Add one before making physiology claims beyond what Balban 2023 supports."
+}
