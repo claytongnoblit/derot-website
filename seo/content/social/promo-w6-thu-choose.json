@@ -26,9 +26,14 @@
   "threads_topic": "Digital Wellbeing",
   "platforms": {
     "threads": {
-      "status": "queued",
+      "status": "posted",
       "scheduled_at": "2026-11-19T21:00:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "id": "18351024157282924",
+      "permalink": "https://www.threads.com/@derotorg/post/Df8mLEblGqo",
+      "posted_at": "2026-11-20T02:36:06+00:00",
+      "error": null,
+      "retry_after": null
     }
   },
   "built_at": "2026-11-10T14:03:51+00:00"
