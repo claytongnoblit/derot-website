@@ -228,8 +228,9 @@
       "content_type": "tool",
       "angle": "Free 4-7-8 timer with a gentle sleep mode and no sign-up.",
       "seasonality": [],
-      "status": "tool",
-      "notes": "Few dedicated tool pages rank."
+      "status": "covered",
+      "notes": "Few dedicated tool pages rank.",
+      "covered_by": "how-long-to-do-4-7-8-breathing"
     },
     {
       "keyword": "4-7-8 breathing for sleep",
@@ -269,8 +270,9 @@
       "content_type": "faq",
       "angle": "Why holds can make you light-headed and how to scale the counts down safely.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Forum and Q&A pages rank."
+      "status": "covered",
+      "notes": "Forum and Q&A pages rank.",
+      "covered_by": "how-long-to-do-4-7-8-breathing"
     },
     {
       "keyword": "physiological sigh",
@@ -2034,7 +2036,8 @@
       "content_type": "tool",
       "angle": "Dimmed, screen-off-friendly 4-7-8 timer.",
       "seasonality": [],
-      "status": "tool"
+      "status": "covered",
+      "covered_by": "how-long-to-do-4-7-8-breathing"
     },
     {
       "keyword": "wind down routine",
@@ -3302,9 +3305,11 @@
       "content_type": "faq",
       "angle": "Four cycles is a common starting point, with a dizziness safety note and a link to the 4-7-8 timer.",
       "seasonality": [],
-      "status": "queued",
+      "status": "published",
       "source": "expansion",
-      "added": "2026-10-18"
+      "added": "2026-10-18",
+      "post": "how-long-to-do-4-7-8-breathing",
+      "published": "2026-11-20"
     },
     {
       "keyword": "how long should you do box breathing for",

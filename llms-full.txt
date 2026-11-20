@@ -1,5 +1,172 @@
 # DeRot blog: full text
 
+# How Long to Do 4-7-8 Breathing: 4 Cycles, About 76 Seconds
+
+URL: https://derot.org/blog/how-long-to-do-4-7-8-breathing/
+Updated: 2026-11-20
+
+Key takeaways:
+- Start with 4 cycles of 4-7-8 breathing, which takes about 76 seconds at the full 19-second count, at least twice a day.
+- After about a month of practice, Dr. Andrew Weil's handout allows up to 8 cycles (about 2.5 minutes), and that is where it tops out for a single session.
+- If the 7-second hold makes you lightheaded, stop and breathe normally, then try fewer cycles or the faster 2-3.5-4 count, which keeps the same ratio in half the time.
+- If breath holds don't suit you, 4-6 breathing has no hold and runs at 6 breaths a minute, a rate that raised heart rate variability more than 4-7-8 in a 2025 study of 84 people.
+- Research on 4-7-8 itself is small and mostly short-term; most of the evidence behind it comes from studies of slow breathing in general.
+
+Start with 4 cycles of 4-7-8 breathing. At the full count, one cycle takes 19 seconds, so 4 cycles take about 76 seconds. After about a month, you can build up to 8 cycles, which is roughly 2.5 minutes. Twice a day is the usual frequency, and there's no evidence that longer sessions bring extra benefit.
+
+So if you're wondering how long to do 4-7-8 breathing, maybe because the hold made you lightheaded or you couldn't tell whether you'd done enough, here's the short version: stop at 4 cycles, keep the 4:7:8 ratio, and shorten the count if you need to. The rest of this page covers the math, which count suits which situation, and what to change when it starts to feel like too much.
+
+## How long should you do 4-7-8 breathing? (quick answer)
+
+Do 4 cycles per session, at least twice a day, for the first month. After that you can go up to 8 cycles if you want to. That's the guidance in [Dr. Andrew Weil's 4-7-8 handout from the University of Arizona](https://awcim.arizona.edu/content/CLH00048.html), which is where the technique's usual instructions come from.
+
+Not every source agrees. [Cleveland Clinic's guide](https://health.clevelandclinic.org/4-7-8-breathing?utm_source) lays out steps that add up to four cycles, yet the physician it quotes suggests three cycles twice a day. [Medical News Today](https://www.medicalnewstoday.com/articles/324417.php) says up to four cycles, once or twice a day. Where they overlap: 3 to 4 cycles, 1 to 2 times a day. That's where almost everyone starts.
+
+If you'd rather not count in your head, our [free 4-7-8 breathing timer](/tools/4-7-8-breathing-timer/) paces the inhale, hold, and exhale for you.
+
+## How long does one round of 4-7-8 take? The timing math
+
+One full cycle of 4-7-8 takes 19 seconds: 4 seconds in, 7 holding, 8 out. [Healthline gives the same figure of about 19 seconds per cycle](https://healthline.com/health/4-7-8-breathing). Here's what that means in real time (our calculations):
+
+| Version | In-hold-out (seconds) | One cycle | 4 cycles | 8 cycles | Breaths per minute |
+|---|---|---|---|---|---|
+| Full count | 4-7-8 | 19 s | about 76 s | about 152 s (2.5 min) | about 3 |
+| Fast count | 2-3.5-4 | 9.5 s | about 38 s | about 76 s | about 6 |
+| 4-6 (no hold) | 4-0-6 | 10 s | 40 s | 80 s | 6 |
+
+At the full count you breathe about 3 times a minute, which matches the rate [Vierra and colleagues recorded in their 2022 study of 4-7-8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9277512/). That's very slow, and it's part of why the pattern can feel demanding at first.
+
+The exact seconds matter less than the ratio. [Weil's handout](https://awcim.arizona.edu/content/CLH00048.html) and [Medical News Today](https://www.medicalnewstoday.com/articles/324417.php) both say that keeping the 4:7:8 proportion matters more than how long each phase lasts.
+
+A quick recap of the steps, [per Weil](https://awcim.arizona.edu/content/CLH00048.html):
+
+1. Rest the tip of your tongue on the ridge just behind your upper front teeth.
+2. Breathe out completely through your mouth with a soft "whoosh."
+3. Close your mouth and breathe in quietly through your nose for 4.
+4. Hold for 7.
+5. Breathe out through your mouth, whoosh again, for 8.
+6. That's one cycle. Do 3 more.
+
+## How many cycles of 4-7-8 for mid-scroll, before sleep, and daily practice
+
+How many cycles you need depends on the moment. In practice it's 4 cycles almost everywhere, done at the full or the fast count.
+
+### Mid-scroll: 4 cycles, about 38 to 76 seconds
+
+You open an app to check one thing, and twenty minutes later your jaw is tight and you feel vaguely wired. Put the phone face-down and do 4 cycles: about 76 seconds at the full count, or about 38 seconds at the fast count. The count gives you a clear stopping point, which is more than the feed ever offers.
+
+We built DeRot for exactly this moment. It pauses your apps while you reset with a few calming breaths, so your shoulders can drop before you decide whether to keep scrolling. 4-7-8 is one of its patterns, alongside Calm (4-6) and Box. It's coming soon to iOS.
+
+### Before sleep: 4 cycles, up to 8 once you're practiced
+
+Lie down and do 4 cycles. If you've been practicing for about a month, you can go up to 8, then let your breathing settle into its own rhythm. If the counting keeps you alert or the hold feels effortful, drop to 2 or 3 cycles, or switch to a no-hold pattern. Our guide to [doomscrolling at night](/blog/doomscrolling-at-night/) covers the wound-up-in-bed feeling in more detail.
+
+### Daily practice: twice a day
+
+[Weil's handout suggests at least twice a day](https://awcim.arizona.edu/content/CLH00048.html). The studies give you a sense of scale. A [2026 trial by Kirazli and colleagues](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12895279/) had participants do 4 cycles each morning and evening for 6 weeks, about 2.5 minutes a day in total. [Vierra's 2022 lab study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9277512/) used 3 sets of 6 cycles, lying down, with a minute of normal breathing between sets. That was a supervised research protocol and is more than most people need at home.
+
+## Why the 7-second hold makes some people lightheaded, and what to change
+
+Feeling lightheaded is common when you start 4-7-8, and the 7-second hold and the long exhale are the parts most people find hardest. [Cleveland Clinic notes that beginners may feel lightheaded](https://health.clevelandclinic.org/4-7-8-breathing?utm_source), and [Weil's handout says early lightheadedness tends to pass](https://awcim.arizona.edu/content/CLH00048.html). We won't guess at the exact cause in your body. What matters is what you do about it.
+
+If it happens:
+
+1. **Stop and breathe normally** until it passes. Don't push through.
+2. **Do fewer cycles.** Try 2 instead of 4. [Mindful.org suggests doing fewer cycles and building up slowly](https://www.mindful.org/soothe-stressful-emotions-with-the-4-7-8-breathing-practice/), and [Dana-Farber's Zakim Center advises starting slowly, especially if the 7-second hold is hard](https://myzakim.dana-farber.org/videos/4-7-8-breathing).
+3. **Use the faster count** (2-3.5-4). The ratio stays the same and the hold is half as long.
+4. **Take a smaller inhale.** Gulping a big breath to "fill up" for the hold usually makes the hold harder.
+5. **Drop the hold entirely** and use 4-6 breathing (more below).
+
+Practice sitting or lying down. [Medical News Today recommends this to prevent dizziness or falls](https://www.medicalnewstoday.com/articles/324417.php). Don't do 4-7-8 while driving, in water, standing in the shower, or anywhere a stumble would be risky.
+
+## Can you keep the 4:7:8 ratio at a faster count?
+
+Yes. [Medical News Today describes a faster version](https://www.medicalnewstoday.com/articles/324417.php): breathe in for 2, hold for 3.5, breathe out for 4. [Weil also says to speed up](https://awcim.arizona.edu/content/CLH00048.html) if the hold is hard. One cycle takes 9.5 seconds, so 4 cycles finish in under 40 seconds.
+
+Most people find the shorter hold far easier, and the exhale is still twice as long as the inhale. To count the 3.5, try "one, two, three, and," then start the exhale.
+
+Common mistakes at either speed:
+
+- **Gulping.** The inhale should be quiet and through the nose, not a big gasp.
+- **Forcing the exhale.** If you're squeezing out the last bit of air, slow the whoosh down rather than stretching it.
+- **Clenching during the hold.** Keep your jaw and throat soft. The hold should feel like a pause, not a strain.
+
+Once the fast count feels easy, you can work back toward the full count over the following weeks if you want to. You don't have to.
+
+## When to switch to an easier long-exhale pattern like 4-6
+
+Switch to 4-6 breathing if the hold keeps bringing on air hunger or a racing heart, or if breath holds aren't a good idea for you. 4-6 means breathing in for 4 and out for 6, with no hold, which works out to 6 breaths a minute.
+
+It may also be the stronger choice. In a [2025 study of 84 people by Marchant and colleagues](https://pubmed.ncbi.nlm.nih.gov/39864026/), breathing at 6 breaths per minute raised [heart rate variability](/glossary/#heart-rate-variability) more than either 4-7-8 or square (box) breathing, though the effects were small to medium. None of the patterns meaningfully changed mood or blood pressure. The 6-breaths-per-minute pattern also lowered end-tidal CO2, a sign of some over-breathing, so keep the breaths quiet and gentle rather than deep.
+
+Our [4-6 breathing how-to](/blog/4-6-breathing-how-to/) walks through it step by step, and the [calm 4-6 breathing timer](/tools/calm-breathing-4-6/) paces it for you.
+
+If you're pregnant, have a heart or lung condition, or have a history of fainting or panic, check with a clinician before practicing breath holds, and consider starting with a no-hold pattern.
+
+## Can you do 4-7-8 too much?
+
+There's no evidence that longer sessions bring extra benefit, and longer sessions make discomfort more likely. [Weil's guidance tops out at 8 cycles](https://awcim.arizona.edu/content/CLH00048.html) per session, and we'd treat that as the ceiling.
+
+Signs you've done too much:
+
+- dizziness or lightheadedness
+- tingling in your hands or around your mouth
+- air hunger, the feeling that you can't get a full breath
+- a racing or pounding heart during the hold
+- counting so hard that you feel more awake, not less
+
+If any of these show up, stop, breathe normally, and next time do fewer cycles or use a gentler pattern.
+
+## What the research actually shows about 4-7-8 breathing
+
+The research on 4-7-8 itself is thin. The studies are small, the follow-up periods are short, and none of them proves the strong claims you'll see online.
+
+- **Vierra 2022 (43 people):** heart rate and systolic blood pressure were lower after the exercise than before it (heart rate went from about 71 to 66 beats per minute in the control condition). The study only measured immediate effects, in a small and mostly female sample ([Physiological Reports](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9277512/)).
+- **Marchant 2025 (84 people):** 4-7-8 did not beat simple 6-breaths-per-minute breathing on heart rate variability, and no pattern meaningfully changed mood ([PubMed](https://pubmed.ncbi.nlm.nih.gov/39864026/)). The [thesis version](https://scholarsarchive.byu.edu/etd/10696) calls for multi-week studies.
+- **Kirazli 2026 (48 people with tinnitus):** Insomnia Severity Index scores dropped from 8.39 to 4.35 in the 4-7-8 group, compared with 11.92 to 12.28 in controls. But participants knew which group they were in, there was no sham breathing control, and the control group started with higher anxiety scores ([Brain and Behavior](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12895279/)).
+
+Most of the evidence is about slow breathing in general. A [systematic review of 15 studies](https://pubmed.ncbi.nlm.nih.gov/30245619/) linked breathing below 10 breaths a minute with higher heart rate variability and relaxation. A [meta-analysis of 12 trials covering 785 adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/) found a small to moderate reduction in self-reported stress from breathwork (g = -0.35), and its authors say the result should be interpreted very cautiously. And in a [randomized study of 108 people](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947), 5 minutes a day of cyclic sighing for 28 days raised positive mood more than mindfulness meditation did.
+
+On longer exhales specifically, the evidence is less settled than popular articles suggest. In Marchant's comparison, 4-7-8, the pattern with the longest exhale relative to the inhale, was not the one that moved heart rate variability most. Our explainer on [parasympathetic breathing](/blog/parasympathetic-breathing/) covers what slow exhales are thought to do, and our roundup of [breathing techniques for calm](/blog/breathing-techniques-for-calm/) compares 4-7-8 with other patterns side by side.
+
+The honest summary: 4-7-8 is a reasonable, low-cost way to slow down, and it may help you feel calmer. It is not a treatment for anxiety, panic, or insomnia. If those are persistent, talk to a doctor or mental health professional. If you or someone you know may be in crisis, contact local emergency services, or call or text 988 in the US.
+
+## FAQ
+**Is it normal to feel dizzy doing 4-7-8 breathing?**
+Lightheadedness is commonly reported when people start 4-7-8, usually during the 7-second hold or the long exhale. Weil's handout says it tends to pass with practice. Still, don't push through it. Stop and breathe normally, then try fewer cycles, the faster 2-3.5-4 count, or a no-hold pattern like 4-6. Always practice sitting or lying down.
+
+**What if I can't hold my breath for 7 seconds?**
+Use a faster count that keeps the same ratio: breathe in for 2, hold for 3.5, and breathe out for 4. Weil and Medical News Today both say the ratio matters more than the exact seconds. If even a short hold feels uncomfortable, skip holds entirely and use 4-6 breathing, which slows your breathing without a pause.
+
+**How long does it take for 4-7-8 breathing to work?**
+Many people feel a bit calmer by the end of a single 4-cycle session, and a 2022 study measured a lower heart rate after a session than before it. Medical News Today notes that longer-term benefits may take days to weeks of regular practice. The research on multi-week effects of 4-7-8 is still small.
+
+**Does 4-7-8 breathing really help you fall asleep in 1 minute?**
+No study shows that 4-7-8 puts people to sleep in one minute. It can help you feel calmer as you wind down, and one small 2026 trial in people with tinnitus found improved insomnia scores after six weeks of twice-daily practice, though it had no sham control. Treat it as a way to settle, not a sleep switch. Persistent sleep problems are worth raising with a doctor.
+
+**Is 4-7-8 better than box breathing or 4-6 breathing?**
+Not on the current evidence. A 2025 study of 84 people found that breathing at 6 breaths per minute (the same rate as 4-6 breathing) raised heart rate variability more than either 4-7-8 or box breathing. None of the three meaningfully changed mood or blood pressure. The best pattern is the one you find comfortable enough to actually use.
+
+**Should I do 4-7-8 lying down in bed?**
+Lying down is a good choice, and Medical News Today recommends sitting or lying down to prevent dizziness or falls. In bed, do 4 cycles, or up to 8 if you've practiced for about a month, then let your breath return to its own rhythm. If the counting keeps you alert, use fewer cycles or switch to 4-6.
+
+## Sources
+- Breathing (4-7-8) patient education handout: https://awcim.arizona.edu/content/CLH00048.html
+- How To Do the 4-7-8 Breathing Exercise: https://health.clevelandclinic.org/4-7-8-breathing?utm_source
+- 4-7-8 breathing: How it works, benefits, and uses: https://www.medicalnewstoday.com/articles/324417.php
+- 4-7-8 Breathing: https://healthline.com/health/4-7-8-breathing
+- Effects of sleep deprivation and 4-7-8 breathing control on HRV, BP, blood glucose, and endothelial function (Vierra et al.): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9277512/
+- Comparing square, 4-7-8, and 6 breaths-per-minute breathing on HRV, CO2 and mood (Marchant et al.): https://pubmed.ncbi.nlm.nih.gov/39864026/
+- Comparing the Effects of Square, 4-7-8, and 6 Breaths-per-Minute Breathing (Marchant thesis): https://scholarsarchive.byu.edu/etd/10696
+- The Effect of 4-7-8 Breathing on Tinnitus Handicap, Psychological Factors, and Sleep Quality (Kirazli et al.): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12895279/
+- Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.): https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947
+- Effect of breathwork on stress and mental health: a meta-analysis of RCTs (Fincham et al.): https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/
+- How Breath-Control Can Change Your Life: systematic review of slow breathing (Zaccaro et al.): https://pubmed.ncbi.nlm.nih.gov/30245619/
+- 4-7-8 Breathing: https://myzakim.dana-farber.org/videos/4-7-8-breathing
+- Soothe stressful emotions with the 4-7-8 breathing practice: https://www.mindful.org/soothe-stressful-emotions-with-the-4-7-8-breathing-practice/
+
+---
+
 # ScreenZen Alternatives: Delay Apps, Blockers, or a Mid-Scroll Reset
 
 URL: https://derot.org/blog/screenzen-alternative/
