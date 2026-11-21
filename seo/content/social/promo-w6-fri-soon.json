@@ -16,7 +16,9 @@
     "threads": {
       "status": "queued",
       "scheduled_at": "2026-11-20T21:00:00+00:00",
-      "attempts": 0
+      "attempts": 1,
+      "error": "28715686694717540/threads_publish: HTTP 400 code -1/4279047: The post you're trying to publish has an invalid link attachment.",
+      "retry_after": "2026-11-21T01:57:04.915352+00:00"
     }
   },
   "built_at": "2026-11-10T14:03:51+00:00"
