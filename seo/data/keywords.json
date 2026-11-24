@@ -881,8 +881,10 @@
       "content_type": "faq",
       "angle": "Wired and tired after a day of screens: what is happening and a calming reset.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Forum-heavy SERP."
+      "status": "published",
+      "notes": "Forum-heavy SERP.",
+      "post": "why-do-i-feel-wired-but-tired",
+      "published": "2026-11-24"
     },
     {
       "keyword": "overstimulated how to calm down",
@@ -895,7 +897,7 @@
       "angle": "Sensory overload from screens and a quick down-shift routine.",
       "seasonality": [],
       "status": "covered",
-      "covered_by": "nervous-system-overload-from-phone"
+      "covered_by": "why-do-i-feel-wired-but-tired"
     },
     {
       "keyword": "nervous system overload from phone",
@@ -2864,7 +2866,8 @@
       "content_type": "how-to",
       "angle": "Decompress without defaulting to a scroll binge.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "why-do-i-feel-wired-but-tired"
     },
     {
       "keyword": "why can t i stop scrolling tiktok",
@@ -3503,9 +3506,10 @@
       "content_type": "how-to",
       "angle": "A wind-down for the night you got wired scrolling in bed: long-exhale breathing that brings your body down before you try to sleep.",
       "seasonality": [],
-      "status": "queued",
+      "status": "covered",
       "source": "expansion",
-      "added": "2026-10-25"
+      "added": "2026-10-25",
+      "covered_by": "why-do-i-feel-wired-but-tired"
     },
     {
       "keyword": "how to calm your nervous system long term",
@@ -4059,6 +4063,13 @@
       "status": "queued",
       "source": "expansion",
       "added": "2026-11-22"
+    },
+    {
+      "keyword": "tired but wired",
+      "cluster": "nervous-system-regulation",
+      "status": "covered",
+      "source": "planner",
+      "covered_by": "why-do-i-feel-wired-but-tired"
     }
   ]
 }

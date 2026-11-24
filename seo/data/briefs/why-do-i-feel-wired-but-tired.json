@@ -1,0 +1,298 @@
+{
+  "title_options": [
+    "Why do I feel wired but tired? What's going on and how to come down",
+    "Wired but tired: why your body is exhausted but your brain won't switch off",
+    "Why do I feel wired but tired? The physiology, the myths, and a 60-second reset"
+  ],
+  "search_intent": "Informational and symptom-explaining. The searcher feels exhausted but restless or keyed up, often in the evening or at bedtime, and wants to know why: is it stress, anxiety, caffeine, hormones, \"adrenal fatigue\"? They also want a quick fix for right now and to know when it's worth seeing a doctor. Format: a short answer up front, a plain explanation, practical steps, then an FAQ.",
+  "serp_summary": "Clinic pages hold the top results. UCLA Health (2025) builds its page around adrenal fatigue, says it is not a recognized diagnosis, points to an HPA axis that stays active, lists conditions that look similar, and offers generic lifestyle tips. Cleveland Clinic's \"overtired\" page defines the state, mentions fight-or-flight, the loop of worrying about sleep, and alcohol rebound, and gives wind-down and CBT-I tips. Below them are wellness brands (mindbodygreen, Headspace, Oura, moregooddays) that rely on \"cortisol stays high,\" blue light, caffeine, and sometimes supplements, plus many thin AI-written ubiehealth pages, some of which still treat adrenal fatigue as real. None gives a timed breathing technique, explains the evidence on hyperarousal or screens with any nuance, or deals with the moment it actually happens: on the couch after work with a phone in hand. Few have a real FAQ.",
+  "gaps": [
+    "No page explains the mismatch plainly: sleep pressure is high but the stress response is still on (hyperarousal, sleep reactivity). Kalmbach adds that the problem may be a stress response that won't switch off, not constant high arousal.",
+    "Top pages say 'cortisol stays high at night' with no qualification. We can say which parts are well studied (stress response, cognitive hyperarousal) and which are speculative or unsupported (adrenal fatigue).",
+    "Screens: competitors either push blue-light alarmism or say almost nothing. The evidence is observational. Hjetland 2025 found time on screens in bed was associated with worse sleep, but social media was no worse than other screen activities.",
+    "No competitor gives an exact, timed down-shift (calm 4-6 or physiological sigh) with what it feels like and common mistakes, or ties it to the moment you notice the feeling mid-scroll.",
+    "Research on psychological detachment after work (38k employees) is almost never cited, though it fits the after-work comedown well.",
+    "Concrete caffeine evidence (Drake 2013: 400 mg six hours before bed cut sleep by more than an hour without people noticing) is missing from most pages.",
+    "Source limitation: the Cadegiani & Kater systematic review appears in the notes only at a URL that isn't in the verified list, so the article must rely on UCLA Health (citing the Endocrine Society) for the adrenal fatigue claim. Do not quote the '58 studies' figure without a verified link."
+  ],
+  "outline": [
+    {
+      "h2": "Why do I feel wired but tired? The short answer",
+      "points": [
+        "40-60 word answer: your body is low on energy and sleep pressure is high, but your stress response is still switched on, so you feel exhausted and keyed up at once.",
+        "Use Cleveland Clinic's definition of overtiredness (S2).",
+        "Frame it as a mismatch of state, not a personal failing. A day of feeds and notifications that keep you slightly activated can add to it.",
+        "Link to the free calm breathing tool for anyone who wants to skip ahead."
+      ]
+    },
+    {
+      "h2": "What is happening in your body when you're tired but wired?",
+      "points": [
+        "Two systems pulling in opposite directions: sleep drive (homeostatic pressure) and arousal (autonomic, cortical, cognitive-emotional).",
+        "Sleep science calls the persistent version hyperarousal (S12, S13). Cognitive-emotional arousal (worry, rumination) has the strongest support (S12).",
+        "Sleep reactivity: how much stress disturbs a person's sleep varies. It is partly heritable (29-37%), and women tend to be more reactive (S11).",
+        "Nuance: a stress response that won't switch off may matter more than constantly high arousal (S11). This fits being wired after a stimulating evening.",
+        "Glossary link for the autonomic nervous system or vagus nerve, if one is in the inventory."
+      ]
+    },
+    {
+      "h2": "Is it cortisol or 'adrenal fatigue'? What the evidence actually says",
+      "points": [
+        "The HPA axis and stress hormones are real and well studied. UCLA describes an HPA axis kept active, with cortisol elevated when it should be low (S1).",
+        "Adrenal fatigue is not a recognized diagnosis, and the Endocrine Society says there is no evidence that stress wears out the adrenals (S1).",
+        "Adrenal supplements may interfere with hormone production and risk adrenal crisis (S1). Don't self-treat.",
+        "Be honest: 'reset your cortisol' claims go beyond the evidence."
+      ]
+    },
+    {
+      "h2": "What can make you feel wired but tired? Common contributors",
+      "points": [
+        "Caffeine later than you think: 400 mg six hours before bed cut objectively measured sleep by more than an hour, and participants mostly didn't notice (S8). Note the small sample and high dose.",
+        "Work that doesn't end: psychological detachment during off-time is linked to less fatigue and more recovery, and work activity after hours undermines it (S14, S15).",
+        "Evenings on screens: in about 45k students, each extra hour of screen use in bed was linked to 59% higher odds of insomnia symptoms and about 24 minutes less sleep, with social media no worse than other screen activities (S10). This is observational.",
+        "In-bed phone use was associated with longer sleep latency, higher heart rate, and lower HRV in a small Oura study. Entertainment and game apps were linked to worse sleep; social apps were not (S9).",
+        "Alcohol rebound waking and the loop of worrying about sleep (S2).",
+        "Keep the DeRot angle: the issue is how the feed leaves you feeling, not the minutes."
+      ]
+    },
+    {
+      "h2": "How to calm down when you're wired but tired: a 60-second down-shift",
+      "points": [
+        "Calm 4-6: breathe in through the nose for 4, out slowly for 6, for 5-6 rounds (about 6 breaths a minute, roughly 60 seconds).",
+        "Physiological sigh (cyclic sighing): a full nose inhale, a short second top-up inhale, then a long, slow exhale through the mouth. Repeat 2-5 times (S4, S5).",
+        "What it feels like: shoulders drop, jaw unclenches, warmth, sometimes a yawn.",
+        "Common mistakes: forcing a huge inhale, rushing the exhale, breathing fast until lightheaded, checking the phone between breaths.",
+        "Link to the calm 4-6 and physiological sigh tools.",
+        "Safety: stop if dizzy or tingly and go back to normal breathing."
+      ]
+    },
+    {
+      "h2": "Does breathing actually help? An honest look at the evidence",
+      "points": [
+        "Laborde meta-analysis (223 studies): slow breathing raises vagally mediated HRV during and right after a session, and over multiple sessions (S7).",
+        "Slow-paced breathing meta-analysis (31 studies, n=1,133): immediate effects, including lower systolic blood pressure (S16). Cite cautiously.",
+        "Balban RCT (108 people, 5 min a day for 28 days): cyclic sighing gave the biggest daily gain in positive mood and lowered respiratory rate, but there was no change in HRV or sleep metrics (S4). The sample was mostly students.",
+        "Fincham meta-analysis: small-to-medium effect on stress (g = -0.35), with moderate risk of bias (S6).",
+        "Takeaway: breathing can help you feel calmer in the moment. It is not a sleep treatment."
+      ]
+    },
+    {
+      "h2": "Using it mid-scroll: catching the wired feeling on the couch",
+      "points": [
+        "The scene: after work, phone in hand, 20 minutes in, jaw tight. 'No screens an hour before bed' doesn't help once you're already here.",
+        "Notice the cues: shallow breathing, clenched jaw, restless thumb, tired eyes but a racing mind.",
+        "A script: put the phone face down, do 3 physiological sighs or 6 rounds of 4-6, then decide on purpose whether to keep scrolling.",
+        "One light mention: DeRot pauses your apps mid-scroll while you reset with a few calming breaths (pre-launch).",
+        "Pair it with a small transition ritual to signal that work is over (S15)."
+      ]
+    },
+    {
+      "h2": "When should you see a doctor about feeling tired but wired?",
+      "points": [
+        "If it happens regularly or lasts for weeks, see a GP or primary care doctor (S1, S2).",
+        "Conditions that can look similar: anxiety or depression, sleep apnea (snoring, gasping), thyroid disorders, anemia, Addison's, perimenopause, insomnia disorder (S1, S2).",
+        "CBT-I is the recommended long-term approach for chronic insomnia (S2).",
+        "If you feel persistently distressed or unsafe, contact local emergency services or a crisis line (988 in the US)."
+      ]
+    }
+  ],
+  "questions": [
+    "Why am I exhausted but can't fall asleep?",
+    "Is feeling tired but wired a sign of anxiety?",
+    "Is tired but wired the same as adrenal fatigue?",
+    "Can afternoon caffeine make me feel wired at night?",
+    "Why do I feel more awake as soon as I get into bed?",
+    "Is scrolling social media at night worse than watching TV?",
+    "How long does breathing take to calm you down?",
+    "Can thyroid problems or perimenopause cause feeling tired but wired?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://uclahealth.org/news/article/feeling-tired-wired-heres-what-might-be-causing-it",
+      "title": "Feeling tired but wired? Here's what might be causing it",
+      "publisher": "UCLA Health",
+      "year": "2025",
+      "key_findings": "Adrenal fatigue is not a recognized diagnosis, and the Endocrine Society says there is no evidence that stress fatigues the adrenals. An HPA axis kept active, with cortisol elevated at bedtime, is the more likely factor. Lists similar-looking conditions (Addison's, depression or anxiety, sleep apnea, thyroid). Adrenal supplements may risk adrenal crisis. See a doctor if episodes are regular."
+    },
+    {
+      "id": "S2",
+      "url": "https://health.clevelandclinic.org/overtired",
+      "title": "Overtired: why you can't sleep and what to do",
+      "publisher": "Cleveland Clinic",
+      "year": "n.d.",
+      "key_findings": "Overtiredness defined as being excessively tired yet feeling wired. Covers fight-or-flight in overdrive, the loop of worrying about sleep, alcohol rebound waking, a 15-20 minute wind-down, and CBT-I. See a provider if it's frequent."
+    },
+    {
+      "id": "S4",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Cell Reports Medicine (Balban et al.)",
+      "year": "2023",
+      "key_findings": "RCT, 108 randomized, 5 min a day for 28 days. Cyclic sighing gave the largest daily gain in positive affect (+1.89) and lowered respiratory rate. Anxiety fell in all groups. No change in HRV, resting heart rate, or sleep. Exploratory study, mostly students."
+    },
+    {
+      "id": "S5",
+      "url": "https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html",
+      "title": "Cyclic sighing can help breathe away anxiety",
+      "publisher": "Stanford Medicine",
+      "year": "2023",
+      "key_findings": "Plain-language description of cyclic sighing: deep nose inhale, second inhale, slow mouth exhale, about 5 minutes. Results are preliminary. Use the paper's 108 rather than this piece's 111."
+    },
+    {
+      "id": "S6",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/",
+      "title": "Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials",
+      "publisher": "Scientific Reports (Fincham et al.)",
+      "year": "2023",
+      "key_findings": "Stress g = -0.35 (95% CI -0.55 to -0.14) across 12 RCTs with 785 adults. Similar effects on anxiety and depressive symptoms. Moderate risk of bias."
+    },
+    {
+      "id": "S7",
+      "url": "https://eprints.bournemouth.ac.uk/38169/",
+      "title": "Effects of voluntary slow breathing on heart rate and heart rate variability: a systematic review and meta-analysis",
+      "publisher": "Neuroscience & Biobehavioral Reviews (Laborde et al.)",
+      "year": "2022",
+      "key_findings": "223 studies. Slow breathing increased vagally mediated HRV during a session, right after one, and over multi-session interventions. Low cost, with few adverse effects."
+    },
+    {
+      "id": "S8",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807",
+      "title": "Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed",
+      "publisher": "Journal of Clinical Sleep Medicine (Drake et al.)",
+      "year": "2013",
+      "key_findings": "12 healthy sleepers, 400 mg caffeine. Every timing disrupted sleep. Taken 6 hours before bed, it cut objective sleep by more than 1 hour, largely without participants noticing."
+    },
+    {
+      "id": "S9",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/",
+      "title": "\"Leave your smartphone out of bed\": quantitative analysis of smartphone use effect on sleep quality",
+      "publisher": "Personal and Ubiquitous Computing (Kheirinejad et al.)",
+      "year": "2022",
+      "key_findings": "75 people, 3,990 nights. In-bed phone use was associated with longer sleep latency, more awake time, higher heart rate, and lower HRV. Entertainment and game apps were linked to worse sleep; social apps were not. Observational."
+    },
+    {
+      "id": "S10",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1548273/full",
+      "title": "How and when screens are used: comparing different screen activities and sleep in Norwegian university students",
+      "publisher": "Frontiers in Psychiatry (Hjetland et al.)",
+      "year": "2025",
+      "key_findings": "About 45k students. Each extra hour of screen use in bed was linked to 59% higher odds of insomnia symptoms (OR 1.59) and about 24 minutes less sleep. Social media was no worse than other screen activities. Cross-sectional and self-reported."
+    },
+    {
+      "id": "S11",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6054324",
+      "title": "Hyperarousal and sleep reactivity in insomnia: current insights",
+      "publisher": "Nature and Science of Sleep (Kalmbach et al.)",
+      "year": "2018",
+      "key_findings": "Sleep reactivity is 29-37% heritable, and women are more reactive. Insomnia affects about 9-20% of US adults. A dysregulated stress response may be a better risk marker than general hyperarousal."
+    },
+    {
+      "id": "S12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37183177/",
+      "title": "Hyperarousal in insomnia disorder: current evidence and potential mechanisms",
+      "publisher": "Journal of Sleep Research",
+      "year": "2023",
+      "key_findings": "Hyperarousal spans physiological, cortical, and cognitive-emotional domains. Cognitive-emotional hyperarousal is well supported. Summary comes from search results only."
+    },
+    {
+      "id": "S13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19481481/",
+      "title": "The hyperarousal model of insomnia: a review of the concept and its evidence",
+      "publisher": "Sleep Medicine Reviews (Riemann et al.)",
+      "year": "2010",
+      "key_findings": "Higher autonomic, neuroendocrine, and cortical arousal in insomnia by day and night. Use for the general concept only."
+    },
+    {
+      "id": "S14",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5233687/",
+      "title": "A meta-analysis on antecedents and outcomes of detachment from work",
+      "publisher": "Frontiers in Psychology (Wendsche & Lohmann-Haislah)",
+      "year": "2017",
+      "key_findings": "38,124 employees. Detaching from work during off-time was linked to less fatigue and more positive affect and recovery. Work-related activity in off-time had a medium negative link with detachment."
+    },
+    {
+      "id": "S15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34096763/",
+      "title": "Interventions for improving psychological detachment from work: a meta-analysis",
+      "publisher": "Journal of Occupational Health Psychology",
+      "year": "2021",
+      "key_findings": "Interventions improved detachment, d = 0.36. Summary comes from search results."
+    },
+    {
+      "id": "S16",
+      "url": "https://link.springer.com/article/10.1007/s12671-023-02294-2",
+      "title": "Meta-analysis of slow-paced breathing on cardiovascular and emotion measures",
+      "publisher": "Mindfulness (Springer)",
+      "year": "2024",
+      "key_findings": "31 studies, n = 1,133. Significant immediate effects, including lower systolic blood pressure. Only the abstract was seen."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "Cleveland Clinic defines overtiredness as being excessively tired yet feeling wired at the same time.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "Adrenal fatigue is not a medically recognized diagnosis, and the Endocrine Society says there is no evidence that chronic stress fatigues the adrenals.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Adrenal supplements may interfere with hormone production and risk adrenal crisis.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "29-37% of sleep reactivity is heritable, and women tend to be more reactive.",
+      "source_id": "S11"
+    },
+    {
+      "fact": "A dysregulated stress response, rather than general hyperarousal, may be the better marker of insomnia risk.",
+      "source_id": "S11"
+    },
+    {
+      "fact": "400 mg of caffeine taken 6 hours before bed reduced objectively measured sleep by more than 1 hour in 12 healthy sleepers, who were largely unaware of it.",
+      "source_id": "S8"
+    },
+    {
+      "fact": "Each extra hour of screen use in bed was associated with 59% higher odds of insomnia symptoms and about 24 minutes less sleep in about 45,000 students. Social media was no worse than other screen activities.",
+      "source_id": "S10"
+    },
+    {
+      "fact": "In-bed phone use was associated with longer sleep latency, higher average heart rate, and lower HRV across 3,990 nights from 75 people.",
+      "source_id": "S9"
+    },
+    {
+      "fact": "In an RCT of 108 people practicing 5 minutes a day for 28 days, cyclic sighing produced the largest daily gain in positive mood and lowered respiratory rate, with no significant change in HRV or sleep.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "Across 12 RCTs (785 adults), breathwork had a small-to-medium effect on self-reported stress (g = -0.35), with most studies at moderate risk of bias.",
+      "source_id": "S6"
+    },
+    {
+      "fact": "A meta-analysis of 223 studies found voluntary slow breathing increases vagally mediated HRV during and right after a session.",
+      "source_id": "S7"
+    },
+    {
+      "fact": "Psychological detachment from work during off-time is linked to less fatigue and more positive affect across 38,124 employees.",
+      "source_id": "S14"
+    },
+    {
+      "fact": "Interventions to improve detachment from work had an effect of d = 0.36.",
+      "source_id": "S15"
+    }
+  ],
+  "safety_notes": [
+    "Do not diagnose. Persistent tired-but-wired feelings can overlap with anxiety, depression, sleep apnea, thyroid disorders, anemia, Addison's, perimenopause, or insomnia disorder. Suggest seeing a doctor if it is regular, lasts weeks, or comes with snoring, gasping, palpitations, weight change, or low mood.",
+    "Do not endorse adrenal fatigue testing or supplements (UCLA warns of adrenal crisis risk).",
+    "Breathing: stop if dizzy, lightheaded, or tingly. Keep inhales gentle. Avoid breath holds and fast breathing if pregnant, if you have heart or lung conditions, or if you have a history of fainting, seizures, or panic.",
+    "Do not claim breathing improves sleep or treats anxiety or insomnia. Balban found no change in sleep or HRV over 28 days.",
+    "Present screen and sleep research as observational. Avoid blue-light alarmism and addiction framing.",
+    "Drake's 400 mg dose is high. Don't state a cup count without a source.",
+    "Include crisis guidance: local emergency services or 988 in the US.",
+    "Use 108 participants for Balban, not 111. Do not cite the Hjetland 'users vs non-users' OR 0.86 sub-finding. Do not cite the Cadegiani '58 studies' figure (URL not verified)."
+  ],
+  "word_count_target": 1900,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: \"why do i feel wired but tired\" (FAQ article)\n\n## SERP ANALYSIS\n\n**What ranks:** Major clinic pages hold the top spots. Below them are wellness brands and a cluster of AI-generated \"doctor's note\" pages.\n\n- **[UCLA Health](https://uclahealth.org/news/article/feeling-tired-wired-heres-what-might-be-causing-it)** (June 23, 2025). This is the strongest page. It is built around adrenal fatigue: what it is, the HPA axis as \"the likely culprit,\" conditions that mimic it, and lifestyle tips.\n  - Done well: it states that \"adrenal fatigue\" is not a recognized diagnosis (citing the Endocrine Society), warns that adrenal supplements can risk adrenal crisis, and lists conditions that look similar (Addison's, depression or anxiety, sleep apnea, thyroid).\n  - Missing: no breathing technique, and scrolling gets one line as a trigger. The tips are generic (exercise, diet, meditation, \"rethink stress\").\n- **[Cleveland Clinic, \"overtired\"](https://health.clevelandclinic.org/overtired)**. Definition: \"Overtiredness is when you're excessively tired yet feel wired at the same time.\" It covers fight-or-flight in overdrive, the loop of worrying about sleep, missing your \"window,\" and alcohol rebound waking.\n  - Tips: a cool, dark room; hide the clock; a 15–20 min wind-down; read something boring; count down from 100; CBT-I.\n  - Screens come up only as \"don't use your phone during night wakings.\"\n  - No breathing technique and no physiology beyond fight-or-flight.\n- **[mindbodygreen](https://www.mindbodygreen.com/articles/why-you-feel-tired-yet-wired)**, **[Headspace \"Are you t'wired?\"](https://www.headspace.com/articles/are-you-twired)**, **[Oura](https://ouraring.com/blog/de/why-am-i-tired-but-cant-sleep/)**, **[moregooddays](https://www.moregooddays.com/post/tired-but-wired-why-am-i-tired-but-cant-sleep)**, a Stylist piece on a thyroid condition, and many thin pages from ubiehealth.com.\n  - Common framing: cortisol stays high at night, plus \"sleep drive is high but the circadian clock isn't ready,\" blue light, caffeine, and irregular schedules.\n  - Several low-quality pages still list \"adrenal fatigue\" as a real cause.\n  - The mindbodygreen fetch returned only a listing page, so its body wasn't verified. Some wellness-brand pages also lean on supplements and adaptogens.\n- **Format:** Explainer plus tips plus \"when to see a doctor.\" Few pages have a real FAQ block. None gives a timed, step-by-step technique.\n- **Reddit/forums:** Two searches returned no Reddit threads, so I could not verify forum wording directly. The questions below are drawn from the SERP pages' subheads and recurring phrasing.\n\n## GAPS AND ANGLE\n\n1. **No page explains the \"mismatch\" plainly.** Sleep pressure (homeostatic drive) is high while arousal is still on: cortical, autonomic, and cognitive-emotional. Sleep science calls this \"hyperarousal\" and \"sleep reactivity.\" Kalmbach 2018 adds a useful nuance: risk may come from a *stress response* that won't switch off, rather than constant high arousal. That fits \"wired after a stimulating evening\" well.\n2. **Honest evidence levels.** Top pages say \"cortisol stays high at night\" with no nuance.\n   - We can say the HPA axis and stress response are real and well studied.\n   - \"Adrenal fatigue\" is not supported: a systematic review of 58 studies concluded it is a myth.\n   - The screen and social media evidence is mostly observational and mixed. Social media was *not* worse than other screen activities in a study of about 45k students, but time in bed on screens was associated with worse sleep.\n3. **The mid-scroll moment.** No competitor deals with the actual scene: couch, after work, phone in hand, jaw tight. Our angle is to notice the wired feeling *while* scrolling, then down-shift. A rule like \"no screens 1 hour before bed\" doesn't help someone who is already on the couch.\n4. **An exact technique.** Two options:\n   - Calm 4-6: inhale 4, exhale 6, about 6 breaths/min.\n   - Physiological sigh (cyclic sighing): a nose inhale, a second top-up inhale, then a long, slow mouth exhale.\n   - Give counts, what it feels like (shoulders drop, warmth, a yawn), and common mistakes: forcing a huge inhale, rushing the exhale, over-breathing until lightheaded, checking the phone between breaths.\n   - Honest evidence: one RCT of 108 people, 5 min/day for 28 days, found mood gains and a lower respiratory rate but no HRV or sleep change. The Laborde meta-analysis (223 studies) found slow breathing raises vagally mediated HRV. The Fincham meta-analysis found a small-to-medium effect on stress (g = −0.35) and flagged moderate risk of bias.\n5. **Decompressing after work.** The research on \"psychological detachment\" (a meta-analysis of 38k employees) supports a deliberate transition. Few competitors cite it.\n6. **Caffeine specifics.** Drake 2013: 400 mg taken even 6 hours before bed cut objectively measured sleep by more than 1 hour, and participants mostly didn't notice. This is a concrete answer to \"is it caffeine?\"\n7. **Avoid:** blue-light alarmism, \"phone addiction\" framing, supplements, and \"reset your cortisol\" claims.\n\n## QUESTIONS (PAA-style FAQ candidates)\n\n- Why am I exhausted but can't fall asleep?\n- Is feeling tired but wired a sign of anxiety?\n- Is \"tired but wired\" adrenal fatigue? (No, see Cadegiani and UCLA.)\n- Can caffeine make me feel wired but tired, even from the afternoon?\n- Why is it worse at night or right when I get into bed?\n- Does scrolling on my phone at night make it worse? Is social media worse than TV?\n- How do I calm my nervous system before bed, fast?\n- How do I decompress after work when I'm drained but restless?\n- What helps when I'm overstimulated and can't settle?\n- Does breathing actually help, and how long does it take?\n- Can a thyroid problem, perimenopause, or sleep apnea cause it?\n- When should I see a doctor about feeling tired but wired?\n- Is it normal to feel more awake after I get into bed?\n\n## SOURCES\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC4997656 | Adrenal fatigue does not exist: a systematic review (Cadegiani & Kater) | BMC Endocrine Disorders | 2016 | PRISMA systematic review. 3,470 articles screened and 58 studies included (33 healthy, 25 symptomatic). Results were \"conflicting\" because of flawed cortisol methods. Conclusion: \"there is no substantiation that 'adrenal fatigue' is an actual medical condition.\" Limitations: heterogeneous designs, poor fatigue assessment.\n\nhttps://uclahealth.org/news/article/feeling-tired-wired-heres-what-might-be-causing-it | Feeling tired but wired? Here's what might be causing it | UCLA Health | 2025 | Adrenal fatigue is not a medically recognized diagnosis, and the Endocrine Society says there is no evidence that chronic stress fatigues the adrenals. A more likely factor is an HPA axis kept active, with cortisol elevated when it should be low (bedtime). Mimics: Addison's, depression or anxiety, obstructive sleep apnea, thyroid disorders. Adrenal supplements may risk adrenal crisis. See a primary care physician if episodes are regular.\n\nhttps://health.clevelandclinic.org/overtired | Overtired: why you can't sleep and what to do | Cleveland Clinic | n.d. | Definition: \"Overtiredness is when you're excessively tired yet feel wired at the same time.\" Fight-or-flight in overdrive keeps the brain alert, and a loop of worrying about sleep follows. Alcohol can cause rebound waking. 15–20 min wind-down; CBT-I. See a provider if frequent (anxiety, sleep or mood disorders, thyroid, anemia).\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9873947 | Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.) | Cell Reports Medicine | 2023 | Remote RCT, 108 randomized: 24 mindfulness, 30 cyclic sighing, 21 box, 33 cyclic hyperventilation. 5 min/day for 28 days.\n- Cyclic sighing: slow inhale, a second shorter inhale to fill the lungs, slow full exhale. Nose in and mouth out is ideal; all-nose is OK.\n- Positive affect daily change: cyclic sighing +1.89 (p = 0.025), mindfulness +1.22 (p = 0.06). Breathwork > mindfulness for positive affect and respiratory-rate reduction (p < 0.05), and the benefit grew with adherence.\n- State anxiety fell in all groups with no difference between groups.\n- No significant change in HRV, resting HR, or sleep metrics.\n- Limitations: exploratory, retrospectively registered, mostly Stanford undergrads, 4-week follow-up. Exclusions included heart disease, pregnancy, seizures, and psychosis. A co-author advised WHOOP.\n\nhttps://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html | Cyclic sighing can help breathe away anxiety | Stanford Medicine News | 2023 | Plain-language summary: deep nose inhale, second inhale, slow mouth exhale, about 5 min. Cyclic sighing gave the largest daily gain in positive mood and lowered resting breathing rate. Results are preliminary (healthy volunteers). Note: the news piece says 111 volunteers; the paper says 108 randomized, so use the paper's number.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/ | Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials (Fincham et al.) | Scientific Reports | 2023 | Self-reported stress: g = −0.35 (95% CI −0.55 to −0.14), p = 0.0009, from 12 RCTs with 785 adults. Similar effects for anxiety (k = 20) and depressive symptoms (k = 18). Most studies at moderate risk of bias; authors urge cautious interpretation.\n\nhttps://eprints.bournemouth.ac.uk/38169/ | Effects of voluntary slow breathing on heart rate and heart rate variability: a systematic review and meta-analysis (Laborde et al.) | Neuroscience & Biobehavioral Reviews 138:104711 | 2022 | 1,842 abstracts screened, 223 studies included. Vagally mediated HRV increased with voluntary slow breathing during a session, immediately after one session, and after multi-session interventions. Described as low-tech and low-cost, with few adverse effects expected.\n\nhttps://link.springer.com/article/10.1007/s12671-023-02294-2 | Meta-analysis of slow-paced breathing on cardiovascular and emotion measures | Mindfulness (Springer) | 2024 | 31 studies, n = 1,133. Slow-paced breathing had significant immediate effects including lower systolic blood pressure. Only the abstract-level summary was seen, so cite cautiously.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC3805807 | Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed (Drake et al.) | Journal of Clinical Sleep Medicine | 2013 | 12 healthy sleepers; 400 mg caffeine vs placebo. All three timings disturbed sleep (p < 0.05). At 6 hours before bed, objectively measured total sleep fell by more than 1 hour, and participants were largely unaware. Supports avoiding substantial caffeine for at least 6 h before bed. Small sample and a high dose.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/ | \"Leave your smartphone out of bed\": quantitative analysis of smartphone use effect on sleep quality (Kheirinejad et al.) | Personal and Ubiquitous Computing | 2022 | 4-month observational study with Oura ring plus app logs; 75 analyzed (3,990 nights). In-bed phone use averaged about 5.4 min (42% of in-bed time). It was associated with longer sleep latency, more awake time, higher average HR, and lower HRV. Social and communication apps were not associated with worse sleep quality; entertainment and game apps were. Causation is unclear and the sample was small.\n\nhttps://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1548273/full | How and when screens are used: comparing different screen activities and sleep in Norwegian university students (Hjetland, Gradisar, Sivertsen et al.) | Frontiers in Psychiatry | 2025 | Cross-sectional national survey (SHOT2022), about 45k students aged 18–28. Each extra hour of screen use in bed was associated with 59% higher odds of insomnia symptoms (OR 1.59) and about 24 min less sleep. The association did not differ for social media vs other screen activities. Self-report only, 35.1% response rate, reverse causation possible.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC6054324 | Hyperarousal and sleep reactivity in insomnia: current insights (Kalmbach, Roth, Drake et al.) | Nature and Science of Sleep | 2018 | Sleep reactivity is \"the degree to which individuals exhibit acute sleep disturbance in response to stress exposure.\" 29–37% of it is heritable, and women are more reactive. Insomnia affects about 9–20% of US adults. A \"dysregulated stress response rather than general hyperarousal\" may be the better risk marker. Evidence for general hyperarousal is mixed.\n\nhttps://pubmed.ncbi.nlm.nih.gov/37183177/ | Hyperarousal in insomnia disorder: current evidence and potential mechanisms | Journal of Sleep Research | 2023 | Hyperarousal means relatively increased arousal in physiological, cortical (high-frequency EEG), and cognitive-emotional domains. Cognitive-emotional hyperarousal (worry, rumination) is well supported. Summary is from search results only; the abstract was not fetched.\n\nhttps://pubmed.ncbi.nlm.nih.gov/19481481/ | The hyperarousal model of insomnia: a review of the concept and its evidence (Riemann et al.) | Sleep Medicine Reviews | 2010 | Most-cited review. Autonomic, neuroendocrine, EEG, and neuroimaging studies show higher arousal in primary insomnia by day and by night. Summary is from search results; the PubMed page didn't load, so use it for the general concept only.\n\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC5233687/ | A meta-analysis on antecedents and outcomes of detachment from work (Wendsche & Lohmann-Haislah) | Frontiers in Psychology | 2017 | 86 publications, 91 samples, 38,124 employees. Psychological detachment from work during off-time was linked to better state well-being (less fatigue, more positive affect, more recovery), with small-to-medium effects. Work-related activity in non-work time had a medium negative link with detachment. Heterogeneity was moderate to high.\n\nhttps://pubmed.ncbi.nlm.nih.gov/34096763/ | Interventions for improving psychological detachment from work: a meta-analysis | Journal of Occupational Health Psychology | 2021 | Interventions improved detachment, d = 0.36. Summary is from search results.\n\n## SAFETY\n\n- **Do not diagnose.** A persistent tired-but-wired pattern can overlap with anxiety disorders, depression, sleep apnea, thyroid disorders, adrenal insufficiency (Addison's), anemia, perimenopause, or insomnia disorder. If it happens regularly, lasts for weeks, or comes with snoring or gasping, palpitations, weight change, or low mood, suggest seeing a GP or doctor. CBT-I is the recommended long-term approach for chronic insomnia (Cleveland Clinic).\n- **Do not endorse \"adrenal fatigue\" testing or supplements.** UCLA Health warns that adrenal supplements may interfere with hormone production and risk adrenal crisis.\n- **Breathing:**\n  - Stop if dizzy, lightheaded, or tingly, and return to normal breathing.\n  - Keep inhales gentle. Don't force a maximal inhale or breathe fast.\n  - Breath holds and fast or hyperventilation styles (Wim Hof type) are not for everyone: pregnancy, heart or lung conditions, a history of fainting, seizures, or panic. Balban excluded heart disease, glaucoma, seizures, pregnancy, and psychosis.\n  - For box breathing, shorten counts if it feels like a strain (Balban instruction).\n  - Breathing can help you feel calmer. It is not a treatment for anxiety, panic, or insomnia.\n- **Evidence honesty:**\n  - Balban found no HRV or sleep change after 28 days, so do not claim breathing improves sleep.\n  - Fincham's effect is small-to-medium with moderate risk of bias.\n  - Screen and sleep studies are mostly observational, and social media was not worse than other screens in Hjetland 2025.\n  - Drake's 400 mg caffeine dose is high (roughly 3–4 cups of brewed coffee; check before stating a cup count).\n- **Crisis line:** If a reader feels persistently distressed, hopeless, or unsafe, point to local emergency services or a crisis line (988 in the US).\n- **Data discrepancies to avoid:**\n  - Stanford's news piece says 111 volunteers, but the paper says 108 randomized. Use 108.\n  - The Hjetland summary gave an inconsistent \"screen users vs non-users\" figure (OR 0.86 labeled \"24% lower\"). Don't cite that sub-finding.\n\n**Suggested internal links:** the calm 4-6 breathing tool and the physiological sigh tool in /tools/, plus glossary entries for the vagus nerve or HRV if they're in the inventory (2 glossary links at most).\n\nSources:\n- [UCLA Health](https://uclahealth.org/news/article/feeling-tired-wired-heres-what-might-be-causing-it)\n- [Cleveland Clinic](https://health.clevelandclinic.org/overtired)\n- [mindbodygreen](https://www.mindbodygreen.com/articles/why-you-feel-tired-yet-wired)\n- [Headspace](https://www.headspace.com/articles/are-you-twired)\n- [Oura](https://ouraring.com/blog/de/why-am-i-tired-but-cant-sleep/)\n- [moregooddays](https://www.moregooddays.com/post/tired-but-wired-why-am-i-tired-but-cant-sleep)\n- [Cadegiani & Kater 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4997656)\n- [Balban et al. 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947)\n- [Stanford Medicine News](https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html)\n- [Fincham et al. 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/)\n- [Laborde et al. 2022](https://eprints.bournemouth.ac.uk/38169/)\n- [Mindfulness 2024 meta-analysis](https://link.springer.com/article/10.1007/s12671-023-02294-2)\n- [Drake et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807)\n- [Kheirinejad et al. 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/)\n- [Hjetland et al. 2025](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1548273/full)\n- [Kalmbach et al. 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6054324)\n- [J Sleep Res 2023](https://pubmed.ncbi.nlm.nih.gov/37183177/)\n- [Riemann et al. 2010](https://pubmed.ncbi.nlm.nih.gov/19481481/)\n- [Wendsche & Lohmann-Haislah 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5233687/)\n- [Detachment interventions 2021](https://pubmed.ncbi.nlm.nih.gov/34096763/)"
+}

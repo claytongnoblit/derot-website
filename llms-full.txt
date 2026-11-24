@@ -1,5 +1,187 @@
 # DeRot blog: full text
 
+# Why Do I Feel Wired but Tired? What's Happening and How to Come Down
+
+URL: https://derot.org/blog/why-do-i-feel-wired-but-tired/
+Updated: 2026-11-24
+
+Key takeaways:
+- Feeling wired but tired means two things are true at once: sleep pressure is high, but your stress response has not switched off.
+- Sleep research suggests the problem is often a stress response that is slow to settle once triggered, not a body stuck on high alert all day.
+- Adrenal fatigue is not a recognized diagnosis, and adrenal supplements may carry real risks, including adrenal crisis.
+- Late caffeine, work that never quite ends, and stimulating evenings on screens can all keep you activated after your energy runs out.
+- A minute of slow breathing with longer exhales (inhale 4, exhale 6) can help you feel calmer in the moment, though it is not a proven sleep treatment.
+
+Feeling wired but tired usually means two things are happening at the same time. Your body is low on energy and ready for sleep, but your stress response is still switched on. Sleep pressure says lie down, and your nervous system says stay alert. So you get heavy eyes and a buzzing mind. It's a mismatch between two systems, and it says nothing bad about you.
+
+Cleveland Clinic calls this [being overtired: excessively tired yet feeling wired at the same time](https://health.clevelandclinic.org/overtired). It tends to show up in the evening, often on the couch after work, phone in hand, in the first still moment of the day when you notice your jaw is clenched. A day of notifications, inboxes, and feeds that keep you slightly activated can add to it. The feed isn't the only cause, but it rarely helps you come down.
+
+If you'd rather skip the explanation and come down now, open the [free calm 4-6 breathing timer](/tools/calm-breathing-4-6/) and follow it for one minute. The rest of this page explains what's going on and what the evidence does and doesn't support.
+
+## What is happening in your body when you feel wired but tired?
+
+Two systems are pulling in opposite directions. One is sleep drive, the pressure to sleep that builds the longer you've been awake. The other is arousal: your [autonomic nervous system](/glossary/#autonomic-nervous-system), how active your brain is, and the thoughts and feelings that keep you alert. Arousal normally drops in the evening as sleep pressure rises. When arousal stays up, you feel both at once.
+
+Sleep researchers call the long-running version of this hyperarousal. The [hyperarousal model of insomnia](https://pubmed.ncbi.nlm.nih.gov/19481481/) describes higher autonomic, hormonal, and brain-wave arousal in people with insomnia, during the day and at night. A [2023 review in the Journal of Sleep Research](https://pubmed.ncbi.nlm.nih.gov/37183177/) splits hyperarousal into physiological, cortical, and cognitive-emotional parts. The cognitive-emotional part has the strongest support: worry, rumination, and a mind that keeps replaying the day.
+
+### Why some people get wired more easily
+
+Stress disrupts some people's sleep more than others', a trait called sleep reactivity. According to a [review by Kalmbach and colleagues](https://pmc.ncbi.nlm.nih.gov/articles/PMC6054324), 29-37% of sleep reactivity is heritable, and women tend to be more reactive. So if your partner can drop off after a tense evening and you can't, part of that is how you're built. Willpower has little to do with it.
+
+The same review makes a point that fits the everyday version well. The real issue may be [a stress response that doesn't switch off once it's triggered](https://pmc.ncbi.nlm.nih.gov/articles/PMC6054324), not a body that's on high alert all day. You felt fine at 6 pm. Then a work message, a tense comment thread, or forty minutes of fast video nudged your system up, and it's slow to come back down.
+
+One caveat: most of this research is about insomnia, not the occasional wired evening. It's a reasonable model for the everyday feeling, but it's a model, not a diagnosis.
+
+## Is it cortisol or "adrenal fatigue"? What the evidence actually says
+
+Stress hormones are part of the picture. "Adrenal fatigue" isn't. Cortisol and the HPA axis (the hypothalamus-pituitary-adrenal system that runs your stress response) are real and well studied. UCLA Health describes the likely problem as [an HPA axis that stays active, with cortisol still elevated at a time of day when it should be low](https://uclahealth.org/news/article/feeling-tired-wired-heres-what-might-be-causing-it).
+
+Adrenal fatigue is a different claim: the idea that chronic stress wears out your adrenal glands. UCLA Health notes that it is [not a recognized medical diagnosis, and that the Endocrine Society says there is no evidence stress fatigues the adrenals](https://uclahealth.org/news/article/feeling-tired-wired-heres-what-might-be-causing-it). The same page warns that [adrenal supplements may interfere with your own hormone production and risk adrenal crisis](https://uclahealth.org/news/article/feeling-tired-wired-heres-what-might-be-causing-it), which is a medical emergency. Don't treat yourself with adrenal blends.
+
+Be skeptical of anything that promises to "reset your cortisol." In most cases your stress system isn't broken. It's doing its job, just at the wrong time of day. The more useful questions are what keeps setting it off in the evening and what helps it settle.
+
+## What can make you feel wired but tired? Common contributors
+
+Several everyday habits can keep your stress response running after your energy is gone. None of them is a moral failing, and most are easy to adjust once you can see them.
+
+### Caffeine later than you think
+
+Caffeine lasts longer than it feels like it does. In a [small sleep-lab study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807), 12 healthy sleepers took 400 mg of caffeine 0, 3, or 6 hours before bed. Even at six hours, it cut objectively measured sleep by more than an hour, and participants' own sleep diaries didn't reliably pick it up. That's a high dose and a very small study, but it's a good reason to look at your mid-afternoon coffee if your evenings feel buzzy.
+
+### Work that doesn't end when work ends
+
+If the laptop is closed but your head is still in the inbox, you haven't really clocked off. A [meta-analysis covering 38,124 employees](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5233687/) found that mentally switching off from work during free time was linked to less fatigue and better mood and recovery. Doing work-related things after hours was linked to switching off less. The good news is that [interventions designed to improve detachment](https://pubmed.ncbi.nlm.nih.gov/34096763/) did help, with a modest effect (d = 0.36).
+
+### Evenings on screens, especially in bed
+
+The screen research is observational, so it shows links, not causes. In a [study of about 45,000 Norwegian university students](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1548273/full), each extra hour of screen use in bed was associated with 59% higher odds of insomnia symptoms and about 24 minutes less sleep. Social media was no worse than other screen activities. In a [smaller observational study of 75 people's phone use and sleep](https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/), phone use in bed was associated with taking longer to fall asleep, a higher average heart rate, and lower heart rate variability. Entertainment and game apps were linked to worse sleep. Social apps were not.
+
+Our take: what matters is less the screen itself and more the state it leaves you in. Anything that keeps you leaning in, reacting, or waiting for the next clip keeps you activated. That's why we pay more attention to how the feed leaves you feeling than to the minutes you spend on it. For more, see [is scrolling before bed bad?](/blog/is-scrolling-before-bed-bad/)
+
+### Alcohol and the sleep-worry loop
+
+A drink can feel like it takes the edge off, but Cleveland Clinic notes that [alcohol can cause rebound waking later in the night](https://health.clevelandclinic.org/overtired). The same page describes a loop many people know: you're tired, you start worrying that you won't sleep, and the worry keeps you awake.
+
+## How to calm down when you're wired but tired: a 60-second down-shift
+
+The quickest thing you can change on the spot is your breathing, especially by making the exhale longer. [Slow breathing is linked to higher vagally mediated heart rate variability](https://eprints.bournemouth.ac.uk/38169/), a marker associated with the calming side of the nervous system. Here are two patterns with exact counts. Our guide to [parasympathetic breathing](/blog/parasympathetic-breathing/) explains why longer exhales help.
+
+### Option 1: Calm 4-6 breathing (about 60 seconds)
+
+1. Sit back or lie down, and let your shoulders drop.
+2. Breathe in gently through your nose for a count of 4.
+3. Breathe out slowly through your nose or softly pursed lips for a count of 6.
+4. Repeat for 6 rounds. Each breath takes 10 seconds, so that's about a minute, or roughly six breaths a minute.
+
+The [calm 4-6 timer](/tools/calm-breathing-4-6/) paces it for you, so you don't have to count.
+
+### Option 2: The physiological sigh (about 30 seconds)
+
+A physiological sigh, also called cyclic sighing, is [a deep inhale through the nose, a second shorter inhale on top of it, and then a long, slow exhale through the mouth](https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html).
+
+1. Breathe in through your nose until your lungs feel comfortably full.
+2. Take a second, smaller sip of air through your nose.
+3. Let it all out slowly through your mouth, taking longer than the two inhales combined.
+4. Repeat 2 to 5 times. Three sighs take roughly 30 seconds.
+
+In the [Stanford trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947), people practiced for 5 minutes a day. A few sighs is still a fine place to start when you notice the wired feeling. The [physiological sigh timer](/tools/physiological-sigh/) walks you through it.
+
+### What it should feel like
+
+By the third or fourth exhale, many people notice their shoulders lower and their jaw unclench, and their hands or face may feel a little warmer. Yawning is common, and it's a good sign. Your mind may still be busy, and that's fine. You're aiming to bring your body down a notch, not to empty your head.
+
+### Common mistakes
+
+- **Forcing a huge inhale.** Fill up until it feels comfortable, not to your maximum. Straining keeps you activated.
+- **Rushing the exhale.** The long, slow out-breath is what does the work. If 6 counts feels too long, try 3 in and 5 out.
+- **Breathing fast or hard.** Overbreathing can make you lightheaded or tingly, which is the opposite of what you want.
+- **Checking the phone between breaths.** One glance at a notification and you're back where you started. Put it face down for the minute.
+
+**Safety note:** stop and go back to normal breathing if you feel dizzy, lightheaded, or tingly. Keep inhales gentle. If you're pregnant, have a heart or lung condition, or have a history of fainting, seizures, or panic attacks, avoid breath holds and fast breathing, and check with your doctor if you're unsure.
+
+## Does breathing actually help? An honest look at the evidence
+
+Breathing has reasonable evidence for helping you feel calmer in the moment. It is not a proven sleep treatment. Here's what the research supports.
+
+- A [meta-analysis of 223 studies](https://eprints.bournemouth.ac.uk/38169/) found that voluntary slow breathing increases vagally mediated [heart rate variability](/glossary/#heart-rate-variability) during a session, right after it, and across programs with multiple sessions.
+- A [2024 meta-analysis of 31 slow-paced breathing studies](https://link.springer.com/article/10.1007/s12671-023-02294-2) (1,133 participants) reported immediate effects, including lower systolic blood pressure.
+- In [a randomized trial of 108 people practicing 5 minutes a day for 28 days](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947), cyclic sighing produced the biggest daily gain in positive mood and lowered resting breathing rate. It did not change heart rate variability or sleep measures, and most participants were students.
+- A [meta-analysis of 12 trials with 785 adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/) found that breathwork had a small-to-medium effect on self-reported stress (g = -0.35), though most studies had a moderate risk of bias.
+
+Put simply, slow breathing is a cheap, low-risk way to take the edge off a wired evening. The effects are real but modest, and most of the evidence is about short-term calm, not better sleep over weeks. If you've struggled with sleep for a while, breathing is a useful tool, not a fix.
+
+## Using it mid-scroll: catching the wired feeling on the couch
+
+Where this matters most isn't 10 pm, when you're planning to go to bed. It's 7:40 pm, twenty minutes into a feed you opened to relax, when you realize your jaw is tight. "No screens an hour before bed" is fine advice for tomorrow. It doesn't do much for you once you're already in the scroll.
+
+Cues worth noticing:
+
+- Shallow breathing high in the chest
+- A clenched jaw or raised shoulders
+- A restless thumb, scrolling faster than you can read
+- Gritty eyes and a mind that won't stop
+
+### A one-minute script
+
+1. Put the phone face down on the cushion.
+2. Do 3 physiological sighs or 6 rounds of 4-6.
+3. Notice one thing that changed: your shoulders, your jaw, some warmth, a yawn.
+4. Then make a deliberate choice: keep scrolling, switch to something slower, or start winding down.
+
+You're not giving anything up. You're just choosing from a calmer state. This is the moment we built DeRot for: it pauses your apps mid-scroll while you reset with a few calming breaths, so the wired feeling fades before you carry on. It's coming soon to iOS. For a longer guide to late-night scrolling, see [doomscrolling at night](/blog/doomscrolling-at-night/).
+
+### Add a small "work is over" ritual
+
+A deliberate end to the workday gives your stress response a clear signal that it can stand down. Since [detachment from work can be improved with deliberate practice](https://pubmed.ncbi.nlm.nih.gov/34096763/), small rituals are worth trying. Change your clothes, write tomorrow's first task on paper, put the laptop out of sight, or take a ten-minute walk before you sit down. Then, if you reach for your phone, you're starting from a lower baseline.
+
+## When should you see a doctor about feeling tired but wired?
+
+If you feel wired but tired most evenings, or it lasts more than a few weeks, see a GP or primary care doctor. Both [UCLA Health](https://uclahealth.org/news/article/feeling-tired-wired-heres-what-might-be-causing-it) and [Cleveland Clinic](https://health.clevelandclinic.org/overtired) advise getting checked if it happens regularly.
+
+Several conditions can look similar, including [anxiety or depression, sleep apnea, thyroid disorders, and Addison's disease](https://uclahealth.org/news/article/feeling-tired-wired-heres-what-might-be-causing-it). A doctor may also look into other possibilities, such as anemia or the hormonal changes of perimenopause. Bring it up soon if the feeling comes with loud snoring or gasping at night, a racing or pounding heart, unexplained weight change, or low mood that won't lift.
+
+Ongoing insomnia is common: it affects an estimated [9-20% of US adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC6054324). For chronic insomnia, Cleveland Clinic points to [cognitive behavioral therapy for insomnia (CBT-I)](https://health.clevelandclinic.org/overtired) as the recommended long-term approach, rather than sleep aids alone.
+
+If you feel persistently distressed, hopeless, or unsafe, please contact local emergency services or a crisis line. In the US, you can call or text 988.
+
+## FAQ
+**Why am I exhausted but can't fall asleep?**
+Being exhausted means your sleep pressure is high, but falling asleep also needs your arousal to drop. If your stress response is still active from work, worry, caffeine, or a stimulating evening, the two signals clash and you lie there tired but alert. Sleep researchers call the persistent version hyperarousal. A few slow breaths with long exhales can help you feel calmer. If it happens most nights for weeks, talk to a doctor about insomnia and CBT-I.
+
+**Is feeling tired but wired a sign of anxiety?**
+It can be, but not always. Worry and rumination are among the best-supported drivers of feeling wired at night, and anxiety disorders can look like this. A stressful day, late caffeine, or a busy evening can also cause it in people without anxiety. If the feeling is frequent, lasts weeks, or comes with persistent worry, low mood, or a racing heart, see a doctor or mental health professional rather than guessing.
+
+**Can afternoon caffeine make me feel wired at night?**
+Yes, and the effect can be bigger than it feels. In a small sleep-lab study, 400 mg of caffeine taken six hours before bed cut objectively measured sleep by more than an hour, and participants' own sleep diaries didn't reliably pick it up. That's a high dose and only 12 people were studied, but if your evenings feel buzzy, try moving your last caffeinated drink earlier for a week and see whether things change.
+
+**Why do I feel more awake as soon as I get into bed?**
+Bed is often the first quiet moment of the day, so thoughts you held off during the evening come in all at once. Cleveland Clinic also describes a loop where worrying about not sleeping keeps you awake. Try a slow 4-6 breath for a minute instead of reaching for your phone. If lying awake in bed has become a regular pattern, ask a doctor about CBT-I, the recommended approach for ongoing insomnia.
+
+**Is scrolling social media at night worse than watching TV?**
+Not clearly. In a study of about 45,000 students, more screen time in bed was linked to worse sleep, but social media was no worse than other screen activities. A smaller study linked entertainment and game apps, not social apps, to worse sleep. Both studies are observational. What seems to matter more is how activating the content is and how keyed up it leaves you feeling.
+
+**How long does breathing take to calm you down?**
+Many people notice a shift within about a minute. Six rounds of inhaling for 4 and exhaling for 6 take about 60 seconds, and three physiological sighs take about 30. Research shows slow breathing raises heart rate variability during and right after a session. The effect is a modest, short-term calm, not a cure. Stop if you feel dizzy or tingly.
+
+## Sources
+- Feeling tired but wired? Here's what might be causing it: https://uclahealth.org/news/article/feeling-tired-wired-heres-what-might-be-causing-it
+- Overtired: why you can't sleep and what to do: https://health.clevelandclinic.org/overtired
+- Brief structured respiration practices enhance mood and reduce physiological arousal: https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947
+- Cyclic sighing can help breathe away anxiety: https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html
+- Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials: https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/
+- Effects of voluntary slow breathing on heart rate and heart rate variability: a systematic review and meta-analysis: https://eprints.bournemouth.ac.uk/38169/
+- Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed: https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807
+- "Leave your smartphone out of bed": quantitative analysis of smartphone use effect on sleep quality: https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/
+- How and when screens are used: comparing different screen activities and sleep in Norwegian university students: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1548273/full
+- Hyperarousal and sleep reactivity in insomnia: current insights: https://pmc.ncbi.nlm.nih.gov/articles/PMC6054324
+- Hyperarousal in insomnia disorder: current evidence and potential mechanisms: https://pubmed.ncbi.nlm.nih.gov/37183177/
+- The hyperarousal model of insomnia: a review of the concept and its evidence: https://pubmed.ncbi.nlm.nih.gov/19481481/
+- A meta-analysis on antecedents and outcomes of detachment from work: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5233687/
+- Interventions for improving psychological detachment from work: a meta-analysis: https://pubmed.ncbi.nlm.nih.gov/34096763/
+- Meta-analysis of slow-paced breathing on cardiovascular and emotion measures: https://link.springer.com/article/10.1007/s12671-023-02294-2
+
+---
+
 # How Long to Do 4-7-8 Breathing: 4 Cycles, About 76 Seconds
 
 URL: https://derot.org/blog/how-long-to-do-4-7-8-breathing/
