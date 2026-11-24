@@ -1,0 +1,273 @@
+{
+  "title_options": [
+    "Clearspace alternatives for iPhone, compared: one sec, ScreenZen, Screen Time and more",
+    "Clearspace alternative: friction apps, blockers, or a mid-scroll reset?",
+    "Looking for a Clearspace alternative? How one sec, ScreenZen and Screen Time compare"
+  ],
+  "search_intent": "Commercial investigation. The reader tried Clearspace (the iPhone screen-time app from Clearspace Technologies, not the storage cleaner with a similar name) and wants a different approach: a stricter blocker, a different delay or friction app, Apple's built-in tools, or something that helps with how scrolling leaves them feeling. They want a quick verdict, a comparison table, and a clear way to choose. A secondary group is searching for Google Pause Point on iPhone.",
+  "serp_summary": "The results are thin. AlternativeTo directory pages are numbered lists with no stated ordering method and labeled paid placements (\"Official Partner\", \"Ad\"). Many of the apps they list are Android-only or desktop-only. The rest of the page is Product Hunt vote lists, Similarweb traffic pages, Clearspace's YC pages, and App Store listings for unrelated apps called \"ClearSpace\". No editorial comparison ranks. Nothing explains how each tool intervenes, how strict it is, what it costs, or why someone might leave Clearspace. For \"Pause Point iPhone\", Google's post and the tech press are Android-only, and one sec's vendor blog ranks with an undisclosed pitch for its own app. A neutral, dated, field-by-field roundup with a summary table can beat all of this.",
+  "gaps": [
+    "Nobody describes what Clearspace does in 2026: the door pause, Push-Up to Scroll, Breathe to Scroll, limits, challenges, iPhone only, and Premium pricing.",
+    "Nobody organizes the alternatives by when they step in: at the door, by time limits, by a mid-session time-out, or with a mid-scroll reset for how you feel.",
+    "Nobody is honest about the friction evidence. In the PNAS one sec experiment, the deliberation message alone had no significant effect and the plain option to dismiss did most of the work. A later in-the-wild study found people rebound after taking breaks from the interventions.",
+    "Nobody gives a plain iPhone answer on Google Pause Point: it is not on iOS, and these are the nearest equivalents.",
+    "Nobody names the stricter option without judgment: Screen Time with a passcode, or ScreenZen's strict blocks.",
+    "Nobody covers the feeling at minute 15 of a session. Door pauses decide whether you open an app, and time-outs decide how long you stay. Neither is built to bring you back down.",
+    "Nobody publishes a dated price check or a stated comparison method."
+  ],
+  "outline": [
+    {
+      "h2": "What's the best Clearspace alternative? (quick answer)",
+      "points": [
+        "Open with a 40-60 word answer. For a similar door pause, pick one sec or ScreenZen. ScreenZen is free. For firm limits without a new app, use Apple Screen Time with a passcode.",
+        "Clarify in the first lines that this means Clearspace, the iPhone screen-time app, not the storage cleaner that shares the name.",
+        "Disclosure: DeRot makes an app in this category. We do not rank our own app, and no app paid to be included.",
+        "Summary table with no DeRot row. Columns: App | Best for | How it intervenes | Strictness | Free option | Price (as listed, checked 24 Nov 2026) | Platforms. Rows: one sec, ScreenZen, Apple Screen Time, Google Pause Point (Android only)."
+      ]
+    },
+    {
+      "h2": "What Clearspace does, and why people look for something else",
+      "points": [
+        "Describe it only from its App Store listing and website: a pause that asks you to proceed after a deep breath or opt out, blocking and limits, schedules, challenges, accountability partners, streaks, Push-Up to Scroll, and Breathe to Scroll.",
+        "Platforms: iPhone (iOS 16+). It is a free download, and Premium costs $6.99/month or $44.99/year on the US App Store (checked 24 Nov 2026).",
+        "Give common reasons for switching without disparaging the app: you want it stricter, you want it free, you want another platform, or the pause turned into a tap-through."
+      ]
+    },
+    {
+      "h2": "How we compared Clearspace alternatives",
+      "points": [
+        "Criteria: when it steps in (at the door, by time, or mid-session), how strict it is, cost, and platforms.",
+        "Facts come only from each app's own App Store listing, website, or support pages, checked 24 Nov 2026.",
+        "No star ratings and no claims of hands-on testing."
+      ]
+    },
+    {
+      "h2": "The alternatives, app by app",
+      "points": [
+        "Use the same fields for each H3, in this order: Best for, How it works, What stands out, Drawbacks, Price.",
+        "### one sec: a delay instead of a block, a breathing animation through Shortcuts, custom intentions, Re-Intervention (removes you after a set time, for example 5 minutes), and strict or scheduled blocks. Free for one app. Pro prices vary by region (re-check the US prices). Runs on iPhone, iPad and Mac.",
+        "### ScreenZen: a delay before opening that can grow with each open, breathing during the wait, short set-period opens, strict blocks, and a settings lock with an accountability partner. Free with optional tips. Runs on iOS, iPadOS and macOS, and the site also lists Android and Windows.",
+        "### Apple Screen Time: App Limits, Downtime, and a passcode. Built into iOS. The strictest option without installing anything.",
+        "### Google Pause Point: Android only, a 10-second pause, and a restart needed to turn it off. It is not available on iPhone."
+      ]
+    },
+    {
+      "h2": "Do pause-before-opening apps actually work?",
+      "points": [
+        "PNAS study: 57% fewer target app openings over 6 weeks among 280 analyzed users.",
+        "Caveats: no control group in the field study, self-selected users, heavy dropout, and the app's creator is a co-author.",
+        "In the experiment, the dismiss option did most of the work and the deliberation message alone had no significant effect. That explains why an intention prompt can get tapped through on autopilot, and it is not a personal failing.",
+        "Haliburton CHI 2024 (soft claim only): people take breaks from the interventions and their use rebounds when they come back.",
+        "The 57% measures openings, not how people feel."
+      ]
+    },
+    {
+      "h2": "Is there a Google Pause Point for iPhone?",
+      "points": [
+        "No. Pause Point is an Android feature. one sec's blog says it is limited to certain Pixel phones, and that is a vendor claim.",
+        "The nearest iOS equivalents are one sec, ScreenZen, and Clearspace's own pause.",
+        "A 10-second door pause decides whether you open an app. It does not change how you feel 15 minutes into a session."
+      ]
+    },
+    {
+      "h2": "Which Clearspace alternative should you pick?",
+      "points": [
+        "If you want a similar door pause that also works on Mac, pick one sec.",
+        "If you want it free and stricter, with a pause that can grow, pick ScreenZen.",
+        "If you want firm limits and nothing new to install, use Screen Time with a passcode.",
+        "If you are on Android, try Pause Point.",
+        "If the problem is the wired feeling partway through a session rather than opening the app, see the next section."
+      ]
+    },
+    {
+      "h2": "What about the wired feeling mid-scroll?",
+      "points": [
+        "State over quantity: door pauses and time-outs are about whether you open an app and how long you stay, not how the feed leaves you feeling.",
+        "Give a 30-second script: in for 4, out for 6, five or six rounds, with shoulders down and jaw loose. Link the calm 4-6 tool and the physiological sigh tool.",
+        "Balban 2023: 5 minutes a day of exhale-focused cyclic sighing raised positive affect more than mindfulness meditation. It was an exploratory study in healthy volunteers.",
+        "Safety line: stop if you feel dizzy."
+      ]
+    },
+    {
+      "h2": "Where DeRot fits (our app)",
+      "points": [
+        "DeRot pauses your apps while you reset with a few calming breaths. It meets you mid-scroll, not at the door.",
+        "It is not a time limit or a way to earn minutes. The pause is a slow-exhale reset.",
+        "Not for people who want a hard lockout. They should pick Screen Time or ScreenZen's strict mode.",
+        "Pre-launch, coming soon to iOS. Point to the newsletter only."
+      ]
+    }
+  ],
+  "questions": [
+    "Is there a Google Pause Point for iPhone?",
+    "What's the difference between Clearspace and one sec?",
+    "Is ScreenZen really free?",
+    "How much is Clearspace Premium?",
+    "Do pause-before-opening apps work, or do you just tap through them?",
+    "Can I use Apple Screen Time instead of a third-party app?",
+    "Why do I still feel wired after scrolling even with a limit app?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409",
+      "title": "Directing smartphone use through the self-nudge app one sec",
+      "publisher": "PNAS (via PMC)",
+      "year": "2023",
+      "key_findings": "Field study of 280 analyzed users (719 recruited) over 6 weeks, with no control group: target app openings fell 57%, and about 36% of opening attempts were dismissed. Experiment with N=500: the dismiss option had the strongest effect, the 10-second delay added nothing beyond dismissal, and the deliberation message alone had no significant effect. The app's creator is a co-author."
+    },
+    {
+      "id": "S2",
+      "url": "https://www.medien.ifi.lmu.de/pubdb/publications/pub/haliburton2024chi/haliburton2024chi.pdf",
+      "title": "A Longitudinal In-the-Wild Investigation of Design Frictions to Prevent Smartphone Overuse",
+      "publisher": "CHI 2024, LMU Munich",
+      "year": "2024",
+      "key_findings": "In-the-wild study of one sec users (per the search snippet; the PDF was not readable). People take breaks from the interventions and rebound to overuse when they return. Use as a soft claim only."
+    },
+    {
+      "id": "S3",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Cell Reports Medicine",
+      "year": "2023",
+      "key_findings": "108 randomized participants, 5 minutes a day for 28 days. Cyclic sighing was the only single breathing group to raise positive affect significantly more than mindfulness. State anxiety fell in all groups. Respiratory rate dropped, with no HRV change. Exploratory study in a healthy sample."
+    },
+    {
+      "id": "S4",
+      "url": "https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html",
+      "title": "Cyclic sighing can help breathe away anxiety",
+      "publisher": "Stanford Medicine",
+      "year": "2023",
+      "key_findings": "Plain-language summary: exhalation engages the parasympathetic nervous system and slows heart rate. The study is preliminary and in healthy volunteers."
+    },
+    {
+      "id": "S5",
+      "url": "https://apps.apple.com/us/app/clearspace-screentime-control/id1572515807",
+      "title": "ClearSpace: Reduce Screen Time",
+      "publisher": "Apple App Store (Clearspace Technologies, Inc.)",
+      "year": "2026",
+      "key_findings": "Door pause that asks you to proceed after a deep breath or opt out. Blocking and limits, schedules, challenges, accountability partners, streaks. iPhone, iOS 16+. Free with in-app purchases: Monthly $6.99, Annual $44.99, Family $79.99. Checked 24 Nov 2026."
+    },
+    {
+      "id": "S6",
+      "url": "https://www.getclearspace.com/",
+      "title": "Clearspace official site",
+      "publisher": "Clearspace",
+      "year": "2026",
+      "key_findings": "Push-Up to Scroll, Breathe to Scroll (earn minutes), app limits, a pause showing remaining uses for the day, friend challenges, focus schedules, streaks. No price stated."
+    },
+    {
+      "id": "S7",
+      "url": "https://apps.apple.com/my/app/id1532875441",
+      "title": "one sec, screen time + focus",
+      "publisher": "Apple App Store Malaysia (riedel.wtf apps S.L.)",
+      "year": "2026",
+      "key_findings": "Delays access instead of blocking. Breathing animation through Shortcuts, custom intentions, Re-Intervention after a set time, strict, scheduled or manual blocks. iOS 15+, macOS 14+. One app free. Pro is RM16.99/month, RM49.90/year or RM399 lifetime."
+    },
+    {
+      "id": "S8",
+      "url": "https://one-sec.app/blog/pause-point-for-iphone/",
+      "title": "Pause Point for iPhone? Here's the Alternative for iOS: one sec",
+      "publisher": "one sec (vendor)",
+      "year": "2026",
+      "key_findings": "Says Pause Point is not on iPhone or iPad and is limited to Pixel 11 and 11 Pro (vendor claim). one sec pauses for 10 seconds and runs on iPhone, iPad, Mac, Android and browsers."
+    },
+    {
+      "id": "S9",
+      "url": "https://apps.apple.com/app/screenzen-screen-time-control/id1541027222",
+      "title": "ScreenZen- Screen Time Control",
+      "publisher": "Apple App Store (ScreenZen LLC)",
+      "year": "2026",
+      "key_findings": "Delay before opening that can grow with each open, breathing during the wait, short set-period opens, daily goals, strict blocks, settings lock with an accountability partner. iOS/iPadOS 16.4+, macOS 13+. Free with optional tips of $5, $10, $20 or $40."
+    },
+    {
+      "id": "S10",
+      "url": "https://www.screenzen.co/",
+      "title": "ScreenZen official site",
+      "publisher": "ScreenZen",
+      "year": "2026",
+      "key_findings": "\"Less screen time. No subscription.\" Donation-supported and completely free. Blocks apps and websites. Footer lists iOS, macOS, Windows and Android."
+    },
+    {
+      "id": "S11",
+      "url": "https://blog.google/products-and-platforms/platforms/android/pause-point/",
+      "title": "Pause Point",
+      "publisher": "Google",
+      "year": "2026",
+      "key_findings": "Android feature: a 10-second breather to ask \"Why am I here?\" Offers breathing, a timer, photos or suggested alternative apps. A restart is needed to turn it off. No iPhone availability is mentioned."
+    },
+    {
+      "id": "S12",
+      "url": "https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/",
+      "title": "Android adds a feature to stop you from doomscrolling",
+      "publisher": "TechCrunch",
+      "year": "2026",
+      "key_findings": "10-second pause after opening apps you have labeled as distractions. Optional timer. Restart needed to disable. Tied to the Android 17 briefing."
+    },
+    {
+      "id": "S13",
+      "url": "https://support.apple.com/en-asia/guide/iphone/iphbfa595995/15.0/ios",
+      "title": "Set up Screen Time for yourself on iPhone",
+      "publisher": "Apple Support",
+      "year": "2021",
+      "key_findings": "Downtime blocks apps and notifications on a schedule. App Limits work for categories or individual apps. A passcode can protect settings."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "In one sec's 6-week field study (280 analyzed users), openings of the target apps fell 57%.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "In the preregistered experiment (N=500), the deliberation message alone had no significant effect, and the dismiss option had the strongest effect.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Users take breaks from friction interventions and rebound to overuse when they return (cite cautiously).",
+      "source_id": "S2"
+    },
+    {
+      "fact": "Five minutes a day of cyclic sighing for 28 days raised positive affect more than mindfulness meditation in 108 randomized adults.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "Clearspace asks whether you want to proceed after a deep breath or opt out, and runs on iPhone with iOS 16 or later.",
+      "source_id": "S5"
+    },
+    {
+      "fact": "Clearspace Premium costs $6.99/month or $44.99/year on the US App Store (checked 24 Nov 2026).",
+      "source_id": "S5"
+    },
+    {
+      "fact": "Clearspace offers Push-Up to Scroll and Breathe to Scroll to earn minutes.",
+      "source_id": "S6"
+    },
+    {
+      "fact": "one sec is free for one app, and its Re-Intervention removes you from an app after a set time.",
+      "source_id": "S7"
+    },
+    {
+      "fact": "ScreenZen is free with optional tips of $5 to $40, and its delay can grow with each open.",
+      "source_id": "S9"
+    },
+    {
+      "fact": "Google Pause Point is an Android feature that gives a 10-second pause and needs a restart to turn off.",
+      "source_id": "S11"
+    },
+    {
+      "fact": "Screen Time Downtime blocks apps and notifications on a schedule, and a passcode can protect the settings.",
+      "source_id": "S13"
+    }
+  ],
+  "safety_notes": [
+    "Keep breathing slow and gentle with a longer exhale. Stop and breathe normally if you feel dizzy, lightheaded or tingly.",
+    "Breath holds and fast breathing are not for everyone: pregnancy, heart or lung conditions, or a history of fainting or panic.",
+    "Do not repeat Clearspace's user-reported claims about anxiety, ADHD or depression. Breathing can help you feel calmer; it is not a treatment.",
+    "The 57% figure measures app openings in self-selected users, with no control group in the field study and a co-author who built the app. Present it as promising, not proven.",
+    "Do not state that emergency calls bypass Downtime unless that is re-verified.",
+    "If scrolling is tied to persistent anxiety, low mood or sleep problems, see a professional. In a crisis, contact local emergency services or call or text 988 in the US."
+  ],
+  "word_count_target": 2000,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: \"clearspace alternative\" (comparison)\n\n**Facts checked:** 24 November 2026, except where a source carries its own date.\n\n---\n\n## SERP ANALYSIS\n\n**Primary keyword: \"clearspace alternative\"**\n\nNo editorial comparison article ranks for this keyword. The results are thin and almost all directories, data pages or listings:\n- **AlternativeTo directory pages** (`/software/clearspace/`, several pages). Each is a numbered list with icons, like counts, platforms and license. The page never explains how it orders apps: like counts don't drive it (Focus has 21 likes and sits last on p.3). It **labels two paid placements**: a \"PrivacyNotes\" banner marked \"Official Partner\" and a FocusMe entry marked \"Ad.\" It never describes what Clearspace does, its price or its platforms. The meta description names Mindful, LeechBlock and Cold Turkey, but they don't appear on the page we read. Many of the listed apps are Android-only or desktop-only (DetoxDroid, LeechBlock, Cold Turkey), which is useless for an iPhone user leaving Clearspace.\n- **Product Hunt \"alternatives\" and reviews pages**: listings driven by votes and user reviews, with no structure for comparison.\n- **App Store listings**, including **products that only share the name** (a \"ClearSpace\" storage and duplicate-photo cleaner, \"CleanSpace – Storage Cleaner\"). Name confusion is real in this SERP.\n- **Similarweb \"app vs app\" pages** (Clearspace vs ScreenZen, Clearspace vs Blank Spaces). These are traffic data, not guidance.\n- **YC company and launch pages for Clearspace** (\"earn your screen time with exercise\"), plus scraper pages.\n\n**Format to match:** a roundup or comparison with a summary table. The bar is low: nothing ranking explains how each tool intervenes (at the door or mid-session), how strict it is, what it costs, or why someone might leave Clearspace.\n\n**Secondary keyword: \"google pause point iphone\"**\n\n- **Google's own post** ([blog.google](https://blog.google/products-and-platforms/platforms/android/pause-point/)): a 10-second \"breather to ask, 'Why am I here?'\" with breathing, a session timer, favorite photos and suggested alternative apps. Turning it off needs a phone restart. It gives **no device list, rollout date or iPhone availability**.\n- **Tech press** (TechCrunch, 12 May 2026, Digital Trends, 9to5Google, Android Authority, PhoneArena, Stuff): Android-only and tied to the Android 17 briefing. TechCrunch gives no rollout date or device list.\n- **one sec's own blog ranks for \"Pause Point for iPhone\"** (24 Aug 2026). It says Pause Point isn't on iPhone or iPad and is limited to Pixel 11 and Pixel 11 Pro. That device claim comes from a vendor, so attribute it. The post is a sales page for one sec, which is obvious from the domain but never stated as a disclosure.\n- **What's missing:** nobody tells the iPhone reader plainly: \"There is no Pause Point on iPhone. Here are the iOS tools that do the same job, and here is what a 10-second door pause can't do.\"\n\n**\"mindful scroll app\"**: no data from this session (search budget spent). Treat it as a natural variant in H2s and body text, not as a target with its own SERP evidence.\n\n**How current roundups pick and order apps:** directories order by an opaque mix of likes and paid placement. Vendor blogs (one sec) rank their own product. None of the top results gives a neutral, dated, field-by-field comparison or explains a method.\n\n---\n\n## GAPS AND ANGLE\n\n1. **Explain what Clearspace actually is in 2026.** Its own site now leads with \"Push-Up to Scroll,\" \"Breathe to Scroll\" (earn minutes), app limits, a pause screen showing \"your remaining uses for the day,\" friend challenges, focus schedules and streaks. Personal and Family are separate apps. The App Store listing still describes the classic \"proceed after a deep breath or opt out\" door pause plus blocking, limits, schedules, accountability partners and challenges. Nobody ranking describes any of this.\n2. **Organize the comparison by when and how each tool steps in:**\n   - At the door: Clearspace, one sec, ScreenZen, Pause Point.\n   - Time-based limits: Apple Screen Time App Limits and Downtime.\n   - Mid-session time-outs: one sec's \"Re-Intervention\" removes you after a set time (example: 5 minutes); ScreenZen lets you open apps for short, set periods.\n   - Mid-scroll reset aimed at how you feel: DeRot, our app.\n3. **Be honest about the evidence on friction.**\n   - The one sec PNAS study is the best data in this category: 57% fewer openings over 6 weeks, N=280.\n   - In its controlled experiment, **the \"deliberation message\" alone had no significant effect**, and the plain option to dismiss did most of the work.\n   - The study is self-selected, has no control group in the field arm, lost many participants (280 of 719 completed), and a co-author built the app.\n   - A later real-world study reportedly found people take breaks from the interventions and use rebounds when they come back.\n   - This explains, without blaming the reader, why an intention prompt gets \"tapped through on autopilot.\"\n4. **Make the state-over-quantity point fairly.** The door pause decides whether you open the app. Time-outs decide how long you stay. Neither is built around the wound-up feeling at minute 15. Don't claim competitors have no mid-session feature: one sec and ScreenZen do. The fair difference is purpose: their mid-session tools are limits or \"earn more time\" mechanics, while DeRot's pause is a calming slow-exhale reset.\n5. **Answer the Pause Point question for iPhone** clearly and neutrally: it doesn't exist on iOS, and the nearest iOS equivalents are door-pause apps.\n6. **Name the stricter option without judgment.** Apple Screen Time with a passcode, and ScreenZen's strict blocks and lock mode, suit people who want firm limits. Say so.\n7. **Keep DeRot out of the ranking and the table.** Disclosure goes in the first 100 words. The \"Where DeRot fits (our app)\" section goes near the end and stays pre-launch (newsletter only).\n\n### Fact sheet per app (official sources only)\n\n**Clearspace** (App Store \"ClearSpace: Reduce Screen Time,\" Clearspace Technologies, Inc.; getclearspace.com)\n- **How it works:** select apps; when you tap one, \"proceed after a deep breath or opt out?\"\n  - Also on the listing: block and limit apps; session management \"makes sure you don't scroll for too long\"; focus schedules; challenges; accountability partners; streaks and budgets.\n  - Also on the site: Push-Up to Scroll; Breathe to Scroll; a pause showing remaining uses for the day.\n- **Session lengths:** a search snippet said you pick 1–10 minutes at open. That came from a review or listing summary, so don't state it unless you re-verify it on the listing.\n- **Platforms:** the listing header says \"Only for iPhone,\" iOS 16.0 or later. The compatibility section also lists visionOS 1.0, which contradicts the header. Safest wording: \"iPhone (iOS 16+).\"\n- **Price:** free download with in-app purchases. The US store lists Clearspace Premium (Monthly) $6.99, ClearSpace Premium (Annual) $44.99, Premium Family $79.99, plus unlabeled Premium entries at $44.99, $49.99 and $59.99. Checked 24 Nov 2026.\n- **Not stated:** free-tier limits. The site states no price.\n- **Health claims:** the listing's \"anxiety, ADHD, depression\" claims are framed as what users report. Don't repeat them.\n\n**one sec** (App Store \"one sec | screen time + focus,\" riedel.wtf apps S.L.; one-sec.app)\n- **How it works:** \"DELAYS access to distracting apps instead of blocking apps completely.\" A breathing animation runs through a Shortcuts automation. The pause is 10 seconds (per the one sec blog).\n  - Custom intentions.\n  - Re-Intervention (\"Doom Scroll Emergency Brake\"): removes you from an app after a set time, for example 5 minutes.\n  - Scheduled, manual and strict blocks.\n  - Safari extension; logs mindful minutes to Apple Health.\n- **Platforms:** iPhone and iPad (iOS/iPadOS 15+), Mac (macOS 14+). The blog adds Android and web browsers.\n- **Free tier:** one app free. More apps need Pro.\n- **Price:** I only have Malaysian App Store prices: RM16.99/month, RM49.90/year, RM399 lifetime (checked 24 Nov 2026). US prices came only from a third-party tracker (May 2026: $19.99/year, $99.99 lifetime), which doesn't meet the \"official only\" rule. **Re-check the US App Store before publishing**, or write \"free for one app; Pro offered monthly, yearly or lifetime (prices vary by region).\"\n- **Its own claim:** \"app usage drops by 57% on average.\" Cite the PNAS paper instead.\n\n**ScreenZen** (App Store \"ScreenZen- Screen Time Control,\" ScreenZen LLC; screenzen.co)\n- **How it works:**\n  - \"Delay before opening your app\"; the wait can increase each time you open the app.\n  - Breathing or other activities during the wait; apps can be opened for short, set periods.\n  - Daily goals with optional blocking; a whole-day budget.\n  - Strict blocking by time range, number of opens, or through Screen Time; settings lock with an optional accountability partner.\n  - Practice, Minimal and Halo modes.\n- **Platforms:** the App Store lists iPhone and iPad (16.4+), Mac (13.0+) and visionOS. The site footer also lists Android and Windows.\n- **Price:** \"Less screen time. No subscription.\" Free, with optional tips: $5, $10, $20 or $40 (US App Store, checked 24 Nov 2026).\n\n**Apple Screen Time** (support.apple.com)\n- **How it works:**\n  - App Limits for categories or individual apps.\n  - Downtime blocks apps and notifications on a schedule; apps marked \"Always Allowed\" stay usable.\n  - A passcode can protect settings.\n- **Price and platforms:** built in, no extra cost (the pages state no price, so phrase it as \"built into iOS\").\n- **Not stated:** the pages I fetched don't describe what happens when you hit a limit (the \"Ignore Limit\" behavior). Don't describe it unless you re-verify it.\n- **Watch out:** the en-lamr page we fetched now talks about iOS 27 child controls (Time Allowances, Schedules). Cite the iPhone User Guide page for adult App Limits and Downtime.\n\n**Google Pause Point** (Android only)\n- **How it works:** 10-second pause; breathing, timer, photos or suggested alternative apps; a restart is needed to turn it off.\n- **Availability:** not on iPhone.\n\n---\n\n## QUESTIONS (People Also Ask style)\n\nThese are **inferred from the SERP, the press coverage and App Store review themes**. I didn't reach Reddit or the PAA boxes directly because the search budget ran out.\n- Is there a Google Pause Point for iPhone? What's the closest iOS equivalent?\n- What's the difference between Clearspace and one sec?\n- Is ScreenZen really free?\n- Is Clearspace free? How much is Clearspace Premium?\n- Do pause-before-opening apps actually work, or do you just tap through them?\n- Can I use Apple Screen Time instead of a third-party app?\n- What's an app that doesn't make me feel like I have a problem / doesn't lock me out?\n- Why do I still feel wired after scrolling even when I use a limit app?\n- How long should a pause be to make a difference?\n- Can I use these apps on Android and Mac?\n\n---\n\n## SOURCES\n\n- https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409 | Directing smartphone use through the self-nudge app one sec | PNAS (Grüning, Riedel, Lorenz-Spreen), via PMC | 2023 |\n  - **Field study:** 719 iOS users recruited, 280 analyzed over 6 weeks, no control group. Target app openings fell 57%. About 36% of opening attempts were dismissed (43% in week 1, 32–34% from week 3). Attempts fell 37% (166 to 105 per user). Users self-reported about 77 fewer min/day, |d| ≈ 0.56–0.81.\n  - **Preregistered experiment:** N=500, 5 conditions. The dismiss option had the strongest effect. The 10-s delay reduced use but added nothing beyond dismissal. The deliberation message alone had no significant effect. The full intervention did worse than dismiss-only (possible overload).\n  - **Limits:** self-selection, attrition, self-report, 6 weeks. The app's creator is a co-author (disclosed).\n- https://www.medien.ifi.lmu.de/pubdb/publications/pub/haliburton2024chi/haliburton2024chi.pdf | A Longitudinal In-the-Wild Investigation of Design Frictions to Prevent Smartphone Overuse (Haliburton et al.) | CHI 2024, LMU Munich | 2024 | The PDF wasn't readable through fetch. Per the search snippet: an in-the-wild study of 1,039 real one sec users found people take periodic breaks from the interventions and quickly rebound to overuse when they return. **Cite cautiously (soft claim only, no extra numbers).**\n- https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947 | Brief structured respiration practices enhance mood and reduce physiological arousal | Cell Reports Medicine (Balban et al.) | 2023 |\n  - **Design:** remote RCT, 108 randomized; 5 min/day for 28 days.\n  - **Positive affect:** breathwork rose 1.91 points vs mindfulness 1.22. Cyclic sighing (exhale-emphasized) was the only single breathing group significantly better than mindfulness, and gains grew with more days of practice.\n  - **Anxiety:** state anxiety fell in all groups, with no difference between them.\n  - **Physiology:** respiratory rate fell more with breathwork. No significant change in HRV or resting heart rate.\n  - **Caveats:** exploratory, retrospectively registered, healthy (mostly student) sample.\n- https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html | Cyclic sighing can help breathe away anxiety | Stanford Medicine | 2023 | Plain-language summary of the trial. Spiegel explains that exhalation engages the parasympathetic nervous system, slowing heart rate. Describes the study as preliminary in healthy volunteers.\n- https://apps.apple.com/us/app/clearspace-screentime-control/id1572515807 | ClearSpace: Reduce Screen Time | Apple App Store (Clearspace Technologies, Inc.) | checked 2026-11-24 | Door pause (\"proceed after a deep breath or opt out\"), blocking and limits, schedules, challenges, accountability partners, streaks. iPhone, iOS 16+. Free with IAP: Monthly $6.99, Annual $44.99, Family $79.99, other Premium entries $44.99/$49.99/$59.99.\n- https://www.getclearspace.com/ | Clearspace official site | Clearspace | checked 2026-11-24 | Push-Up to Scroll, Breathe to Scroll (earn minutes), app limits, pause showing \"remaining uses for the day,\" friend challenges, focus schedules, streaks. Personal and Family are separate apps. No price stated.\n  - **Note:** this URL didn't appear in search results (a domain was mentioned and fetched directly). Verify before linking, or link the App Store listing instead.\n- https://apps.apple.com/my/app/id1532875441 | one sec, screen time + focus | Apple App Store, Malaysia (riedel.wtf apps S.L.) | checked 2026-11-24 | Delay instead of block; breathing via Shortcuts; custom intentions; Re-Intervention after a set time (e.g. 5 min); strict, scheduled or manual blocks; iOS 15+, macOS 14+; one app free; Pro RM16.99/month, RM49.90/year, RM399 lifetime.\n- https://one-sec.app/blog/pause-point-for-iphone/ | Pause Point for iPhone? Here's the Alternative for iOS: one sec | one sec (vendor) | 2026 (Aug 24) | Pause Point isn't available on iPhone or iPad. Per one sec, it is limited to Pixel 11 and 11 Pro on Android 17 (vendor claim). one sec pauses for 10 seconds and is on iPhone, iPad, Mac, Android and browsers.\n- https://apps.apple.com/app/screenzen-screen-time-control/id1541027222 | ScreenZen- Screen Time Control | Apple App Store (ScreenZen LLC) | checked 2026-11-24 | Delay before opening that can grow with each open; breathing or activities while waiting; short set-period opens; daily goals and blocking; strict blocks; settings lock with accountability partner. iOS/iPadOS 16.4+, macOS 13+. Free; optional tips $5/$10/$20/$40.\n- https://www.screenzen.co/ | ScreenZen official site | ScreenZen | checked 2026-11-24 | \"Less screen time. No subscription.\" Donation-supported and \"completely free.\" Blocks apps and websites. Footer lists iOS, macOS, Windows and Android.\n- https://blog.google/products-and-platforms/platforms/android/pause-point/ | Pause Point | Google | 2026 | Android feature: a \"10-second breather to ask, 'Why am I here?'\"; breathing, timer, photos or suggested alternative apps; a restart is needed to turn it off. No device list, rollout date or iPhone availability given.\n- https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/ | Android adds a feature to stop you from doomscrolling | TechCrunch | 2026 (May 12) | 10-second pause after opening apps you've labeled as distractions; breathing, alternative-app suggestions, photos; optional in-app timer; restart needed to disable; tied to the Android 17 briefing.\n- https://support.apple.com/en-asia/guide/iphone/iphbfa595995/15.0/ios | Set up Screen Time for yourself on iPhone | Apple iPhone User Guide | iOS 15 version | Downtime \"block[s] apps and notifications for periods when you want time away\"; App Limits for categories or individual apps; limits can be paused or deleted; passcode before changing settings.\n- https://alternativeto.net/software/clearspace/?p=3 | ClearSpace Alternatives | AlternativeTo | updated 2026-04-09 | Top-ranking competitor format, used for SERP analysis only. Numbered directory with no stated ordering method; labels an \"Official Partner\" banner and an \"Ad\" entry.\n\n**Gaps in this source list:** I have no peer-reviewed source on scrolling and mood, and no source on slow breathing at about 6 breaths per minute or HRV. If the article claims scrolling leaves people feeling worse, or anything about the vagus nerve or HRV, those claims need a source the writer adds from the DeRot inventory's existing briefs. Otherwise keep the wording experiential and uncited.\n\n---\n\n## SAFETY\n\n- **Breathing in the pause screens:**\n  - Keep it slow and gentle, with a longer exhale; don't force it. Stop and breathe normally if you feel dizzy, lightheaded or tingly.\n  - Breath holds (box breathing, 4-7-8) and fast breathing aren't for everyone: pregnancy, heart or lung conditions, a history of fainting or panic. The Balban trial excluded people with heart disease, seizure history, pregnancy and significant psychiatric conditions, and about 10% of participants reported a negative experience in the debrief.\n  - In that study, box-breathing participants were told to shorten the counts if they had to strain.\n- **No treatment claims:**\n  - Clearspace's listing mentions anxiety, ADHD and depression as user-reported benefits. Don't repeat them.\n  - The Balban study was in healthy volunteers and doesn't show breathing treats anxiety disorders.\n  - Say that breathing \"can help you feel calmer\" or \"may reduce stress.\"\n- **Friction research:** the 57% figure measures app openings, not wellbeing or minutes. It comes from self-selected users without a control group, and a co-author built the app. Present it as promising, not proven.\n- **Strict blockers and lock modes:** fine for people who want them. Note that emergency calls aren't blocked by Screen Time Downtime (Apple's family guide says so; re-verify before stating it).\n- **When to get help:** if scrolling is tied to persistent anxiety, low mood, sleep problems or distress, talk to a professional. In crisis, contact local emergency services or call or text 988 in the US.\n\n---\n\n**Notes for the writer**\n- **Before publishing, re-check:**\n  - one sec's US prices (I only have Malaysian prices from the App Store; the USD figures are from a third-party tracker).\n  - Clearspace's \"1–10 minute\" session claim (it came from a search summary).\n  - Pause Point's device list (Pixel 11 / 11 Pro is one sec's claim, not Google's).\n- **Be fair to the alternatives:** one sec's Re-Intervention and ScreenZen's short set-period opens are mid-session features. DeRot's real difference is that its pause is a calming slow-exhale reset, not a time limit or a way to earn more minutes.\n- **Watch for confusion with other apps named \"ClearSpace\":** several unrelated apps share the name, including a storage cleaner on the App Store. Spell out which one the article means in the first paragraph."
+}

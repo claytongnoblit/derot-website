@@ -2297,7 +2297,7 @@
       "seasonality": [],
       "status": "covered",
       "notes": "Android 17 Pause Point coverage; one sec targets this term.",
-      "covered_by": "screenzen-alternative"
+      "covered_by": "clearspace-alternative"
     },
     {
       "keyword": "app that makes you breathe before opening instagram",
@@ -2325,7 +2325,7 @@
       "seasonality": [],
       "status": "covered",
       "notes": "Chrome extension 'Mindful Scroll' competes.",
-      "covered_by": "screenzen-alternative"
+      "covered_by": "clearspace-alternative"
     },
     {
       "keyword": "best app to stop doomscrolling",
@@ -3451,8 +3451,10 @@
       "content_type": "comparison",
       "angle": "Clearspace's approach vs other friction and breathing options.",
       "seasonality": [],
-      "status": "queued",
-      "notes": "Added 2026-10-18."
+      "status": "published",
+      "notes": "Added 2026-10-18.",
+      "post": "clearspace-alternative",
+      "published": "2026-11-24"
     },
     {
       "keyword": "resonance breathing benefits",
