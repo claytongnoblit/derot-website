@@ -1,0 +1,292 @@
+{
+  "title_options": [
+    "Why can't I stop scrolling TikTok? It's the design, not your willpower",
+    "Why you can't stop scrolling TikTok (and a 30-second way to come back down)",
+    "Why can't I stop scrolling TikTok? What the feed does and what actually helps mid-scroll"
+  ],
+  "search_intent": "Informational 'why' query from adults who notice they lose 20+ minutes on TikTok and come out wired. They want a clear explanation of the design first (autoplay, no stopping cues, personalized unpredictable feed), reassurance that it isn't a personal failing, an honest read of the research, then a practical fix that doesn't require deleting the app.",
+  "serp_summary": "The results are mostly news explainers built around a single study (Elite Daily, Baylor, 12News, News24, Deseret), pop-psychology SEO posts (NeuroLaunch, drjud, YourTango, Medium), teaching pages (tutor2u, GCFGlobal) and one how-to (PopSci). The usual format is 3-5 reasons (endless feed, slot-machine rewards, For You algorithm, dopamine, habit) followed by restriction tips (time limits, notifications, pause before opening). These pages lean hard on addiction and dopamine language, report correlational findings as cause, barely touch the physical wired feeling, and give nothing usable mid-scroll: no breath counts and no evidence on whether interventions work.",
+  "gaps": [
+    "No current result says 'social media addiction' is not a DSM-5 or ICD-11 diagnosis, or that researchers disagree about the term.",
+    "The 'dopamine hit' is treated as settled. The fMRI evidence comes from small samples (one study had 30 participants) and shows reward-area activation, not addiction.",
+    "The 2025 meta-analysis gets reported as causal. Its authors say most of the included studies are cross-sectional.",
+    "Time distortion is presented as proven. The one controlled experiment (Jiang 2025) found short videos distorted time no more than reading did, and people overestimated their weekly use.",
+    "Nobody explains the physical comedown (shallow breathing, clenched jaw, feeling wired) or offers a body-level reset.",
+    "All the tips are restriction or before-you-open advice. Nothing covers the moment you notice you're 20 minutes in.",
+    "No one cites the HCI field evidence: pop-ups work at first and then fade, and people keep scrolling a mean of 3 min 31 s after a prompt.",
+    "No exact breath counts, timings, or script."
+  ],
+  "outline": [
+    {
+      "h2": "Why can't I stop scrolling TikTok? The quick answer",
+      "points": [
+        "Answer in 40-60 words: TikTok opens straight into full-screen autoplay, has no natural stopping point, and serves an endless run of new videos picked for you, so stopping takes a deliberate choice. That's a design effect, not a willpower failure.",
+        "Name the felt experience: you meant to check one thing and surfaced 20 minutes later, jaw tight and slightly wired.",
+        "Preview: the design, the comedown, what the research does and doesn't show, and a 30-second downshift."
+      ]
+    },
+    {
+      "h2": "What makes TikTok's feed different from older feeds?",
+      "points": [
+        "Baylor 2025: TikTok scored higher than Reels and Shorts on effortlessness, recommendation accuracy and serendipity. Autoplay on open adds immersion.",
+        "In that model, these features raise engagement, and engagement brings time distortion. Effortlessness is 'the prerequisite.'",
+        "No stopping cues: you have to choose to stop rather than choose to continue.",
+        "Variable rewards, explained as a well-known behavioral pattern and an analogy, not a measured slot-machine effect.",
+        "Personalization: Su 2021 fMRI found personalized clips activated reward- and self-related brain areas more than random clips did. Small sample (30 in the connectivity study), so treat it as suggestive."
+      ]
+    },
+    {
+      "h2": "Why do I lose track of time on TikTok?",
+      "points": [
+        "Survey link: Qin 2022 (659 adolescents) found time distortion predicted addictive use (β = 0.263).",
+        "Correction: Jiang 2025, a controlled experiment with 56 students, found short videos distorted time no more than reading did. People overestimated their weekly short-video use (ratio 1.535).",
+        "Reframe: the 'where did 40 minutes go' feeling may be more about losing awareness of time than about miscounting it.",
+        "Qin: concentration and absorption predicted problematic use more strongly than enjoyment did. That's why you can keep going without enjoying it."
+      ]
+    },
+    {
+      "h2": "Why does TikTok leave me wired? TikTok anxiety and the comedown",
+      "points": [
+        "Describe the experience as readers report it, not as a measured effect: shallow breathing, clenched jaw, 'exhausted and wired and bored all at once.'",
+        "Meta-analysis (71 studies, 98,299 people): short-form video use is linked to stress (r = −.34) and anxiety (r = −.33), plus sleep disturbance. These are correlations, and anxiety may drive heavier use rather than result from it.",
+        "The DeRot point of view: what matters is how the feed leaves you feeling, not only the minutes."
+      ]
+    },
+    {
+      "h2": "Is it really 'TikTok addiction'? What the research shows",
+      "points": [
+        "Problematic social media use isn't a DSM-5 or ICD-11 diagnosis, and how to classify it is still debated. Verify against PMC12684902 before stating this.",
+        "Jiang et al. chose 'problematic short video watching' 'to avoid the risk of overpathologizing daily behaviours.'",
+        "Meta-analysis: studies using addiction scales found stronger links than studies measuring time spent, and most designs can't show cause.",
+        "Takeaway: you're a capable adult using a very well-built feed."
+      ]
+    },
+    {
+      "h2": "Why resisting harder rarely works mid-scroll",
+      "points": [
+        "CHI 2025 (N=72): after a 15-minute prompt, people kept scrolling a mean of 3 min 31 s. TikTok accounted for 40.30% of interventions, and 40.99% happened between 18:00 and 23:00.",
+        "Low mood combined with being at home slowed stopping. The authors describe a possibly trance-like state.",
+        "Meinhardt 2026 (N=104): a plain pop-up 'was initially effective but lost impact quickly.'",
+        "Changing your body state is a different lever from 'just stop.'"
+      ]
+    },
+    {
+      "h2": "A 30-second downshift for when you notice you're 20 minutes in",
+      "points": [
+        "Why slow breathing: Laborde 2022 (223 studies) found slow breathing raises vagally mediated HRV. Balban 2023 found 5 minutes a day of cyclic sighing improved mood more than mindfulness, with no change in heart rate.",
+        "Say plainly that no study has tested a 30-second mid-scroll reset. This applies the research to a new moment.",
+        "Script, Calm 4-6: put the thumb down, unclench the jaw, inhale through the nose for 4, exhale slowly for 6, three rounds (about 30 s). Link /tools/calm-4-6-breathing.",
+        "Alternative: 1-3 physiological sighs (nose inhale, a second top-up inhale, long mouth exhale). Link /tools/physiological-sigh.",
+        "Then make one choice: close the app, or keep watching on purpose.",
+        "What it feels like and common mistakes: forcing big breaths makes you lightheaded, so keep them soft.",
+        "One light DeRot mention: it meets you mid-scroll and pauses your apps while you reset with a few calming breaths."
+      ]
+    },
+    {
+      "h2": "Small setup changes that make the reset easier",
+      "points": [
+        "Optional, non-restrictive: notice evening couch sessions, keep the phone off the pillow, adjust feed preferences.",
+        "No guilt about minutes."
+      ]
+    },
+    {
+      "h2": "When to talk to someone",
+      "points": [
+        "If scrolling is tied to persistent anxiety, low mood, sleep problems or distress, talk to a professional.",
+        "In a crisis, contact local emergency services or call or text 988 (US)."
+      ]
+    }
+  ],
+  "questions": [
+    "Why is TikTok harder to put down than Instagram Reels or YouTube Shorts?",
+    "Why do I lose track of time on TikTok?",
+    "Why do I feel anxious or wired after scrolling TikTok?",
+    "Is TikTok addiction a real diagnosis?",
+    "Does TikTok ruin your attention span?",
+    "Why do I keep scrolling even when I'm not enjoying it?",
+    "Do screen time limit pop-ups actually work?",
+    "How do I stop scrolling TikTok without deleting it?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://ifp.nyu.edu/2025/journal-article-abstracts/bul0000498/",
+      "title": "Feeds, feelings, and focus: systematic review and meta-analysis of short-form video use",
+      "publisher": "Psychological Bulletin / APA (abstract mirror, NYU IFP)",
+      "year": "2025",
+      "key_findings": "71 studies, 98,299 participants. Short-form video use was linked to poorer cognition (r = −.34) and poorer mental health (r = −.21). Strongest links: inhibitory control −.41, attention −.38, stress −.34, anxiety −.33. No link with body image or self-esteem."
+    },
+    {
+      "id": "S2",
+      "url": "https://www.psypost.org/large-meta-analysis-links-tiktok-and-instagram-reels-to-poorer-cognitive-and-mental-health/",
+      "title": "Large meta-analysis links TikTok and Instagram Reels to poorer cognitive and mental health",
+      "publisher": "PsyPost",
+      "year": "2025",
+      "key_findings": "Limitations: mostly cross-sectional, self-reported use, possible reverse causation. Addiction-scale studies showed stronger links than time-spent studies. Also a link with sleep disturbances."
+    },
+    {
+      "id": "S3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33951514/",
+      "title": "Viewing personalized video clips recommended by TikTok activates default mode network and ventral tegmental area",
+      "publisher": "NeuroImage",
+      "year": "2021",
+      "key_findings": "Personalized videos produced more DMN and VTA activity than non-personalized ones. About 5.9% of surveyed users may have significant problematic use. Not verified directly (page didn't load)."
+    },
+    {
+      "id": "S4",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8519862",
+      "title": "Individualized video recommendation modulates functional connectivity between large scale networks",
+      "publisher": "Human Brain Mapping",
+      "year": "2021",
+      "key_findings": "fMRI, 30 students. 26 of 28 preferred personalized videos, which increased connectivity between attention and self-referential networks. Small, correlational."
+    },
+    {
+      "id": "S5",
+      "url": "https://news.web.baylor.edu/news/story/2025/why-tiktok-keeps-you-scrolling-baylor-research-explains-science-behind-social-media",
+      "title": "Why TikTok Keeps You Scrolling: Baylor research",
+      "publisher": "Baylor University",
+      "year": "2025",
+      "key_findings": "TikTok scored higher than Reels and Shorts on effortlessness, recommendation accuracy and serendipity. Autoplay on open adds immersion. In the model, affordances raise engagement, and engagement brings time distortion."
+    },
+    {
+      "id": "S6",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12292152/",
+      "title": "Losing Track of Time on TikTok? An Experimental Study of Short Video Users' Time Distortion",
+      "publisher": "Behavioral Sciences (MDPI)",
+      "year": "2025",
+      "key_findings": "56 students. Short videos vs reading made no significant difference (p = .262). A 5-min session was overestimated (1.206). Weekly use was overestimated (1.535). Authors used 'problematic short video watching' to avoid overpathologizing."
+    },
+    {
+      "id": "S7",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.932805/full",
+      "title": "The addiction behavior of short-form video app TikTok: The information quality and system quality perspective",
+      "publisher": "Frontiers in Psychology",
+      "year": "2022",
+      "key_findings": "659 adolescents. Time distortion → addictive use β = 0.263. Concentration β = 0.364. Enjoyment β = −0.133."
+    },
+    {
+      "id": "S8",
+      "url": "https://ar5iv.labs.arxiv.org/html/2501.11814",
+      "title": "Scrolling in the Deep: Analysing Contextual Influences on Intervention Effectiveness during Infinite Scrolling on Social Media",
+      "publisher": "CHI '25 (ACM)",
+      "year": "2025",
+      "key_findings": "N=72, 7 days. Mean of 3 min 31 s to stop after a 15-min prompt. TikTok was 40.30% of interventions, and 40.99% happened 18:00-23:00. Low mood plus being at home slowed stopping."
+    },
+    {
+      "id": "S9",
+      "url": "https://arxiv.org/abs/2607.15818",
+      "title": "Can't Stop: Gradual Interventions for Infinite Scrolling on Short-Form Video Platforms",
+      "publisher": "Proc. ACM IMWUT (preprint)",
+      "year": "2026",
+      "key_findings": "N=104 randomized field study. The pop-up was initially effective but lost impact quickly. The gradual visual intervention held up longest."
+    },
+    {
+      "id": "S10",
+      "url": "https://hubermanlab.stanford.edu/publications/brief-structured-respiration-practices-enhance-mood-and-reduce-physiological-arousal?.com",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Cell Reports Medicine (Stanford)",
+      "year": "2023",
+      "key_findings": "5 min a day of breathwork, especially cyclic sighing, improved mood and lowered respiratory rate more than mindfulness."
+    },
+    {
+      "id": "S11",
+      "url": "https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html",
+      "title": "Cyclic sighing can help breathe away anxiety",
+      "publisher": "Stanford Medicine",
+      "year": "2023",
+      "key_findings": "111 healthy adults. Positive affect +1.91 for breathing vs +1.22 for mindfulness. No heart rate changes. Preliminary study."
+    },
+    {
+      "id": "S12",
+      "url": "https://eprints.bournemouth.ac.uk/38169/",
+      "title": "Effects of voluntary slow breathing on heart rate and heart rate variability: a systematic review and meta-analysis",
+      "publisher": "Neuroscience & Biobehavioral Reviews (Bournemouth eprints)",
+      "year": "2022",
+      "key_findings": "223 studies. Slow breathing raised vagally mediated HRV during a session, after one session, and after training. Few adverse effects expected."
+    },
+    {
+      "id": "S13",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12684902/",
+      "title": "Editorial: classifying problematic social media use",
+      "publisher": "PMC",
+      "year": "2024",
+      "key_findings": "The addiction framework risks over-pathologizing. Problematic social media use is not a DSM-5 or ICD-11 diagnosis. Not opened directly; verify."
+    },
+    {
+      "id": "S14",
+      "url": "https://www.va.gov:443/WHOLEHEALTH/Veteran-Handouts/docs/BreathingAndHealth-508Final-9-4-2018.pdf",
+      "title": "Breathing and Health",
+      "publisher": "US Department of Veterans Affairs / University of Wisconsin",
+      "year": "2018",
+      "key_findings": "People with breathing trouble, on supplemental oxygen, or who get dizzy easily should check with their care team first."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "A meta-analysis of 71 studies (98,299 participants) linked heavier short-form video use with poorer cognition (r = −.34) and poorer mental health (r = −.21).",
+      "source_id": "S1"
+    },
+    {
+      "fact": "The strongest associations were with inhibitory control (r = −.41), attention (r = −.38), stress (r = −.34) and anxiety (r = −.33).",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Most studies in that meta-analysis were cross-sectional, so cause can't be established, and existing anxiety may drive heavier use.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "TikTok scored higher than Instagram Reels and YouTube Shorts on perceived effortlessness, recommendation accuracy and serendipity.",
+      "source_id": "S5"
+    },
+    {
+      "fact": "In a 56-person experiment, short-video watching did not distort time more than reading (p = .262), and people overestimated their weekly short-video use (ratio 1.535).",
+      "source_id": "S6"
+    },
+    {
+      "fact": "Jiang et al. used the term 'problematic short video watching' 'to avoid the risk of overpathologizing daily behaviours.'",
+      "source_id": "S6"
+    },
+    {
+      "fact": "Among 659 adolescents, time distortion predicted addictive TikTok use (β = 0.263). Concentration was the strongest predictor (β = 0.364), and enjoyment had a negative direct effect (β = −0.133).",
+      "source_id": "S7"
+    },
+    {
+      "fact": "In an fMRI study of 30 students, personalized videos increased connectivity between attention and self-referential networks.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "After a prompt at 15 minutes of scrolling, people kept going a mean of 3 min 31 s. TikTok made up 40.30% of interventions, and 40.99% occurred between 18:00 and 23:00.",
+      "source_id": "S8"
+    },
+    {
+      "fact": "A plain pop-up interruption was initially effective but lost impact quickly over a 7-day study of 104 people.",
+      "source_id": "S9"
+    },
+    {
+      "fact": "A review of 223 studies found slow breathing raises vagally mediated heart rate variability during a session, after one session, and after multi-session training.",
+      "source_id": "S12"
+    },
+    {
+      "fact": "In 111 healthy adults, 5 minutes a day of breathwork raised positive affect by 1.91 points vs 1.22 for mindfulness, with no heart rate changes in any group.",
+      "source_id": "S11"
+    },
+    {
+      "fact": "Cyclic sighing lowered respiratory rate more than mindfulness meditation did.",
+      "source_id": "S10"
+    }
+  ],
+  "safety_notes": [
+    "Keep breaths soft. If you feel dizzy or lightheaded, stop and breathe normally. Practice seated, never while driving.",
+    "Use exhale-focused Calm 4-6 or the physiological sigh as the default. Breath holds and fast breathing aren't for everyone (pregnancy, heart or lung conditions, history of fainting or panic).",
+    "People with breathing trouble, on oxygen, or who get dizzy easily should check with their care team first (S14).",
+    "Never say breathing treats anxiety. Balban was a study of healthy adults, and heart rate didn't change. Use 'can help you feel calmer.'",
+    "Present every TikTok-anxiety link as correlational, possibly running in the other direction.",
+    "Describe the jaw clenching and shallow breathing as what people report, not as a measured effect.",
+    "Don't use addiction or 'addict' language for the reader. Treat the Baylor 'intentionally addictive' quote as their characterization, or leave it out.",
+    "Referral: for persistent anxiety, low mood, sleep problems or distress, see a professional. In a crisis, contact local emergency services or call or text 988 (US).",
+    "Verify S3 and S13 claims before citing, since neither page was opened directly."
+  ],
+  "word_count_target": 1900,
+  "dropped_sources": [],
+  "research_notes": "I've finished the research for the \"why can't I stop scrolling TikTok\" article. The research does back the planned angle, but one part of it needs changing: a 2025 experiment didn't find that short videos warp people's sense of time more than reading does. The \"shrinking sense of time\" point needs rewording before drafting (details under GAPS AND ANGLE, point 3).\n\n# Research notes: \"why can't i stop scrolling tiktok\"\n\n## SERP ANALYSIS\n\n**What ranks now.** The results are mostly news explainers and pop-psychology posts:\n- **Explainers about a study:** Elite Daily (the Zhejiang brain-scan study), Baylor University's news release (2025), 12News, News24, Deseret.\n- **Pop-science and SEO posts:** NeuroLaunch (\"TikTok Addiction: The Dopamine-Driven Cycle\"), drjud.com (\"Short Video Addiction\"), YourTango (\"Why TikTok Is Uniquely Addictive\"), several Medium posts, a Squarespace blog on \"doomscrolling and your nervous system.\"\n- **Teaching resources:** tutor2u (psychology), GCFGlobal (digital media literacy).\n- **How-to:** PopSci, \"How to break your toxic infinite scroll habit on TikTok.\"\n\n**Format.** Mostly an explainer listing 3 to 5 reasons (endless feed, slot-machine rewards, personalized For You feed, dopamine, habit), then a short tips list (screen time limits, turn off notifications, change feed settings, \"ask why you're opening it\"). The query is \"why,\" so readers want an explanation first and a fix second.\n\n**What they cover well:**\n- The design: autoplay, no stopping point, \"you have to choose to stop rather than choose to continue,\" the variable-ratio slot-machine comparison.\n- The personalized feed, citing the Su et al. 2021 fMRI study.\n- Some name the \"numb, glazed\" feeling after the first few minutes and the \"wired but tired\" state.\n\n**What they miss or get wrong:**\n1. **Addiction language everywhere.** Titles say \"addiction,\" \"addictive,\" \"hijacks your brain,\" \"toxic.\" Almost none mention that \"social media addiction\" is not a diagnosis in DSM-5 or ICD-11, or that researchers disagree about the term.\n2. **Dopamine overclaiming.** \"Dopamine hit\" is treated as settled fact. The Su 2021 fMRI study found activation in the VTA (a reward-related area) in 30 young adults. That doesn't show a \"dopamine hit\" or addiction.\n3. **Correlation reported as cause.** The 2025 Psychological Bulletin meta-analysis (71 studies, 98,299 participants) is reported as \"TikTok rots your brain.\" The authors themselves say most of the studies are cross-sectional and can't show cause.\n4. **Hardly anything on the body state.** Pages mention \"wired\" in passing but don't explain it physically (shallow breathing, clenched jaw) or offer a body-level fix.\n5. **Tips are about restriction or before-you-open.** Time limits, deleting the app, \"pause before opening.\" Nobody covers what to do mid-scroll, at the moment you notice you're 20 minutes in. That's our gap.\n6. **No honest evidence on interventions.** Nobody cites the HCI field studies showing pop-up interruptions work at first and then fade (Meinhardt et al.), or that people take a median of a few minutes to actually stop.\n7. **No real breath counts or timings.** Nothing practical you could use in 60 seconds.\n\n## GAPS AND ANGLE\n\n1. **Lead with design, not willpower.** Effortless autoplay from the moment the app opens, no stopping point, a feed that surprises you and is picked for you. Baylor's 2025 study (Roberts and David) found TikTok scored highest of the three platforms on effortlessness, recommendation accuracy and serendipity. In their model, these features drive engagement, and engagement leads to time distortion. That backs \"built differently from older feeds\" with a single source.\n2. **Variable rewards:** describe it as a well-known pattern from behavioral psychology, as an analogy. Don't claim TikTok has been measured to work like a slot machine.\n3. **\"Shrinking sense of time\" needs care. This is the main correction to the planned angle.**\n   - Survey studies link time distortion to problematic use (Qin et al. 2022: β = 0.263, 659 adolescents; Baylor 2025).\n   - But the only controlled experiment found (Jiang et al. 2025, 56 students) showed that short-video watching did **not** distort time more than reading. In that study a short 5-minute session was overestimated, and people overestimated their weekly short-video use (ratio 1.535).\n   - Honest framing: \"People report losing track of time, and survey studies link that feeling to harder-to-control use. But one controlled experiment found short videos didn't warp time more than reading, and people actually overestimated their weekly use. The 'where did 40 minutes go' feeling may say more about losing awareness of time than about miscounting it.\"\n4. **The body state.** Watch what you claim here. I found no direct research measuring jaw clenching or shallow breathing during TikTok use. Write it as the felt experience readers describe, not as a measured physiological effect. The meta-analysis does give strongest mental-health links with stress (r = −.34) and anxiety (r = −.33), as correlations. This is where the secondary keyword \"TikTok anxiety\" fits, framed carefully.\n5. **Why a downshift mid-scroll beats resisting harder:**\n   - A 7-day field study (N=104, 2026) found a plain pop-up \"was initially effective but lost impact quickly.\"\n   - CHI 2025 (N=72): TikTok accounted for 40.30% of 15-minute scroll interventions. People kept scrolling an average of 3 min 31 s after the prompt. 40.99% of interventions happened between 18:00 and 23:00. Low mood combined with being at home slowed stopping.\n   - So a prompt alone often isn't enough, especially in the evening on the couch. Changing your body state is a different lever from \"just stop.\"\n   - Breath evidence: Laborde 2022 (223 studies) found slow breathing raises vagally mediated heart rate variability (HRV) during a session, after one session, and after multi-session training. Balban 2023 (n=111) found 5 minutes a day of exhale-focused cyclic sighing improved positive mood more than mindfulness meditation and lowered resting breathing rate. Heart rate itself didn't change in any group, so don't overclaim.\n   - **Gap:** none of the breathing studies tested a 30-second reset mid-scroll. Say plainly that this is an application of the research, not something tested.\n6. **Script and counts (technique instructions can use real timings):**\n   - Calm 4-6: inhale 4, exhale 6, 3 rounds is about 30 s.\n   - Or 1 to 3 physiological sighs: a double inhale through the nose, then a long, slow exhale through the mouth.\n   - Then one choice: close the app, or keep watching on purpose.\n   - Link /tools/calm-4-6-breathing and /tools/physiological-sigh.\n7. **Addiction framing:** a short section saying it's contested. Use Jiang et al.'s own wording: they chose \"problematic short video watching\" \"to avoid the risk of overpathologizing daily behaviours.\"\n8. **DeRot:** one light mention, after the script. It meets you mid-scroll.\n\n**Suggested H2s:**\n- Why can't I stop scrolling TikTok?\n- What makes TikTok's feed different from older feeds?\n- Why does TikTok leave you wired (TikTok anxiety and the comedown)?\n- Is it really \"addiction\"? What the research shows\n- Why resisting harder rarely works mid-scroll\n- A 30-second downshift for when you notice you're 20 minutes in\n- Small setup changes that help (optional)\n\n## QUESTIONS\n\n- Why is TikTok more addictive than Instagram or YouTube? (Baylor 2025 compares all three platforms.)\n- Why do I lose track of time on TikTok?\n- Why do I feel anxious or wired after scrolling TikTok?\n- Is TikTok addiction real, or a diagnosis?\n- Does TikTok ruin your attention span? (Meta-analysis: r = −.38 for attention, correlational.)\n- Why do I keep scrolling even when I'm not enjoying it? (Qin 2022: enjoyment had a negative direct effect on addiction, β = −0.133. Concentration and absorption predicted it more strongly, β = 0.364.)\n- Does TikTok affect sleep? (Meta-analysis found a link with sleep disturbances. Most interventions in CHI 2025 happened 18:00 to 23:00.)\n- How do I stop scrolling TikTok without deleting it?\n- Do screen time limit pop-ups work? (They help at first, then fade: Meinhardt 2026.)\n- Is watching TikTok bad for anxiety?\n\nI couldn't find Reddit threads directly. The forum-style language that came up: \"your thumb knows the motion,\" \"numb, glazed,\" \"exhausted and wired and bored all at once,\" \"the time limit notification breaks the trance for a second.\"\n\n## SOURCES\n\nhttps://ifp.nyu.edu/2025/journal-article-abstracts/bul0000498/ | Feeds, feelings, and focus: systematic review and meta-analysis of short-form video use (abstract; Nguyen et al., doi:10.1037/bul0000498) | Psychological Bulletin / APA (abstract mirror) | 2025 | 71 studies, 98,299 participants. More short-form video use was linked to poorer cognition (r = −.34) and poorer mental health (r = −.21, weak). Strongest links: inhibitory control (r = −.41), attention (r = −.38), stress (r = −.34), anxiety (r = −.33). No link with body image or self-esteem. Held across youth and adult samples and across platforms.\n\nhttps://www.psypost.org/large-meta-analysis-links-tiktok-and-instagram-reels-to-poorer-cognitive-and-mental-health/ | Large meta-analysis links TikTok and Instagram Reels to poorer cognitive and mental health | PsyPost | 2025 | Limitations of the same meta-analysis: mostly cross-sectional, so cause can't be established. Existing anxiety or attention problems may drive heavier use. Self-reported usage. Few studies controlled for general social media use. Studies using addiction scales showed stronger links than studies measuring time spent. Also a link with sleep disturbances.\n\nhttps://pubmed.ncbi.nlm.nih.gov/33951514/ | Viewing personalized video clips recommended by TikTok activates default mode network and ventral tegmental area (Su et al.) | NeuroImage 237:118136 | 2021 | Personalized videos produced more activity than non-personalized ones in parts of the default mode network and the ventral tegmental area (VTA). About 5.9% of surveyed users may have significant problematic use. More \"undesired symptoms\" were related to lower self-control. Young adult sample. **Caveat:** the PubMed page wouldn't load, so the abstract wasn't checked directly. The details come from the search summary.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC8519862 | Individualized video recommendation modulates functional connectivity between large scale networks (Su et al.) | Human Brain Mapping | 2021 | fMRI with 30 Zhejiang University students (mean age 23.7). 26 of 28 preferred personalized videos. Personalized videos increased connectivity between attention and self-referential (dMPFC) networks. Correlational; small sample.\n\nhttps://news.web.baylor.edu/news/story/2025/why-tiktok-keeps-you-scrolling-baylor-research-explains-science-behind-social-media | Why TikTok Keeps You Scrolling: Baylor research | Baylor University (study by Roberts and David, Cyberpsychology, Behavior, and Social Networking) | 2025 | TikTok scored higher than Instagram Reels and YouTube Shorts on perceived effortlessness, recommendation accuracy and serendipity. Autoplay that starts when the app opens adds to the sense of immersion. These affordances raise addictive use indirectly: they increase engagement, and engagement brings time distortion. Effortlessness is \"the prerequisite.\" Sample size and statistics not given in the release. Verbatim quote available but alarmist: \"TikTok's algorithm is intentionally created to be addictive\" (Meredith David).\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC12292152/ | Losing Track of Time on TikTok? An Experimental Study of Short Video Users' Time Distortion (Jiang, Yan, Yang) | Behavioral Sciences (MDPI) | 2025 | 56 university students, 2×2 design (5 min 23 s vs 16 min 9 s; short videos vs reading). The 5-minute short-video session was overestimated (ratio 1.206, p = .021). The 16-minute session was not distorted (0.977, p = .709). Task type had no significant effect (short video vs reading, p = .262). People overestimated their weekly short-video use (1.535, p = .002). Problematic use was not related to time distortion. Authors chose \"problematic short video watching\" \"to avoid the risk of overpathologizing daily behaviours.\"\n\nhttps://www.frontiersin.org/articles/10.3389/fpsyg.2022.932805/full | The addiction behavior of short-form video app TikTok: The information quality and system quality perspective (Qin, Omar, Musetti) | Frontiers in Psychology | 2022 | 659 Chinese adolescents aged 10 to 19, cross-sectional PLS-SEM. Time distortion → addictive use β = 0.263. System quality → time distortion β = 0.271. Concentration was the strongest predictor (β = 0.364). Enjoyment had a negative direct effect (β = −0.133). The model explained 25.2% of variance.\n\nhttps://ar5iv.labs.arxiv.org/html/2501.11814 | Scrolling in the Deep: Analysing Contextual Influences on Intervention Effectiveness during Infinite Scrolling on Social Media (Meinhardt et al.) | CHI '25 (ACM) | 2025 | 7-day field study, N=72, 927 data points. An overlay appeared after 15 minutes of continuous scrolling. People stopped an average of 3 min 31 s later (SD 8 min 21 s; range 0 s to 67 min 20 s). TikTok = 40.30% of interventions. 40.99% happened 18:00 to 23:00. Low mood combined with being at home slowed stopping. Describes infinite scrolling as a possibly \"trance-like\" state. Context explained little variance. Android users who reported regret about scrolling.\n\nhttps://arxiv.org/abs/2607.15818 | Can't Stop: How Context and Individual Traits Influence Effectiveness of Different Gradual Interventions for Infinite Scrolling on Short-Form Video Platforms (Meinhardt et al.) | Proc. ACM IMWUT (preprint) | 2026 | 7-day within-subject randomized field study, N=104. Pop-up vs gradually intensifying visual or haptic friction. The pop-up \"was initially effective but lost impact quickly.\" The visual gradual intervention kept ratings up longest. Impulsivity changed which approach worked best.\n\nhttps://hubermanlab.stanford.edu/publications/brief-structured-respiration-practices-enhance-mood-and-reduce-physiological-arousal?.com | Brief structured respiration practices enhance mood and reduce physiological arousal (Balban et al.) | Cell Reports Medicine (Stanford) | 2023 | Remote RCT. 5 minutes a day for a month of cyclic sighing, box breathing, or cyclic hyperventilation vs mindfulness meditation. Breathwork, especially cyclic sighing, improved mood more (p < .05) and lowered respiratory rate more (p < .05) than mindfulness.\n\nhttps://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html | Cyclic sighing can help breathe away anxiety | Stanford Medicine | 2023 | 111 healthy adults. Breathing groups gained 1.91 points of positive affect on the PANAS scale vs 1.22 for mindfulness. All three breathing groups reduced anxiety and negative mood. Only cyclic sighing lowered resting breathing rate. No heart rate changes in any group. The benefit grew over 30 days. A preliminary study that excluded people with moderate to severe psychiatric conditions. How to do it: inhale through the nose, take a second deeper inhale, then exhale slowly through the mouth.\n\nhttps://eprints.bournemouth.ac.uk/38169/ | Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis (Laborde et al.) | Neuroscience & Biobehavioral Reviews (Bournemouth preprint) | 2022 | 223 studies (172 during the session, 16 right after one session, 49 after multi-session training). Vagally mediated HRV rose with slow breathing at all three time points. The authors call it a low-tech, low-cost technique with few adverse effects expected.\n\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC12684902/ | Editorial (special issue on classifying problematic social media use) | PMC | 2024 | Applying an addiction framework to new repetitive behaviors risks over-pathologizing them. Moretta and Wegmann review ongoing disagreement over how to classify problematic social media use. Problematic social media use is not a diagnosis in DSM-5 or ICD-11 (ICD-11 has gaming disorder; DSM-5 lists internet gaming disorder only for further study). **Caveat:** these details come from the search summary. The page wasn't opened directly.\n\nhttps://www.va.gov:443/WHOLEHEALTH/Veteran-Handouts/docs/BreathingAndHealth-508Final-9-4-2018.pdf | Breathing and Health (Whole Health handout) | US Department of Veterans Affairs / University of Wisconsin | 2018 | Safety: people who have trouble breathing, use supplemental oxygen, or get dizzy or lightheaded easily should talk with their health care team before starting breathing practices.\n\nhttps://www.popsci.com/health/infinite-scroll-habit/ | How to break your toxic infinite scroll habit on TikTok | Popular Science | n.d. | A competitor page in the results. Says you don't need to quit social media altogether; suggests feed settings and time limits. Useful only as a SERP reference.\n\n## SAFETY\n\n- **Slow breathing is low-risk.** Laborde 2022 expects few adverse effects. Keep breaths soft and unforced. Overbreathing (breathing too deep or too fast) is a common cause of lightheadedness. If dizzy or lightheaded, stop and breathe normally. Sit or lie down while practicing, never while driving or standing near water.\n- **Breath holds** (box breathing, the 7-second hold in 4-7-8) and fast breathing (cyclic hyperventilation) aren't for everyone: pregnancy, heart or lung conditions, history of fainting or panic. Use exhale-focused Calm 4-6 or the physiological sigh as the default script. The VA/UW handout says to check with your care team first if you have breathing trouble, use oxygen, or get dizzy easily.\n- **Don't say breathing treats anxiety.** Balban 2023 was in healthy volunteers and excluded people with moderate to severe psychiatric conditions. Heart rate didn't change; the effects were on mood and breathing rate. Use \"can help you feel calmer\" or \"may reduce stress.\"\n- **TikTok and anxiety:** every link is correlational, and anxiety may drive use rather than the reverse. Present it that way.\n- **Referral line:** if scrolling is tied to persistent anxiety, low mood, sleep problems, or distress, talk to a professional. If in crisis, contact local emergency services or call or text 988 in the US.\n- **Don't diagnose.** Avoid \"addict\" and \"phone addiction.\" Use \"hard-to-stop,\" \"problematic use\" (the researchers' term), or just \"the feed.\"\n\n## Before drafting\n\n- **Wording that needs care:** \"The algorithm is designed to be addictive\" is Baylor's characterization, not something they measured, and the quote is alarmist. Don't present it as our claim. The dopamine and VTA finding is one fMRI study of 30 people. Mention it with that caveat or leave it out.\n- **Two sources weren't opened directly** (PubMed 33951514 wouldn't load; PMC12684902 wasn't fetched). Their details come from search summaries, so the writer should check those claims against the pages first.\n- **Internal links to confirm** against the site inventory: /tools/calm-4-6-breathing, /tools/physiological-sigh, and glossary entries such as heart rate variability or vagus nerve.\n\nSources:\n- [Elite Daily](https://elitedaily.com/news/how-tiktok-affects-your-brain-algorithm-personalized-videos)\n- [tutor2u](https://www.tutor2u.net/psychology/blog/psychology-in-the-news-why-cant-we-stop-scrolling)\n- [Baylor University news](https://news.web.baylor.edu/news/story/2025/why-tiktok-keeps-you-scrolling-baylor-research-explains-science-behind-social-media)\n- [PopSci](https://www.popsci.com/health/infinite-scroll-habit/)\n- [NeuroLaunch](https://neurolaunch.com/tiktok-addiction/)\n- [drjud.com](https://drjud.com/digital-addiction/tiktok-addiction-brain/)\n- [YourTango](https://yourtango.com/node/352581)\n- [GCFGlobal](https://edu.gcfglobal.org/en/digital-media-literacy/why-we-cant-stop-scrolling/1)\n- [Psychological Bulletin abstract (NYU IFP mirror)](https://ifp.nyu.edu/2025/journal-article-abstracts/bul0000498/)\n- [PsyPost](https://www.psypost.org/large-meta-analysis-links-tiktok-and-instagram-reels-to-poorer-cognitive-and-mental-health/)\n- [Su et al. 2021, PubMed](https://pubmed.ncbi.nlm.nih.gov/33951514/)\n- [Su et al. 2021, Human Brain Mapping (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8519862)\n- [Jiang et al. 2025 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12292152/)\n- [Qin et al. 2022, Frontiers](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.932805/full)\n- [Meinhardt et al. CHI '25 (ar5iv)](https://ar5iv.labs.arxiv.org/html/2501.11814)\n- [Meinhardt et al. 2026 (arXiv)](https://arxiv.org/abs/2607.15818)\n- [Balban et al. 2023 (Huberman Lab, Stanford)](https://hubermanlab.stanford.edu/publications/brief-structured-respiration-practices-enhance-mood-and-reduce-physiological-arousal?.com)\n- [Stanford Medicine on cyclic sighing](https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html)\n- [Laborde et al. 2022 (Bournemouth eprints)](https://eprints.bournemouth.ac.uk/38169/)\n- [Editorial on problematic social media use (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12684902/)\n- [VA/UW Breathing and Health handout](https://www.va.gov:443/WHOLEHEALTH/Veteran-Handouts/docs/BreathingAndHealth-508Final-9-4-2018.pdf)"
+}

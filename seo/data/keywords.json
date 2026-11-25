@@ -1210,7 +1210,8 @@
       "content_type": "explainer",
       "angle": "The design of the infinite scroll and the missing stopping cue DeRot adds.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "why-cant-i-stop-scrolling-tiktok"
     },
     {
       "keyword": "revenge bedtime procrastination",
@@ -1324,7 +1325,8 @@
       "content_type": "explainer",
       "angle": "Fast cuts and arousal: why short video can leave you buzzing.",
       "seasonality": [],
-      "status": "queued"
+      "status": "covered",
+      "covered_by": "why-cant-i-stop-scrolling-tiktok"
     },
     {
       "keyword": "screen time without guilt",
@@ -2879,9 +2881,11 @@
       "content_type": "explainer",
       "angle": "Explain how TikTok's full-screen, always-new feed keeps your body revved, and why a 60-second breath mid-scroll works better than willpower.",
       "seasonality": [],
-      "status": "queued",
+      "status": "published",
       "source": "expansion",
-      "added": "2026-10-11"
+      "added": "2026-10-11",
+      "post": "why-cant-i-stop-scrolling-tiktok",
+      "published": "2026-11-25"
     },
     {
       "keyword": "how can i stop scrolling instagram",
