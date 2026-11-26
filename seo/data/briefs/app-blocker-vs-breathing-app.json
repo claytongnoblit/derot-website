@@ -1,0 +1,271 @@
+{
+  "title_options": [
+    "App blocker vs breathing app: which approach fits you?",
+    "App blockers, friction apps, and breathing apps, compared",
+    "Block, delay, or regulate? Three ways a phone app can step in",
+    "App blocker vs breathing app: what the research says about each approach"
+  ],
+  "search_intent": "Commercial-investigational comparison. The searcher wants to know whether a hard app blocker or a breathing or regulation app suits them, how strict each is, and whether either works. Give an answer-first verdict, a table comparing approaches, one section per approach (block, friction, regulate) with honest evidence, and if-then picks.",
+  "serp_summary": "The results are mostly App Store listings for small \"breathe to unlock\" hybrid apps (Welligama, Pause Breathe Reflect, Free Time, BreathLock and similar), each making unverified claims about its own effectiveness, plus one sec's brand blog pushing one sec as \"the best app.\" The closest editorial roundup, WhistleOut (updated June 2026), ranks brands (ScreenZen, Shift, Freedom, Brick, one sec) without citing outside research, contradicts itself on prices, and treats mood only as anecdote. No page compares the approaches or cites the PNAS or CHI friction studies or the breathing RCT and meta-analysis. The query is wide open for a neutral, evidence-based explainer.",
+  "gaps": [
+    "No ranking page compares approaches (block vs friction vs regulate). They list brands or pitch one app.",
+    "No ranking page cites the friction evidence (the PNAS 2023 field study, CHI 2024 with 1,039 users) or the breathing evidence (the Balban 2023 RCT, the Fincham 2023 meta-analysis).",
+    "Nobody explains the limits of that evidence: no control group in the field study, one sec staff as co-authors, the dismiss option doing most of the work, users returning to overuse after pausing, and no HRV change in the breathing trial.",
+    "Every page measures success in minutes or opens. None measures how you feel, which is the outcome the breathing research actually tracks.",
+    "Nobody admits the overlap honestly: ScreenZen and one sec already offer breathing during the pause, and one sec has a mid-scroll 'Emergency Brake'. The real difference is what the pause is for.",
+    "Nobody explains why people keep overriding Screen Time: without a passcode and 'Block at End of Limit', 'Ignore Limit' is one tap away.",
+    "Nobody says plainly that people who want a hard lockout are better served by a blocker."
+  ],
+  "outline": [
+    {
+      "h2": "App blocker vs breathing app: the quick answer",
+      "points": [
+        "40-60 word answer first: blockers cut off access, friction apps add a pause before opening, breathing or regulation apps help you come down once the feed has wound you up. Pick by what you want: zero access, fewer opens, or feeling calmer.",
+        "Disclosure in the first 100 words: DeRot makes an app in the regulate category. We do not rank our own app, and no app paid to be included.",
+        "Summary table by approach (no DeRot row). Columns: Approach | Example apps (cited listings) | How it steps in | How strict | Evidence | Best for.",
+        "Rows: Hard blocker (Screen Time with a passcode, Opal Deep Focus, Brick), Friction or delay (one sec, ScreenZen), Breathing or regulation (the category, plus the honest note that friction apps include breathing too)."
+      ]
+    },
+    {
+      "h2": "How we compared the three approaches",
+      "points": [
+        "Criteria: when it steps in (before opening, at a limit, mid-session), how strict it is and how easy it is to override, what the research shows, what it costs as listed, platforms.",
+        "Facts checked 26 November 2026 from official listings. Prices carry currency and billing period.",
+        "Apps appear only as examples of each approach, not as a ranking."
+      ]
+    },
+    {
+      "h2": "How do hard app blockers work, and do they?",
+      "points": [
+        "Definition: a blocker removes access for a set time or past a limit.",
+        "Screen Time: App Limits per category or app, and Downtime that allows only calls, messages and the apps you choose (Apple guide).",
+        "The override problem: without a Screen Time passcode, 'Block at End of Limit' doesn't appear and 'Ignore Limit' is one tap away. Limits reset at midnight. Label this as how-to and community guidance, not Apple documentation.",
+        "Opal: scheduled blocks, App Limits, Breaks, Focus Difficulty levels. Deep Focus 'won't let you cancel or bypass at all.' Pricing as listed in USD.",
+        "Brick: a physical device you tap to block and tap again to unblock, 'no quick override', 5 Emergency Unbricks, $59 USD one-time as listed.",
+        "Evidence: none of our sources tests hard blockers directly. Say so.",
+        "Best for: people who want to be cut off completely. Drawback: they measure minutes, not how you feel, and a hard block can cut off something you need in an emergency."
+      ]
+    },
+    {
+      "h2": "Do friction and delay apps actually reduce scrolling?",
+      "points": [
+        "Definition: a short pause, delay or prompt before an app opens, with the choice to back out.",
+        "PNAS 2023 field study of 280 users, no control group: 36% of open attempts dismissed, attempts down 37%, actual openings down 57% (measured), self-reported daily time down about 77 minutes.",
+        "Controlled experiment (N=500): the dismiss option did most of the work, the 10-second delay added nothing beyond it, and the 'think about it' message alone had no effect.",
+        "CHI 2024, 1,039 users over about 13 weeks: openings became more intentional, but users who paused the interventions 'quickly returned to overuse patterns.'",
+        "Conflict of interest: researchers tied to one sec co-authored both studies. About 61% dropped out of the field study.",
+        "Examples: one sec (delays rather than blocks, a deep-breath animation, Emergency Brake; Norway storefront pricing only, US price not checked). ScreenZen (free with tips, wait that can grow with each open, breathing during the wait, check-ins).",
+        "Best for: people who want fewer mindless opens without a lockout."
+      ]
+    },
+    {
+      "h2": "What do breathing and regulation apps do differently?",
+      "points": [
+        "Definition: the goal is to change your state, not to count opens. You come down after the feed has wound you up.",
+        "Balban 2023 RCT (108 people, 5 minutes a day for 28 days): positive mood rose more with breathwork than with mindfulness, and cyclic sighing did best. Anxiety improved equally with mindfulness. No change in HRV or resting heart rate. Exploratory study.",
+        "Fincham 2023 meta-analysis (12 RCTs, 785 adults): a small-to-moderate effect on stress (g = −0.35). Slow-paced breathing was significant, fast-paced was not. Moderate risk of bias, and the authors urge caution.",
+        "Honest overlap: friction apps already offer breathing in the pause. What differs is the purpose of the pause, a gate for fewer opens versus a reset for how you feel.",
+        "No source tests in-app breathing during scrolling directly. Present the mid-scroll point as a framing, not a finding.",
+        "Best for: people who don't want to be cut off but are tired of surfacing wired."
+      ]
+    },
+    {
+      "h2": "Why the mid-scroll moment matters more than the minute count",
+      "points": [
+        "State over minutes: the 'jaw-clenched, vaguely wired' feeling arrives during the scroll, not before you open the app.",
+        "A pause before opening catches intent. A reset mid-session catches the comedown you actually need. one sec's Emergency Brake and ScreenZen's check-ins also step in mid-session, so give them credit.",
+        "A 30-second script you can use now: put the phone face down, inhale through the nose for 4, exhale slowly for 6, repeat 5 times. Or try one physiological sigh (two inhales, one long exhale).",
+        "Link the free tools: calm 4-6 breathing and the physiological sigh."
+      ]
+    },
+    {
+      "h2": "Which should you pick?",
+      "points": [
+        "If you want a hard lockout you can't talk your way out of, pick a blocker (Brick, Opal Deep Focus, or Screen Time with a passcode someone else holds).",
+        "If you keep tapping 'Ignore Limit', turn on a Screen Time passcode or move to a stricter blocker.",
+        "If you want fewer reflexive opens without being cut off, pick a friction app (one sec, ScreenZen), and expect the effect to fade if you pause it.",
+        "If you want something free, Screen Time is built in and ScreenZen is free with optional tips.",
+        "If your problem is how scrolling leaves you feeling rather than the minutes, pick a breathing or regulation approach, or combine one with a blocker.",
+        "Say plainly: if you want to be cut off completely, a blocker will serve you better than a breathing app."
+      ]
+    },
+    {
+      "h2": "Where DeRot fits (our app)",
+      "points": [
+        "Short, labeled, after the verdict. DeRot pauses your apps while you reset with a few calming breaths, meeting you mid-scroll so the wired feeling fades.",
+        "Calm 4-6 by default, plus Box and 4-7-8. Coming soon to iOS (pre-launch).",
+        "Who it's not for: anyone who wants a hard lockout. A blocked app is always escapable by breathing."
+      ]
+    }
+  ],
+  "questions": [
+    "Do app blockers actually work, or do people just override them?",
+    "How do I stop myself tapping 'Ignore Limit' on Screen Time?",
+    "Does a pause before opening an app reduce how much you use it?",
+    "Does the effect of friction apps wear off over time?",
+    "Can breathing exercises calm you down after scrolling, and how long does it take?",
+    "Which blocker is hardest to bypass on iPhone?",
+    "Are free options like Screen Time or ScreenZen good enough?"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409",
+      "title": "Directing smartphone use through the self-nudge app one sec",
+      "publisher": "PNAS (Grüning, Riedel, Lorenz-Spreen)",
+      "year": "2023",
+      "key_findings": "6-week iOS field study, 280 users analyzed, no control group. 36% of open attempts dismissed, attempts down 37%, openings down 57%, self-reported time down about 77 min/day. In a controlled experiment (N=500) the dismiss option did most of the work, the delay added nothing beyond it, and the message alone had no effect. Riedel created one sec. About 61% dropout."
+    },
+    {
+      "id": "S2",
+      "url": "https://anguilla.dbs.ifi.lmu.de/publications/hgr+24/",
+      "title": "A Longitudinal In-the-Wild Investigation of Design Frictions to Prevent Smartphone Overuse",
+      "publisher": "ACM CHI 2024 (LMU Munich)",
+      "year": "2024",
+      "key_findings": "1,039 one sec users over an average of 13.4 weeks. Frictions reduced open attempts and made openings more intentional. Users who paused the interventions quickly returned to overuse patterns. One sec staff are co-authors."
+    },
+    {
+      "id": "S3",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947",
+      "title": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+      "publisher": "Cell Reports Medicine (Balban et al., Stanford)",
+      "year": "2023",
+      "key_findings": "RCT, 108 randomized, 5 min/day for 28 days. Breathwork raised positive affect more than mindfulness, and cyclic sighing did best. Anxiety improved equally with mindfulness. No change in HRV or resting heart rate. Exploratory. Excluded heart disease, pregnancy, seizures, psychosis."
+    },
+    {
+      "id": "S4",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/",
+      "title": "Effect of breathwork on stress and mental health: A meta-analysis of randomised-controlled trials",
+      "publisher": "Scientific Reports (Fincham et al.)",
+      "year": "2023",
+      "key_findings": "12 RCTs, 785 adults. Stress g = −0.35. Slow-paced breathing significant (g = −0.35), fast-paced not significant. Moderate risk of bias, and the authors urge caution."
+    },
+    {
+      "id": "S5",
+      "url": "https://apps.apple.com/us/app/1497465230",
+      "title": "Opal: Screen Time Control",
+      "publisher": "App Store US (Opal OS)",
+      "year": "2026",
+      "key_findings": "iPhone only, iOS 18+. Free with in-app purchases, Yearly $99.99 USD among others. Scheduled blocks, App Limits, Breaks, Focus Difficulty. Deep Focus won't let you cancel or bypass at all."
+    },
+    {
+      "id": "S6",
+      "url": "https://getbrick.com/products/brick",
+      "title": "Brick",
+      "publisher": "Brick (official)",
+      "year": "2026",
+      "key_findings": "A physical device: tap to block, tap again to unblock. No quick override. 5 Emergency Unbricks. Strict Mode prevents uninstalling. $59.00 USD one-time, no recurring fees. iOS and Android."
+    },
+    {
+      "id": "S7",
+      "url": "https://apps.apple.com/us/app/-/id1541027222",
+      "title": "ScreenZen- Screen Time Control",
+      "publisher": "App Store US (ScreenZen LLC)",
+      "year": "2026",
+      "key_findings": "Free, and the only in-app purchases are tips ($5-$40 USD). The wait before opening can grow with each open. Breathing during the wait. Check-ins that interrupt scrolling. Optional strict blocking. iPhone, iPad, Mac, Vision."
+    },
+    {
+      "id": "S8",
+      "url": "https://apps.apple.com/no/app/id1532875441",
+      "title": "one sec, screen time + focus",
+      "publisher": "App Store Norway (riedel.wtf apps S.L.)",
+      "year": "2026",
+      "key_findings": "Delays access instead of blocking completely. Deep-breath animation. Doom Scroll Emergency Brake removes you from the app after a set time. iOS 15+, macOS 14+. Pro is 60 kr/month or 179 kr/year (NOK). US price not checked."
+    },
+    {
+      "id": "S9",
+      "url": "https://support.apple.com/en-asia/guide/iphone/iphbfa595995/15.0/ios",
+      "title": "Set up Screen Time for yourself",
+      "publisher": "Apple",
+      "year": "2021",
+      "key_findings": "App Limits per category or app. Downtime allows only calls, messages and the apps you choose. Built into iOS."
+    },
+    {
+      "id": "S10",
+      "url": "https://www.idownloadblog.com/2018/06/14/limit-kids-screen-time/",
+      "title": "How to set a time limit for unproductive apps on iPhone or iPad",
+      "publisher": "iDownloadBlog",
+      "year": "2018",
+      "key_findings": "'Block at End of Limit' appears only once a Screen Time passcode is set. Without it, you can tap 'Ignore Limit'. Limits reset at midnight. Third-party guidance."
+    },
+    {
+      "id": "S11",
+      "url": "https://discussions.apple.com/thread/8552371?page=3",
+      "title": "Apple Community thread on Screen Time limits",
+      "publisher": "Apple Community",
+      "year": "2018",
+      "key_findings": "Community reports that match S10 on Ignore Limit and the passcode. Anecdotal."
+    },
+    {
+      "id": "S12",
+      "url": "https://stanmed.stanford.edu/?p=5425",
+      "title": "Breathing anxiety away",
+      "publisher": "Stanford Medicine magazine",
+      "year": "2023",
+      "key_findings": "Lay summary of the Balban trial. Not opened, so use it only as an optional plain-language link."
+    }
+  ],
+  "key_facts": [
+    {
+      "fact": "In a 6-week field study of 280 one sec users (no control group), actual app openings fell 57% and open attempts fell 37%.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Users dismissed 36% of attempts to open a target app. Self-reported daily time in the app fell by about 77 minutes.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "In a controlled experiment (N=500), the option to dismiss did most of the work, the 10-second delay added nothing beyond it, and the deliberation message alone had no effect.",
+      "source_id": "S1"
+    },
+    {
+      "fact": "Across 1,039 one sec users over an average of 13.4 weeks, those who paused the interventions quickly returned to overuse patterns.",
+      "source_id": "S2"
+    },
+    {
+      "fact": "In a 108-person RCT of 5 minutes a day for 28 days, breathwork raised positive mood more than mindfulness, and cyclic sighing did best. Anxiety improved equally in both groups, and HRV did not change.",
+      "source_id": "S3"
+    },
+    {
+      "fact": "A meta-analysis of 12 RCTs (785 adults) found a small-to-moderate effect of breathwork on stress (g = −0.35). Slow-paced breathing was significant and fast-paced breathing was not. Most studies were at moderate risk of bias.",
+      "source_id": "S4"
+    },
+    {
+      "fact": "Opal's Deep Focus 'won't let you cancel or bypass at all'. The Yearly plan is listed at $99.99 USD (checked November 2026).",
+      "source_id": "S5"
+    },
+    {
+      "fact": "Brick is a physical device with 'no quick override' and 5 Emergency Unbricks, $59.00 USD one-time with no recurring fees.",
+      "source_id": "S6"
+    },
+    {
+      "fact": "ScreenZen is free, and its only in-app purchases are optional tips. It offers breathing during the wait and check-ins that interrupt scrolling.",
+      "source_id": "S7"
+    },
+    {
+      "fact": "one sec delays access instead of blocking, and its Doom Scroll Emergency Brake removes you from the app after a set time.",
+      "source_id": "S8"
+    },
+    {
+      "fact": "Screen Time Downtime allows only calls, messages and the apps you choose.",
+      "source_id": "S9"
+    },
+    {
+      "fact": "Without a Screen Time passcode, 'Block at End of Limit' isn't available and the user can tap 'Ignore Limit'.",
+      "source_id": "S10"
+    }
+  ],
+  "safety_notes": [
+    "Stop if you feel dizzy, lightheaded or tingly, and go back to normal breathing. Slow breathing with a longer exhale is the gentlest option.",
+    "Breath holds (box breathing, 4-7-8) and fast breathing aren't for everyone: pregnancy, heart or lung conditions, a history of fainting, seizures or panic.",
+    "Breathing doesn't treat anxiety disorders. The evidence covers stress and mood in non-clinical adults. Suggest a professional for anxiety, sleep problems or distress that keeps going.",
+    "For anyone in crisis, point to local emergency services, or 988 in the US.",
+    "Hard blocks can cut off something you need in an emergency. Keep calls and messages on the allowed list. Note Brick's Emergency Unbricks and that Opal Deep Focus can't be bypassed.",
+    "Disclose that the one sec studies were co-authored by people tied to the app, and present the friction findings as 'a 2023 PNAS field study of 280 users without a control group.'",
+    "There is no source on scrolling and mood. Don't claim research shows scrolling makes people feel worse.",
+    "Don't state a US price for one sec. Only Norway (NOK) pricing was checked."
+  ],
+  "word_count_target": 2300,
+  "dropped_sources": [],
+  "research_notes": "# Research notes: \"app blocker vs breathing app\"\n\nThe research is done. Four findings matter most:\n\n- **Competitors already cover part of our angle.** The one sec App Store listing describes a \"Doom Scroll Emergency Brake\" that interrupts you mid-scroll, and the ScreenZen listing offers breathing during its wait. The article has to admit this and not claim mid-scroll for the regulate approach alone.\n- **I found no source on scrolling and mood.** The search budget ran out before I got to it, so the brief can't support any research claim that scrolling makes people feel worse.\n- **I couldn't confirm a US price for one sec.** The only listing I checked was the Norway storefront, which shows prices in NOK.\n- **Apple's own pages don't mention \"Ignore Limit\" or \"Block at End of Limit.\"** Those details come only from community threads and a how-to blog.\n\nAll facts were checked 2026-11-26.\n\n---\n\n## SERP ANALYSIS\n\n**What ranks for the primary keyword.** The results for \"app blocker vs breathing app\" are almost all App Store listings for small hybrid apps: [Welligama: Breathe to Unlock](https://apps.apple.com/app/id6468553389), [Pause Breathe Reflect](https://apps.apple.com/us/app/pause-breathe-reflect/id1619046814?l=en-US), [Free Time](https://apps.apple.com/us/app/free-time-mindful-screen-time/id6747683001), [FlowBuddy](https://apps.apple.com/app/id6479961860), [MindRot](https://apps.apple.com/app/id6758914060), [Eclipta](https://apps.apple.com/app/id6757725265) and a [BreathLock Product Hunt page](https://www.producthunt.com/products/breathlock-lock-apps-until-you-breathe/reviews). There is also one brand blog, [one sec's \"best Screen Time alternative\"](https://one-sec.app/blog/the-best-screentime-alternative/).\n- No editorial page actually compares the approaches. The query is wide open for a neutral explainer.\n- Most of these apps use breathing as the price of getting into an app (\"breathe to unlock\"). That is the framing DeRot avoids.\n- The effectiveness claims are the developers' own. For example, Free Time's \"1.5 hours per day\" figure has no independent check.\n\n**Nearby roundups:**\n- **[WhistleOut's \"Best Apps to Manage Your Screen Time and Stop Doom-Scrolling\"](https://www.whistleout.com/CellPhones/Apps/best-apps-to-manage-screen-time)** (updated 10 June 2026; syndicated on Android Authority and WhistleOut CA).\n  - **Order:** ScreenZen, Shift, Freedom, Brick, one sec, Dumbphone Homescreen.\n  - **Method:** the author tested 7 apps on two phones against 5 criteria (user experience, price and value, efficacy, practicality, privacy). The order itself isn't explained.\n  - **Disclosure:** a generic line, \"We may earn money when you click our links.\" The Brick Amazon link carries an affiliate tag.\n  - **Gaps:** no outside research is cited. The headline stat (\"19 years on your phone\") is WhistleOut's own. A claim about dopamine has no source. Mood is covered only as anecdote. Its prices also contradict each other (Brick is listed at both $65 and $59).\n- **[one sec's blog](https://one-sec.app/blog/the-best-screentime-alternative/)** is brand-run. It pushes one sec as \"the best app,\" criticizes Apple Screen Time, discloses no ties and cites no research. It makes claims like \"90% of the opening attempts\" and \"our brain is addicted\" with no source.\n- Others appeared in results but weren't opened: [Digital Trends](https://www.digitaltrends.com/mobile/apps-to-reduce-screen-time-iphone-android/), [MakeUseOf on cheat-proof blockers](https://www.makeuseof.com/cheat-proof-app-blockers-to-focus/) and a [promotional \"Reddit recommends\" roundup](https://habitdoom.com/blog/screen-time-reward-apps-reddit).\n\n**Format expectation.** The intent is a comparison or explainer. The page that wins will have:\n- an answer-first verdict\n- an approach-level table\n- one section per approach (blocker, friction, regulate)\n- if-then picks\n- an FAQ\n\n## GAPS AND ANGLE\n\n1. **Nobody compares approaches.** Existing pages either list brands or are one app's own pitch. We compare three approaches and use apps only as examples.\n2. **Nobody cites the evidence.** Friction has unusually good evidence: a PNAS field study and a CHI paper with 1,039 users. Breathing has an RCT and a meta-analysis. No ranking page uses any of it.\n3. **The evidence has limits that matter here, and no one mentions them:**\n   - The one sec field study had no control group.\n   - The lead author works for one sec, and a co-author created the app.\n   - The dismiss option did most of the work, and the \"think about it\" message alone did nothing.\n   - Users went back to overuse quickly when they paused the interventions.\n   - In the breathing trial, anxiety fell just as much with mindfulness as with breathwork, and heart rate variability (HRV) didn't change.\n4. **State over minutes.** Every competing page measures success in minutes or opens. The breathing research measures mood and anxiety, which is the outcome our reader cares about. One concrete point: the PNAS study's 77-minute drop is self-reported, while its 57% drop in opens is measured.\n5. **Honest overlap.** Friction apps already offer breathing during the pause (ScreenZen, one sec) and a mid-scroll re-intervention (one sec's \"Emergency Brake\"). So the real difference is what the pause is for. A friction app adds a gate whose job is fewer opens. A regulate app aims to change how you feel once you're already wound up. Say that plainly.\n6. **Hard blockers fit some people.** Say clearly that Brick, Opal Deep Focus and Screen Time with a passcode suit people who want to be cut off. Brick's page says \"no quick override.\" Opal says Deep Focus \"won't let you cancel or bypass at all.\"\n7. **Explain the override problem.** Our reader keeps overriding their limits, so explain why. On Screen Time, without a passcode and \"Block at End of Limit,\" the limit can simply be dismissed. Cite the community and how-to sources as practical guidance only, not as Apple's documentation.\n8. **The mid-scroll moment.** The DeRot point of view is that the moment that matters is when the feed has already wound you up. Use that as a framing argument. No source in this brief tests mid-scroll breathing directly, so don't claim one does.\n\n## QUESTIONS (People Also Ask, forums, Reddit-style)\n\n- Do app blockers actually work, or do people just override them?\n- How do I stop myself tapping \"Ignore Limit\" on Screen Time?\n- What's the difference between one sec and Opal (friction vs. blocking)?\n- Does a pause before opening an app reduce how much you use it?\n- Can breathing exercises calm you down after scrolling? How long does it take?\n- Is there an app that calms anxiety rather than blocking apps?\n- What's a \"mindful scroll\" app?\n- Does the effect of friction apps wear off over time?\n- Which blocker is hardest to bypass on iPhone? (Brick, Opal Deep Focus, Screen Time with a passcode)\n- Are free options good enough? (Screen Time is built in. ScreenZen is free and supported by tips.)\n- Why do I keep bypassing my blocker? (A dev.to post frames it this way. Anecdotal.)\n\n## SOURCES\n\n**Research and authoritative**\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9974409 | Directing smartphone use through the self-nudge app one sec | PNAS (Grüning, Riedel, Lorenz-Spreen; Heidelberg / Max Planck) | 2023 | 6-week iOS field study. 719 recruited, 280 completed and were analyzed. Users dismissed 36% of attempts to open a target app (43% in week 1, then about 32-34% from week 3). Attempts fell 37% (166 per user in week 1 to 105 in week 6), and actual openings fell 57%. Self-reported daily app time fell by about 77 min. Separate controlled experiment (N=500): the option to dismiss did most of the work, the 10-s delay added nothing beyond it, and the deliberation message alone had no effect. Limitations: no control group in the field study, self-selection, about 61% dropout, iOS only. Competing interest: Riedel created one sec.\n\nhttps://anguilla.dbs.ifi.lmu.de/publications/hgr+24/ | A Longitudinal In-the-Wild Investigation of Design Frictions to Prevent Smartphone Overuse | ACM CHI 2024 (Haliburton, Grüning, Riedel, Schmidt, Terzimehić; LMU Munich) | 2024 | Usage data from 1,039 one sec users over an average of 13.4 weeks, plus surveys from 249. Most users targeted social media. Short frictions reduced attempts to open apps and made openings more intentional over time. Users who paused the interventions \"quickly returned to overuse patterns.\" The abstract gives no effect sizes. One sec staff are co-authors. (PDF mirror: https://www.medien.ifi.lmu.de/pubdb/publications/pub/haliburton2024chi/haliburton2024chi.pdf)\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9873947 | Brief structured respiration practices enhance mood and reduce physiological arousal | Cell Reports Medicine (Balban et al., Stanford) | 2023 | Remote RCT, 108 randomized (30 cyclic sighing, 21 box breathing, 33 cyclic hyperventilation, 24 mindfulness). 5 min a day for 28 days. Positive affect rose more with breathwork than mindfulness (about +1.91 vs +1.22 PANAS). Cyclic sighing (double inhale, long slow exhale) beat mindfulness, and its benefit grew with more days of practice. Respiratory rate fell more with breathwork. Anxiety and negative affect improved in both groups with no difference between them. No change in HRV or resting heart rate. Exploratory, registered retrospectively, short. Exclusions included heart disease, pregnancy, seizures and psychosis.\n\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/ | Effect of breathwork on stress and mental health: A meta-analysis of randomised-controlled trials | Scientific Reports (Fincham et al., Sussex) | 2023 | 12 RCTs, 785 adults. Stress g = −0.35 (95% CI −0.55 to −0.14). Anxiety g = −0.32 (20 studies). Depression g = −0.40 (18 studies). Slow-paced breathing: g = −0.35, significant (10 studies). Fast-paced: g = −0.31, not significant (2 studies). Most studies at moderate risk of bias, so the authors urge caution. No adverse events directly attributed to breathwork in the stress studies.\n\nhttps://stanmed.stanford.edu/?p=5425 | Breathing anxiety away | Stanford Medicine magazine | 2023 | Lay summary of the Balban trial. Optional plain-language citation. Not opened.\n\n**App facts (official listings and pages, checked 2026-11-26)**\n\nhttps://apps.apple.com/us/app/1497465230 | Opal: Screen Time Control | App Store, US (Opal OS) | 2026 | Listed as \"Only for iPhone,\" iOS 18+. Free with in-app purchases: Weekly $4.99 and $9.99, Monthly $19.99, Yearly $99.99, Pro Subscription $59.99, Student Weekly $9.99 (USD). The listing doesn't say which features each plan includes. Features: scheduled blocks, daily App Limits that block automatically, allow and block lists, and \"Breaks\" where you set an intention and a timer. Focus Difficulty levels. Deep Focus \"won't let you cancel or bypass at all.\" Free tier not stated.\n\nhttps://getbrick.com/products/brick | Brick | Brick (official) | 2026 | A physical device: tap your phone to it to block apps, and tap again to unblock. \"No quick override.\" 5 Emergency Unbricks. Strict Mode stops you uninstalling the app to end a session. $59.00 USD one-time (on sale for $47.20 at the time of checking). No recurring fees. iOS and Android. 30-day guarantee.\n\nhttps://apps.apple.com/us/app/-/id1541027222 | ScreenZen- Screen Time Control | App Store, US (ScreenZen LLC) | 2026 | Free with in-app purchases. The only purchases are tips ($5/$10/$20/$40 USD). Runs on iPhone, iPad, Mac and Vision (iOS 16.4+). Gives you \"a bit of time before choosing if you need to open your distracting app,\" and the wait can grow with each open. Breathing and other activities during the wait. Short check-ins that interrupt scrolling. Optional blocking at a limit, strict blocking, settings lock.\n\nhttps://apps.apple.com/no/app/id1532875441 | one sec, screen time + focus | App Store, Norway (riedel.wtf apps S.L.) | 2026 | \"DELAYS access to distracting apps instead of blocking apps completely.\" Uses a Shortcuts automation to show a deep-breath animation. Other intervention types include math and journaling. A \"Doom Scroll Emergency Brake\" (Re-Intervention) removes you from the app after a set time. iOS 15+ and macOS 14+. Free with in-app purchases. Pro is 60 kr/month or 179 kr/year (NOK). The US price is not verified, so leave it out or say \"not checked.\"\n\nhttps://support.apple.com/en-asia/guide/iphone/iphbfa595995/15.0/ios | Set up Screen Time for yourself (iPhone User Guide) | Apple | iOS 15 guide | App Limits can be set per category or per app. Downtime means \"only calls, messages, and apps you choose to allow are available.\" There is a 5-minute reminder before Downtime on demand starts. Screen Time is built into iOS. This page does not mention \"Block at End of Limit\" or \"Ignore Limit.\"\n\nhttps://www.idownloadblog.com/2018/06/14/limit-kids-screen-time/ | How to set a time limit for unproductive apps on iPhone or iPad | iDownloadBlog | 2018, updated | Says the \"Block at End of Limit\" toggle appears only after you set a Screen Time passcode. Without it, the user can tap \"Ignore Limit.\" Limits reset at midnight. Third-party how-to, so treat it as practical guidance. Apple Community threads ([example](https://discussions.apple.com/thread/8552371?page=3)) say the same.\n\n**SERP and context (don't cite as evidence)**\n\nhttps://www.whistleout.com/CellPhones/Apps/best-apps-to-manage-screen-time | Best Apps to Manage Your Screen Time | WhistleOut | 2026 | See the SERP analysis above.\n\nhttps://one-sec.app/max-planck-study | one sec research | one sec (brand) | 2023 | The developer's summary of the PNAS study. Cite PNAS instead.\n\n## SAFETY\n\n- **Dizziness:** stop if you feel dizzy, lightheaded or tingly, and go back to normal breathing. Slow breathing with a longer exhale is the gentlest option.\n- **Holds and fast breathing:** breath holds (the holds in box breathing, the 7-second hold in 4-7-8) and fast or hyperventilation breathing aren't for everyone. That includes pregnancy, heart or lung conditions, a history of fainting or seizures, and a history of panic. The Balban trial excluded heart disease, glaucoma, seizures, pregnancy and psychosis, and its authors link reflexive hyperventilation to anxiety and panic.\n- **No treatment claims:** the breathing evidence covers self-reported stress, mood and anxiety in non-clinical adults, and the meta-analysis authors urge caution. Breathing doesn't treat anxiety disorders. Suggest a professional for anxiety, sleep problems or distress that keeps going.\n- **Crisis line:** if a reader may be in crisis, point to local emergency services or 988 in the US.\n- **Blocker safety:** a hard block can cut off something you need in an emergency. Brick has 5 Emergency Unbricks. With Opal Deep Focus there is no way to cancel or bypass. Readers should keep calls and messages on the allowed list (Screen Time Downtime does this by default).\n- **Conflicts of interest:** the one sec studies are co-authored by people tied to the app. Mention this in the article, and give the friction findings as \"a 2023 PNAS field study of 280 users without a control group.\""
+}

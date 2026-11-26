@@ -2273,7 +2273,9 @@
       "content_type": "comparison",
       "angle": "Side-by-side: block, delay, or regulate, and who each suits.",
       "seasonality": [],
-      "status": "queued"
+      "status": "published",
+      "post": "app-blocker-vs-breathing-app",
+      "published": "2026-11-26"
     },
     {
       "keyword": "apple screen time alternative",
@@ -2327,7 +2329,7 @@
       "seasonality": [],
       "status": "covered",
       "notes": "Chrome extension 'Mindful Scroll' competes.",
-      "covered_by": "clearspace-alternative"
+      "covered_by": "app-blocker-vs-breathing-app"
     },
     {
       "keyword": "best app to stop doomscrolling",
@@ -3723,9 +3725,10 @@
       "content_type": "comparison",
       "angle": "A neutral roundup of everyday calming apps (wellness, not treatment), with DeRot in its own labeled section as the mid-scroll option.",
       "seasonality": [],
-      "status": "queued",
+      "status": "covered",
       "source": "expansion",
-      "added": "2026-11-01"
+      "added": "2026-11-01",
+      "covered_by": "app-blocker-vs-breathing-app"
     },
     {
       "keyword": "benefits of nose breathing vs mouth breathing",

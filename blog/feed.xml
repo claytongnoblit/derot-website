@@ -6,7 +6,175 @@
     <atom:link href="https://derot.org/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>Breathwork, calm, and feeling better after the scroll.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:00:00 +0000</lastBuildDate>
+    <item>
+      <title>App Blocker vs Breathing App: Block, Delay, or Regulate?</title>
+      <link>https://derot.org/blog/app-blocker-vs-breathing-app/</link>
+      <guid isPermaLink="true">https://derot.org/blog/app-blocker-vs-breathing-app/</guid>
+      <pubDate>Thu, 26 Nov 2026 13:00:00 +0000</pubDate>
+      <category>Comparisons and alternatives</category>
+      <description>App blocker vs breathing app: a neutral comparison of blocking, delay, and breathing apps, with the research, prices as listed, and who each one suits.</description>
+      <content:encoded><![CDATA[<p>App blocker vs breathing app comes down to what you want to change. A blocker cuts off access for a set time or past a limit. A friction app adds a pause before an app opens. A breathing app helps you come down after the feed has wound you up. Pick by your goal: zero access, fewer opens, or feeling calmer.</p>
+<p>A quick disclosure: DeRot makes an app in the breathing, or regulate, category. We do not rank our own app, and no app paid to be included. The apps named below are examples of each approach, described from their own listings.</p>
+<h2 id="app-blocker-vs-breathing-app-at-a-glance">App blocker vs breathing app at a glance</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Approach</th>
+<th>Example apps (as listed)</th>
+<th>How it steps in</th>
+<th>How strict</th>
+<th>Evidence</th>
+<th>Best for</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hard blocker</td>
+<td><a href="https://support.apple.com/en-asia/guide/iphone/iphbfa595995/15.0/ios" rel="noopener">Screen Time</a> with a passcode, <a href="https://apps.apple.com/us/app/1497465230" rel="noopener">Opal</a> Deep Focus, <a href="https://getbrick.com/products/brick" rel="noopener">Brick</a></td>
+<td>Removes access on a schedule, at a limit, or until you unblock</td>
+<td>Strict to very strict, depending on setup</td>
+<td>None of our sources tests blockers directly</td>
+<td>People who want to be cut off</td>
+</tr>
+<tr>
+<td>Friction or delay</td>
+<td><a href="https://apps.apple.com/no/app/id1532875441" rel="noopener">one sec</a>, <a href="https://apps.apple.com/us/app/-/id1541027222" rel="noopener">ScreenZen</a></td>
+<td>Adds a pause or wait before the app opens, with the option to back out</td>
+<td>Medium: you can usually continue</td>
+<td>Field studies of one sec, co-authored by people tied to the app</td>
+<td>Fewer reflexive opens without a lockout</td>
+</tr>
+<tr>
+<td>Breathing or regulation</td>
+<td>Standalone breathing apps; breathing also appears inside the ScreenZen and one sec pauses</td>
+<td>Guides a short slow-breathing reset to change how you feel</td>
+<td>Gentle: you can always continue</td>
+<td>Trials of breathwork for mood and stress, not tested during scrolling</td>
+<td>People who surface from the feed wired and don't want a lockout</td>
+</tr>
+</tbody>
+</table></div>
+<p>The lines blur, though. Two of the best-known friction apps already put a breathing exercise inside their pause. So the real difference is less about features and more about what the pause is for: keeping you out, slowing you down, or bringing you back down.</p>
+<h2 id="how-we-compared-the-three-approaches">How we compared the three approaches</h2>
+<p>We compared each approach on five things:</p>
+<ol>
+<li><strong>When it steps in.</strong> Before you open an app, when you hit a limit, or partway through a session.</li>
+<li><strong>How strict it is.</strong> How easy it is to override, and what overriding takes.</li>
+<li><strong>What the research shows.</strong> Peer-reviewed studies where they exist, and a plain note where they don't.</li>
+<li><strong>What it costs.</strong> Prices as listed by the maker, with currency and billing period.</li>
+<li><strong>Platforms.</strong> What it runs on, as listed.</li>
+</ol>
+<p>We checked all app facts on 26 November 2026, using official App Store listings or the maker's own site. Prices change, so check the listing before you buy. The apps here are examples of each approach, in no ranked order.</p>
+<h2 id="how-do-hard-app-blockers-work-and-do-they">How do hard app blockers work, and do they?</h2>
+<p>A hard app blocker removes access to an app for a set time, on a schedule, or once you pass a daily limit. The strictest ones are built so you can't talk your way back in. None of the research we reviewed tests hard blockers directly, so the case for them rests on how they're built, not on outcome studies.</p>
+<h3 id="apple-screen-time">Apple Screen Time</h3>
+<ul>
+<li><strong>Best for:</strong> people who want a free limit that's already on their iPhone.</li>
+<li><strong>How it works:</strong> App Limits cap time per app or category, and Downtime <a href="https://support.apple.com/en-asia/guide/iphone/iphbfa595995/15.0/ios" rel="noopener">allows only calls, messages and the apps you choose</a>.</li>
+<li><strong>What stands out:</strong> It's built into iOS, so there's nothing to install.</li>
+<li><strong>Drawbacks:</strong> You're never far from an override. <a href="https://discussions.apple.com/thread/8552371?page=3" rel="noopener">Apple Community users report</a> that "Block at End of Limit" only appears once you set a Screen Time passcode, and that without one, "Ignore Limit" is a tap away. Limits also <a href="https://www.idownloadblog.com/2018/06/14/limit-kids-screen-time/" rel="noopener">reset at midnight</a>. This is community and how-to guidance, not Apple documentation, so treat the passcode fix as likely rather than guaranteed, and expect menus to shift between iOS versions.</li>
+<li><strong>Price:</strong> Free, included with iOS.</li>
+</ul>
+<h3 id="opal">Opal</h3>
+<ul>
+<li><strong>Best for:</strong> people who want scheduled blocks plus a mode that can't be skipped.</li>
+<li><strong>How it works:</strong> Opal's App Store listing describes <a href="https://apps.apple.com/us/app/1497465230" rel="noopener">scheduled blocks, App Limits, Breaks and Focus Difficulty levels</a>.</li>
+<li><strong>What stands out:</strong> Its Deep Focus setting, per the listing, "won't let you cancel or bypass at all."</li>
+<li><strong>Drawbacks:</strong> iPhone only, iOS 18 or later. A session you can't bypass also can't flex when something urgent comes up, so schedule Deep Focus for times you won't need the blocked apps.</li>
+<li><strong>Price:</strong> Free with in-app purchases. The Yearly plan is listed at $99.99 USD on the US App Store (checked November 2026), alongside other plans.</li>
+</ul>
+<h3 id="brick">Brick</h3>
+<ul>
+<li><strong>Best for:</strong> people who want a physical barrier between them and the feed.</li>
+<li><strong>How it works:</strong> Brick is <a href="https://getbrick.com/products/brick" rel="noopener">a physical device: you tap your phone on it to block apps, and tap again to unblock</a>.</li>
+<li><strong>What stands out:</strong> The maker promises "no quick override," gives you 5 Emergency Unbricks for real emergencies, and offers a Strict Mode that stops you uninstalling.</li>
+<li><strong>Drawbacks:</strong> Unblocking means tapping the device again, so where you leave it matters. Five emergency exits is a deliberately small number.</li>
+<li><strong>Price:</strong> $59.00 USD one-time with no recurring fees, as listed on Brick's site (checked November 2026). Works with iOS and Android.</li>
+</ul>
+<h3 id="who-hard-blockers-suit">Who hard blockers suit</h3>
+<p>Blockers suit people who want to be cut off, and who know from experience that a gentle nudge won't hold. That's a legitimate goal. If it's yours, a blocker will serve you better than anything else on this page.</p>
+<p>The tradeoff is what blockers measure. A blocker counts minutes and opens. It has no idea how you feel when the block lifts. And if you find yourself overriding blocks again and again, that's useful information, not a personal failing. We look at why in <a href="https://derot.org/blog/why-app-blockers-dont-work/">why app blockers don't work for some people</a>.</p>
+<p>One practical safety point: hard blocks can cut off something you need in an emergency. Keep calls and messages on any allowed list, and know your exits before you need them (Brick's Emergency Unbricks, for example). Remember that Opal's Deep Focus is built to have none.</p>
+<h2 id="do-friction-and-delay-apps-actually-reduce-scrolling">Do friction and delay apps actually reduce scrolling?</h2>
+<p><a href="https://derot.org/glossary/#friction">Friction</a> apps add a short pause, delay or prompt before an app opens, then let you choose whether to continue or back out. The best evidence for this approach comes from studies of one sec. It suggests the pause does cut opens, mostly because it gives you an easy way out.</p>
+<h3 id="what-the-research-says">What the research says</h3>
+<p>A <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409" rel="noopener">2023 PNAS field study of 280 one sec users</a> ran for six weeks without a control group. Users dismissed 36% of their attempts to open a target app. Open attempts fell 37%, actual openings fell 57%, and self-reported daily time in the app fell by about 77 minutes.</p>
+<p>The same paper ran a controlled experiment with 500 participants to work out which part of the intervention mattered. The option to dismiss did most of the work. The 10-second delay added nothing beyond it, and the "think about it" message on its own had no effect.</p>
+<p>A <a href="https://anguilla.dbs.ifi.lmu.de/publications/hgr+24/" rel="noopener">CHI 2024 study of 1,039 one sec users</a>, followed for an average of 13.4 weeks, found that the frictions reduced open attempts and made openings more intentional. It also found that people who paused the interventions quickly returned to overuse patterns.</p>
+<h3 id="the-limits-of-that-evidence">The limits of that evidence</h3>
+<p>Three caveats are worth keeping in mind:</p>
+<ul>
+<li><strong>Conflicts of interest.</strong> one sec's creator co-authored both the PNAS paper and the CHI study. That doesn't make the findings wrong, but you should know it.</li>
+<li><strong>No control group in the field study.</strong> Without one, it's hard to say how much of the drop the app caused and how much came from people who were already motivated to change.</li>
+<li><strong>Dropout.</strong> Of the 719 people who enrolled in the field study, 280 completed it (by our math, about 61% did not finish), so the results describe the people who stayed.</li>
+</ul>
+<p>What to take from it: the useful part seems to be a clear, easy exit, not the waiting itself. And the effect seems to last only as long as the app stays on.</p>
+<h3 id="one-sec">one sec</h3>
+<ul>
+<li><strong>Best for:</strong> people who want fewer reflexive opens with a gentle nudge.</li>
+<li><strong>How it works:</strong> The listing says it <a href="https://apps.apple.com/no/app/id1532875441" rel="noopener">delays access instead of blocking completely</a>, with a deep-breath animation during the pause.</li>
+<li><strong>What stands out:</strong> Its Doom Scroll Emergency Brake removes you from the app after a set time, so it can step in mid-session as well as before opening. It is also the most-studied friction app.</li>
+<li><strong>Drawbacks:</strong> The research suggests the effect fades if you pause the interventions, and that research was co-authored by people tied to the app.</li>
+<li><strong>Price:</strong> On the Norway App Store, Pro is listed at 60 kr/month or 179 kr/year (NOK), checked November 2026. We did not check US pricing. Runs on iOS 15 or later and macOS 14 or later.</li>
+</ul>
+<h3 id="screenzen">ScreenZen</h3>
+<ul>
+<li><strong>Best for:</strong> people who want a free friction app.</li>
+<li><strong>How it works:</strong> The listing describes <a href="https://apps.apple.com/us/app/-/id1541027222" rel="noopener">a wait before opening that can grow with each open, with breathing during the wait</a>.</li>
+<li><strong>What stands out:</strong> It's free, and the only in-app purchases are optional tips. Check-ins interrupt scrolling partway through a session, and you can switch on strict blocking if you want it.</li>
+<li><strong>Drawbacks:</strong> None of the studies we reviewed tested ScreenZen. The friction research above is on one sec.</li>
+<li><strong>Price:</strong> Free. Optional tips from $5 to $40 USD as listed on the US App Store (checked November 2026). Runs on iPhone, iPad, Mac and Vision.</li>
+</ul>
+<h3 id="who-friction-apps-suit">Who friction apps suit</h3>
+<p>Friction apps suit people who want fewer mindless opens and don't want to be cut off. They work best if you leave them on. If you'd like more gentle options, see our guide to <a href="https://derot.org/blog/screen-time-app-not-blocker/">screen time apps that aren't blockers</a>.</p>
+<h2 id="what-do-breathing-and-regulation-apps-do-differently">What do breathing and regulation apps do differently?</h2>
+<p>A breathing or regulation app tries to change how you feel, not count your opens. It doesn't keep you out of the feed. It guides a short slow-breathing reset so you can come back down after the feed has wound you up. The research behind it is about mood and stress, not screen time.</p>
+<h3 id="what-the-research-says_1">What the research says</h3>
+<p>In a <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947" rel="noopener">2023 Stanford randomized trial</a>, 108 people practiced for 5 minutes a day for 28 days. Breathwork raised positive mood more than mindfulness meditation did, and <a href="https://derot.org/glossary/#cyclic-sighing">cyclic sighing</a> (two inhales followed by a long exhale) did best. Anxiety improved in both the breathwork and mindfulness groups, with no clear winner. Heart rate variability and resting heart rate did not change, and the authors describe the study as exploratory. Stanford Medicine has a <a href="https://stanmed.stanford.edu/?p=5425" rel="noopener">plain-language write-up of the trial</a> if you want the short version.</p>
+<p>A <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/" rel="noopener">2023 meta-analysis in Scientific Reports</a> pooled 12 randomized trials with 785 adults. It found a small-to-moderate effect of breathwork on stress (g = -0.35). Slow-paced breathing, the subgroup with the most trials (10), showed a similar effect. Only two trials tested fast-paced breathing, too few to say whether one pace beats the other, and the authors did not find a significant difference between them. None of the included studies was rated low risk of bias, and the authors urge caution.</p>
+<p>Put plainly: in adults without a clinical diagnosis, practicing slow breathing over days or weeks is associated with feeling a bit less stressed and in a slightly better mood. It is not a treatment for anxiety disorders. If you want to know why the exhale matters most, see <a href="https://derot.org/blog/parasympathetic-breathing/">parasympathetic breathing and longer exhales</a>.</p>
+<h3 id="the-honest-overlap">The honest overlap</h3>
+<p>ScreenZen offers breathing during its wait, and one sec shows a deep-breath animation. So "breathing app vs friction app" isn't really features against no features. The difference is what the pause is for.</p>
+<p>In a friction app, the breath is a gate. Its job is to make you reconsider opening. In a regulation approach, the breath is the point. Its job is to change how you feel, and whether you keep scrolling afterwards is up to you.</p>
+<h3 id="what-we-dont-know-yet">What we don't know yet</h3>
+<p>We found no study that tests a breathing reset during a scroll session. The breathing trials used daily practice sessions, not 30 seconds in the middle of a feed. So treat the mid-scroll idea below as a reasonable framing built on the breathing evidence, not a proven finding.</p>
+<h3 id="who-regulation-apps-suit">Who regulation apps suit</h3>
+<p>People who don't want to be cut off, who already value calm, and who are tired of surfacing from the feed jaw-clenched and wired.</p>
+<h2 id="why-the-mid-scroll-moment-matters-more-than-the-minute-count">Why the mid-scroll moment matters more than the minute count</h2>
+<p>Most tools measure minutes and opens. What you probably notice is different. You pick up the phone to check one thing, and twenty minutes later your shoulders are up near your ears. That feeling shows up during the scroll, not before you open the app.</p>
+<p>A pause before opening catches your intent, which is useful if the habit you want to change is the reflexive tap. A reset mid-session catches the moment you actually need to come down. Friction apps can reach that moment too: one sec's Emergency Brake and ScreenZen's check-ins both step in partway through a session.</p>
+<p>Our view is that the state you're in when you put the phone down matters more than the number on your weekly report. Using the phone less may follow, but feeling calmer is the goal. (The feed is very good at its job. Its job just isn't how you feel afterwards.)</p>
+<h3 id="a-30-second-reset-you-can-use-right-now">A 30-second reset you can use right now</h3>
+<ol>
+<li>Put the phone face down, or lower it to your lap.</li>
+<li>Breathe in through your nose for a count of 4.</li>
+<li>Breathe out slowly, through your nose or softly pursed lips, for a count of 6.</li>
+<li>Repeat for three breaths, about 30 seconds. Go to five if you have a little longer.</li>
+<li>Notice your jaw and shoulders, then decide whether to keep scrolling.</li>
+</ol>
+<p>Or try one physiological sigh: two inhales through the nose (the second a short top-up), then one long, slow exhale through the mouth. One to three sighs is plenty in the moment.</p>
+<p>If you'd rather follow a pacer, use the free <a href="https://derot.org/tools/calm-breathing-4-6/">calm 4-6 breathing timer</a> or the <a href="https://derot.org/tools/physiological-sigh/">physiological sigh guide</a>.</p>
+<h3 id="safety-notes">Safety notes</h3>
+<ul>
+<li>Stop if you feel dizzy, lightheaded or tingly, and go back to normal breathing. Slow breathing with a longer exhale is the gentlest option.</li>
+<li>Breath holds (box breathing, 4-7-8) and fast breathing aren't for everyone. Check with a clinician first if you're pregnant or have a heart or lung condition, or a history of fainting, seizures or panic.</li>
+<li>Breathing doesn't treat anxiety disorders. The evidence covers stress and mood in non-clinical adults. If anxiety, sleep problems or distress keep going, talk to a professional. If you're in crisis, contact local emergency services, or call or text 988 in the US.</li>
+</ul>
+<h2 id="which-should-you-pick">Which should you pick?</h2>
+<p>Pick the approach that matches what you want to change. Here's the short version:</p>
+<ul>
+<li><strong>If you want a hard lockout you can't talk your way out of,</strong> pick a blocker: Brick, Opal's Deep Focus, or Screen Time with a passcode someone else holds.</li>
+<li><strong>If you keep tapping "Ignore Limit,"</strong> set a Screen Time passcode so "Block at End of Limit" appears, or move to a stricter blocker.</li>
+<li><strong>If you want fewer reflexive opens without being cut off,</strong> pick a friction app like one sec or ScreenZen, and expect the effect to fade if you pause it.</li>
+<li><strong>If you want something free,</strong> Screen Time is built into iOS, and ScreenZen is free with optional tips.</li>
+<li><strong>If your problem is how scrolling leaves you feeling rather than the minutes,</strong> try a breathing or regulation approach, or pair one with a blocker for the hours you want fully off.</li>
+<li><strong>If you want to be cut off completely,</strong> a blocker will serve you better than a breathing app. We're not hedging here. That's simply what each tool is built for.</li>
+</ul>
+<h2 id="where-derot-fits-our-app">Where DeRot fits (our app)</h2>
+<p>DeRot pauses your apps while you reset with a few calming breaths. It meets you mid-scroll, after the feed has wound you up, so your shoulders can drop and the wired feeling can fade before you decide what's next. The default is Calm (inhale 4, exhale 6). Box and 4-7-8 are included, and Pro unlocks Custom routines. It's coming soon to iOS.</p>
+<p>It isn't for anyone who wants a hard lockout. A blocked app is always escapable by breathing, so if you want a wall, pick one of the blockers above.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Why Can&#x27;t I Stop Scrolling TikTok? What the Feed Does to Your Body</title>
       <link>https://derot.org/blog/why-cant-i-stop-scrolling-tiktok/</link>
